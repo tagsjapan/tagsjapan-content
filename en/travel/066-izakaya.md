@@ -45,9 +45,6 @@ It is also worth noticing how much regional Japan can fit inside an izakaya menu
 What it changes in an itinerary is often subtle. Once you know you want an izakaya dinner, you stop pretending that every evening should be built around a grand reservation. You might stay out in a district after dark instead of retreating to the hotel early. You might leave enough room in your budget and appetite for several small orders rather than one destination meal. You might choose lodging near a station area with an active night street rather than a scenic but silent zone, or deliberately avoid the last train rush by eating close to where you are staying. For travelers trying to understand how Japanese cities breathe after office hours, these are not minor choices.
 
 And then there is the room itself: the clink of wet glasses, the shouted order, the little plate filling and emptying, the shared dish always half a second away from being taken. An izakaya is not where Japan drops its manners. It is where manners rearrange themselves for warmth, release, and group appetite. Late in a trip, that can become one of the most affectionate memories you carry home, not because the night was grand, but because it made ordinary urban life briefly legible from the inside. You leave smelling faintly of charcoal or frying oil, a little louder than you arrived, and somehow much closer to the city.
-
-Sources:
-
 - Travel Japan / JNTO, "Izakaya Dining Guide" — https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/
 - Tokyo Convention & Visitors Bureau, "Izakaya Hopping in Tokyo" — https://www.gotokyo.org/en/story/guide/izakaya-hopping-in-tokyo/index.html
 - Japan Sake and Shochu Makers Association, "About Shochu / Chu-hi" — https://www.japansake.or.jp/sake/en/

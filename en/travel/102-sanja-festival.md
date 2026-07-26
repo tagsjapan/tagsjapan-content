@@ -47,9 +47,3 @@ The easiest way to understand the festival is to let the schedule teach you. Fri
 The friction points are real. This is not a seated event; it is a street event, in a district built for everyday life and tourism, not for 1.8 million festival bodies. If you try to photograph from the middle of the route, you’ll be pushed back—not out of rudeness, but because a mikoshi needs room to move and the people carrying it need oxygen. The practical travel tip is to watch with the patience you would use on a crowded train platform: stay to the side, keep corridors open, and accept that you won’t control the view. If you want a calmer vantage point, step one street back from the main approaches; you’ll still see the work of carrying, but you’ll also be able to breathe. And if you’re traveling with children or anyone who dislikes crowds, Friday’s rituals are often kinder than Sunday’s surge.
 
 Late Sunday, when the chanting fades and the barricades start to come down, Asakusa looks suddenly like itself again—shops reopening, people drifting back toward the subway. If you were there for more than the loudest minute, you carry away something harder to photograph: the sense that Tokyo’s “old” districts are not museums. For three days in May, they are still loud enough to move the city.
-
-Sources:
-- [三社祭とは, 淺草神社](https://asakusajinja.jp/sanjamatsuri/about/)
-- [三社祭の日程, 淺草神社](https://asakusajinja.jp/sanjamatsuri/schedule/)
-- [びんざさら舞, 淺草神社](https://asakusajinja.jp/sanjamatsuri/binzasara/)
-- [Asakusa, GO TOKYO](https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html)

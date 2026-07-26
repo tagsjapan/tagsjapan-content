@@ -51,10 +51,3 @@ The contemporary tension is visibility. Many kagura traditions are now protected
 Yet explanation is not the enemy of tradition. Kagura has always adapted as it moved between court ritual, shrine practice, and local community life. The interesting question is not whether kagura should be public. It already is. The question is how a public form keeps its ritual skeleton intact while its surface becomes easier to access.
 
 `Kagura（神楽）` helps you understand Japan because it shows religion operating through scene and sound rather than through doctrine. It shows how local communities maintain continuity by repeating a night performance until it becomes part of the landscape’s memory. And it shows how “tradition” is often a living negotiation: between offering and entertainment, between shrine calendar and modern schedule, between what outsiders see and what locals feel they are doing. When the drum starts, kagura is not telling you about the gods. It is trying to make the gods present. In its own way, nightly.
-
-Sources:
-- [Takachiho Evening Kagura | Travel Japan (JNTO)](https://www.japan.travel/en/spot/504/)
-- [Takachiho Night Kagura | Takachiho Tourism Association](https://takachiho-kanko.info/?stt_lang=en)
-- [Shonai Kagura | Travel Japan (JNTO)](https://www.japan.travel/en/spot/386)
-- [Iwami Kagura | Travel Japan Luxury (JNTO)](https://www.japan.travel/en/luxury/detail/private-kagura-performance-iwami-kagura/)
-- [Iwami Kagura | Travel Japan (JNTO)](https://www.japan.travel/en/spot/2168/)

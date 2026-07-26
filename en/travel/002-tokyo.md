@@ -44,9 +44,3 @@ The friction, meanwhile, is entirely real. Tokyo is generous but not forgiving t
 That is one reason the city remains such a useful teacher of Japan. Tokyo shows how public order works under pressure, how retail and transport support each other, how quiet and density coexist, and how a city can absorb millions of visitors without becoming only a visitor city. It also corrects the sentimental outsider's picture of Japan. This is not all temples and seasonal reverie. It is convenience, repetition, signage, etiquette, municipal scale, and astonishingly fine-grained district character. To learn Tokyo is to become less impressed by generic bigness and more alert to the exact way one block hands over to the next.
 
 The practical advice is to reduce ambition and increase specificity. Pick one or two adjacent districts per day. Use mornings and evenings for the most famous areas if you can. Pay attention to exits, not just station names. Accept that being in Tokyo is already part of the trip; you do not need to squeeze meaning out of every transfer. If time permits, give yourself one non-obvious Tokyo day, a waterside ward, a western suburb, a mountain edge, because the city reveals itself best by contrast. Tokyo is not a checklist capital. It is a city that keeps opening further, provided you stop trying to conquer it all at once.
-
-Sources:
-- [Tokyo Outline, GO TOKYO](https://www.gotokyo.org/en/plan/tokyo-outline/index.html)
-- [Destinations, GO TOKYO](https://www.gotokyo.org/en/destinations/index.html)
-- [Tokyo Tourism Data Catalog, Tokyo Metropolitan Government](https://data.tourism.metro.tokyo.lg.jp/en/)
-- [Survey on Awareness of Tourism Among Tokyo Citizens, Tokyo Metropolitan Government](https://data.tourism.metro.tokyo.lg.jp/en/data/ishiki/)

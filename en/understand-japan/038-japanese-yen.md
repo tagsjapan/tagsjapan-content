@@ -49,10 +49,3 @@ That is why talk about the yen often slides into talk about Japan itself. A stro
 Understanding the yen helps explain why monetary questions in Japan so often spill beyond economics. The currency is tied to state-building, central-bank authority, trade structure, imported vulnerability, and a remarkably persistent cash culture. It is not just what prices are written in. It is a summary device through which people read the condition of the nation.
 
 That is why the new note in the hand matters. It is a piece of modern design, but it is also the latest form of a much older promise: that the Japanese state can still make trust portable, countable, and ordinary enough to be folded into a wallet. The yen's story includes the 1871 currency law, the 1973 float, and the 2024 redesign, which is another way of saying that it carries a condensed history of modern state power. Few currencies are so routinely read as a national mood index in public.
-
-Sources:
-- [Who issues Japanese banknotes? | Bank of Japan](https://www.boj.or.jp/en/about/education/oshiete/money/c02.htm)
-- [History | Bank of Japan](https://www.boj.or.jp/en/about/outline/history/)
-- [Outline of the Issuance and Circulation of Banknotes and Coins | Bank of Japan](https://www.boj.or.jp/en/note_tfjgs/note/outline/index.htm)
-- [A New Series of Banknotes and a New 500 Yen Coin | Bank of Japan](https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm)
-- [Issuance of Bank of Japan Note in New Form | Ministry of Finance](https://www.mof.go.jp/english/policy/currency/banknotes/20231212.html)

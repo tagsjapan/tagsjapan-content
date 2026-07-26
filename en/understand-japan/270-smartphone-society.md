@@ -49,10 +49,3 @@ There is also a governance problem of concentrated risk. As more services are ro
 The everyday examples are ordinary and therefore decisive. Commuters use phones to compress movement, work, and consumption into one continuous schedule. Parents and schools use group messaging and notification systems to coordinate daily responsibilities. Membership apps and QR codes turn retail into an account relationship. And smartphone-based identity services begin to make public administration feel like another app—until the app becomes the boundary between the included and the excluded.
 
 To understand smartphone society in Japan is to understand how the country turns order into routine through interfaces. The phone did not simply add features to daily life; it rearranged daily life around itself. It made time between places productive, made identity portable, and made attention permanently claimable. Japan’s smartphone society is not only about technology. It is about how a society chooses to run when a small screen becomes the front door to everything.
-
-Sources:
-- [Communications Usage Trend Survey | Ministry of Internal Affairs and Communications (MIC)](https://www.soumu.go.jp/johotsusintokei/statistics/statistics05.html)
-- [My Number system / card | Digital Agency](https://www.digital.go.jp/policies/mynumber)
-- [My Number Card on smartphones (スマートフォンのマイナンバーカード) | Digital Agency](https://www.digital.go.jp/policies/mynumber/smartphone-certification)
-- [smartphone | Encyclopaedia Britannica](https://www.britannica.com/technology/smartphone)
-- [Search results: ガラパゴス携帯 | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E6%90%BA%E5%B8%AF)

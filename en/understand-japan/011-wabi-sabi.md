@@ -49,11 +49,3 @@ This is where modern simplification does the most damage. In global design cultu
 The same problem appears in the popular tendency to reduce `wabi-sabi` to `kintsugi`, the repair of ceramics with lacquer and gold. `Kintsugi` is a striking example of how breakage can be incorporated into beauty, and Britannica reasonably links it to the wider sensibility. Still, the whole aesthetic cannot be collapsed into one repair technique. `Wabi-sabi` is larger than visible fracture. It concerns spareness, age, hush, incompletion, and a way of seeing that values what mass culture often tries to erase. A repaired bowl may be one doorway into that world, but so can a darkened tea hut, an uneven shelf, or a surface that has become more persuasive after 20 years of handling.
 
 That is why the phrase remains useful in Japan even after being over-exported. It names an aesthetic training as much as an aesthetic result. A tea room in the late 1500s, a bowl chosen because it looks quieter than the others, a surface darkened by repeated handling, a room that seems to contain more because it displays less: these are the places where `wabi-sabi` still speaks most clearly. What it says is not simply that imperfection can be charming. It says that beauty may arrive most fully when time, restraint, and incompleteness are allowed to remain visible.
-
-Sources:
-- [wabi-sabi | Britannica](https://www.britannica.com/topic/wabi-sabi)
-- [wabi | Britannica](https://www.britannica.com/topic/wabi)
-- [sabi | Britannica](https://www.britannica.com/art/sabi)
-- [Sen Rikyū | Britannica](https://www.britannica.com/biography/Sen-Rikyu)
-- [The Japanese Tea Ceremony | The Metropolitan Museum of Art](https://www.metmuseum.org/essays/the-japanese-tea-ceremony)
-- [kintsugi | Britannica](https://www.britannica.com/art/kintsugi-ceramics)

@@ -47,9 +47,6 @@ This has practical consequences for a trip. A sky capsule stay often makes sense
 Travelers do need to correct some expectations. Height does not guarantee silence. A mountaintop capsule can be noisy with wind and early departures; an urban one can be surrounded by nightlife. The view may be superb, but the sleeping compartment is still not a private hotel room. Phone use, eating, luggage access, and bathing all follow house rules. Anyone who wants long indoor downtime, couple-friendly privacy, or room-service comfort is usually choosing the wrong form. The gain is elsewhere: fewer wasted hours, better staging, sharper awareness of place.
 
 That is why the `Sky Capsule Hotel` feels so Japanese. It takes two things the country does unusually well, spatial compression and choreographed movement, and ties them to a third: the ability to make height operational. You close the capsule curtain, hearing strangers settle into adjacent units, and know the room is only half the story. The rest lies in where the building stands, what time you have to leave, and what kind of horizon waits outside when the lights come on.
-
-Sources:
-
 - Capsule Hotels, Travel Japan / JNTO: https://www.japan.travel/en/guide/capsule-hotels/
 - A Capsule Hotel at the Mt. Fuji Trailhead, Travel Japan / JNTO: https://www.japan.travel/en/experiences-in-japan/2843/
 - nine hours official site: https://ninehours.co.jp/en

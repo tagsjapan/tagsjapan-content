@@ -49,9 +49,6 @@ The itinerary consequence for visitors in Japan is subtle but real. If you’re 
 The main friction point is etiquette—especially photography. The outfits are public, but the people are not props. A traveler who treats the day as a spectacle can ruin someone’s moment by blocking a sidewalk, taking close-up shots without consent, or interrupting family photos. The best posture is simple: observe from a distance, keep moving, and if you want a picture, ask politely and accept “no” easily. Coming-of-age day is a rite of passage, not a street performance.
 
 By late afternoon, the furisode and suits begin to disappear into trains and taxis, and the streets revert to their usual winter quiet. But if you saw the ceremony day at all, you carry a particular memory: adulthood in Japan marked not only by law, but by clothing, local government ceremony, family effort, and the brief courage it takes to be celebrated in public. It is one of the clearest examples of Japan’s seasonal society—how a country can schedule emotion, dress it carefully, and let it fill a city for a few hours before folding it back into everyday life.
-
-Sources:
-
 - National Holidays (Coming of Age Day definition; 2026 date), Cabinet Office, Government of Japan: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
 - Age of majority lowered to 18 (effective 2022-04-01), Government Public Relations Online: https://www.gov-online.go.jp/article/201808/entry-7947.html
 - “Gathering to celebrate twenty-year-old citizens” (municipal ceremony), Yokohama City (official): https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/shogaigakushu/sonota/ad.html

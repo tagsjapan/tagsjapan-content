@@ -47,11 +47,3 @@ The pair also exposes a modern contradiction. Giri can stabilize relationships, 
 A phrase survives for centuries when it names a feeling that people still recognize without needing it explained.
 
 That is what giri and ninjo does for understanding Japan. It is a compact vocabulary for the social problem of living with others: how to honor the obligations that make relationships stable, without denying the feelings that make relationships human. When you notice the little box on the desk, or the careful wording of a refusal, or the quiet help that arrives without announcement, you are seeing the two forces negotiating in real time—and you are seeing why Japanese culture turned that negotiation into one of its most enduring stories. The value is not moral superiority, but a language for compromise.
-
-Sources:
-- [義理 | コトバンク](https://kotobank.jp/word/%E7%BE%A9%E7%90%86-53569)
-- [義理人情 | コトバンク](https://kotobank.jp/word/%E7%BE%A9%E7%90%86%E4%BA%BA%E6%83%85-53731)
-- [ninjō | Britannica](https://www.britannica.com/topic/ninjo)
-- [近松門左衛門：世話物とは | 文化デジタルライブラリー](https://www2.ntj.jac.go.jp/dglib/contents/learn/edc13/sakuhin/index.html)
-- [近松門左衛門：おさんと小春の「女同士の義理」 | 文化デジタルライブラリー](https://www2.ntj.jac.go.jp/dglib/contents/learn/edc13/sakuhin/syuyo/p7/p7-d.html)
-- [近松の義理・人情について | J-STAGE](https://www.jstage.jst.go.jp/article/nihonbungaku/1/2/1_KJ00010107844/_article/-char/ja/)

@@ -47,9 +47,6 @@ These public displays matter because `Children's Day` isn’t primarily an “ac
 The friction points are also clear enough to manage. If you’re moving between cities during the core Golden Week window, build buffer time and book earlier than you think you need to. If you want the `koinobori` scenery without the densest crowds, go in the morning, or choose a smaller town where the display is spread across open space. And remember that the streamers are weather-dependent. A calm day can make them hang limp; a windy day turns them into what they’re meant to be—carp fighting the air, a child’s wish translated into motion.
 
 By the time the holiday passes, the flags come down quickly, and that’s part of their power. Japan doesn’t only mark seasons with blossoms and foliage. It also marks them with temporary objects—things the country is willing to put up and take down because the calendar matters. When you see `koinobori` vanish and the streets return to normal, you feel the tick of the month in a way a guidebook calendar can’t deliver. `Children's Day` leaves you with a simple travel memory: a river, a wind, a bright fish in the sky, and the sense that early May in Japan is not just a date range—it’s a scene.
-
-Sources:
-
 - National Holidays (Japanese government), Cabinet Office: https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html
 - May in Japan, Travel Japan / Japan National Tourism Organization (JNTO): https://www.japan.travel/en/guide/may/
 - Tokyo Tower's 333 Carp Streamers (Koinobori) event listing, GO TOKYO: https://www.gotokyo.org/en/spot/ev015/index.html

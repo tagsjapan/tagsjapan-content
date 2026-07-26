@@ -49,10 +49,3 @@ In the last decade, the tone has shifted. Lifelong learning is still discussed a
 The other pressure is inequality, which lifelong learning cannot automatically solve. Time is not distributed evenly, and neither is confidence. A large city can offer a dense menu of courses; a rural town may depend on a small staff and a small budget. Digital learning can widen access, yet it can also punish people with weak connectivity or low digital literacy. Even when programs exist, participation depends on whether someone can afford fees, arrange child care, or leave work early. Japan’s lifelong learning system often names seniors and caregivers as priorities, but those are also the people most likely to face practical barriers.
 
 Still, the bulletin board outside the `kominkan` is not only a list of classes. It is a map of how Japan imagines a long life: not as a straight line from school to work to retirement, but as a series of returns—to learning, to community, to new competence when the old one fades. `Lifelong Learning` is therefore a useful lens on Japan’s social design. The country does not always move fast, but it builds institutions that allow people to adjust without breaking the whole structure. In a society where demographic pressure makes abrupt solutions unrealistic, that quiet infrastructure can be a form of realism.
-
-Sources:
-- [生涯学習の振興のための施策の推進体制等の整備に関する法律（平成二年法律第七十一号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/402AC0000000071)
-- [教育基本法（平成十八年法律第百二十号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/418AC0000000120)
-- [生涯学習 | 文部科学省（MEXT）](https://www.mext.go.jp/a_menu/shougai/index.htm)
-- [放送大学（The Open University of Japan）](https://www.ouj.ac.jp/)
-- [UNESCO Institute for Lifelong Learning (UIL)](https://uil.unesco.org/)

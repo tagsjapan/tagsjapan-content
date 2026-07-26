@@ -50,12 +50,3 @@ The contemporary tension is that bento’s symbolism often lags behind bento’s
 Japan is now also attaching new public values to the lunchbox. MAFF’s projects on creative washoku bento and the `未来につなぐお弁当Action` photo contest launched in `2025` frame bento as a vehicle for local ingredients, seasonal food choices, and sustainability narratives under broader campaigns such as `NIPPON FOOD SHIFT`. That does not replace the older meanings of care and routine; it adds another layer. The lunchbox becomes a place where personal habit can be linked to national food policy and environmental aspiration.
 
 To understand `Bento Culture（便當文化）` is to see how Japan builds everyday life out of small, repeatable disciplines. The bento is not just lunch. It is a portable agreement between body and schedule, between affection and obligation, between safety and convenience. A society that can make the lunchbox feel ordinary has also built a complex system—household labor, retail industry, hygiene knowledge, and education—around the idea that daily life should be prepared, packed, and carried forward.
-
-Sources:
-- [歴史を辿り、秋の行楽弁当を愉しむ | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2209/spe9_02.html)
-- [「弁当の日」は食育の第一歩 | 農林水産省](https://www.maff.go.jp/j/pr/aff/1806/characterinformation.html)
-- [外食・中食産業の振興 | 農林水産省](https://www.maff.go.jp/j/shokusan/eat/121109.html)
-- [お弁当づくりによる食中毒を予防するために | 農林水産省](https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/lunchbox.html)
-- [見直してみよう お弁当づくりでの食中毒予防 | 農林水産省](https://www.maff.go.jp/j/pr/aff/2506/spe1_03.html)
-- [募集開始！未来につなぐお弁当Action | 農林水産省](https://www.maff.go.jp/j/press/kanbo/anpo/250715_1.html)
-- [NIPPON FOOD SHIFT | 農林水産省](https://nippon-food-shift.maff.go.jp/)

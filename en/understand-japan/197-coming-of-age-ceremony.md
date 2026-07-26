@@ -50,12 +50,3 @@ Because the ceremony is municipal, it also reveals how Japan connects citizenshi
 Contemporary seijinshiki also shows how ritual adapts without disappearing. Formal clothing and photography have become central symbols, and the timing of the holiday itself—such as Seijin no Hi falling on January `12` in `2026`—anchors the ceremony to a predictable national calendar. Yet the meaning is no longer singular. For some, it is an emotional marker; for others, a reunion; for others, an obligation. The same stage can hold pride, awkwardness, and a little boredom.
 
 `Coming-of-Age Ceremony（成人式）` helps you understand Japan because it shows adulthood being produced socially, not only legally. It shows a state changing the legal definition to `18` while many communities keep the public rite at `20`, revealing how cultural timing can resist administrative reform. It also shows the deep role of local government in everyday ritual life. Legally, adulthood may now start at `18`, but socially it often still arrives at `20`, under a banner and a speech. Seijinshiki is not a relic. It is Japan’s way of saying, once a year, that adulthood is a public transition—and that the next generation is being watched, welcomed, and relied upon.
-
-Sources:
-- [成人式｜神社本庁](https://www.jinjahoncho.or.jp/omairi/seijinshiki/)
-- [18歳から“大人”に！成年年齢引下げで変わること、変わらないこと。｜政府広報](https://www.gov-online.go.jp/article/201808/entry-7947.html)
-- [民法（成年年齢関係）改正 Q&A｜法務省](https://www.moj.go.jp/MINJI/minji07_00238.html)
-- [民法の一部を改正する法律（成年年齢関係）について｜法務省](https://www.moj.go.jp/MINJI/minji07_00218.html)
-- [統計局/統計トピックスNo.147/2 新成人人口は109万人｜総務省統計局](https://www.stat.go.jp/data/jinsui/topics/topi1472.html)
-- [成年年齢の引下げに関する世論調査 5.成人式｜内閣府](https://survey.gov-online.go.jp/h30/h30-seinen/2-5.html)
-- [2026年の祝日は？「国民の祝日」とその趣旨や経緯｜政府広報](https://www.gov-online.go.jp/useful/article/202112/3.html)

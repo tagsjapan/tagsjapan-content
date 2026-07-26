@@ -47,10 +47,3 @@ Scale is part of the story. Fushimi Inari calls itself the head shrine of roughl
 The contemporary tension is not whether people still care about foxes. It is that foxes have become too easy to read. In the `2020s`, fox motifs travel as cute graphics and social-media shorthand, and the step from “Inari symbol” to “fox worship” becomes a common misunderstanding. Yet fox belief remains a living practice, not only an image. Annual rites, local festivals, and everyday prayers continue to pull the symbol back into an older ecosystem of offering, reciprocity, and place. The fox can be both a decorative logo and a religious messenger—sometimes on the same ema board—without the contradiction fully resolving.
 
 Seen up close, `Fox Belief（狐信仰）` is a lesson about how Japanese religion often works: not as an abstract proposition but as a visual and material system that teaches recognition. The fox is not the point, and yet it is. When the messenger becomes the most visible figure, it shows a culture comfortable with mediation—comfortable with symbols that do real work, and with gods that remain, by design, just out of sight.
-
-Sources:
-- [FAQ: “What is the relationship between Inari shrines and foxes?” | Fushimi Inari Taisha](https://inari.jp/en/faq/)
-- [History | Fushimi Inari Taisha](https://inari.jp/en/history/)
-- [Inari shinkō | Kokugakuin University Encyclopedia of Shinto](https://d-museum.kokugakuin.ac.jp/eos/detail/?title=Inari%20shink%C5%8D)
-- [Kasama Inari Shrine](http://www.kasama.or.jp/)
-- [Toyokawa Inari](https://www.toyokawainari.jp/)

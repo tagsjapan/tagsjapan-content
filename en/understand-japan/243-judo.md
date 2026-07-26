@@ -49,10 +49,3 @@ Kodokan language tries to hold the contradiction together. “Mutual welfare” 
 Yet in practice the competitive world rewards specialization. A judoka can win by tactical conservatism, by accumulating partial scores, by exploiting small rule-bound advantages. This is not unique to judo; it is what modern sport does. The question for Japan is how to keep judo’s “dō” language credible when the sport’s incentives push toward narrow optimization. Japan’s answer has been institutional rather than nostalgic: keep Kodokan as a symbolic center, keep federations as rule enforcers, keep ukemi and etiquette as baseline, then accept that sport is what happens when you scale a practice globally.
 
 `Judo（柔道）` helps you understand Japan because it shows a characteristic Japanese method: take a premodern technique set, redesign it as a modern educational institution, then export it as a world sport without fully abandoning the moral language that justified the redesign. Judo’s global success is not only a story of athletic charisma. It is a story of institutional engineering—curriculum, ranks, rules, federations—that turned “the gentle way” into something that can survive outside Japan while still claiming to teach more than winning in ordinary Japanese institutions.
-
-Sources:
-- [精力善用 自他共栄とは | 講道館（Kodokan Judo）](https://kdkjudo.org/%E7%B2%BE%E5%8A%9B%E5%96%84%E7%94%A8-%E8%87%AA%E4%BB%96%E5%85%B1%E6%A0%84%E3%81%A8%E3%81%AF/)
-- [全日本柔道連盟 | 全柔連ホームページ](https://www.judo.or.jp/)
-- [IJF.org - International Judo Federation](https://www.ijf.org/)
-- [武道・ダンス必修化 | 文部科学省](https://www.mext.go.jp/a_menu/sports/jyujitsu/1330882.htm)
-- [Judo | Definition, History, & Facts | Britannica](https://www.britannica.com/sports/judo)

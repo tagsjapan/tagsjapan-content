@@ -49,11 +49,3 @@ Numbers make the system concrete. In the `2024` traffic safety commendations, th
 Commendation also produces tension. Selection often depends on recommendation networks and organizational visibility, which can leave quieter forms of frontline work unseen. Donation-linked medals, such as those connected to large philanthropic contributions, raise questions about whether public virtue is being equated too easily with financial capacity. Complexity can also create a barrier: the more elaborate the taxonomy, the harder it is for outsiders to understand what is being recognized and why. These criticisms do not negate the system’s role; they highlight what the system is doing—drawing boundaries around recognition in a way that always includes and excludes.
 
 To understand Japan, it helps to see commendation as part of the country’s “symbolic administration.” Japan governs with laws and budgets, but it also governs with reputational signals, recurring rituals, and visible exemplars. A ribbon on a lapel is not only decoration. It is a small, carefully designed interface between the state and society, telling people what kinds of contributions are meant to be honored—and therefore, what kinds of behavior are meant to become ordinary.
-
-Sources:
-- [Japan’s Decorations and Medals | Cabinet Office (Honours Bureau)](https://www8.cao.go.jp/shokun/)
-- [Overview of the Decorations and Medals System | Cabinet Office](https://www8.cao.go.jp/shokun/seidogaiyo.html)
-- [Types of Medals and Eligible Achievements | Cabinet Office](https://www8.cao.go.jp/shokun/shurui-juyotaisho-hosho/hosho.html)
-- [Traffic Safety Commendations (FY2024) | Cabinet Office](https://www8.cao.go.jp/koutu/keihatsu/r06-hyosho/index.html)
-- [Barrier-Free and Universal Design Commendations | Cabinet Office](https://www8.cao.go.jp/souki/barrier-free/hyousho.html)
-- [Spring 2024 Medal Recipients Count | Cabinet Office](https://www8.cao.go.jp/shokun/hatsurei/r06haru.html)

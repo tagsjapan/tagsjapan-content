@@ -47,9 +47,6 @@ This mixture of beauty and friction is exactly why the experience belongs in ser
 It also reveals something subtle about Japanese seasonality. Many countries can offer snow and many countries can offer hot water, but Japan has made the meeting of the two into a shared cultural expectation. People travel for it. Towns advertise it. Travelers reorganize routes around it. The famous images are not misleading so much as incomplete. They show the climax but not the work: the timed train or bus, the heavy coat drying by the room heater, the decision to go back out before breakfast because the morning snow is different from the night's. The dream is real, but it tends to reward the traveler who leaves room in the schedule for weather to have the final vote.
 
 What remains afterward is rarely a grand conclusion. It is often a set of small physical memories: the wooden edge of the bath cold under the hand, the steam clearing just enough to reveal a white hillside, the sting of the air on the walk back indoors. A good `Snow Bathing` experience in Japan feels slightly earned. That is why it can become the high point of a winter trip. The scene is beautiful, yes, but its deeper appeal is that the beauty arrives through weather, not in spite of it.
-
-Sources:
-
 - Winter hot springs, Travel Japan / JNTO: https://www.japan.travel/en/guide/winter-hot-springs/
 - Nyuto Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/2167/
 - Nozawa Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/1299/

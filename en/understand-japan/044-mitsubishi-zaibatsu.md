@@ -47,11 +47,3 @@ That persistence makes Mitsubishi useful for understanding Japan. It shows how m
 There is, of course, a darker side to that strength. Mitsubishi stands for industrial achievement, but also for concentration of power, for closeness to imperial expansion, and for the wartime world in which heavy industry and national ambition fed each other. The prestige of the brand can make that easier to blur than it should be. Even today, when the group is no longer a zaibatsu in the old sense, the lingering aura of coherence can invite nostalgia for a form of coordinated capitalism that was never politically innocent. The argument over Mitsubishi is therefore larger than corporate history. It is an argument about how Japan remembers the engines of its rise, and about how much of modern national power was built through organizations that were privately run but publicly consequential.
 
 That is why the emblem still carries more weight than a normal logo. The three diamonds link shipping in 1870 to banking, trade, heavy industry, occupation-era breakup, and the postwar survival of group memory. The old corporate empire lost its original form, but not its shadow. In Japan, that shadow still says something about how power, capital, and national development once fit together, and about how hard such arrangements are to leave behind completely, even after legal structures have changed.
-
-Sources:
-- [Origin | Mitsubishi.com](https://www.mitsubishi.com/en/profile/history/outline/)
-- [Mitsubishi's Journey | Mitsubishi.com](https://www.mitsubishi.com/en/profile/history/)
-- [About Mitsubishi | Mitsubishi.com](https://www.mitsubishi.com/en/profile/)
-- [Three Principles | Mitsubishi.com](https://www.mitsubishi.com/en/profile/group/principle/)
-- [Sites Related to Mitsubishi's History | Mitsubishi.com](https://www.mitsubishi.com/en/profile/history/culture/)
-- [Zaibatsu | Britannica](https://www.britannica.com/topic/zaibatsu)

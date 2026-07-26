@@ -49,11 +49,3 @@ The strain came early and never disappeared. Party politics grew after 1890. Par
 Later critics would trace prewar failures back to this constitutional order, especially its handling of sovereignty, command, and responsibility. That can be overstated. Political practice, party weakness, economic shocks, and international crisis all mattered. Still, the criticism did not come from nowhere. If a constitution can stage modern politics while keeping final authority outside popular control, it can also make accountability murky at the worst possible time. By the time a new constitution came into force in 1947, replacing imperial sovereignty with popular sovereignty, the Meiji framework had come to look less like a proud national achievement than like a brilliant but dangerous compromise.
 
 That is the lasting fascination of the Meiji Constitution. It was neither a fake constitution nor a straightforward democratic charter. It was a serious constitutional project built to protect a pre-democratic center of power. Japan's modern state did not emerge by discarding tradition first and adopting institutions later. In 1889 and 1890 it bound both together. The elegance of the design was real. So were the limits buried inside it.
-
-Sources:
-- [憲法 | National Diet Library](https://www.ndl.go.jp/diet/field_index/field_kenpo)
-- [明治憲法欽定史 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000008513845)
-- [明治憲法体制の確立 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000001214156)
-- [明治憲法の起草過程 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I025961282)
-- [帝国憲法義解 : 新訳 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000039-I1441516)
-- [The Meiji Constitution | Britannica](https://www.britannica.com/topic/Meiji-Constitution)

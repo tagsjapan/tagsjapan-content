@@ -49,11 +49,3 @@ Workers’ compensation ties the whole system together. Insurance coverage provi
 The unresolved debate is about coverage and protection in a changing labor market. Accidents do not happen only to the idealized “regular employee” in a stable firm. Japan’s workforce includes non-regular employment, subcontracting chains, foreign workers, and a growing share of older workers. Logistics, retail, and medical/welfare work can be physically risky even when it does not look like “dangerous industry.” A system built around reporting and planning can still fail if the people most exposed have the least power to demand safer conditions.
 
 Industrial accidents, then, are a practical lens for understanding modern Japan. They show a society that turns harm into governance: statistics, insurance, and mid-term prevention plans. They also show where governance is being tested by new realities—aging, labor shortage, and heat—where the most common injuries come from the ordinary mechanics of work itself.
-
-Sources:
-- [Industrial Accident Occurrence in 2024 (Reiwa 6) Released (May 2025) | MHLW](https://www.mhlw.go.jp/stf/newpage_58198.html)
-- [Workers’ Compensation Insurance System: Overview and Claim Procedures | MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/rousai/gaiyou.html)
-- [FAQ: Overview of Workers’ Compensation Insurance | MHLW](https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyungyosei13.html)
-- [Features of Workers’ Compensation and Employment Insurance | MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/hoken/2024707.html)
-- [Workplace Heatstroke Occurrence in 2024 (Reiwa 6) | MHLW](https://www.mhlw.go.jp/stf/newpage_58389.html)
-- [14th Industrial Accident Prevention Plan | MHLW](https://www.mhlw.go.jp/stf/newpage_33275.html)

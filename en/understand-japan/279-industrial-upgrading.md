@@ -47,10 +47,3 @@ Upgrading is never only upward. It is also subtraction: old business lines shrin
 That tension shows up in the politics. If upgrading is concentrated in a few metropolitan clusters and a few strategic sectors, the rest of the country experiences it as pressure without payoff. If upgrading is funded by subsidies and frameworks but not matched by training and labor mobility, it becomes a slogan that people associate with additional work. Japan’s best upgrading moments have been the ones where policy, corporate investment, and shop-floor practice reinforce each other. Its hardest moments are when any one of those layers moves alone.
 
 For understanding Japan, industrial upgrading is a useful lens because it exposes a core national habit: rebuilding while working. Japan does not usually stop the machine and start over. It tries to retrofit. That creates resilience and continuity, but it can also lock in old structures longer than they deserve. The country’s upgrading story is therefore not a simple march toward “advanced industry.” It is a continuous negotiation between the pride of manufacturing capability and the fear of losing it, in full view of everyday work across the country.
-
-Sources:
-- [2025 Monozukuri White Paper (2025年版ものづくり白書) | METI](https://www.meti.go.jp/report/whitepaper/mono/2025/index.html)
-- [Industrial Structure Vision 2010 (産業構造ビジョン2010) | METI (archived index)](http://www.meti.go.jp/committee/summary/0004660/index.html#vision2010)
-- [Act on Strengthening Industrial Competitiveness (産業競争力強化法) | e-Gov Law Search](https://laws.e-gov.go.jp/law/425AC0000000098)
-- [DX Report: Overcoming the “2025 cliff” (DXレポート) | METI](https://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/20180907_report.html)
-- [Revised Semiconductor and Digital Industry Strategy (半導体・デジタル産業戦略) | METI](https://www.meti.go.jp/press/2023/06/20230606003/20230606003.html)

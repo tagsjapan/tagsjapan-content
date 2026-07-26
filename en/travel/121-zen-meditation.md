@@ -47,9 +47,3 @@ For some travelers the best way in is a temple stay—shukubo (宿坊 / 寺宿)�
 The friction points tend to be practical. Language support varies. Some places welcome beginners; others assume you can follow without much explanation. Posture can be hard if you have knee or back issues, and “just sitting” is not a friendly slogan when your legs go numb. The useful travel move is to treat this like any other time-sensitive reservation: check whether you need to book ahead, ask about the format, and choose clothing that lets you sit and move quietly without fuss. If you’re traveling for “relaxation,” zazen can feel like the wrong product; if you’re traveling to learn how a Japanese temple actually works, it can be one of the most concrete hours you spend.
 
 When you step back outside afterward, the same street can look strangely louder. Traffic, chatter, even the clink of a vending machine feels amplified. Zen meditation doesn’t give you a souvenir, and it doesn’t solve your life. It does something smaller and more useful on a trip: it teaches you what kind of attention a Japanese religious space expects, and what it feels like—briefly—to meet that expectation. Because it is so plain, it’s also easy to carry into the rest of the journey—in trains, queues, and quiet hotel rooms.
-
-Sources:
-- [Zazen, SOTOZEN.COM](https://www.sotozen.com/eng/zazen/index.html)
-- [The Soto Zen School's Zazen, SOTOZEN.COM](https://www.sotozen.com/eng/zazen/school/index.html)
-- [Manners in the Zendo, SOTOZEN.COM](https://www.sotozen.com/eng/zazen/manners/)
-- [Temple stays, Travel Japan / JNTO](https://www.japan.travel/guide/temple-stays/)

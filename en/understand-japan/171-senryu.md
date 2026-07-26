@@ -50,12 +50,3 @@ That infrastructure becomes visible in local scenes. The association’s map ent
 That infrastructure also clarifies the contemporary tension. Senryu is easily misunderstood as simply “jokes,” and the association’s own leadership argues against that flattening, pointing out that current-affairs senryu can carry sharp criticism. Yet the association admits that senryu’s position in Japanese literary history remains relatively low. Popularity does not automatically grant legitimacy. For that reason, senryu organizations work on both fronts: keeping local gatherings alive while also trying to present the form as serious social commentary—including experiments aimed at non-Japanese readers, such as “English senryu” pages.
 
 `Senryu（川柳）` helps you understand Japan because it shows an everyday kind of critique built into cultural life. Japan is often described through harmony and politeness, but senryu reminds you that observation can be sly, that satire can be communal, and that people have long used tight form to say what cannot be said directly. Because it is short, it can be memorized, repeated, and used as a small social weapon in conversation. That portability is part of its democratic strength in Japan today. The poem is short. The social knowledge inside it is not.
-
-Sources:
-- [設立趣旨 | 全日本川柳協会](https://nissenkyou.or.jp/establishment_outline/)
-- [英語でセンリュウ！ | 全日本川柳協会](https://nissenkyou.or.jp/englishsenryu/)
-- [沿革及び歴代会長理事長 | 全日本川柳協会](https://nissenkyou.or.jp/history/)
-- [理事長挨拶 | 全日本川柳協会](https://nissenkyou.or.jp/greeting/)
-- [東京都「川柳人協会」 | 全日本川柳協会](https://nissenkyou.or.jp/senryumap/07tokyo/)
-- [愛知県「中日川柳会」 | 全日本川柳協会](https://nissenkyou.or.jp/senryumap/03aichi/)
-- [Senryu | Britannica](https://www.britannica.com/art/senryu)

@@ -46,9 +46,6 @@ Even if you never go to Kamikatsu, Japan gives you daily opportunities to practi
 The expectation correction is that Japan will not do this for you, even when it agrees with the idea. You can recycle, but you will not always find clear public guidance in English, and you may discover that the most confusing part is not separating a bottle but figuring out where you’re allowed to separate it. Hotels vary widely. Some cities are strict, others less so. Convenience culture is strong, and it is designed to remove friction, not add it. The trick is to aim for “less,” not “perfect,” and to accept that your best efforts will still produce some trash. The value is in reducing the excess and learning a new way to travel, not in winning a contest.
 
 On the last day of a trip, the measure of success is not an empty trash bag. It is a different kind of attention. You notice the moment you are offered something you do not need. You start treating the plastic-wrapped “just in case” purchase as a decision, not a reflex. You plan a snack around a place you can sit instead of a wrapper you must carry. You stop buying souvenirs that exist only to be thrown away. In a country where convenience is almost a national talent, zero waste travel is a quiet choice to slow down and take responsibility—one small “no thank you” at a time.
-
-Sources:
-
 - Travel Japan / JNTO, “Be A More Responsible Traveler” https://www.japan.travel/en/sustainable/be-a-more-sustainable-traveler/
 - Travel Japan / JNTO, “Sustainable Travel Experiences in JAPAN” https://www.japan.travel/en/sustainable/
 - Travel Japan / JNTO, “Tour the Future of Zero-Waste Sustainability” (Kamikatsu) https://www.japan.travel/en/experiences-in-japan/5874/

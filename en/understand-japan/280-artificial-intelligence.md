@@ -49,10 +49,3 @@ Japan’s debates around AI therefore cluster around responsibility and uneven c
 Japan’s AI story is not only about smarter machines. It is about building rules that can travel with the machines.
 
 If you want to understand Japan, AI is a useful mirror because it highlights how Japan handles new power. It does not simply celebrate innovation, and it does not simply fear it. It tries to translate it into institutions—guidelines, plans, headquarters, procurement rules—so that responsibility can be assigned when the system speaks with the authority of an office, a factory, or a public service. The Japanese question is rarely “Can we build it?” It is more often “Can we live with it, and who carries the weight when it fails?”
-
-Sources:
-- [AI Business Guidelines (AI事業者ガイドライン 第1.0版) | METI](https://www.meti.go.jp/press/2024/04/20240419004/20240419004.html)
-- [AI Business Guidelines (PDF) | METI](https://www.meti.go.jp/press/2024/04/20240419004/20240419004-1.pdf)
-- [AI Act (人工知能関連技術の研究開発及び活用の推進に関する法律) | Cabinet Office](https://www8.cao.go.jp/cstp/ai/ai_act/ai_act.html)
-- [AI Basic Plan (人工知能基本計画) | Cabinet Office](https://www8.cao.go.jp/cstp/ai/ai_plan/ai_plan.html)
-- [Advanced AI Advisory Board (先進的AI利活用アドバイザリーボード) | Digital Agency](https://www.digital.go.jp/councils/ai-advisory-board)

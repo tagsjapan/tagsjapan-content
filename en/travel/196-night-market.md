@@ -48,9 +48,6 @@ Yokohama and Okinawa show two other versions of the same idea. Yokohama’s offi
 The practical travel advice follows naturally. Before you commit an evening to the idea of a night market, check what kind of thing you’re actually chasing: a permanent stall culture, a seasonal event, or a district that stays awake. Carry some cash even if you have been tap-and-going all day, because small stalls and older setups are not always friendly to cards. Watch how locals handle trash and seating before you improvise your own method. And keep one eye on the clock: Japan’s night is lively, but it is also timed, shaped by transport schedules and the quiet pressure of closing hours.
 
 The reward is that Japan’s after-dark public eating, precisely because it isn’t standardized, has more local accent than you might expect. One night it’s a stool at a `yatai`, elbow to elbow with strangers, the city’s warmth condensed into a narrow counter. Another night it’s a long neon walk where you eat in short bursts and keep moving. Either way, “night market” in Japan is best treated as a way of traveling—leaving space for the city to show you where its night actually happens—rather than a single destination you can pin on a map.
-
-Sources:
-
 - How to enjoy a yatai, Fukuoka City Official Tourist Guide: https://gofukuoka.jp/yatai/
 - Learn more: Yatai tips and manners, Fukuoka City Official Tourist Guide: https://gofukuoka.jp/yatai-howto.html
 - Osaka, Travel Japan / JNTO: https://www.japan.travel/en/destinations/kansai/osaka/

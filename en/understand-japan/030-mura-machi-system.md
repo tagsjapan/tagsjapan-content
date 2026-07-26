@@ -49,10 +49,3 @@ That tension between efficiency and representation lies at the heart of the town
 Understanding the town and village system helps explain why local Japan still often speaks in a scale smaller than the prefecture. Agricultural cooperatives, neighborhood associations, school catchment areas, disaster response habits, and local memory all continue to work through units that feel intimate enough to be lived rather than merely administered. Even when a legal town has vanished, the older local name may still carry more meaning than the larger municipality that absorbed it. That is why former town halls often remain emotionally central after consolidation. People may travel to a larger city office for paperwork and still say they belong to the older place, because the scale of memory and the scale of administration have drifted apart.
 
 That is why the plain sign on a village office matters. It points to a long history in which the Japanese state learned to govern by defining and redefining its smallest public units. Towns and villages may seem modest, but they were part of the machinery through which modern Japan became legible to itself, and remembered itself.
-
-Sources:
-- [地方公共団体制度 | 総務省](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/)
-- [市町村合併 | 総務省](https://www.soumu.go.jp/gapei/)
-- [Prefectures and Municipalities | JapanGov](https://www.japan.go.jp/tomodachi/2018/winter2018/prefectures_and_municipalities.html)
-- [Local government | Britannica](https://www.britannica.com/place/Japan/Local-government)
-- [The modern municipality system | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002801961)

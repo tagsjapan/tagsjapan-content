@@ -47,9 +47,3 @@ There are useful frictions to acknowledge. Language remains a real issue, even i
 What Japan offers, in the end, is not magic but order. The emergency numbers are stable. The public guidance exists. The assessment tools exist. The visitor support exists. The system expects that people may be frightened and uncertain, and it has created distinct doors for distinct kinds of problems. If you know those doors before you need them, the country becomes less intimidating at exactly the moment when intimidation is most dangerous.
 
 The practical advice is to prepare three things before the trip or on the first day: save `119`, save your accommodation address in English and Japanese if possible, and bookmark JNTO's hotline and medical guidance pages. Carry essential medication information somewhere easy to show. If you are traveling with parents, children, or anyone with a known condition, decide in advance who will make the call and who will handle documents. It is also worth learning how to describe the nearest station, hotel, or landmark aloud, because location is often the first useful fact you can give. Do not use the ambulance system casually, but do not hesitate when the signs are serious. In Japan, as in travel anywhere, the best emergency plan is the one simple enough to survive panic. The local version just happens to be unusually well built once you know where to step in.
-
-Sources:
-- [A Guide for Ambulance Services, Fire and Disaster Management Agency](https://www.fdma.go.jp/publication/portal/post2.html)
-- [National Emergency Medical Care App Q-suke, Fire and Disaster Management Agency](https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate003.html)
-- [Japan Visitor Hotline, Travel Japan / JNTO](https://www.japan.travel/en/plan/hotline/)
-- [Guide for When You Are Feeling Ill, JNTO](https://www.jnto.go.jp/emergency/eng/mi_guide.html)

@@ -45,11 +45,3 @@ This helps explain why the Shinkansen has long been more than transport. It offe
 That is also why expansion never becomes a purely technical matter. When the Hokuriku Shinkansen was extended from Kanazawa to Tsuruga in March 2024, the change was not merely a few more kilometers of track. Transfer patterns shifted. Gateways changed. Some places suddenly felt closer, while others had to rethink how passengers would pass through them. Every new segment creates winners, skeptics, and people waiting to see whether the promised regional benefit will actually arrive. The argument is never only about engineering. It is also about maps of opportunity.
 
 The questions are sharper now than they were in the high-growth decades. New lines are expensive. Japan is aging and shrinking. Local governments may hope for revitalization, while neighboring areas worry about being passed by. Yet the system remains hard to imagine away because it does something the country still values deeply: it gives large numbers of people a dependable command over time. It also gives them a standard by which other public systems are judged. A Shinkansen train leaves the platform, and for a moment the whole idea of modern Japan feels very old-fashioned in the best sense of the term. It believes that public systems should work, and should work repeatedly, in full view of everyone who depends on them.
-
-Sources:
-- [About the Shinkansen | Central Japan Railway Company](https://global.jr-central.co.jp/en/company/about_shinkansen/)
-- [Shinkansen railway development and expansion | MLIT](https://www.mlit.go.jp/tetudo/tetudo_fr1_000041.html)
-- [E5 Series Hayabusa / Hayate / Yamabiko / Nasuno | JR East](https://www.jreast.co.jp/en/train/shinkan/e5.html)
-- [Operating Area | Central Japan Railway Company](https://global.jr-central.co.jp/en/company/about/area.html)
-- [Tokaido Shinkansen | JR Central](https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/)
-- [Hokuriku Shinkansen development overview | MLIT](https://www.mlit.go.jp/tetudo/tetudo_tk6_000001.html)

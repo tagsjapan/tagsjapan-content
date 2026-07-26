@@ -45,9 +45,3 @@ Night matters especially. A traveler who visits only in daylight sees craft and 
 There is friction here, and the best trips admit it. Festival-period accommodation fills early. Temperatures and icy ground can tire even enthusiastic visitors faster than expected. Crowds gather around the most famous works and turn some walking routes into slow channels of boots and down jackets. International success adds another layer of complexity. The festival's international snow sculpture contest demonstrates that this is no longer only a local celebration; it is an exchange platform as well. That cosmopolitan scale is exciting, but it also means the event works best when approached with a little discipline rather than improvisational optimism.
 
 The practical advice is to plan the Snow Festival as you would a winter city campaign. Reserve lodging early. Bring proper layers and footwear. Give at least one evening to the illuminated sites. Decide which venue matters most to you and let the others support it. Build in warm-up breaks, because fatigue arrives faster in subzero air than many visitors expect. Then allow the city to teach you something. In Sapporo, winter is not the blank season before spring. It is an active public form. The Snow Festival endures because it turns harsh weather into shared structure, and lets visitors feel, for a few cold days, what a northern Japanese city can make out of its own climate.
-
-Sources:
-- [About the Sapporo Snow Festival, Official Site](https://www.snowfes.com/english/)
-- [2025 Sapporo Snow Festival Event Guide, Official Site](https://www.snowfes.com/english/event/)
-- [International Snow Sculpture Contest, Official Site](https://www.snowfes.com/english/event/contest.html)
-- [How Large Snow Sculptures Are Made, Official Site](https://www.snowfes.com/english/about/making.html)

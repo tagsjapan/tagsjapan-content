@@ -49,10 +49,3 @@ The state has also begun modernizing the administrative side of qualifications. 
 Criticism of Japan’s credential culture tends to come in two forms. One argues that the country produces too many certificates and too much exam labor—that the signal can become louder than the skill it is supposed to represent. The other argues the opposite: that credentials remain one of the few transparent ladders available to people who lack pedigree, networks, or a smooth career narrative. Both critiques are partly true. Exams can compress complex competence into a score. They can also provide a rare sense of fairness in a society that still values established pathways.
 
 Seen up close, Japan’s `Certification Exam` world is a technology of trust. It is a way of making ability portable, responsibility assignable, and hiring decisions less dependent on personal endorsement. That trust comes with costs—time, money, anxiety, and sometimes a misleading sense of certainty. Yet the system persists because it matches a deep Japanese preference for defined standards and accountable roles. In the bookstore aisle of exam manuals, you are looking at more than study guides. You are looking at one of the country’s everyday tools for turning knowledge into social legitimacy.
-
-Sources:
-- [国家資格等のオンライン・デジタル化 | デジタル庁](https://www.digital.go.jp/policies/government-certification)
-- [技能検定 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/ability_skill/ginoukentei/index.html)
-- [司法試験法（昭和二十四年法律第百四十号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/324AC0000000140)
-- [情報処理技術者試験・情報処理安全確保支援士試験 | IPA（情報処理推進機構）](https://www.ipa.go.jp/shiken/)
-- [教育職員免許法（昭和二十四年法律第百四十七号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/324AC0000000147)

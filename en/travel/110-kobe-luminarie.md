@@ -47,9 +47,3 @@ Mechanically, the experience rewards simple preparation. Dress for wind and stan
 The short friction point is that the event is seasonal and popular, which means variability. Dates shift, venues shift, crowd policies shift, and you may spend as long waiting as you do looking—especially on the nights when everyone has the same idea. The antidote is the same one Kobe itself recommends: treat the official information as the plan, and treat your own patience as part of the ticket.
 
 When you leave the route, the city turns back into traffic and storefronts. The lights disappear behind you like a curtain closing. What remains is the memory of walking through an urban space that asked you to remember something you didn’t personally live through—1995—and to do it with other people, quietly, in winter air. That mixture of beauty and weight is what makes Kobe Luminarie more than illumination.
-
-Sources:
-- [Kobe Luminarie (Official)](https://www.kobe-luminarie.jp/en/)
-- [Kobe Luminarie, VISIT KOBE](https://visitkobe.jp/en/event/138/)
-- [Kobe Luminarie, Travel Japan / JNTO](https://www.japan.travel/en/spot/2007/)
-- [Kobe City](https://www.city.kobe.lg.jp/)

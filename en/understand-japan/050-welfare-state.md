@@ -47,12 +47,3 @@ That strain has become harder to ignore since the 1990s. Slow growth, more nonre
 Hence the repeated language of `all-generations social security reform`. The phrase signals that Japan understands the problem as one of redistribution across life stages, not only as an issue of supporting the elderly. Child benefits, work and care reconciliation, labor-market inclusion, and social insurance finance all now sit inside the same conversation. The logic is unavoidable. A welfare state centered too narrowly on old age can lose legitimacy if the young experience it mainly as cost. Yet a society as old as Japan cannot simply pull back from elder care, pensions, or medical support. Reform therefore means rearrangement more than retrenchment. The system has to protect longer lives without making younger lives feel permanently delayed.
 
 That is the distinctive tension of Japan's welfare state. It is not unfinished because little has been built. It feels unfinished because so much has been built on social foundations that have shifted underneath it. The clinic waiting room, the pension handbook, the care plan, the municipal child-support desk, the insurance premium notice: these are pieces of the same story. Japan's safety net is real, dense, and historically impressive. It is also a system under constant repair, trying to keep insurance, taxation, work, and family from drifting too far apart over time.
-
-Sources:
-- [White Paper on Health, Labour and Welfare 2012: Thinking About Social Security | MHLW](https://www.mhlw.go.jp/wp/hakusyo/kousei/12/)
-- [All-Generations Social Security Reform | MHLW](https://www.mhlw.go.jp/stf/newpage_21482.html)
-- [Social Security Expenditure Statistics for FY2022 | IPSS](https://www.ipss.go.jp/ss-cost/j/fsss-R04/fsss_R04.html)
-- [Types of Public Pension Systems | Japan Pension Service](https://www.nenkin.go.jp/service/seidozenpan/20140710.html)
-- [Overview of the Public Pension System | Japan Pension Service](https://www.nenkin.go.jp/international/japanese-system/overview/overview.html)
-- [Overview of the Long-term Care Insurance System | MHLW](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/gaiyo/index.html)
-- [Society at a Glance 2024: Japan Country Note | OECD](https://www.oecd.org/en/publications/2024/06/society-at-a-glance-2024-country-notes_d98f4d80/japan_e8ace1fa.html)

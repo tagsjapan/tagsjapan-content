@@ -49,9 +49,6 @@ If you want the place where that ecosystem becomes visible, Sado is a compelling
 In a city, the experience is simpler and, in some ways, more intense: you step off the street, drum for an hour, and walk back out with your arms humming. The travel advice is to schedule it with respect for the body. Don’t stack it immediately after a long hike or just before a formal dinner. Wear clothes you can move in, and if you are sensitive to volume, ask about ear protection. Most of all, go in with the right expectation. The goal is not to “learn a song.” It is to feel what Japanese group rhythm asks of you: attention, timing, and the willingness to be loud together without being sloppy.
 
 Later, when you hear taiko again—at a festival, across a river, through the walls of a community hall—you will recognize it differently. The sound won’t just be exciting. It will be legible: a start, a cue, a held breath, a clean stop. That recognition is the souvenir. You did not just watch Japan. For a brief hour, you joined its rhythm.
-
-Sources:
-
 - Kodo (official), “About Kodo”: https://www.kodo.or.jp/en/about_en
 - Kodo (official), “Kodo Village”: https://www.kodo.or.jp/en/about/kodo-village/
 - JNTO / Travel Japan, “Japanese Festivals”: https://www.japan.travel/en/guide/japanese-festivals/

@@ -49,11 +49,3 @@ Memory itself became part of the reconstruction. The `3.11 Densho Road`, preserv
 Fukushima makes that tension even sharper. There the disaster was not only about destroyed coastline but about contamination, evacuation, stigma, and the long work of making daily life thinkable again. The nuclear accident ensured that `3.11` could never be treated simply as a natural event bravely overcome. It tied disaster memory to national arguments about energy, safety, expertise, and the price of technological confidence. In that respect, the earthquake changed the map of Japanese politics as much as it changed the map of northeastern Japan.
 
 `The Great East Japan Earthquake` remains present tense because its aftermath still structures roads, memorial halls, energy debates, school disaster education, and the altered self-image of a country that once trusted heavily in technical competence and layered precaution. The `Reconstruction Agency` still publishes formal overviews of reconstruction more than a decade later, which is a bureaucratic way of showing that `3.11` never became a closed chapter. Annual ceremonies, local museums, and rebuilt coastlines keep pushing the event back into public consciousness. `3.11` did not simply wound Japan and then pass. It reorganized the nation's sense of risk, place, and institutional credibility. The clocks that stopped on that March afternoon have long been reset. The event they marked has not stopped moving, and neither has the argument over what recovery is supposed to mean.
-
-Sources:
-- [Reconstruction from the Great East Japan Earthquake | Reconstruction Agency](https://www.reconstruction.go.jp/)
-- [Overview of Reconstruction from the Great East Japan Earthquake | Reconstruction Agency](https://www.reconstruction.go.jp/english/topics/Overview_of_Reconstruction_from_the_Great_East_Japan_Earthquake.pdf)
-- [Disaster Management Information | Cabinet Office of Japan](https://www.bousai.go.jp/)
-- [Information on the Great East Japan Earthquake | Japan Meteorological Agency](https://www.jma.go.jp/)
-- [Information on the Fukushima Daiichi Nuclear Power Station Accident | TEPCO](https://www.tepco.co.jp/)
-- [3.11 Densho Road](https://www.thr.mlit.go.jp/311densho/)

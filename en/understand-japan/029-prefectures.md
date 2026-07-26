@@ -49,10 +49,3 @@ Those differences fuel periodic debate about reform. For years there have been a
 Understanding prefectures therefore opens a path into Japanese governance and Japanese self-description at the same time. Prefectures are how budgets are administered, how epidemics are tracked, how police jurisdictions are organized, and how governors become regional power brokers. They are also how difference is narrated in ordinary life, from food and dialect to labor markets and school rivalry. They are the units through which school tournaments are ranked, disaster warnings are compared, and regional economies are measured against one another. Modern Japan did not abolish the region. It standardized the region into a form the state could govern and the public could recognize.
 
 That is why the prefectural map on the television screen matters. It is not only a convenience for meteorologists and election analysts. It is also a daily reminder that national life in Japan is repeatedly sorted through 47 recognizable frames, over and over, every day. It is one of the templates by which Japan sees itself as both one country and many distinct places at once.
-
-Sources:
-- [地方公共団体制度 | 総務省](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/)
-- [都道府県と市町村の数 | 総務省](https://www.soumu.go.jp/kouiki/kouiki.html)
-- [Prefectures and Municipalities | JapanGov](https://www.japan.go.jp/tomodachi/2018/winter2018/prefectures_and_municipalities.html)
-- [Local government | Britannica](https://www.britannica.com/place/Japan/Local-government)
-- [The modern municipality system | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002801961)

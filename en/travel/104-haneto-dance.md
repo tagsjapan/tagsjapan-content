@@ -48,10 +48,3 @@ Haneto matters in Japan travel because it makes “participation” feel concret
 The short friction point is stamina and attention. This is not a place where constant photography works well, and it’s not a place where you can stop in the middle of the flow to adjust plans. Shoes matter more than style, and even a small bag becomes a problem when you’re jumping shoulder to shoulder. The openness depends on discipline. If you join, you join fully, for as long as your body can manage.
 
 When the parade ends, the lights don’t disappear from your eyes right away. The real souvenir of haneto isn’t a photo of a float; it’s the feeling of having crossed the line between spectator and participant in a place that still makes that crossing possible. In Japan, the festival isn’t only something you see. For a few nights in Aomori, it’s something you can be.
-
-Sources:
-- [Aomori Nebuta Festival, Official Site (English)](https://www.nebuta.jp/foreign/english.html)
-- [Festival Information, Aomori Nebuta Festival Official Site](https://www.nebuta.jp/info/)
-- [観覧席購入案内, Aomori Nebuta Festival Official Site](https://www.nebuta.jp/info/purchase/group.html)
-- [Nebuta Museum WARASSE](https://www.nebuta.jp/warasse/foreign/english.html)
-- [Aomori City & Around, Travel Japan / JNTO](https://www.japan.travel/en/destinations/tohoku/aomori/aomori-city-and-around/)

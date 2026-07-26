@@ -49,11 +49,3 @@ That memory also gives the policy a distinctly administrative tone. Japan rarely
 There are strengths in this approach. Japan is good at turning broad goals into layered routines: ministerial plans, municipal rules, corporate compliance, labeling systems, and public habits. Yet the contradictions are obvious as well. The country speaks strongly about carbon neutrality by `2050`, but energy transition remains contested and uneven. Recycling systems are detailed, but packaging is still abundant. Nature protection is praised, but regional economies often depend on forms of development that put pressure on exactly the landscapes being defended. Environmental policy in Japan is not a settled moral triumph. It is a continuous attempt to keep trade-offs from turning destructive.
 
 `Environmental Policy` matters in Japan because it exposes the country's governing style in concentrated form. Damage leads to planning. Planning leads to institutions. Institutions spread outward into everyday practice. The impressive part is not that Japan appears clean. The impressive part is how much political memory, legal structure, and routine management sit behind that appearance. The work is now harder precisely because it no longer concerns only visible smoke or poisoned water, but whole systems of energy, materials, and land use over time.
-
-Sources:
-- [Environmental Policy | Ministry of the Environment](https://www.env.go.jp/policy/)
-- [The Sixth Basic Environment Plan | Ministry of the Environment](https://www.env.go.jp/council/02policy/41124_00012.html)
-- [Cabinet Decision on the Sixth Basic Environment Plan | Ministry of the Environment](https://www.env.go.jp/press/press_03210.html)
-- [2050 Carbon Neutral | Ministry of the Environment](https://www.env.go.jp/earth/ondanka/2050carbon_neutral.html)
-- [Project to Fully Enjoy National Parks | Ministry of the Environment](https://www.env.go.jp/en/nature/enjoy-project/)
-- [National Biodiversity Strategy and Action Plan | Ministry of the Environment](https://www.env.go.jp/nature/biodic/nbsap.html)

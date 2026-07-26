@@ -47,9 +47,6 @@ The other side of the story is how destinations try to make the better choice fr
 The friction point, of course, is that Japan’s consumer infrastructure still runs on packaging, and the traveler is moving through it. Convenience stores are wonderfully useful, and their food is famously competent, but the packaging is part of the deal. Sorting rules can be intricate. Public bins can be scarce in exactly the places you feel most like eating on the move. The itinerary consequence is that “plastic-free” travel often means carrying: carrying a small bag for waste, carrying a bottle, carrying the patience to walk back to your hotel with yesterday’s empties because you didn’t find the right place to dispose of them on the street. It is less glamorous than an eco-slogan and more honest.
 
 If that sounds minor, that is the point. A plastic-free destination isn’t asking you to perform purity. It’s asking you to take responsibility for the objects your trip creates, and to accept that convenience has a cost that someone pays—often the place itself. Japan’s best “plastic-free” travel moments are the ones that feel like good design rather than punishment: a refill that is easy, a system that is legible, a request that is explained, not just demanded. By the end of the day, the souvenir may not be a new purchase at all. It may be the habit of leaving the hotel with an empty bottle and a folded bag, ready to travel with less—and to carry your own inconvenience for a few hours.
-
-Sources:
-
 - Be a More Sustainable Traveler, Travel Japan / JNTO: https://www.japan.travel/en/sustainable/be-a-more-sustainable-traveler/
 - Leading Sustainable Destinations in Japan, Travel Japan / JNTO: https://www.japan.travel/en/sustainable/leading-sustainable-destinations-japan/
 - Hakuba Village and Teshikaga, Travel Japan / JNTO: https://www.japan.travel/en/sustainable/hakuba-village-and-teshikaga/

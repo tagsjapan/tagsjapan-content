@@ -50,10 +50,3 @@ Concrete examples keep the idea honest. Hokkaido and northern Tohoku are often w
 There is also a media-versus-reality gap. Outside narratives often compress Japan into a single temperate aesthetic—cherry blossoms, autumn leaves, white snow—while the lived country includes coral coasts, wind-exposed capes, drought-sensitive inland seas, and cities managing heat islands. When climate diversity is ignored, regional difference gets misread as “culture” alone. When climate diversity is recognized, culture becomes easier to understand as an environment-shaped set of practices.
 
 `Climatic Diversity（氣候多樣性）` helps you understand Japan because it explains why local life in Japan can feel so different without changing language or law. It reveals how “seasonal Japan” is assembled from many micro-realities: snow infrastructure, rainfall risk, typhoon routines, and heat management. It also reveals a contemporary pressure: Japan’s diversity is no longer only about variety. It is also about vulnerability, because climate change forces every region to renegotiate the rhythms it built its life around. Japan’s seasons remain, but the way they behave is no longer guaranteed.
-
-Sources:
-- [日本の気候 | 気象庁](https://www.jma.go.jp/jma/kishou/know/kisetsu_riyou/tenkou/Average_Climate_Japan.html)
-- [日本天候概説 | 気象庁](https://www.jma.go.jp/jma/kishou/know/kisetsu_riyou/tenkou/gaisetu.html)
-- [日本の気候変動 | 気象庁](https://www.jma-net.go.jp/cpdinfo/ccj/index.html)
-- [長期予報と季節予報 | 気象庁](https://www.data.jma.go.jp/cpd/longfcst/)
-- [A-PLAT (Climate Change Adaptation Information Platform) | NIES](https://adaptation-platform.nies.go.jp/en/)

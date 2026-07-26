@@ -46,12 +46,3 @@ The scale of those routines is precisely what has made the system such a permane
 That is why the recurring policy language matters: `benefits and burdens`, integrated tax and social security reform, all-generation reform. The argument is never simply whether Japan should keep a welfare system. It is how universal access can be preserved without making contribution burdens politically intolerable or leaving younger and more precarious households convinced the contract no longer works for them. A system created in the years of population growth and stable employment now has to operate in a society defined by longevity, fewer births, and a more fragmented labor market.
 
 Still, the quiet power of the system remains easy to miss because it appears in small transactions rather than dramatic spectacle. A prescription filled for a manageable co-payment, a care plan arranged for an aging parent, a pension notice arriving in the mail, a municipal worker explaining eligibility across a counter: these are the everyday forms of the Japanese social state. They are also reminders that the country people describe as orderly and long-lived has spent decades building institutions to make those outcomes possible. The health insurance card on the counter is only a thin piece of plastic. Behind it sits one of the main structures through which modern Japan has tried to keep ordinary life from collapsing under ordinary risk.
-
-Sources:
-- [What Is Social Security? | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/newpage_21479.html)
-- [About the Social Security System | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/newpage_21438.html)
-- [Benefits and Burdens | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/newpage_21509.html)
-- [Integrated Reform of Social Security and Tax | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/newpage_21484.html)
-- [FY2022 Social Security Cost Statistics | National Institute of Population and Social Security Research](https://www.ipss.go.jp/ss-cost/j/fsss-R04/fsss_R04.html)
-- [Types of Public Pension Systems and Enrollment | Japan Pension Service](https://www.nenkin.go.jp/service/seidozenpan/20140710.html)
-- [Overview of the Long-term Care Insurance System | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/gaiyo/index.html)

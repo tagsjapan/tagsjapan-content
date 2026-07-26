@@ -50,12 +50,3 @@ Modern poetry’s old stereotype is difficulty. The newer reality is diversifica
 Two postwar figures make that range legible. Nippon.com’s memorial essay on `Tanikawa Shuntarō（谷川俊太郎）` emphasizes his unusually long career—more than `70` years—and his ability to move between high literary work and widely approachable writing, including children’s books and translation. Another Nippon.com profile of `Itō Hiromi（伊藤比呂美）` shows a different widening: poetry capable of holding the body, gendered experience, caregiving labor, and domestic life without softening the language into comfort. Taken together, these examples resist the idea that modern poetry must choose between “serious” and “popular.” In Japan, modern poetry has repeatedly crossed that boundary by changing its subject matter and by changing where it expects to be read.
 
 This is what `Modern Poetry（現代詩）` helps you understand about Japan. Modernization is not only about factories, laws, and schools; it is also about what a language is allowed to say. Japan’s modern poetry field began as a translation problem and became a voice problem: how to write modern experience in Japanese without borrowing a foreign mouth. The answer has never been singular. It has been a century-long practice of experiment, organization, and refusal—poems made out of new speech, then sustained by the institutions and communities that keep that speech audible.
-
-Sources:
-- [Modern literature | Britannica](https://www.britannica.com/art/Japanese-literature/Modern-literature)
-- [Outline | Japan Poets Association](https://www.japan-poets-association.com/en/about/outline/)
-- [History | Japan Poets Association](https://www.japan-poets-association.com/about/history/)
-- [Japan Poets Association (top)](https://www.japan-poets-association.com/)
-- [Member information | Japan Poets Association](https://www.japan-poets-association.com/member/)
-- [In Memory of Tanikawa Shuntarō | Nippon.com](https://www.nippon.com/en/japan-topics/g02467/)
-- [Poet Itō Hiromi | Nippon.com](https://www.nippon.com/en/japan-topics/e00192/)

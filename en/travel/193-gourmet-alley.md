@@ -47,9 +47,3 @@ Mechanically, a gourmet alley works best when you accept its constraints. Seats 
 The friction points are the same things that make the alleys feel real. Smoke gets into your clothes. Some shops allow smoking. English may be minimal. Big groups can’t fit, and loud tourists can change the temperature of a room fast. None of this is meant to exclude you. It’s simply what happens when a city’s dining culture is built around small spaces and regulars. The expectation correction is that “popular” here does not always mean “welcoming in a big, smooth way.” Sometimes it just means “small and good.”
 
 When you finally step back onto a wide street, the alley can feel like a pocket you fell into and climbed out of. That’s why it belongs in a Japan trip. A gourmet alley is not a destination to conquer. It’s a way to let a city feed you while you learn its scale—one narrow turn, one quick choice, one bite at a time.
-
-Sources:
-- [Memory Lane (Omoide Yokocho), Travel Japan / JNTO](https://www.japan.travel/en/spot/243/)
-- [Under the tracks, between Shinbashi and Yurakucho, Travel Japan / JNTO](https://www.japan.travel/en/story/a-different-side-of-tokyo-at-shinbashi-and-yurakucho/)
-- [FUKUOKA HAKATA YATAI, Fukuoka City Official Tourist Guide](https://gofukuoka.jp/yatai/)
-- [Guide to Omoide Yokocho, Time Out Tokyo](https://www.timeout.com/tokyo/restaurants/omoide-yokocho)

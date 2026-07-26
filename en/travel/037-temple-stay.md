@@ -48,9 +48,3 @@ What temple stays add to Japan travel is not only access to Buddhist heritage bu
 For that reason, the most successful temple stays are rarely squeezed between late sightseeing and an early bullet train. They need a little room around them. Arrive before sunset, let the building quiet down, attend what is offered, and leave the next morning with enough margin that the experience is not reduced to a story you tell about getting up early. Temple lodging changes the trip best when the traveler agrees, for one evening, not to optimize every hour.
 
 At dawn, when the prayer hall fills and the air still has the night's chill in it, the value of the stay comes into focus. You are not there to become a monk or collect a spiritual credential. You are there to borrow, for one night, a system of attention that has outlasted empires, rail booms and the hotel industry alike.
-
-Sources:
-- [Overnight Stay at a Temple, Travel Japan / JNTO](https://www.japan.travel/en/guide/temple-stays/)
-- [Temple Stays, Travel Japan Heritage Stays](https://www.japan.travel/en/heritage-stays/temple-stays/)
-- [Koyasan Official Guide](https://eng-shukubo.net/)
-- [Shojin Ryori in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/)

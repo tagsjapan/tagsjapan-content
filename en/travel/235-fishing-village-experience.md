@@ -49,9 +49,3 @@ Mikuriya, another small-community example highlighted by JNTO, points to a broad
 The friction point is expectation. Many travelers say they want “local life,” but only on the parts of the schedule that fit vacation habits. A fishing village asks you to meet it halfway. That can mean waking early, accepting that plans shift with conditions, and remembering that a harbor is a workplace first. It also means building buffer into your itinerary. If you only have a single night and a storm rolls in, you may lose the boat portion of the experience and still have to enjoy the village for what it is. If you have two nights, the same weather becomes texture rather than disappointment. The other small friction is that convenience is thinner: fewer shops, fewer buses, fewer “just in case” options. That thinness is precisely why the experience feels real, but it’s easier to enjoy if you arrive with snacks, cash, and patience.
 
 At the end of a good fishing village stay, the souvenir isn’t a photo of the bay. It’s a recalibration: of what “fresh” means, of how much effort sits behind a simple meal, of how quickly a place becomes more than a view once you learn its hours. Japan’s coasts can be spectacular, but the deeper travel reward is quieter. It’s the feeling that you stopped long enough for the sea to become part of the trip’s logic. Even one careful night can reset how you think about seafood afterward.
-
-Sources:
-- [Sustainable Travel Experiences in JAPAN, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/)
-- [Tohoku’s Vision: Preserving Nature and Culture After the Disaster, Travel Japan / JNTO](https://www.japan.travel/en/sustainable-destinations/tohokus-vision/)
-- [Ine Fishing Village, Travel Japan / JNTO](https://www.japan.travel/en/spot/1120/)
-- [Mikuriya, Travel Japan / JNTO](https://www.japan.travel/en/spot/2283/)

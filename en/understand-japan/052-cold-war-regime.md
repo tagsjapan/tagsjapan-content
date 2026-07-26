@@ -48,11 +48,3 @@ Its endurance after the end of the Cold War is what makes the term especially re
 That continuity does not mean nothing changed. Japan has gradually expanded the scope of its international security role, revised legal interpretations, strengthened defense planning, and talked more openly about deterrence than it once did. Yet even those changes have tended to occur within the alliance structure rather than against it. The postwar order did not vanish; it adapted. That is why the phrase `Cold War regime` remains useful. It reminds us that the key issue is not whether the calendar says the Cold War is over. The key issue is whether the political architecture built under that pressure still organizes choices now. In Japan, it plainly does.
 
 The barbed wire outside a U.S. base, the parliamentary debate over constitutional limits, the annual security documents, the memory of 1960 in political history: these belong to the same story. Japan's Cold War regime matters because it was never only a period label. It was a structure for distributing risk, legitimacy, and restraint across state and society. The superpower rivalry that helped build it is gone. Much of the order it produced is still standing, and much of today's security debate still speaks through its frame, even when the language now points to new threats and new theatres in East Asia and beyond.
-
-Sources:
-- [Japan's Security and Defense Policy | Ministry of Defense](https://www.mod.go.jp/en/j-us-alliance/japan-us-security-arrangements/index.html)
-- [US-Japan Security Arrangements | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/region/n-america/us/security/index.html)
-- [Significance of the Japan-US Security Arrangements | Ministry of Defense](https://www.mod.go.jp/en/j-us-alliance/significance/index.html)
-- [Diplomatic Bluebook 2017: Postwar International Order and Japanese Diplomacy | MOFA](https://www.mofa.go.jp/policy/other/bluebook/2017/html/chapter1/c010101.html)
-- [Diplomatic Bluebook 2024 | MOFA](https://www.mofa.go.jp/policy/other/bluebook/2024/html/index.html)
-- [Treaty of Peace with Japan | MOFA](https://www.mofa.go.jp/region/europe/denmark/japan_treaty.html)

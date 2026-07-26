@@ -49,11 +49,3 @@ That portability is why Kokugaku still has to be handled with care. If it is rom
 The traces remain visible. Kokugakuin University preserves the term at the level of institutional life, and places such as the Motoori Norinaga Memorial Museum in Matsusaka keep the movement tied to rooms, manuscripts, and local memory rather than abstraction alone. More broadly, whenever public language in Japan reaches for phrases about ancient spirit, native feeling, or an original cultural pattern beneath later accretions, it is moving through territory Kokugaku helped map. The movement reminds us that "tradition" is often not simply inherited. It is reconstructed by people who read old texts with new urgency and then persuade later generations that the recovered past was waiting there all along.
 
 That is part of what gives Kokugaku its long afterlife. It offered Japan not only texts to admire, but a method for turning textual recovery into cultural certainty. Few intellectual movements remain so visible after their scholarly tools have faded from common view.
-
-Sources:
-- [Kokugaku | Britannica](https://www.britannica.com/topic/Kokugaku)
-- [Motoori Norinaga | Britannica](https://www.britannica.com/biography/Motoori-Norinaga)
-- [国学概論 I・II | Kokugakuin University](https://www2.kokugakuin.ac.jp/shinto/curriculum/special_pickup.html)
-- [国学概論 II | Kokugakuin University](https://www.kokugakuin.ac.jp/education/fd/shinto/curriculum/shinto_classes_index/shinto_classes_shs2pp218_01)
-- [本居宣長「国学の道」 | Matsusaka City](https://www.city.matsusaka.mie.jp/site/kanko/kokugakunomiti.html)
-- [国学者 | National Diet Library](https://www.ndl.go.jp/jikihitsu/part1/s2_1.html)

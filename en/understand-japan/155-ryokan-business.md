@@ -47,10 +47,3 @@ The postwar decades turned that craft into infrastructure. As leisure became mas
 Today, the pressure on the system is coming from both directions: market change and social change. `簡易宿所` growth and the rise of regulated short-term rentals (`Minpaku（民泊）`) create competition that often rewards lower staffing and faster turnover. Online booking platforms push lodging toward visible metrics—price, reviews, availability—while the older ryokan promise is frequently about invisible qualities: timing, quiet, a sense that the place is paying attention. Meanwhile, operators face labor shortages and succession problems, especially in family-run inns where the owner’s age rises faster than the pool of willing heirs. The contradiction is sharp: the ryokan is asked to embody “Japanese tradition,” yet it must also function as a modern, cost-controlled business under regulatory oversight.
 
 That is why `Ryokan Business（旅館業）` is a useful lens on Japan. It shows how a cultural ideal is sustained by administrative categories and hygiene governance, how “service” is built out of labor rather than slogans, and how tradition often survives by being turned into a licensed, inspectable form. When a futon is laid out and a bath is cleaned, you are seeing not only hospitality but a whole state‑recognized industry at work—one that has to keep reinventing itself while still feeling, from the inside, as if nothing has changed.
-
-Sources:
-- [旅館業概要 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/seikatsu-eisei03/03.html)
-- [旅館業法制度紹介 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000130600.html)
-- [旅館業法 | e-Gov法令検索](https://laws.e-gov.go.jp/law/323AC0000000138)
-- [宿泊旅行統計調査 | 観光庁](https://www.mlit.go.jp/kankocho/siryou/toukei/shukuhakutoukei.html)
-- [全国旅館ホテル生活衛生同業組合連合会](https://www.nikkanren.or.jp/)

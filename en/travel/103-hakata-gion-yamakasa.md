@@ -44,9 +44,6 @@ The climax itself is physical. Oiyama follows a route of about 5 kilometers, and
 It’s also easy to misjudge the schedule emotionally. Many travelers want the single most dramatic moment and ignore the rest, but Yamakasa is as much about mood as about speed. If you spend time with the displays earlier in the month, you notice how the city changes: signage, conversations, the feeling that everyone is counting down. You start to understand why a 4:59 start time isn’t only about tradition; it’s also a way of claiming the city before the day’s ordinary commerce begins, a few minutes where Hakata belongs to the festival.
 
 After it’s over, the city does what Japan often does after collective intensity: it resets quickly. Morning light arrives. Shops open. People go to work. Visitors drift back to trains. But if you were there for those pre-dawn minutes, the memory sticks—not only of speed and shouting, but of a place that is willing to reorganize its calendar, its sleep, and its streets around a local structure that has survived because people keep carrying it. Hakata Gion Yamakasa isn’t just something to watch. It’s a schedule you enter, and that’s what makes it travel-worthy.
-
-Sources:
-
 - Hakata Gion Yamakasa Promotion Association, official site https://www.hakatayamakasa.com/
 - Hakata Gion Yamakasa Promotion Association, schedule https://www.hakatayamakasa.com/162358.html
 - Hakata Gion Yamakasa Promotion Association, kakiyama / nagare information https://www.hakatayamakasa.com/170014.html

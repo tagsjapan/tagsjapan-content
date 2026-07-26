@@ -50,11 +50,3 @@ This is where the deepest tension sits. If policy focuses only on “return your
 Local governments and communities therefore end up doing a second kind of design work: building alternatives that make return or restriction realistic. In some places that means community buses and demand-responsive services; in others it means taxi subsidies, shopping shuttles, or discounts tied to the driving history certificate. These measures are rarely dramatic, but they are what keep safety policy from turning into abandonment. Without alternatives, an older person’s “responsible” decision can become a health risk if it blocks access to clinics, groceries, or social contact. In an aging society, traffic safety is also a question of daily access.
 
 The elderly driver problem is therefore a lens on contemporary Japan’s governing style. The state tightens rules, adds tests, and creates restricted categories; it also builds voluntary procedures and tries to coordinate with broader transport planning. The system is cautious and incremental, because any sudden move risks both backlash and real harm. The question is not whether Japan should protect people from dangerous driving. It is whether Japan can build a late-life mobility system that is safe enough to trust and humane enough to use.
-
-Sources:
-- [高齢運転者交通事故防止対策 | 警察庁](https://www.npa.go.jp/bureau/traffic/koureiunntennmatome.html)
-- [令和2年改正道路交通法（2022施行）等の概要 | 警察庁](https://www.npa.go.jp/bureau/traffic/r2kaisei_main.html)
-- [運転免許の自主返納 | 警察庁](https://www.npa.go.jp/policies/application/license_renewal/jishuhennou.html)
-- [高齢者の運転免許更新等の手続 | 警察庁](https://www.npa.go.jp/policies/application/license_renewal/)
-- [令和6年（2024年）交通事故の発生状況 | 警察庁](https://www.npa.go.jp/news/release/2025/20250227jiko.html)
-- [高齢者の移動手段の確保に関する検討 | 国土交通省](https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_fr_000084.html)

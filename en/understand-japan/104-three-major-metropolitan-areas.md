@@ -48,11 +48,3 @@ Yet there is a danger in how neat the label sounds. Metropolitan areas contain e
 Calling them “three” is useful because Japan’s planning system needs categories, but Japan’s lived map is always more complicated than its legal one.
 
 Still, the next time you watch a train cross a prefectural line without changing its pace, the Three Major Metropolitan Areas stop being an abstract term. They become a description of how Japan works: daily life organized around commuting fields, policy built to manage spillover, and a national story in which concentration and regional difference are not side themes, but the main plot.
-
-Sources:
-- [用途、圏域等の用語の定義 | 国土交通省](https://www.mlit.go.jp/totikensangyo/totikensangyo_fr4_000163.html)
-- [大都市圏整備法（首都圏整備法・近畿圏整備法・中部圏開発整備法） | 国土交通省](https://www.mlit.go.jp/kokudoseisaku/metoropolitan_area_development.html)
-- [国勢調査 大都市圏・都市圏図（令和2年） | 総務省統計局](https://www.stat.go.jp/data/chiri/map/c_koku/daitoshi/index_r2.html)
-- [国勢調査 大都市圏・市区町村特性図 昼間・夜間人口密度 | 総務省統計局](https://www.stat.go.jp/data/chiri/map/c_koku/t-mitsu/index.html)
-- [令和2年国勢調査に関する地域メッシュ統計 結果の概要 | 総務省統計局](https://www.stat.go.jp/data/mesh/r2_w.html)
-- [三大都市圏とは | 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA26BKZ0W2A720C2000000/)

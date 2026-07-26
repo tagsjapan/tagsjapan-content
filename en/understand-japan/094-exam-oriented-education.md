@@ -49,12 +49,3 @@ That helps explain why reform has been so difficult. Japan has spent years talki
 The system is not experienced only as oppression. Some students describe exam preparation as the first period in life when they learned sustained self-management. Research by Masayuki Suzuki on students' views of exam competition suggests that competition can coexist with motivation and even a sense of growth. That is part of the staying power of `juken shugi`. It is stressful, unequal, and exhausting, but it also carries a moral narrative that disciplined effort can be measured and rewarded. The problem is that this narrative often conceals the role of family income, prior schooling, and access to support.
 
 Exam-oriented education matters because it shows how Japan combines fairness and pressure in the same institutional form. The test booklet looks neutral. The long run-up to the test is not. Around it gather cram schools, school rankings, household spending, and a social order that still uses selective education to organize hope. By the time a student places a pencil on the desk in January, the exam has already been shaping much more than an afternoon's score.
-
-Sources:
-- [Education Policy in Japan | OECD](https://www.oecd.org/en/publications/education-policy-in-japan_9789264302402-en.html)
-- [School Basic Survey 2025 | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/toukei/chousa01/kihon/kekka/k_detail/2025.htm)
-- [Post-graduation Destinations by High School Course, March 2025 Graduates | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/shinkou/genjyo/021203.htm)
-- [Trends in Common Test Applicants and Examinees | National Center for University Entrance Examinations](https://www.dnc.ac.jp/kyotsu/suii/suii.html)
-- [Survey of Children's Learning Expenses 2023 | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/toukei/chousa03/gakushuuhi/kekka/k_detail/mext_00002.html)
-- [The Japanese Characteristics of the Credential Society | J-STAGE](https://www.jstage.jst.go.jp/article/eds1951/38/0/38_0_50/_article/-char/ja/)
-- [Views of Exam Competition, Learning Motivation, and Exam Anxiety | J-STAGE](https://www.jstage.jst.go.jp/article/jjep/62/3/62_226/_article/-char/ja/)

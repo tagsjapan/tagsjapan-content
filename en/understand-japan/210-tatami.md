@@ -50,11 +50,3 @@ The modern period, however, shifted the default. Whole-house tatami floors becam
 This negotiation is also an economic story. When tatami becomes a niche rather than a default, the craft and the farming behind it become easier to lose. That is precisely what GI registration tries to prevent: it frames the mat not as a generic commodity but as a place-linked practice with standards and continuity. In this sense, tatami sits at the intersection of domestic life and rural policy, of everyday comfort and industrial survival. It is a household surface that quietly depends on a regional ecology of labor.
 
 `Tatami（畳）` helps you understand Japan because it shows how deeply a society can build daily life around a material. It is a floor, but also a calendar of use: the room that changes roles across the day; the space that is measured in bodies, not only in meters; the surface that keeps agriculture, craft, and etiquette in contact. Even as housing styles change, tatami persists where Japan still values an adjustable room—because the mat is not only what you stand on. It is what Japanese domestic life has long been organized through.
-
-Sources:
-- [Tatami History | National Tatami Industry Promotion Association](https://www.tatami.in/history/index.html)
-- [Igusa and Tatami-omote | MAFF](https://www.maff.go.jp/j/seisan/tokusan/igusa_tatami-omote.html)
-- [KUMAMOTO-IGUSA-TATAMI-OMOTE | MAFF GI](https://www.maff.go.jp/e/policies/intel/gi_act/register/s9.html)
-- [Kunisaki Shichitoui Tatami Facing | MAFF GI](https://www.maff.go.jp/e/policies/intel/gi_act/register/s22.html)
-- [What Is Tatami? | UR Housing](https://www.ur-net.go.jp/chintai/college/202312/001136.html)
-- [Traditional Wisdom and Technology Thriving in Modern Life | JapanGov](https://www.japan.go.jp/tomodachi/2020/summer2020/traditional_wisdom_and_technology.html)

@@ -49,8 +49,6 @@ But the same structure creates an unavoidable tension. When cultural exchange si
 In recent years, the Japan Foundation has also had to adapt its own idea of “Japan.” Digital programming and online exchange expand reach but can flatten experience. More emphasis on Asia and regional collaboration reflects a changing geopolitical landscape. Efforts to present local crafts and regional stories abroad signal another shift: Japan’s international image can no longer rely only on Tokyo-centered narratives or on a handful of globally legible cultural exports. The work becomes less about broadcasting a single identity and more about sustaining many kinds of connection.
 
 The Japan Foundation is, in the end, an institution built for aftereffects. It operates in the time after the screening, after the exhibition, after the first wave of fascination, when the hard work is translation, teaching, research, and repeated contact. If you want to see how Japan tries to be understood—rather than merely noticed—it is one of the clearest places to look.
-
-Sources:
 - Ministry of Foreign Affairs of Japan (MOFA), cultural diplomacy policy materials
 - Japan Foundation, institutional history (*沿革*)
 - Japan Foundation, program and activity introductions (*事業紹介*)

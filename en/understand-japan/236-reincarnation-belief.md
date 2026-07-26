@@ -51,10 +51,3 @@ That tension is one reason the idea remains culturally productive. “Who reinca
 Popular culture pulls the other direction. Contemporary stories often rewrite reincarnation as romantic reunion or personal destiny, a clean narrative loop that promises meaning. The classical Buddhist frame is harsher: reincarnation is repetition, and repetition is the problem. Japanese temples are aware of the gap, which is why modern explanations frequently stress that the goal is not “to be reborn again,” but to reduce the forces that keep a person trapped in cycles of craving, resentment, and delusion. Reincarnation belief in Japan therefore sits between comfort and warning, which is also where much of Japanese religion lives.
 
 `Reincarnation Belief（輪迴觀）` helps you understand Japan because it shows how Japanese society makes doctrine workable. It turns abstract ideas into images, places, and seasonal routines. It lets different sects coexist by allowing multiple “afterlife logics” to overlap in everyday practice. It also shows a distinctive Japanese compromise: keep vivid moral imagery for public education, while allowing sophisticated teachings that question the very self that seems to be traveling through those worlds. In Japan, reincarnation is less a single belief than a set of tools for thinking about consequence, continuity, and the cost of desire.
-
-Sources:
-- [輪廻(りんね)とは？ | 浄土真宗 慈徳山 得蔵寺](https://tokuzoji.or.jp/rinne/)
-- [六道輪廻（ろくどうりんね） | 浄土真宗 本願寺派 正敬寺](https://www.shoukyouji.or.jp/blog/oshie/column/rinne/)
-- [大椿山 六道珍皇寺 公式サイト](https://www.rokudou.jp/)
-- [原始佛教に於ける輪廻の思想 | J-STAGE](https://www.jstage.jst.go.jp/article/ibk1952/1/2/1_2_366/_article/-char/ja)
-- [親鸞浄土教に於ける輪廻思想に関する一試論 | J-STAGE](https://www.jstage.jst.go.jp/article/ibk/57/2/57_KJ00005421790/_article/-char/ja/)

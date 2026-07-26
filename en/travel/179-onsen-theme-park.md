@@ -51,9 +51,3 @@ What these places do especially well is coordinate different appetites inside on
 By the end of the visit, the place may not have taught you the deepest etiquette of the traditional bathhouse, but it has probably done something just as valuable. It has made hot water feel social, possible, and connected to the rest of your trip rather than fenced off as an intimidating specialty. Later, when you step into a quieter bath elsewhere, the door will feel less foreign because you first entered through a louder one.
 
 That is why these parks deserve a place in the serious map of Japanese travel rather than on the margin marked family diversion. They reveal a country willing to adapt one of its strongest traditions without flattening it entirely for outsiders. Not every traveler will choose this doorway, and some will prefer the ryokan from the beginning. But for many people the onsen theme park is what turns hot-spring culture from a photograph in the brochure into something they can actually inhabit with their own group, bodies, and mixed levels of confidence.
-
-Sources:
-- [Hakone Kowakien Yunessun](https://www.yunessun.com/global/)
-- [Spa Resort Hawaiians](https://www.hawaiians.co.jp/en/)
-- [Kusatsu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/japans-local-treasures/kusatsu-onsen/)
-- [How to Best Enjoy Japan’s Onsen, Travel Japan / JNTO](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/)

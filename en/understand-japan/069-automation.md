@@ -49,11 +49,3 @@ None of this means the country has solved the problem cleanly. Automation is exp
 That hybrid quality is important. Japan seldom pursues total removal of people from service settings. It uses automation to protect rhythm. A clerk still stands near the register. A station worker still watches the gate line. Airport staff hover near the machines because the last ten percent of uncertainty can still jam the whole system. The goal is not a world without workers. It is a world in which workers are redeployed to the points where human attention matters most.
 
 For that reason, `Automation` is a revealing word in Japan. It points to industrial strength, but it also points to demographic strain and administrative realism. The systems feel smooth because they are designed to keep friction from becoming visible. Underneath that smoothness is a large national compromise: machines take the repeatable motions, people handle the exceptions, and society keeps searching for a balance that lets both remain workable. Automation has become less a futuristic slogan than an everyday method of social maintenance.
-
-Sources:
-- [2024 White Paper on Manufacturing | METI](https://www.meti.go.jp/report/whitepaper/mono/2024/index.html)
-- [Labor-saving Investment Subsidy Program for SMEs | Small and Medium Enterprise Agency](https://shoryokuka.smrj.go.jp/)
-- [Japan Robot Association | JARA](https://www.jara.jp/)
-- [World Robotics | International Federation of Robotics](https://ifr.org/worldrobotics/)
-- [Suica | JR East](https://www.jreast.co.jp/e/pass/suica.html)
-- [ANA BAGGAGE DROP | ANA](https://www.ana.co.jp/en/jp/guide/boarding-procedures/baggage/self-baggage-drop/)

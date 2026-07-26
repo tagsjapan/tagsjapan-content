@@ -47,10 +47,3 @@ Seasonality deepens the experience further. A farm stay in early summer may revo
 That is why farm stays matter so much in Japan travel today. They give the trip a second time zone without leaving the country. Instead of moving through Japan as a sequence of stations, castles, shrines and restaurants, you step into one place long enough to feel how a local day hangs together. The economic side matters too. Staying overnight in rural communities leaves money in places that are often bypassed by day-trippers. But the deeper effect is personal. You stop consuming the countryside as backdrop and start participating in it, however briefly.
 
 At night, after the dishes are done and the roads have emptied, the country feels less like a landscape and more like a household extended outward. That is the strength of a Japanese farm stay. It does not ask you to admire rural life from a distance. It asks you to keep pace with it until morning.
-
-
-Sources:
-- [Countryside Stays in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/homestay-farmstay/)
-- [Heritage Stays in Japan, Travel Japan / JNTO](https://www.japan.travel/en/heritage-stays/)
-- [Traditional Town Stays, Travel Japan / JNTO](https://www.japan.travel/en/heritage-stays/traditional-town-stays/)
-- [The Rethinking of Rural Tourism in Japan, Japan Tourism Agency](https://www.mlit.go.jp/kankocho/en/)

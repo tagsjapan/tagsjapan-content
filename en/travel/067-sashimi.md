@@ -49,9 +49,6 @@ Pairing is part of that context. Sashimi is often eaten with `sake（日本酒�
 The expectation correction, again, is that sashimi is not a trophy. It’s a practice. It rewards choosing the right place, ordering with a little humility, and accepting that you don’t need to chase the rarest cut to understand the idea. A perfectly sliced piece of ordinary fish, eaten slowly, can teach you more about Japanese food than an expensive plate you swallow too fast. And it comes with a very practical travel tip: don’t schedule sashimi as a rushed lunch between attractions. Give it a quiet hour. This is raw food that depends on your attention as much as on the chef’s.
 
 When you finish, the memory isn’t always the fish itself. It’s the surrounding precision: the small soy dish that kept you from over-seasoning, the cold bite of daikon, the moment you realized the cut changed the texture. In Japan, sashimi is the sea served without disguise—and a quiet invitation to slow down enough to taste it.
-
-Sources:
-
 - Travel Japan / JNTO, “Sushi in Japan Guide” — https://www.japan.travel/en/guide/sushi-in-japan/
 - GO TOKYO, “Toyosu Fish Market” — https://www.gotokyo.org/en/spot/1743/index.html
 - Travel Japan / JNTO, “Kuroshio Market” — https://www.japan.travel/en/spot/959/

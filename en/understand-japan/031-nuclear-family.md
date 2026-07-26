@@ -49,10 +49,3 @@ That is why the nuclear family no longer appears as a simple endpoint of moderni
 Understanding the nuclear family helps explain a great deal about contemporary Japan. It clarifies why homes are often small, why educational pressure became so family-centered, why childrearing and elder care produce such intense strain, and why policy debates around support services matter so much. The nuclear family was once treated as a sign that Japan had become fully modern. Today it looks more like a historically powerful arrangement whose strengths and limits are both fully visible. The argument is no longer whether the small household is modern. It is how long it can carry so much alone under present demographic pressure.
 
 The lit apartment windows in an evening housing block still carry the old image of postwar normality. Yet behind those windows the structure of family life is less settled than it once seemed. The small household that helped build modern Japan is now one of the places where the country's demographic and social pressures are most sharply felt.
-
-Sources:
-- [国勢調査 | 総務省統計局](https://www.stat.go.jp/data/kokusei/)
-- [国民生活基礎調査 | 厚生労働省](https://www.mhlw.go.jp/toukei/list/20-21.html)
-- [少子化社会対策 | 内閣府](https://www8.cao.go.jp/shoushi/shoushika/)
-- [Japanese family | Britannica](https://www.britannica.com/topic/family-kinship/Japanese-family)
-- [戦後日本家庭変動論 | 国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002608313)

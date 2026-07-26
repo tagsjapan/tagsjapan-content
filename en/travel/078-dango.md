@@ -49,9 +49,6 @@ Mitarashi dango belongs to a different kind of scene: shrine and temple streets 
 The practical advice for travelers is to treat dango like a fresh food, not a packaged souvenir. It is best warm, and it is best soon after it’s made, which means you should buy it when you plan to eat it, not when you plan to stash it. The friction point is that the most photogenic stall is often the slowest. Lines form quickly near popular shrines and parks, and the experience can tip from charming to tedious if you’re hungry and on a schedule. The smarter play is to buy dango in the off moments: mid-afternoon, a quieter street, a neighborhood shop where the grill is still working but the crowd has moved on.
 
 It also helps to remember that dango isn’t competing with pâtisserie. It’s closer to a travel snack with cultural etiquette built in. You don’t usually eat it inside a museum. You don’t take it onto a train and unwrap it slowly for a long ride. You eat it on a bench, or near a lantern-lit entrance, or while watching other people pass. Dango is how Japan makes the in-between moments taste like something. It turns “walking from here to there” into a small, sweet stop that belongs to the day. By the time you finish the skewer, the dumplings are gone and the scene remains: the smell of soy and smoke, the sound of sandals on stone, the way a seasonal sweet can make a city street feel briefly old-fashioned. That is the real pleasure of dango. It doesn’t demand that you become a sweets expert. It simply gives you a reason to slow down, look around, and realize that in Japan, even a cheap snack can be part of the season’s choreography for a few minutes.
-
-Sources:
-
 - Travel Japan / JNTO, “Japanese Food Guide” — https://www.japan.travel/en/guide/japanese-food/
 - Travel Japan / JNTO, “Cherry Blossom Viewing” — https://www.japan.travel/en/guide/cherry-blossom-viewing/
 - MAFF, “100 Select Japanese Food” — https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/100sen/

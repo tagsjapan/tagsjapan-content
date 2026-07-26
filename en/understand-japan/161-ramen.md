@@ -51,11 +51,3 @@ In the 2020s, the ramen story even loops back to the farm. MAFF’s 2024 feature
 The contemporary tension is that ramen has become easy to recognize and easy to flatten. Globally, ramen is often treated as shorthand for “Japan,” while its Chinese roots, postwar street-stall history, and industrial instant-noodle revolution fade into the background. Within Japan, the dish is pulled between two poles: it remains a cheap, fast, widely accessible meal, yet it also produces long queues, higher prices, and a new prestige economy of ingredients and technique. The bowl is still ordinary, but the culture around the bowl can become intense.
 
 To understand `Ramen（拉麵）` is to see a broader Japanese talent: absorbing an outside influence, breaking it into modular parts, and rebuilding it into something that can scale from street to factory while still generating local difference. A ramen bowl is never just a bowl. It is postwar survival and modern convenience, regional pride and industrial food science, everyday speed and artisanal stubbornness—held together by the simple fact that wheat noodles and hot broth can fit almost any social need.
-
-Sources:
-- [Ramen | JNTO](https://www.japan.travel/en/guide/ramen/)
-- [A Guide to Ramen in Japan | JNTO](https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/)
-- [拉麵今昔物語（農林水産省 2024）](https://www.maff.go.jp/j/pr/aff/2412/spe1_01.html)
-- [支撐拉麵的國產小麥生產現場 | 農林水産省](https://www.maff.go.jp/j/pr/aff/2412/spe1_02.html)
-- [為拉麵培育的國產小麥故事 | 農林水産省](https://www.maff.go.jp/j/pr/aff/2412/spe1_03.html)
-- [地方拉麵的魅力 | 農林水産省](https://www.maff.go.jp/j/pr/aff/2412/spe1_04.html)

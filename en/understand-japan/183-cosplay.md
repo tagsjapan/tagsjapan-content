@@ -49,10 +49,3 @@ Cosplay is a performance that needs boundaries, or it stops being play.
 Japan’s public institutions have also learned to use cosplay as a tool. The Tourism Agency’s materials on promoting “content tourism” show how local governments and organizers tie character culture to regional events and campaigns. This is not simply commercialization; it is a negotiation between a fan scene’s norms and the administrative desire for recognizable attractions. When cosplay is pulled into public programming, the friction becomes clear: the scene depends on insider etiquette, while public events widen participation and bring in people who do not share that etiquette automatically. The more cosplay is used as a “festival ingredient,” the more the scene has to explain itself in plain language—why changing spaces need privacy, why photography needs consent, why a character performance is not a free-for-all.
 
 `Cosplay` helps you understand Japan because it reveals how the country’s character worlds extend beyond screens. It shows a culture that treats fictional people as social infrastructure, building rule-governed spaces where imagination becomes a collective practice. It also shows a modern Japanese dilemma: visibility is powerful, but it is never neutral. The more cosplay becomes legible as “Japanese pop culture,” the more the scene has to defend its boundaries to keep play from turning into extraction. Cosplay is a form of freedom, but it is a freedom that only works when the crowd agrees to behave.
-
-Sources:
-- [コスプレ文化の現在 | J-STAGE](https://www.jstage.jst.go.jp/article/bunkakagaku/92/0/92_53/_article/-char/ja/)
-- [コスプレという自己表現 | J-STAGE](https://www.jstage.jst.go.jp/article/jjcanth/88/2/88_214/_article/-char/ja/)
-- [About WCS | World Cosplay Summit](https://worldcosplaysummit.jp/en/about/)
-- [Akihabara | Japan National Tourism Organization](https://www.japan.travel/en/spot/218/)
-- [コンテンツツーリズム推進の取組 | 観光庁](https://www.mlit.go.jp/kankocho/seisaku_seido/content_tourism/)

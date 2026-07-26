@@ -47,12 +47,3 @@ The most visible recent pivot came on `April 1, 2022`, when Japan lowered the ci
 One way to see the logic is to watch how the system treats risk. A `ぐ犯少年` case can begin not with a police report but with a pattern—running away, associating with older offenders, repeated violence at school—that convinces adults that waiting for a felony is the most dangerous option. The court’s involvement is a kind of preemptive governance: not a declaration of guilt, but an attempt to use investigation and supervision to change the trajectory while there is still time.
 
 In other words, `Juvenile Law（少年法）` is a portrait of how Japan tries to manage social damage without giving up on the possibility of change. It is cautious, procedural, and sometimes infuriatingly slow. It is also a system that asks the state to do more than punish—to examine, to document, to intervene, and to take responsibility for the long tail of what happens after a young person’s worst day becomes a public problem.
-
-Sources:
-- [少年事件とは | 裁判所](https://www.courts.go.jp/saiban/syurui/syurui_syonen/syonen_jiken/index.html)
-- [少年事件 | 裁判所](https://www.courts.go.jp/saiban/syurui/syurui_syonen/index.html)
-- [裁判手続 少年事件Q&A | 裁判所](https://www.courts.go.jp/saiban/qa/qa_syonen/index.html)
-- [被害者保護制度に関する少年事件Q&A | 裁判所](https://www.courts.go.jp/about/hogosisaku/qa/index.html)
-- [少年法が変わります！ | 法務省](https://www.moj.go.jp/keiji1/keiji14_00015.html)
-- [少年法改正 Q&A | 法務省](https://www.moj.go.jp/keiji1/keiji14_00017)
-- [改正少年法下における若年者に対する矯正教育等について | 法務省](https://www.moj.go.jp/kyousei1/kyousei08_00103.html)

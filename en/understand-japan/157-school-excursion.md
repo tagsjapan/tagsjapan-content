@@ -49,12 +49,3 @@ The content of excursions helps explain why certain places remain recurrent. His
 That shift is also a response to pressure. In 2024, the association’s survey on “future forms” of school excursions found that `32.2%` of junior high schools and `34.5%` of high schools believed their excursions would be affected or change. The fault lines are familiar: cost burden, safety responsibility (especially after the pandemic), and the question of whether the excursion is drifting too far toward sightseeing and away from education. In the older model, the institution could lean on habit: everyone does it, so it must be good. In the newer model, schools are expected to explain purpose, manage risk with professional seriousness, and show that the learning is real.
 
 `School Excursion（修學旅行）` is therefore a compact lesson in how Japan builds citizens. It uses movement to teach coordination, and it uses destinations to teach national memory. It is simultaneously a school timetable item, a rite of passage, and a small logistics operation that forces adults to balance ideals against budgets and safety. When the class returns to the station at the end—tired, carrying souvenirs, trying to stay in formation—the main product is not what was purchased or photographed. It is the experience of being a group that left together and came back together, which is exactly the kind of social competence Japanese education has long treated as teachable.
-
-Sources:
-- [第4章 特別活動 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/cs/1320213.htm)
-- [新型コロナウイルス感染症に関するQ&A（修学旅行） | 文部科学省](https://www.mext.go.jp/a_menu/coronavirus/mext_00040.html)
-- [学習指導要領Q&A（修学旅行と総合的な学習の時間） | 文部科学省](https://www.mext.go.jp/a_menu/shotou/new-cs/qa/01.htm)
-- [教育旅行調査（国内・海外・訪日） | 日本修学旅行協会](https://jstb.or.jp/pages/154/)
-- [2024年度実施 中学校国内修学旅行 実態と総括（速報） | 日本修学旅行協会（PDF）](https://jstb.or.jp/files/libs/5749/202511041016399658.pdf)
-- [2024年度実施 高校国内修学旅行 実態と総括（速報） | 日本修学旅行協会（PDF）](https://jstb.or.jp/files/libs/5750/202511041016529511.pdf)
-- [今後の修学旅行の姿 調査総括（速報） | 日本修学旅行協会（PDF）](https://jstb.or.jp/files/libs/5745/202510301432562552.pdf)

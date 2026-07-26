@@ -48,13 +48,3 @@ One contemporary response is a re-description of what a fishing port is for. The
 Aquaculture is often held up as the sector that can carry more weight, and the policy rhetoric is explicit about “growth.” The Fisheries Agency maintains an `Aquaculture Growth Industry Comprehensive Strategy（養殖業成長産業化総合戦略）`, and its aquaculture pages emphasize planning, market fit, and risk management. Yet aquaculture is not an effortless substitute for capture fishing. It demands capital, feed, disease controls, and longer repayment cycles. A bad season is not just a smaller haul; it can be the loss of a year-class. That is why fishery in Japan keeps producing the same kind of contradiction: national strategies can set direction, but the real friction sits in bays and ports—in water temperature, in labor availability, in who has rights, and in whether a community can afford to carry risk long enough to adapt.
 
 `Fishery（漁業）` helps a reader understand Japan because it shows how an island society turns the sea into a usable, governable, and everyday system. Japan’s seafood culture is not a floating tradition; it is built on ports, plans, licenses, auctions, and cold chains that make the ocean’s variability tolerable. When a crate of fish is tagged, chilled, and rolled toward a truck in the dark, the scene is small. The structure behind it—rights, rules, and coastal communities trying to stay whole—is not.
-
-Sources:
-- [水産白書 | 水産庁](https://www.jfa.maff.go.jp/j/kikaku/wpaper/index.html)
-- [令和6年度 水産白書 概要 | 水産庁](https://www.jfa.maff.go.jp/j/kikaku/wpaper/R6/250606_2.html)
-- [水産統計に関する情報 | 水産庁](https://www.jfa.maff.go.jp/j/kikaku/toukei/index.html)
-- [漁業権について | 水産庁](https://www.jfa.maff.go.jp/j/enoki/gyogyouken_jouhou3.html)
-- [海業の推進 | 水産庁](https://www.jfa.maff.go.jp/j/keikaku/230718.html)
-- [海面養殖業の振興について | 水産庁](https://www.jfa.maff.go.jp/j/saibai/yousyoku_kaimen.html)
-- [養殖業成長産業化総合戦略 | 水産庁](https://www.jfa.maff.go.jp/j/saibai/yousyoku/seityou_senryaku.html)
-- [カキ養殖に関する情報 | 水産庁](https://www.jfa.maff.go.jp/j/saibai/kaki_youshoku.html)

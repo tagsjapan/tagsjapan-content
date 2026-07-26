@@ -49,10 +49,3 @@ The modern circulation of `mono no aware` depends on this tension between precis
 That is why the cherry blossom example works so well and also misleads if it is left alone. Blossoms are indeed a vivid public form of `mono no aware`: brilliance and loss arriving almost together. But the idea reaches further than flowers. It lives in the long emotional weather of `The Tale of Genji`, in the awareness that rank fades, in the ache of a meeting already becoming memory, in the literary education of attention itself. The feeling matters because it is not only private. It becomes cultural when a society develops forms for recognizing, sharing, and refining it.
 
 So `mono no aware` should be understood not as a sentimental national trademark but as a disciplined sensitivity to passingness. It turns loss into perception rather than mere complaint. It gives language to the strange moment in which beauty becomes sharper because it is leaving. That is why the idea has remained so durable. It names something people continue to feel, even when they no longer arrive at it through the old texts that taught Japan how to read that feeling in the first place.
-
-Sources:
-- [mono-no-aware | Britannica](https://www.britannica.com/topic/mono-no-aware)
-- [Japanese literature: Heian period | Britannica](https://www.britannica.com/art/Japanese-literature/Classical-literature-Heian-period-794-1185)
-- [本居宣長記念館](https://www.norinagakinenkan.com/)
-- [国文学研究資料館](https://www.nijl.ac.jp/)
-- [The Tale of Genji Museum, Uji](https://www.city.uji.kyoto.jp/site/genji/)

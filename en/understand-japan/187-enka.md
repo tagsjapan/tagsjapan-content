@@ -51,11 +51,3 @@ That stability, however, creates a contemporary tension. Enka is often treated a
 Another pressure is demographic. The core audience is often described as aging, and the genre’s survival strategy includes generational renewal—new singers, new “recommended songs,” refreshed packaging that tries to keep the emotional grammar intact while making the faces change. USEN’s own topic pages list both the canonical names and newer performers, implying an effort to keep the genre from being sealed as pure nostalgia. A style that depends on the past still has to find a future.
 
 `Enka（演歌）` helps you understand Japan because it shows how a society can industrialize emotion and then treat the product as memory. Enka’s recurring scenes—hometown distance, rain, departure, endurance—are not only lyrical clichés. They are a repertoire of feelings that postwar Japan learned to share in public, especially through karaoke and year-end ritual television. If you want to understand how “Japan” is staged as sentiment, enka is one of the clearest mechanisms: a modern genre that keeps replaying the past until the replay becomes a tradition of its own.
-
-Sources:
-- [Toshiwasure Nippon no Uta (45th, 2010) | TV Tokyo](https://www.tv-tokyo.co.jp/toshiwasure12/)
-- [Toshiwasure Nippon no Uta (58th playback night 1, 2026) | TV Tokyo / BS TV Tokyo](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202603/15338_202603111756.html)
-- [Toshiwasure Nippon no Uta (58th playback night 2, 2026) | TV Tokyo / BS TV Tokyo](https://www.tv-tokyo.co.jp/broad_bstvtokyo/program/detail/202603/15338_202603121756.html)
-- [Enka / kayōkyoku standards | USEN](https://usen.com/portal/music/topics/article/topics52.html)
-- [USEN channel: Enka (B03) | USEN MUSIC GUIDE](https://music.usen.com/ch/B03/?service=sp440)
-- [Weekly USEN HIT: Enka / kayōkyoku ranking | USEN MUSIC GUIDE](https://music.usen.com/channel/a34/)

@@ -50,11 +50,3 @@ The redesign signals a change in what the state is willing to admit. The new sys
 And yet the transition itself is revealing. As of `March 28, 2026`, the old system has not vanished; it continues to operate while the new one is prepared. That overlap period matters because it shows how hard it is to change foreign labor policy without disrupting production. It also shows how Japanese governance often works in practice: reform is announced, detailed operational rules are published in stages, and the system is kept running while its replacement is assembled.
 
 The technical intern program is therefore a key lens for understanding contemporary Japan. It exposes a state trying to reconcile three pressures: demographic decline, economic dependence on foreign labor, and a reluctance to call that dependence “immigration.” The program’s name was a compromise. Its replacement suggests Japan is now searching for a different compromise—one that still uses categories and control, but admits more plainly that the country is building a foreign-worker pipeline for the long term. It also shapes Japan’s reputation beyond its borders. A system justified as “international contribution” is ultimately judged by working conditions, mobility, and the everyday dignity available to the people inside it.
-
-Sources:
-- [在留資格「技能実習」 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/status/technicalinterntraining.html)
-- [育成就労制度 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/index_00005.html)
-- [育成就労制度の概要・関係法令 | 出入国在留管理庁](https://www.moj.go.jp/isa/03_00163.html)
-- [育成就労制度 Q&A | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/faq/ikusei_qa_00002.html)
-- [令和6年入管法等改正法 | 出入国在留管理庁](https://www.moj.go.jp/isa/policies/bill/06_00011.html)
-- [外国人技能実習機構（OTIT）](https://www.otit.go.jp/)

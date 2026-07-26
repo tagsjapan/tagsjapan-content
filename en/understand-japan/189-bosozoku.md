@@ -47,10 +47,3 @@ Yet the cultural afterlife has grown. Nippon.com’s discussion of the popularit
 Nostalgia can also distort. Media retellings tend to emphasize brotherhood and melodramatic “youth spirit,” while policing data and research remind us that the real phenomenon included danger: crashes, intimidation, conflict with residents, and sometimes serious violence. The distance between the icon and the lived scene is not simply about accuracy. It reflects a shift in social function. Once the subculture becomes less visible on real roads, it becomes easier to romanticize. The costume separates from the risk. The formation becomes choreography. What remains is a Shōwa-flavored memory of rule-breaking that can be packaged as entertainment.
 
 `Bosozoku（暴走族）` helps you understand Japan because it reveals how youth subcultures form in relation to institutions. It shows how recognition can be built through rule-breaking when legitimate status channels feel closed. It shows how the state responds by turning a cultural scene into a policing category and measuring it over time. And it shows how Japan recycles social tension into consumable memory: once the street phenomenon declines, the image can return as pop culture, stripped of some of its threat and repackaged as nostalgia. To understand bosozoku is to understand not only a subculture, but the way Japan manages deviance—and later remembers it.
-
-Sources:
-- [Bosozoku power trends (Showa 63 / 1988) | National Police Agency White Paper](https://www.npa.go.jp/hakusyo/s63/s630102.html)
-- [Bosozoku countermeasures (Heisei 27 / 2015) | National Police Agency White Paper](https://www.npa.go.jp/hakusyo/h27/honbun/html/rf221000.html)
-- [Typology based on bosozoku group characteristics | J-STAGE](https://www.jstage.jst.go.jp/article/jjcrim/48/0/48_KJ00005875110/_article/-char/ja/)
-- [Psychological / behavioral features of bosozoku youth | J-STAGE](https://www.jstage.jst.go.jp/article/jjpsy1926/56/1/56_1_14/_article/-char/ja/)
-- [Yankii manga history via Tokyo Revengers boom | Nippon.com](https://www.nippon.com/ja/japan-topics/g01075/)

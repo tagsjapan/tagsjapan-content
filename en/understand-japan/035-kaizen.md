@@ -49,10 +49,3 @@ The term also changed as it traveled. By the late 20th century, `Kaizen` was bei
 That is why `Kaizen` remains a revealing Japanese concept even now. It shows a preference for cumulative repair over heroic disruption and for process literacy over rhetorical innovation. It also helps explain why so many Japanese systems feel carefully adjusted rather than flamboyantly redesigned. A station sign that routes people more smoothly, a retail shelf laid out to reduce hesitation, a production line trimmed of wasted motion: these are the visible results of a culture that learned to trust the next small correction.
 
 `Kaizen` begins with the modest thought that something could be made a little better today than it was yesterday. Japan turned that modest thought into a method, then into an emblem, and finally into one of its most recognizable contributions to the global language of work. By the late 1980s and early 1990s, managers abroad were already borrowing the term to describe a discipline they often understood only partly. By 1980, the idea had already become exportable. By 1970, it was deeply embedded in major factory cultures. That foreign afterlife is part of why the Japanese original still carries a heavier sense of daily practice than the glossy management cliché.
-
-Sources:
-- [Toyota Production System | Toyota](https://global.toyota/en/company/vision-and-philosophy/production-system/)
-- [Kaizen | Britannica](https://www.britannica.com/topic/kaizen)
-- [中小企業の生産性向上支援 | 中小企業庁](https://www.chusho.meti.go.jp/)
-- [JUSE: Japanese quality control resources | Union of Japanese Scientists and Engineers](https://www.juse.or.jp/)
-- [改善と日本的経営研究 | 国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002569235)

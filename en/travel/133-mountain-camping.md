@@ -44,9 +44,6 @@ The friction point is fantasy. Many travelers arrive wanting "nature" in a broad
 One of the quiet pleasures of doing this well is that Japanese mountain camping often pairs neatly with other parts of the country's travel structure. A campsite may sit close to a trailhead, a lake loop, a roadside market, or a rural onsen. That makes the overnight stay feel less isolated from the rest of the trip than camping can elsewhere. You are not always retreating from civilization so much as moving into a slower band of it, where local produce, public baths, weather reports, and campground etiquette all matter at once. The resulting trip can feel unusually complete, provided you planned enough to enjoy it.
 
 When mountain camping in Japan goes well, the reward is not only scenery. It is the feeling that the trip has changed scale. You stop passing through landscapes and begin waking inside them. There is condensation on the flysheet, a stove hissing before dawn, a path to the sink, a bag of trash already accounted for, maybe a nearby hot spring waiting after a day's walk. The convenience of a vending machine or campsite shop can feel almost luxurious after a cold night, and that mix of order and exposure is very Japanese. Mountain camping here can be deeply comfortable, but its comfort is earned through rules, foresight, and a forecast taken seriously. That is exactly why it becomes memorable, and why the best mornings start with weather, not Wi-Fi, as the first thing you check.
-
-Sources:
-
 - Travel Japan / JNTO, "Camping in Japan" — https://www.japan.travel/en/guide/camping/
 - Ministry of the Environment, "National Parks of Japan" — https://www.env.go.jp/en/nature/nps/index.html
 - Ministry of the Environment, "Park Manners" — https://www.env.go.jp/en/nature/nps/park/manners/

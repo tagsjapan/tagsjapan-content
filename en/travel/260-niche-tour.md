@@ -48,9 +48,6 @@ Japan also packages niche travel through “adventure,” a word that can sound 
 The best way to think about a niche tour in Japan is not “I will avoid crowds.” Crowds can still find you. The better promise is that your trip will have a spine. A DMO’s map, a farm-stay portal like `nohaku.net`, a regional itinerary that makes you take the ferry instead of the express train—these are not just sources of inspiration. They are tools that force you to travel at the scale of a place, not the scale of a highlight reel.
 
 And in the end, that is what feels most specifically Japanese about niche touring now: it is not purely personal discovery. It is a collaboration between a traveler’s curiosity and a country that has been building systems—DMOs, rural-stay programs, themed routes—to make small interests legible as real journeys. You stop “doing Japan,” and you start following one thread until it becomes a trip.
-
-Sources:
-
 - Adventure Travel in Japan, Travel Japan / JNTO: https://www.japan.travel/en/au/
 - “Nohaku” (countryside stays) policy page, MAFF: https://www.maff.go.jp/j/nousin/kouryu/nouhakusuishin/nouhaku_top.html
 - Nohaku Portal Site (official portal): https://nohaku.net/

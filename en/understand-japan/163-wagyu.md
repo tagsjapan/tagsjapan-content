@@ -49,10 +49,3 @@ The word also contains a nested hierarchy of place. Global discussions often tre
 Globalization complicates the picture. “Wagyu” is now used abroad in phrases like “wagyu-style,” and crossbred cattle raised outside Japan can claim the aesthetic of marbling without belonging to Japan’s breed and governance boundaries. Japan’s response has been to emphasize official identification and export marks that protect “real Japanese wagyu,” turning the word into something that needs institutional defense. The irony is that wagyu’s success made it vulnerable: the more the world desires the label, the more the label has to be regulated.
 
 `Wagyu（和牛）` is therefore a useful lens on how Japan manufactures value. It is not only about raising cattle or eating beef. It is about classification—defining a name by breed, grading, and traceability—then layering local brands on top of that foundation. The result is a product that can function as luxury, as regional identity, and as national image, all while remaining, in a strict sense, a carefully policed category. When you see wagyu on a label, you are seeing Japan’s preference for making quality legible—and defendable—through systems, at home and abroad.
-
-Sources:
-- [Wagyu: All You Need to Know | JNTO](https://www.japan.travel/en/guide/wagyu-all-you-need-to-know/)
-- [和牛入門1：和牛とは | 農林水産省](https://www.maff.go.jp/j/pr/aff/1608/spe1_01.html)
-- [和牛入門2：改良と美味しさ | 農林水産省](https://www.maff.go.jp/j/pr/aff/1608/spe1_02.html)
-- [和牛入門3：格付と価値 | 農林水産省](https://www.maff.go.jp/j/pr/aff/1608/spe1_03.html)
-- [和牛入門4：本物の保護と輸出 | 農林水産省](https://www.maff.go.jp/j/pr/aff/1608/spe1_04.html)

@@ -49,11 +49,3 @@ That is where the lived contradictions sit. Tuition and entrance fees are not th
 Another tension is symbolic. A waiver system that requires applications, confirmation procedures, and ongoing checks can feel, to recipients, like gratitude is built into the design. It protects public money and targets support, but it also reinforces the idea that support is exceptional, not normal. Japan’s approach rarely begins with universal free provision; it begins with a structured program that expands in layers. The tuition waiver system is a textbook example of that incrementalism.
 
 Understanding tuition waivers in Japan therefore means understanding a policy pivot. The country is still not a “tuition‑free” society in the straightforward sense. Yet since `2020`, it has been moving away from a model in which students either pay or borrow, toward a model in which the state acknowledges that higher education produces public value and therefore deserves public cost‑sharing. Big social shifts in Japan often arrive this way: as targeted programs that expand in layers as national anxieties change. In a period when Japan is worried about inequality, labor shortages, and the long‑term viability of its social model, the tuition waiver system is not only about students. It is a form of national maintenance.
-
-Sources:
-- [高等教育の修学支援新制度 特設ページ | 文部科学省](https://www.mext.go.jp/kyufu/student/daigaku.html)
-- [高等教育の修学支援新制度 総合案内 | 文部科学省](https://www.mext.go.jp/a_menu/koutou/hutankeigen/index.htm)
-- [高等学校等就学支援金制度等・高等教育の修学支援に関する通知 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/mushouka/detail/mext_00010.html)
-- [授業料等減免 事務処理要領 | 文部科学省](https://www.mext.go.jp/a_menu/koutou/hutankeigen/detail/1418410_00005.htm)
-- [給付奨学金・授業料等減免 | JASSO](https://www.jasso.go.jp/shogakukin/about/kyufu/index.html)
-- [多子世帯支援の拡充（令和7年度） | JASSO](https://www.jasso.go.jp/shogakukin/about/kyufu/kakei/r7tashikakudai/index.html)

@@ -50,12 +50,3 @@ Women’s soccer sharpens the picture because it exposes where “the system” 
 Soccer’s modern tension in Japan is built into its double promise. The sport asks clubs to be rooted—serve a city, develop local youth, sustain community rituals—while asking players to be mobile, ready to leave for higher-level competition. It asks for patience in development and urgency in results. It asks supporters to treat a club as a long-term civic asset while the global market treats talent as a commodity. These pressures do not cancel the sport’s success; they define its present shape.
 
 For that reason, soccer is a clean way to watch Japan negotiate globalization without giving up locality. The J.League’s insistence on “region” is not nostalgia; it is a strategy for social durability. The constant outward gaze—toward world tournaments, overseas leagues, international standards—keeps the sport from becoming a closed domestic ritual. Japanese soccer survives by doing both at once: turning a neighborhood crowd into a club public, and turning a club-trained player into a global professional.
-
-Sources:
-- [Japan Football Association (JFA)](https://www.jfa.jp/)
-- [J.League (Japan Professional Football League)](https://www.jleague.jp/)
-- [J.League 100 Year Vision](https://www.jleague.jp/aboutj/100year/)
-- [WE League](https://weleague.jp/)
-- [FIFA Women’s World Cup](https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup)
-- [FIFA World Cup](https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup)
-- [football (soccer) | Encyclopaedia Britannica](https://www.britannica.com/sports/football-soccer)

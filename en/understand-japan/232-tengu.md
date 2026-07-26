@@ -49,11 +49,3 @@ Local legends keep the figure thick. `Kurama（鞍馬）` in Kyoto is inseparabl
 Modern Japan has also made tengu instantly recognizable by reducing it to a handful of visual tokens: the long nose, the feather fan, the clattering wooden sandals. Those tokens are powerful precisely because they are easy to reproduce, and they now circulate far beyond religious context—in posters, mascots, pop illustration, the background texture of “yōkai Japan.” The risk is flattening: a creature that once carried a mountain’s moral and religious ambiguity becomes a convenient icon. Yet the tokens are not arbitrary. The fan suggests a being that can move air and mood, a creature that turns the mountain’s invisible force into something you can picture. The mask’s exaggerated features make arrogance look ridiculous before it becomes dangerous. The persistence of tengu at mountain temples pushes back. There, the figure still gestures toward a Japan where nature is not merely scenery and where the boundary between the seen and unseen is managed through symbols that stay slightly intimidating.
 
 To understand Japan, it helps to treat tengu as an answer to a repeated problem: how to live next to mountains that are close, steep, and culturally charged today. The tengu makes the mountain speak. It can scold, protect, mislead, or test, depending on what a community needs the mountain to mean. It also gives discipline a narrator: the mountain does not just injure you; it judges you, loudly, in public. The long nose is a joke only on the surface. Underneath is a durable way of giving Japan’s most powerful landscapes a social and moral face.
-
-Sources:
-- [tengu | Encyclopaedia Britannica](https://www.britannica.com/topic/tengu)
-- [Tengu | Kokugakuin University Encyclopedia of Shinto](https://d-museum.kokugakuin.ac.jp/eos/detail/?title=Tengu)
-- [Shugendō | Kokugakuin University Encyclopedia of Shinto](https://d-museum.kokugakuin.ac.jp/eos/detail/?title=Shugendo)
-- [Yamabushi | Kokugakuin University Encyclopedia of Shinto](https://d-museum.kokugakuin.ac.jp/eos/detail/?title=Yamabushi)
-- [About | Takaosan Yakuoin](https://www.takaosan.or.jp/about/)
-- [鞍馬寺（Kurama-dera）](https://www.kuramadera.or.jp/)

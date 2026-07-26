@@ -49,9 +49,6 @@ There is also a quiet, modern pressure underneath the romance: which fish gets e
 Season pushes the story further. The `MAFF`’s children’s page on `sanma` reads like a small civic lesson, which tells you something about how deeply seasonal fish is folded into Japanese life. In practical travel terms, it means menus shift without apology. An item that is everywhere in `October` can fade by winter. A traveler who treats `yakizakana` as a fixed dish can miss what locals are actually eating. The better move is to look for the fish of the day and accept that “grilled fish” is not one thing but a changing headline.
 
 By the time you leave the breakfast room, the day feels calibrated. Salt lingers on your fingers; the smell of char follows you into the elevator; the memory of the coast sits quietly beneath the city. Japan’s most memorable meals are often the ones that announce themselves. `Yakizakana` doesn’t. It simply keeps showing up—at `7 a.m.` on a hotel tray, at noon in a market diner, at night beside hot-spring steam—until you realize that the country’s travel rhythm is built, in part, on meals that taste like the sea and ask you to slow down enough to notice.
-
-Sources:
-
 - What is Washoku?, Ministry of Agriculture, Forestry and Fisheries (MAFF): https://www.maff.go.jp/j/keikaku/syokubunka/culture/wasyoku/
 - Good Fish Project, The Nippon Foundation “Umi to Nippon” Project: https://goodfish.jp/
 - Sanriku: One of the World's Three Great Fishing Grounds, Japan National Tourism Organization (JNTO): https://www.japan.travel/en/spot/2163/

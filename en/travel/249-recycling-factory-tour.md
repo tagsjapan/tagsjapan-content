@@ -49,9 +49,6 @@ These tours change the way you travel in small, practical ways. You start paying
 The friction points are also real. Many facilities are outside city centers, which means transport planning matters. Some tours are oriented toward school groups and may not fit a traveler’s schedule. Photography rules can be strict. And the emotional experience can be strange: standing above an incinerator and realizing how much of modern life becomes heat and ash. But that strangeness is part of the value. The tour takes something abstract—sustainability—and anchors it in concrete noise, scale, and municipal competence.
 
 When you step back onto the street afterward, the city looks cleaner in a different way. Not as a moral miracle, but as a managed outcome. Japan’s recycling factory tours are not for everyone. But for travelers interested in how countries actually function, they offer a rare kind of sightseeing: the chance to see the systems that make the pretty parts possible. You leave with less romance and more respect, which is not a bad trade in a world where “sustainability” is too often only a slogan on a poster.
-
-Sources:
-
 - The 3R Initiative (policy framing; 2004–2005), Ministry of the Environment (Japan): https://www.env.go.jp/recycle/3r/en/outline.html
 - About Sustaina Kyoto (facility scope; 9:00–17:00), official site: https://sustaina-kyoto.jp/about
 - Sustaina Kyoto (tourism listing), Kyoto City Official Tourism Guide: https://ja.kyoto.travel/tourism/single01.php?category_id=3&tourism_id=2894

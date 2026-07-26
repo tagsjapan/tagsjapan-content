@@ -49,9 +49,6 @@ All of this creates a different kind of itinerary planning than many visitors ex
 The deeper expectation correction is that Japan’s climbing scenes reward restraint over bravado. The official spot pages don’t romanticize danger; they describe it plainly—slippery rock, steep formations, chained sections, experienced hikers. That clarity is part of what makes Japan’s outdoor travel feel unusually trustworthy. It’s also a cultural mirror. The same society that values order in stations values order on ridges. You don’t prove yourself by rushing. You prove yourself by moving in a way that doesn’t create problems for the people behind you—or for the mountain itself.
 
 If you do it well, the reward is a Japan that feels physically different from the one most travelers photograph. Your hands carry the memory of chain links. Your knees remember steep descent. And if the route ends the way many Japanese mountain days end—with a hot bath, a local meal, and a quiet town—then the trip gains a satisfying logic: difficult terrain, controlled risk, and then recovery arranged with care. Rock climbing in Japan, at its best, is not about conquering a wall. It’s about entering a landscape that is both geological and cultural, and leaving it with the same kind of respect you brought in.
-
-Sources:
-
 - Mt. Myogi, Travel Japan / JNTO: https://www.japan.travel/en/spot/1506
 - Mt. Seppiko, Travel Japan / JNTO: https://www.japan.travel/en/spot/2352/
 - Mt. Omine, Travel Japan / JNTO: https://www.japan.travel/en/spot/993/

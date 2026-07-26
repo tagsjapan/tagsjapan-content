@@ -50,11 +50,3 @@ It survives in the rinse of water at the purification basin, in the shrine festi
 That does not make Shinto innocent of politics. Questions surrounding Yasukuni Shrine, state ceremony, wartime memory, and the constitutional boundary between religion and public authority continue to give the tradition a sharper edge. One cannot understand modern Japan by seeing Shinto only as a gentle folklore of festivals and blessings. It has also served as a language of nationhood, legitimacy, and contested historical memory. The same shrine world that blesses a child can also reopen arguments about the state and the past.
 
 Shinto therefore matters not because every Japanese person consciously "believes" in the same way, but because the tradition still helps organize how space is marked, how seasons are felt, how communities gather, and how continuity is imagined. A shrine visit at New Year, a local festival in summer, a few claps before a prayer spoken under one's breath: these are small scenes. Taken together, they show how deeply Shinto remains embedded in the Japanese sense of life lived among powers that are near, local, and rarely entirely abstract.
-
-Sources:
-- [神道とは | 神社本庁](https://www.jinjahoncho.or.jp/shinto/shinto_izanai/)
-- [神社について | 神社本庁](https://www.jinjahoncho.or.jp/shinto/jinja/)
-- [宗教年鑑 | 文化庁](https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenjihokokusho/shukyo_nenkan/index.html)
-- [宗教年鑑 令和7年版 PDF | 文化庁](https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenkan/pdf/r07nenkan.pdf)
-- [Shinto | Britannica](https://www.britannica.com/topic/Shinto)
-- [Religion of Japan | Britannica](https://www.britannica.com/place/Japan/Religion)

@@ -45,9 +45,6 @@ There is also a friction point concealed by the romance. These places can be har
 That is part of why the experience remains so persuasive. It asks for submission to local conditions, and in return it offers one of the clearest forms of seasonal travel Japan has. You do not come away merely thinking the snow was pretty. You come away understanding that winter in Japan has a social choreography: boots lined up by the entrance, damp scarves drying in the room, the outer bath reached with a held breath, the relief of hot water made larger by the cold air beyond it. The inn and the town become machines for handling winter well.
 
 The practical advice is to book earlier than you think necessary, especially for river-facing or open-air bath rooms in peak season. Check not only the date of snow season but the transport reality on the day you plan to move. Pack footwear that can survive ice and slush, not only the inn corridor. And if possible, choose a destination whose winter style matches your trip: street atmosphere at `Ginzan`, old secluded baths at `Nyuto`, or snow sports plus sulfur water at `Zao`. The steam looks beautiful in photographs. In person, the more memorable thing is often the sound of your steps on the snow as you head back for one more bath.
-
-Sources:
-
 - Nyuto Onsenkyo, Japan Snow / JNTO: https://www.japan.travel/en/sports/snow/snow-travel/nyuto-onsenkyo/
 - Ginzan Onsen, Travel Japan / JNTO: https://www.japan.travel/en/us/ginzan-onsen/
 - Zao Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/1772/

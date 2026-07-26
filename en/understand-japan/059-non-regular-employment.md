@@ -47,12 +47,3 @@ Policy has responded, but the social architecture changes slowly. `Equal pay for
 The pattern is easiest to grasp when it is followed across a life course. A graduate who starts on short contracts may delay moving out or forming a household because income feels too unstable. A parent returning to work may discover that flexible entry is available mainly through lower-status positions. A worker rehired after retirement can remain in the same building while re-entering it on thinner pay and weaker terms. `Non-regular Employment` is therefore bigger than labor law. It is one of the ways contemporary Japan distributes certainty itself.
 
 Look again at the recruitment columns and the distinction stops feeling bureaucratic. It becomes a map of different futures. One box offers a route into the company and everything the company may later provide. Another offers income without the same promise of training, voice, or permanence. Japan's wider social questions about poverty, demographic decline, and generational inequality often lead back to that split. `Non-regular Employment` names the outer ring of the workplace, but it also names a broader distribution of risk. Watch who is trained for the future, who is renewed from year to year, and who can plan a household with confidence. The hierarchy appears there with uncomfortable clarity.
-
-Sources:
-- [Non-regular Employment (Fixed-term, Part-time, and Dispatch Work) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/index.html)
-- [Current State and Challenges of Non-regular Employment | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/content/001435535.pdf)
-- [Main Laws and Systems Related to Non-regular Employment | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/seido/index.html)
-- [Comprehensive Policies on Non-regular Employment | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/part_haken/kadai-taiou/index.html)
-- [Trend in Regular and Non-regular Employees | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/25/backdata/01-01-03-16.html)
-- [Trend in the Number and Share of Involuntary Non-regular Workers | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/wp/hakusyo/roudou/25/backdata/01-02-20.html)
-- [Thinking About "Non-regular Employment" | JILPT](https://www.jil.go.jp/publication/ippan/booklet/05.html)

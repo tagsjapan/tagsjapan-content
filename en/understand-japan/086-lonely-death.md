@@ -49,12 +49,3 @@ Japan's responses therefore have to work before death, not only after it. Local 
 The deepest tension may be cultural as well as administrative. Japan has long valued not burdening others, and independent living can be treated as a mark of dignity. Those values are not inherently harmful. But when independence hardens into difficulty asking for help, and when neighborhood restraint turns into near-invisibility, the same values can shade into risk. `Lonely Death` is disturbing precisely because it shows the dark edge of a social style that otherwise feels orderly and respectful.
 
 To understand `Lonely Death` in Japan is to understand how absence becomes a public fact. The problem is not only that someone dies alone. It is that a society realizes, too late, how long that person had already been left outside ordinary recognition. The phrase remains powerful because it converts an individual death into a wider question: how many connections must fail before a life becomes visible only after it has ended.
-
-Sources:
-- [People Living Alone Who Died at Home in 2024 | National Police Agency](https://www.npa.go.jp/news/release/2025/20250401002.html)
-- [People Living Alone Who Died at Home, First Half of 2025 Provisional Figures | National Police Agency](https://www.npa.go.jp/news/release/2025/20250808001.html)
-- [Act on Promotion of Policy for Loneliness and Isolation | Cabinet Secretariat](https://www.cas.go.jp/jp/seisaku/suisinhou/suisinhou.html)
-- [Measures to Prevent Isolated Death | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000034189.html)
-- [Notice to Prefectures on Preventing Isolated Death | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/houdou/2r9852000002aauc.html)
-- [2020 Population Census Outline | Statistics Bureau of Japan](https://www.stat.go.jp/data/kokusei/2020/kekka/pdf/outline_01.pdf)
-- [National Survey on Loneliness and Isolation 2024 | Cabinet Office](https://www.cao.go.jp/kodoku_koritsu/torikumi/zenkokuchousa/r6.html)

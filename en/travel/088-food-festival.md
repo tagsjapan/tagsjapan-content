@@ -48,9 +48,6 @@ The mechanics reward travelers who treat the festival as a practical environment
 Food festivals matter in Japan travel because they change what counts as “seeing a place.” They are a fast way to compare regional differences, but they also slow you down in the right way. You begin to plan your day around a window: arrive earlier than the biggest crowds, or go later when the heat breaks; leave space for a line that moves slower than you expected; carry water because salty snacks add up. And you start noticing how food shapes movement. A spring festival creates a night economy. A harvest event pulls you out of the station area and into a park or a riverside district. The festival becomes a temporary anchor on the map.
 
 When you leave, you are carrying something small—maybe a bag of local produce, maybe a sticky skewer wrapped in paper—and you are also carrying a new way of reading Japan. The country’s regional food isn’t only in restaurants. It appears in these timed, crowded, ordinary scenes where a town briefly becomes its own best advertisement. Catch the right day, and the taste of a place arrives on schedule.
-
-Sources:
-
 - Travel Japan / JNTO, “Festivals & Events”: https://www.japan.travel/en/things-to-do/festivals-and-events/
 - Travel Japan / JNTO, “Yamagata Cherry Festival”: https://www.japan.travel/en/spot/477/
 - Travel Japan / JNTO, “Takada Castle Site Park Cherry Blossom Festival”: https://www.japan.travel/en/japans-local-treasures/takada-castle-site-park-cherry-blossom-festival-2020/

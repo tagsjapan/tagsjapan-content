@@ -49,13 +49,3 @@ The novel’s infrastructure complicates that image. Japanese fiction is not onl
 A contemporary data point makes the continuity visible. In its `2024` annual report, the All Japan Magazine and Book Publishers and Editors Association notes that “literary books” were among the categories performing relatively well at bookstores even as the broader publishing market continues to shift. The detail is modest, but it matters. It suggests that the novel did not disappear under the weight of video culture; it relocated. Reading habits now split across paper and digital formats, domestic audiences and overseas translation markets, long-form books and cross-media franchises. The Japanese novel’s current condition is not a simple story of decline or triumph. It is a story of differentiation.
 
 `Japanese Novel（日本小説）` helps you understand Japan because it records social change as interior architecture. Laws and institutions describe what a society is; novels show what it feels like to live inside what that society has become. From *Ukigumo*’s attempt to speak in modern language, through the I-novel’s demand for self-revelation, to postwar rupture and Nobel-era global visibility, Japanese fiction keeps returning to one pressure: how to narrate a self when the world keeps rearranging the terms of belonging. The novel endures in Japan because it remains one of the country’s slowest, most precise instruments for answering that pressure.
-
-Sources:
-- [Modern literature | Britannica](https://www.britannica.com/art/Japanese-literature/Modern-literature)
-- [The postwar novel | Britannica](https://www.britannica.com/art/Japanese-literature/The-postwar-novel)
-- [I novel | Britannica](https://www.britannica.com/art/I-novel)
-- [Natsume Soseki: Japan’s Foremost Modern Novelist | Nippon.com](https://www.nippon.com/en/views/b07201/)
-- [Higuchi Ichiyo: A Pioneer of Modern Japanese Literature | Nippon.com](https://www.nippon.com/en/japan-topics/b07226/)
-- [Yasunari Kawabata – Facts | NobelPrize.org](https://www.nobelprize.org/prizes/literature/1968/kawabata/facts/)
-- [Kenzaburo Oe – Facts | NobelPrize.org](https://www.nobelprize.org/prizes/literature/1994/oe/facts/)
-- [Annual Report FY2024 | AJPEA](https://www.ajpea.or.jp/wp/wp-content/uploads/2025/06/%E2%97%8F2024%E5%B9%B4%E5%BA%A6-%E5%85%A8%E5%8D%94%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A.pdf)

@@ -49,10 +49,3 @@ In `December 2024`, the system gained a new kind of recognition. Japan’s Minis
 Recognition also raises a familiar risk: simplification. Global attention can turn “sake” into a single flavor stereotype or a single bottle style, while the real world of nihonshu includes differences in rice varieties, polishing, fermentation management, and regional brewing cultures. Japan’s institutional language responds by doubling down on definitions—`Nihonshu（日本酒）`, GI criteria, awards systems—so that the drink’s complexity can be defended against the market’s tendency to compress. The goal is not to freeze tradition. It is to keep the tradition intelligible while it travels across languages.
 
 `Sake（清酒）` helps you understand Japan because it shows how the country holds culture and administration in the same hand. A drink that functions as ritual offering and everyday pleasure is also governed as an industry, protected through naming rules, and promoted as heritage craft. Koji, taxes, and quality competitions may sound like dry topics, yet they are part of how Japan keeps a cultural form alive at scale. Sake endures not only because it tastes good, but because Japan built a system that can explain, regulate, and re-legitimate the taste.
-
-Sources:
-- [Liquor Administration | National Tax Agency](https://www.nta.go.jp/english/taxes/liquor_administration/index.htm)
-- [Traditional knowledge and skills of sake-making with koji mold in Japan | National Tax Agency](https://www.nta.go.jp/english/taxes/liquor_administration/sake_making.htm)
-- [Geographical Indication (GI) | National Tax Agency](https://www.nta.go.jp/english/taxes/liquor_administration/geographical/index.htm)
-- [Sake Awards | National Tax Agency](https://www.nta.go.jp/english/taxes/liquor_administration/sake_awards.htm)
-- [MOFA press release (Dec 5, 2024) on UNESCO inscription](https://www.mofa.go.jp/press/release/pressite_000001_00788.html)

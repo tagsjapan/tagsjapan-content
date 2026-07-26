@@ -47,11 +47,3 @@ One reason this mediation matters is accountability. Disaster sites are dangerou
 That organizational strength creates its own tension. Volunteerism can look like civic autonomy, but it can also function as a patch for gaps in public services—an unpaid supplement to systems that are understaffed or underfunded. Large disasters can produce intense short-term mobilization, while long-term involvement is harder to maintain. Aging volunteers, generational turnover, and uneven digital coordination capacity complicate the work of matching needs to people. Social media and online tools can bring help faster, yet they can also concentrate attention on the most visible tasks and leave slower welfare work in the shadows. The more society depends on volunteering, the easier it becomes for “voluntary” to blur into “expected,” turning moral admiration into quiet obligation.
 
 Understanding volunteerism helps explain Japan’s state-society relationship in practice. It is not primarily a story of citizens opposing the state. More often, it is citizens cooperating with administrative systems, sometimes filling holes those systems cannot fill fast enough, and sometimes building capacities the state itself later relies on. The institutionalized volunteer center, the welfare council’s local networks, the Red Cross’s organized groups: these are ways Japan turns compassion into coordination. They also reveal the limits of coordination when the social needs are chronic, not temporary. Volunteerism in Japan sits in that border zone—half spontaneous, half procedural—where public life becomes possible even under strain.
-
-Sources:
-- [Cabinet Office (Disaster Management) | 防災ボランティア（ボランティアGO）](https://www.bousai.go.jp/kyoiku/bousai-vol/)
-- [全国社会福祉協議会 | 災害ボランティアをお考えの方へ](https://www.shakyo.or.jp/bunya/saigai/bora.html)
-- [全国社会福祉協議会 | 地域福祉・ボランティア](https://www.shakyo.or.jp/bunya/chiiki/index.html)
-- [全国社会福祉協議会 | ボランティア・市民活動の振興と福祉教育の推進](https://www.shakyo.or.jp/bunya/chiiki/volunteer/index.html)
-- [Japanese Red Cross Society | Volunteer and Youth](https://www.jrc.or.jp/volunteer-and-youth/)
-- [特定非営利活動促進法（1998） | e-Gov法令検索](https://laws.e-gov.go.jp/document?lawid=410AC0000000007)

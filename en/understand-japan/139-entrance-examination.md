@@ -47,11 +47,3 @@ This produces a characteristic contradiction. Multi‑dimensional evaluation can
 Fairness therefore remains the system’s most sensitive nerve. MEXT maintains dedicated material on ensuring fairness in admissions, including scrutiny of medical-school admissions practices, because the legitimacy of the entire sorting machine depends on the belief that procedures are not rigged. When the process is trusted, the system can be endured as a harsh but meaningful competition. When the process is doubted, the system becomes not only stressful but socially corrosive, because it undermines the promise that effort and ability are being judged under shared rules.
 
 To understand Japan, entrance examinations are an unusually powerful lens because they connect institutions that are often discussed separately: high schools, universities, families, cram‑school industries, and the state’s narrative of equal opportunity. Japan has not “abolished” the exam war. It has tried to renovate it—adding routes, adding formats, adding values—while keeping the machine running. The result is a system that is less like a single decisive battle and more like a long campaign, one that organizes adolescence as preparation and treats admission as the gate between ordinary life and a future with options. That is why reform rarely looks like simplification; it looks like an additional layer of evaluation built on top of an older layer that people still trust.
-
-Sources:
-- [大学入学者選抜について | 文部科学省](https://www.mext.go.jp/a_menu/koutou/senbatsu/index.htm)
-- [入学者選抜実施要項 | 文部科学省](https://www.mext.go.jp/a_menu/koutou/senbatsu/1346785.htm)
-- [令和8年度入学者選抜について（国公立大） | 文部科学省](https://www.mext.go.jp/a_menu/koutou/senbatsu/1412102_00011.htm)
-- [令和8年度 大学入学共通テスト | 大学入試センター](https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r8/index.html)
-- [大学入学者選抜における公正確保等について | 文部科学省](https://www.mext.go.jp/a_menu/koutou/senbatsu/1412102.htm)
-- [「学力の3要素」を踏まえた大学入試改革 | 文部科学省](https://www.mext.go.jp/a_menu/koutou/koudai/detail/1397731.htm)

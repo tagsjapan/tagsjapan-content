@@ -47,9 +47,3 @@ There is also a specifically Japanese pleasure in the orderliness of the thing. 
 This precision is especially useful in places that resist the blunt instrument of the subway. Historic cities, waterfront districts, redeveloped warehouse areas, and mixed residential-commercial neighborhoods all benefit from a form of movement that is slower than a bus and faster than a stroll. You notice bridges, drainage canals, side entrances, schoolyards, bakery windows, and temple walls. You are moving quickly enough to change districts but slowly enough to retain texture. That is why bike sharing can alter a trip so noticeably without ever becoming the centerpiece of it.
 
 The practical rule is to use Japanese bike sharing for what it is actually good at. Check the port map before you set out. Confirm registration and payment while you still have Wi-Fi and patience. Think about rain, hills, and luggage. If the city is flat enough and your day has several medium-length hops, it can be one of the smartest tools in the country. It is particularly good on a day when you want to keep changing your mind without surrendering the whole schedule to bus frequency. Not because it makes you feel free in some abstract sense, but because it solves the most ordinary problem in travel: the distance that is too far to ignore and too short to deserve a timetable.
-
-Sources:
-- [What is Machi-nori?, Machi-nori / Kanazawa City](https://www.machi-nori.jp/en/about/)
-- [Machi-nori Top Page, Machi-nori / Kanazawa City](https://www.machi-nori.jp/en/)
-- [Traveling Around Kanazawa, Kanazawa City Tourism Association](https://visitkanazawa.jp/en/transportation/index.html)
-- [Cycling in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/cycling-in-japan/)

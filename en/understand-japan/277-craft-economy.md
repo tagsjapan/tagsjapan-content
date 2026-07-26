@@ -51,10 +51,3 @@ Craft is slow. The market is not. The tension is the business model.
 The hardest constraint is succession. Many craft industries require long apprenticeships and accept low margins for years. Younger entrants may bring new design sensibilities and new channels, but they also face the reality that “tradition” does not pay rent by itself. Even when a production area becomes famous, the people doing the work may still carry long hours, physical strain, and precarious cash flow. Japan’s craft economy therefore contains a sharp irony: the more craft is praised as a national asset, the more it risks being sustained by individual sacrifice.
 
 As a lens on Japan, `Craft Economy（クラフト経済）` shows how the country turns locality into economic capital. It also shows how Japan manages continuity under pressure. The state creates categories and support structures; regions build brands; makers adapt techniques and products to new lives. None of this guarantees survival. It does, however, reveal a recurring Japanese pattern: when an old practice can no longer live on habit alone, Japan often tries to rebuild it as infrastructure—part policy, part market, part narrative. The craft economy is that rebuilding, visible in the hands that make, and in the systems that now have to sell what those hands know.
-
-Sources:
-- [Traditional craft products (伝統的工芸品) | Ministry of Economy, Trade and Industry (METI)](https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/index.html)
-- [List of METI-designated traditional craft products (244 items, as of 2025-10-27) [XLSX] | METI](https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/xlsx/list_20251027.xlsx)
-- [Act on the Promotion of Traditional Craft Industries (伝統的工芸品産業の振興に関する法律) | e-Gov Law Search](https://laws.e-gov.go.jp/document?lawid=349AC0000000057)
-- [What counts as a “traditional craft product”? (伝統的工芸品とは) | Association for the Promotion of Traditional Craft Industries](https://kyokai.kougeihin.jp/traditional-crafts/)
-- [JETRO (Japan External Trade Organization)](https://www.jetro.go.jp/en/)

@@ -50,11 +50,3 @@ What changes when the grave becomes an indoor facility is not only space efficie
 Regional variation matters here. In rural areas, land constraints may be less severe and family graves may remain stable; in dense cities, columbaria solve physical scarcity and the time scarcity of commuting to distant ancestral sites. Yet the controversy is not mainly about legality. It is about what is being traded: convenience and manageability in exchange for a different relationship to place, to temple affiliation, and to the long story of the family. Japan’s modern funerary system is still saturated with ritual, but the containers of ritual have become more flexible and more standardized—an adjustment that mirrors other parts of Japanese life where tradition survives by changing its infrastructure.
 
 To understand the Japanese columbarium is to see how a society redesigns the “afterlife” as a civic and urban problem. `納骨堂（骨灰堂）` looks like a building type, but it is really a junction of law, city space, demographic change, and evolving ideas about family continuity. When the grave moves indoors, Japan is not abandoning remembrance. It is reorganizing it so that remembrance remains possible under new social conditions.
-
-Sources:
-- [墓地、埋葬等に関する法律（概要） | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000130181.html)
-- [墓地、埋葬等に関する法律（条文） | 厚生労働省](https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei15/)
-- [墓地、埋葬等に関する法律施行規則 | 厚生労働省](https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei16/)
-- [都立霊園の概要・沿革 | 東京都公園協会](https://www.tokyo-park.or.jp/reien/overview_reien/index.html)
-- [都立霊園の墓所種類 | 東京都公園協会](https://www.tokyo-park.or.jp/reien/type/index.html)
-- [多磨霊園 | 東京都公園協会](https://www.tokyo-park.or.jp/reien/tama/index.html)

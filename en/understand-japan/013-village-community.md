@@ -49,11 +49,3 @@ There is a tendency, especially in nostalgic writing, to romanticize the village
 Today the problem has changed form. Depopulation, aging, and youth out-migration have weakened the human base needed to maintain irrigation channels, roads, communal labor, and local festivals. Government policy directed at hilly and mountainous regions repeatedly returns to the question of what conditions are necessary for people to keep living in rural settlements. That question would make little sense if village community had already vanished. What has happened instead is functional strain: the structure remains socially necessary just as the number of people able to sustain it declines. The old pattern of shared work has not disappeared; it has become harder to staff, harder to inherit, and harder to take for granted. In many places the crisis is no longer whether people value the community, but whether enough hands are left to keep its ordinary obligations moving.
 
 The Japanese village community therefore matters not because it offers a lost pastoral ideal, but because it shows how cooperation, governance, and social pressure were historically fused at the local level. A canal cleared together, a shrine festival prepared by rotation, a difficult meeting over shared burdens, an emptying settlement wondering who will still be there next year: these are not background details. They are part of the machinery by which rural Japan endured for so long, and by which it now confronts its own social fragility.
-
-Sources:
-- [近世初期における百姓の法的地位と村共同体 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R000000004-I030041669)
-- [日本近世の共同体・共同組織 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R100000002-I000000024377-d13007439)
-- [封建社会と共同体 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R100000039-I3023361)
-- [集落地域整備法 | 農林水產省](https://www.maff.go.jp/j/nousin/shuusei.html)
-- [第5節 農村に人が住み続けるための条件整備 | 農林水產省](https://www.maff.go.jp/j/wpaper/w_maff/r4/r4_h/trend/part1/chap4/c4_5_00.html)
-- [中山間地域等をはじめとする農村に人が住み続けるための条件整備 | 農林水產省](https://www.maff.go.jp/j/wpaper/w_maff/r1/r1_h/measure/t4_02.html)

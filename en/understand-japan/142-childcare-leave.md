@@ -49,11 +49,3 @@ Japan’s recent direction is to push harder on usage and to make rules harder f
 Childcare leave matters for understanding Japan because it sits at the junction of three national pressures. One is gender. A system that expects women to do the bulk of care cannot sustain dual‑income households without grinding mothers down. Another is work culture. Long hours and “presence equals commitment” are incompatible with predictable caregiving. The third is the declining birthrate. Japan can subsidize children and expand childcare, but if parents cannot realistically pause or reshape work after birth, every other family policy becomes a speech rather than a lived option.
 
 The story of childcare leave in Japan is therefore not only about whether the law exists. It is about whether the law can change the mood of the workplace. When fathers take leave early, in visible ways, the institution begins to do what it was designed to do: redistribute care, normalize absence, and make family life compatible with employment. When fathers do not, the institution remains a paper solution in a society that still runs on unspoken expectations.
-
-Sources:
-- [育児・介護休業法の概要 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/000103504.html)
-- [育児休業制度（特設） | 厚生労働省](https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/koyoukintou/ryouritsu/ikuji/childcare/)
-- [育児休業等給付 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000135090_00001.html)
-- [育児・介護休業等に関する規則の規定例（2025年施行対応） | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/000103533.html)
-- [保育所等未入所時の育児休業給付延長手続 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000160564_00040.html)
-- [令和6年 雇用均等基本調査 | 厚生労働省](https://www.mhlw.go.jp/toukei/list/71-r06.html)

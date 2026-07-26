@@ -48,11 +48,3 @@ That order is built through ritualized practice. The rules are not abstract mora
 The contradiction is that sento survives as both necessity and choice. Many bathhouses face business succession problems, aging buildings, and the pressure of valuable urban land. Yet there is also reinvention. For people living alone, the bathhouse can function as a low-stakes social encounter: familiar faces, brief greetings, a sense that the neighborhood still has a common room. The National Diet Library’s case note on a `2016` “sento × library” collaboration is a small example of a broader pattern: bathhouses becoming sites for community programming, local curation, and cultural memory. Meanwhile, larger “super sento” facilities and leisure complexes borrow some of the bathhouse grammar while changing the scale and economics. The old neighborhood bathhouse does not vanish so much as get re-labeled, competing with its own descendants.
 
 Understanding `Sento（銭湯）` helps you understand Japan because it makes urban life visible at the level of the body. It shows how public health, housing conditions, and community interaction once met in a single room. It shows how governance can live in ordinary routines—permits, price setting, hygiene standards—without announcing itself as ideology. And it shows how a society handles the afterlife of infrastructure: when a facility is no longer strictly necessary, it can decline, or it can become a cultural object that people keep alive because it still does something the private home cannot. The bath is water and tile. The deeper story is how a city teaches strangers to share.
-
-Sources:
-- [公衆浴場業概要｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/seikatsu-eisei03/04.html)
-- [公衆浴場法概要｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/seikatsu-eisei04/04.html)
-- [公衆浴場のページ｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123862.html)
-- [銭湯の歴史｜東京銭湯／東京都浴場組合](https://www.1010.or.jp/guide/history/)
-- [How to enjoy Sento｜東京銭湯／東京都浴場組合](https://www.1010.or.jp/english/how-to-enjoy-sento/)
-- [「銭湯×図書館」が生み出す新たな可能性｜国立国会図書館](https://current.ndl.go.jp/e1854)

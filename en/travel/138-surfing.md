@@ -47,9 +47,6 @@ This is where surfing creates itinerary consequences that are easy to underestim
 There are friction points that make or break the experience. Parking can be scarce on popular beaches. Cold water can surprise travelers who associate Japan with summer humidity. Language can make it harder to ask the simplest questions—where to paddle out, where beginners should stay, what to do if conditions shift. And, most importantly, surfing is a social space. Dropping in on someone’s wave, hogging a peak, or treating the lineup like an amusement ride is a fast way to turn a welcoming beach into an unfriendly one. The expectation correction is that surfing culture in Japan can be quiet and polite, but it is still culture, with norms you are expected to respect.
 
 After a good surf morning, the beach looks ordinary again: sand, wind, a few boards stacked against a wall. You rinse salt off your hands, buy a drink, and feel the rest of the trip widen. The value of surfing travel in Japan isn’t that it proves you did something extreme. It’s that it shows you another Japan—one that wakes early, lives by wind and tide, and treats the coast as daily life rather than as a scenic edge. When you carry that rhythm back into the city, even a train platform can feel different, as if the day has already had a real beginning.
-
-Sources:
-
 - Ichinomiya Town Tourism Association (official): https://ichinomiya.org/
 - Visit Miyazaki City (official): https://www.miyazaki-city.tourism.or.jp/en/
 - Chiba destination overview, Travel Japan (JNTO): https://www.japan.travel/en/destinations/kanto/chiba/

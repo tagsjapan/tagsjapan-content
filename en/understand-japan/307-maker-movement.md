@@ -51,8 +51,6 @@ The movement also overlaps with Japan’s search for new industrial vitality. Ha
 Still, the Maker Movement’s Japanese reality is constrained in familiar ways. Access is uneven. Digital fabrication equipment is cheaper than it used to be, but it is not free; space is scarce; and the most active communities cluster in large cities. Participation is also shaped by who feels welcome at the workbench—a question that intersects with gender imbalance and with the subtle intimidation of technical subcultures. There is a deeper contradiction as well. If the Maker Movement is treated only as an “innovation pipeline” for industry, it risks losing the thing that makes it socially valuable: the open, curiosity-driven experimentation that lets ordinary people regain agency over objects and systems.
 
 The Maker Movement helps a reader understand Japan because it shows how the country localizes a global trend without abandoning its own tempo. Japan did not copy an American romance of garage inventors; it blended maker culture with science museums, crafts, small factories, and the existing respect for careful fabrication. The movement’s real achievement is not that everyone becomes an entrepreneur. It is that more people are allowed—sometimes for the first time—to feel that modern technology is something you can touch, understand, and alter. In a society built on specialized expertise, that small redistribution of confidence is quietly radical.
-
-Sources:
 - Make: Japan, “Maker Conference Tokyo 2012” materials
 - Make: Japan, “Maker Faire Tokyo 2012” materials
 - FabLab Japan, organizational and network information

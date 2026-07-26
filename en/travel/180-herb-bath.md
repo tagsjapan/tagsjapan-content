@@ -50,9 +50,3 @@ On a trip, this often becomes valuable on the second night rather than the first
 By the time you leave, you may remember the scent as vividly as the architecture. Steam on glass, the faint trace of herbs on the towel, a bath that seemed to shift with the season rather than merely occupy it: these are modest things, but that is often where Japanese bathing culture does its best work. It does not only heat the water. It edits the atmosphere.
 
 For travelers used to thinking of bathing in terms of facilities, this can be an important correction. The Japanese bath is not only a container for hot water but a medium for mood, timing, and local material. A herb bath makes that easier to see because the added scent is explicit. It tells you, almost before you settle in, that someone has thought about the season and about how the guest should meet it. That kind of attention is one reason bathing in Japan so often feels less like a service consumed and more like a room tuned for a particular day.
-
-Sources:
-- [Hyotan Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/714)
-- [Beppu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/716/)
-- [A Variety of Ways to Bathe, Japan Onsen Association](https://www.spa.or.jp/en/bathing/)
-- [Caution for Using Onsen, Japan Onsen Association](https://www.spa.or.jp/en/caution_bathing/)

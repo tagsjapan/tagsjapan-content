@@ -45,9 +45,6 @@ For a second, very different river story, head to Shikoku and the Yoshino River.
 Practical access details matter here because Shikoku rewards commitment. Travel Japan points to Happy Raft near Tosa‑Iwahara Station and even gives a realistic chain of transfers: one route runs from Haneda to Kochi by air (about 1 hour and 20 minutes), then roughly an hour by car; another runs by bus to Kochi Station (around 30 minutes), then about two hours on a local train, then a one‑minute walk. It’s the kind of information that makes a traveler relax: you can see the edges of the day. You can also see the trap. If you try to do Shikoku whitewater as a tight day trip with no buffer, you’ll spend more time watching clocks than water. Stay nearby, and the river becomes the anchor that makes the rest of the region make sense.
 
 On either river, the friction points are predictable, and that’s good news. Bring what the operators can’t: a swimsuit, a towel, and a full change of dry clothes for the ride back. Assume you will get wet even on “mellow” days, and treat shoes as gear, not fashion. Listen closely during the safety talk; the “rules” are the reason beginners can do this at all. And don’t schedule your post‑raft life like a city day—leave room for a late finish, a slow bus, or the simple human need to sit somewhere warm. Done right, rafting becomes one of those travel days that feels bigger than its place on the calendar: a few hours of whitewater that quietly reorganize how you picture Japan.
-
-Sources:
-
 - Gunma Official Tourist Guide, “Rafting in Minakami” https://www.visit-gunma.jp/en/spots/rafting-in-minakami/
 - Travel Japan / JNTO, “Epic Yoshino River Rafting” https://www.japan.travel/en/experiences-in-japan/2083/
 - Travel Japan / JNTO, “An exciting adventure on the Yoshino River” https://www.japan.travel/en/japans-local-treasures/rafting-tokushima/

@@ -49,11 +49,3 @@ Criticism has been strongest around the `Technical Intern Training` system. For 
 The recent policy emphasis on support and coexistence matters for exactly that reason. The Immigration Services Agency now places `Residence Support` and daily-life assistance inside the same policy conversation as labor intake. That shift in wording matters because it admits something the older framework often tried to sidestep: workers do not arrive as labor alone. They arrive as tenants, neighbors, parents, patients, and members of communities that must decide how inclusive they really intend to be. The future of foreign labor in Japan will depend not only on how many people enter but on whether the country is willing to build institutions around the fact that many of them are there to stay, at least for longer than the old language once implied.
 
 `Foreign Workers` matter in Japan because they sit at the junction of demographic decline, economic necessity, bureaucratic caution, and social change. They show a country trying to open just enough to keep essential sectors running while still managing the terms of entry very tightly. That balancing act tells you a great deal about modern Japan. The need is clear. The welcome is conditional. The contradiction between the two has become one of the defining social facts of the present.
-
-Sources:
-- [Foreign Employment Reporting System | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/gaikokujin/todokede/index.html)
-- [Foreign Employment Statistics as of October 2024 | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/newpage_50256.html)
-- [Technical Intern Training System | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/global_cooperation/01.html)
-- [Specified Skilled Worker System | Immigration Services Agency](https://www.moj.go.jp/isa/applications/ssw/index.html)
-- [Residence Support | Immigration Services Agency](https://www.moj.go.jp/isa/support/index.html)
-- [Daily Life Support Portal for Foreign Nationals | Immigration Services Agency](https://www.moj.go.jp/isa/support/portal/index.html)

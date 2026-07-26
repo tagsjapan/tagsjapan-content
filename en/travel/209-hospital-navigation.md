@@ -48,9 +48,6 @@ The operational basics are straightforward and worth repeating. Severe symptoms,
 What makes Japan's medical navigation memorable is not drama but relief. The hotel clerk who helps place the call, the hotline operator who narrows the options, the database that filters by language, the hospital that can actually receive the patient: these are small administrative acts, but on a trip they can feel decisive. Travelers often imagine safety in Japan as clean streets and low crime. It is also this quieter system of directional help, the one that tells you not merely that medicine exists, but where your particular doorway into it is.
 
 Knowing that doorway exists changes the emotional map of the trip even before anything goes wrong. Families with small children, older travelers, and people managing long-term conditions often move more confidently once they understand that Japan offers official entry points into care rather than a vague hope of assistance. Rural areas still differ from major cities, and language support is not identical everywhere, but the route is no longer unimaginable. A Tokyo hotel, a countryside inn, and a resort town feel less like isolated unknowns and more like places with different levels of access and different next steps. That is not a cure, but it is a kind of travel confidence that many destinations fail to provide.
-
-Sources:
-
 - For safe travels in Japan - Guide for when you are feeling ill, JNTO: https://www.jnto.go.jp/emergency/eng/mi_guide.html
 - Emergency support tools, JNTO: https://www.jnto.go.jp/emergency/jpn/support.html
 - Information on Medical Institutions Accepting Foreign Patients, Ministry of Health, Labour and Welfare: https://www.mhlw.go.jp/stf/newpage_05774.html

@@ -47,12 +47,3 @@ After `2011`, the negotiation became visible in concrete. Seawalls rose; coastal
 The bargain is now being pushed by slower forces as well. Coastal erosion, sea-level rise, and the prospect of stronger storm surges turn the coastline into a long-term budget and design problem, not only a post-disaster problem. MLIT’s committee work on coastal protection under climate change reads like a shift in engineering philosophy: the move from relying on past observation alone to explicitly considering climate impacts in planning assumptions. The updated basic policy and related technical standards try to keep protection credible under changing conditions, while admitting that the coast cannot be “fixed” once and for all. In practice, the coast becomes a living spreadsheet of tradeoffs: where to harden, where to retreat, where to rely on dunes or coastal forests, and where to accept that some places will keep losing land.
 
 Japan also keeps turning parts of the coastline into national landscape. The Ministry of the Environment’s page for `Sanriku Fukko National Park` treats the same coast as a place of recovery, ecology, and story, while the Environment Ministry’s Seto Inland Sea materials frame a different coastline as a managed semi-enclosed sea with its own pressures and responsibilities. The important point is not that Japan has beautiful coasts. It is that beauty, industry, protection, and memory are often layered on the same strip of land. A coastline that is sold as “scenery” can also be a flood-defense line; a coast that is built as “infrastructure” can also be a community’s only view of the horizon. To read the coastline as Japan’s social edge is to see why the arguments never end: the line is where Japan meets the ocean, but it is also where Japan meets itself.
-
-Sources:
-- [日本の島の数 | 国土地理院](https://www.gsi.go.jp/kihonjohochousa/islands_index.html)
-- [海岸 - 国土交通省水管理・国土保全局](https://www.mlit.go.jp/river/kaigan/)
-- [改正海岸法について | 国土交通省](https://www.mlit.go.jp/river/kaigan/main/coastact/index.html)
-- [海岸法に基づく「海岸保全基本方針」 | 国土交通省](https://www.mlit.go.jp/river/kaigan/main/coastplan/index.html)
-- [「気候変動を踏まえた海岸保全のあり方」提言 | 国土交通省](https://www.mlit.go.jp/river/shinngikai_blog/hozen/index.html)
-- [Sanriku Fukko (reconstruction) National Park | Ministry of the Environment](https://www.env.go.jp/en/nature/nps/park/sanriku/index.html)
-- [瀬戸内海 | 環境省「閉鎖性海域ネット」](https://www.env.go.jp/water/heisa/heisa_net/waters/setonaikai.html)

@@ -51,11 +51,3 @@ Shichi-Go-San also belongs to a wider Japanese category of `life-cycle rituals�
 The tension is visible in gender and expectation. The traditional framing—boys at `5`, girls at `7`, plus a shared `3`—still shapes how people imagine the rite, and it still produces a recognizable visual grammar of outfits and poses. Yet practice has become more adaptive. Some families combine celebrations, do them earlier, or treat the rite as a general “childhood blessing” rather than a strict timetable. The ritual holds because it can stretch.
 
 `Shichi-Go-San（七五三）` helps you understand Japan because it reveals how life stages are made socially real. It shows a society turning childhood vulnerability into a public moment of thanks, and translating abstract hope into objects—candy, clothing, a photograph—that can be held and remembered. It also shows how older ritual logics persist inside modern consumer packaging. Beneath the studio lighting and the carefully tied obi sits a durable idea: a child’s growth is not taken for granted, and milestones deserve to be marked where the sacred and the family meet.
-
-Sources:
-- [七五三｜神社本庁](https://www.jinjahoncho.or.jp/omairi/shichigosan/)
-- [おまいりする｜神社本庁](https://www.jinjahoncho.or.jp/omairi)
-- [Shichi-go-san | Highlighting Japan (English)](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201311/201311_08_en.html)
-- [日本の秋｜Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202209/202209_01_jp.html)
-- [行事食について｜農林水産省](https://www.maff.go.jp/j/syokuiku/kodomo_navi/learn/event.html)
-- [17年12月号 文字情報｜農林水産省](https://www.maff.go.jp/j/pr/aff/1712/characterinformation.html)

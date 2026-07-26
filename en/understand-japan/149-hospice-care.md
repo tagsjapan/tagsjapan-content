@@ -50,10 +50,3 @@ The contemporary tensions are cultural and structural. Many people understand, i
 You can see the system’s promise in concrete scenarios. A patient undergoing difficult treatment receives palliative team support early, so pain and anxiety are addressed rather than treated as secondary. A patient transfers to a palliative care ward when hospital care is still needed but the focus shifts from aggressive procedures to comfort and family presence. Another patient spends the final stage at home with visiting medical care, because family conversations and support networks were built in advance rather than improvised at the end.
 
 In a super-aging, highly medicalized society, hospice care becomes a lens on what “good care” means. Japan is not simply importing a hospice idea from abroad. It is trying to weave palliative logic into a healthcare culture long oriented toward treatment and specialist medicine, while also dealing with the everyday realities of family responsibility and uneven local capacity. Hospice care, in other words, is not only about dying. It is about designing a way to keep living—clearly, comfortably, and with as much choice as possible—until the end, in a way that honors the person.
-
-Sources:
-- [人生会議（ACP）紹介 | 厚生労働省](https://www.mhlw.go.jp/stf/web_magazine/closeup/23.html)
-- [人生会議（ACP）特設ページ | 厚生労働省](https://www.mhlw.go.jp/stf/newpage_02783.html)
-- [緩和ケア（公的情報） | 国立がん研究センター がん情報サービス](https://ganjoho.jp/public/support/relaxation/palliative_care.html)
-- [ホスピス・緩和ケアとは | ホスピス財団](https://www.hospat.org/public_what.html)
-- [ホスピス緩和ケアを受けられる場所 | 日本ホスピス緩和ケア協会](https://www.hpcj.org/uses/index.html)

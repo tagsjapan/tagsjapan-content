@@ -45,10 +45,3 @@ One reason the Olympics remains politically potent is that it comes with a built
 The Olympics in Japan is never only sport.
 
 For that reason, the modern Olympics is one of the cleanest ways to watch Japan negotiate the boundary between state and society. The Games can produce real public goods—transport capacity, accessibility upgrades, organizational know-how—and it can also expose the cost of making symbolism look effortless. `1964` is remembered as a bright break into a new era; `2020/2021` sits closer to a national argument about what progress should mean when budgets, demographics, and trust are already under strain. The Olympics does not simply reflect Japan. It magnifies Japan’s governing habits: the preference for coordination over improvisation, the habit of justifying large projects through shared narratives, and the anxiety that the narratives can no longer cover the bill. If you want to understand Japan’s modern instinct to build legitimacy through large coordinated projects, and the newer skepticism toward those projects, the Olympics is a revealing place to start.
-
-Sources:
-- [Tokyo Metropolitan Government | TOKYO2020レガシーレポート](https://www.2020games.metro.tokyo.lg.jp/taikaijyunbi/torikumi/legacy/index.html)
-- [Tokyo Metropolitan Government | Tokyo 2020 Legacy Report (English PDF)](https://www.2020games.metro.tokyo.lg.jp/docs/Tokyo2020LegacyReport_EN.pdf)
-- [Olympics | Tokyo 1964](https://olympics.com/en/olympic-games/tokyo-1964)
-- [Olympics | Tokyo 2020](https://olympics.com/en/olympic-games/tokyo-2020)
-- [Olympic Games | Encyclopaedia Britannica](https://www.britannica.com/sports/Olympic-Games)

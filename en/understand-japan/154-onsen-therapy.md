@@ -47,10 +47,3 @@ The modern Japanese state has been careful about how it speaks here. Hot springs
 `New Tōji（新・湯治）`, promoted by the Ministry of the Environment from `July 2017` onward, is a sign of how the balance has shifted. The older model assumed long stays and a kind of semi‑retreat life. The newer one tries to translate the same idea into a form that fits contemporary calendars: shorter stays, clearer programs, and an emphasis on combining bathing with walking, food, nature, and local culture as an integrated reset. It is also tied to a policy goal that sits behind many Japanese designations: keeping regional places viable. A hot‑spring area is not only a bathhouse and an inn. It is a local economy that has to keep water sources managed, landscapes maintained, and services staffed in an era of population aging and labor shortages.
 
 Seen from that angle, onsen therapy is a small case study in a larger Japanese pattern: turning an everyday practice into a governed category without stripping it of its atmosphere. It keeps the quiet room, the shared washing stools, the routine of repeated soaking, and the feeling that recuperation is something you do with your whole day. Then it adds the scaffolding—definitions, designations, and public language that makes “rest” a legitimate object of policy. `Onsen Therapy（溫泉療養）` is not proof that hot springs can heal everything. It is proof that Japan has repeatedly tried to make recuperation, like so many other parts of life, into something that can be sustained by institutions.
-
-Sources:
-- [温泉の保護と利用 | 環境省](https://www.env.go.jp/nature/onsen/)
-- [国民保養温泉地 | 環境省](https://www.env.go.jp/nature/onsen/area/)
-- [新・湯治の推進 | 環境省](https://www.env.go.jp/nature/onsen/spa/)
-- [温泉法（概要） | 環境省](https://www.env.go.jp/nature/onsen/outline/index.html)
-- [温泉の定義・療養泉 | 環境省](https://www.env.go.jp/nature/onsen/point/index.html)

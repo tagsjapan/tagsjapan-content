@@ -49,10 +49,3 @@ None of this means the emperor system is free of strain. One pressure comes from
 There is also a subtler difficulty. The emperor is expected to show care, gravity, and public feeling while never appearing to cross into political intervention. That is a narrow path. Too little public presence and the institution risks seeming empty. Too much, or too explicit a moral voice, and critics may see a drift beyond constitutional limits. The emperor system therefore depends on discipline not only from politicians and officials, but from the institution itself. Symbolism in Japan is not vague. It is tightly managed.
 
 That is why the emperor system deserves to be understood as more than royal ceremony. It is one of the clearest places where Japan's old and new orders still meet. The throne survived warrior government, imperial modernity, defeat, occupation, and democratic constitutionalism by changing its role while preserving its form. What remains today is not sovereign power. It is something quieter and, in its own way, just as revealing: a public institution whose authority lies precisely in not governing, and whose significance can be felt most clearly in the carefully limited moments when it appears.
-
-Sources:
-- [天皇 | 宮内庁](https://www.kunaicho.go.jp/about/seido/seido01.html)
-- [象徴としての天皇 | 宮内庁きっず](https://www.kunaicho.go.jp/kids/about/syocho.html)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [The Constitution of Japan | Prime Minister's Office of Japan and His Cabinet](https://japan.kantei.go.jp/constitution_and_government_of_japan/constitution_e.html)
-- [Emperor | Britannica](https://www.britannica.com/topic/emperor)

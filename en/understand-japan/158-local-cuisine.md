@@ -47,12 +47,3 @@ That shift creates predictable tensions. The more a dish is asked to stand for a
 The database itself shows what counts as local. It includes Gifu’s `鶏ちゃん（Kei-chan）`, a chicken dish tied to local seasoning habits, alongside Ibaraki’s `かぼちゃのいとこ煮`, a preparation linked to seasonal practice. It also includes Chiba’s `鶏雑炊`, described as appearing in New Year settings, ceremonies, festivals, and gatherings—proof that a dish’s meaning is often the social occasion in which it appears, not just its ingredients. Local cuisine is therefore a map of regional life: how people hosted, saved, celebrated, endured winter, and turned limited resources into a shared table.
 
 `Local Cuisine（地方美食）` helps you understand Japan because it shows how the country builds a “shared Japan” without erasing regional difference. The national story of `Washoku` is sustained by the idea that many places can be meaningfully distinct and still belong to one cultural frame. Yet the contemporary packaging of local cuisine reveals a modern reality: tradition survives not only by being protected, but by being translated—into databases, cultural programs, and sometimes brands. The question Japan keeps negotiating is not whether local cuisine should change. It is who gets to define the change, and how much of the old local thickness can remain when a dish becomes something that must speak for a place.
-
-Sources:
-- [うちの郷土料理（ABOUT） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/about/index.html)
-- [うちの郷土料理（SEARCH&MENU） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/index.html)
-- [農山漁村の郷土料理百選 | 農林水産省](https://www.maff.go.jp/j/nousin/kouryu/kyodo_ryouri/)
-- [「100年フード」とは | 文化庁](https://www.bunka.go.jp/seisaku/shokubunka/foodculture/hyakunenfood/about.html)
-- [B-1 Grand Prix（About）](https://www.b-1grandprix.com/about/)
-- [岐阜県「鶏ちゃん」 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2211/spe11_03.html)
-- [千葉県「鶏雑炊」 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/toridose_chiba.html)

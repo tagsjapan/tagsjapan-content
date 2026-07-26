@@ -46,9 +46,6 @@ The common misunderstanding is to treat Gion like a one-night firework show: arr
 There is also a quieter Gion that many visitors miss because they leave when the loud part is over. Stay overnight and walk early, before the day’s crowds arrive, and you notice how the festival is stitched into Kyoto’s ordinary rhythm: shop shutters rising, street cleaners working, a float crew checking ropes with the calm of people doing a yearly job. Or linger late, after the peak, when the lanterns thin and the city begins to reclaim its intersections. The festival’s power is partly in that ability to swell and recede without pretending it has replaced Kyoto.
 
 In the end, the Gion Festival is not a single story but an argument between time scales: a month-long ritual built from neighborhood labor, framed by a shrine’s history, and consumed by modern tourism at a pace that can be hard on both visitors and residents. If you give it more than an hour—if you see a float up close, follow a detour, and accept that the best view might be a side street rather than the main boulevard—you take away something richer than a parade. You take away a sense of Kyoto as a city that still knows how to reorganize itself around a shared July obligation, even in the heat.
-
-Sources:
-
 - Travel Japan / JNTO, “Gion Festival” https://www.japan.travel/en/spot/83/
 - Travel Japan / JNTO, “Yasaka-jinja Shrine” https://www.japan.travel/en/spot/78/
 - Kyoto Travel, “Gion Matsuri Festival” https://kyoto.travel/en/travel-inspiration/gion-matsuri-festival/

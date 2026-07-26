@@ -52,10 +52,3 @@ Popularity creates an obvious tension: the resource must endure. When a place be
 This is where `New Tōji（新・湯治）` becomes more than a slogan. It is an attempt to re-attach hot springs to a sustainable tempo: walking, rest, food, and local time rather than a single brief soak. The logic is pragmatic. If a town depends only on speed—short stays, quick turnover—it can burn out its infrastructure and thin out its local economy. If it can offer longer rhythms, it may stabilize. The “new” in New Tōji is not nostalgia; it is governance by re-timing.
 
 `Hot Spring（溫泉）` helps you understand Japan because it shows how Japan repeatedly turns natural resources into social routines. Geothermal water becomes a town plan, a bodily etiquette, a hospitality economy, and a set of national statistics. It also shows contradiction: onsen are sold as escape, yet they require regulation; they promise relaxation, yet they are built on rules; they look eternal, yet they survive only through constant repair. In other words, the onsen is both comfort and administration. To understand onsen is to see Japan’s talent for making comfort public—and for managing the costs of that comfort without pretending the resource is limitless.
-
-Sources:
-- [温泉利用状況等について | 環境省](https://www.env.go.jp/nature/onsen/data/)
-- [温泉の保護と利用 | 環境省](https://www.env.go.jp/nature/onsen/)
-- [新・湯治推進 | 環境省](https://www.env.go.jp/nature/onsen/spa/)
-- [温泉法の概要 | 環境省](https://www.env.go.jp/nature/onsen/outline/index.html)
-- [大分県の温泉データ | 大分県](https://www.pref.oita.jp/site/onsen/onsen-date.html)

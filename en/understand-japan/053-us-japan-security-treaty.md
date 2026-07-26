@@ -46,11 +46,3 @@ The system keeps changing because the region keeps changing. Japanese ministries
 Look at concrete places and the abstraction falls away. Yokosuka is both a working city and the home port of the U.S. Seventh Fleet. Futenma, and the long battle over replacement facilities at Henoko, shows how a treaty signed at the state level can become a struggle over reefs, truck traffic, helicopter routes, and local consent. The `2+2` meetings, which sound bloodless on paper, shape real decisions about command coordination, missile defense, and the division of roles in any regional contingency. Even the quieter base towns reveal the same pattern: convenience stores by the gate, protest banners on nearby roads, municipal budgets shaped by land use and central subsidies, and a population asked to live beside strategy.
 
 Listen again to the schoolyard sky in Okinawa and the treaty becomes easier to understand. It is not an abstract pledge floating above politics. It is the enduring bargain of postwar Japan, renewed through ministerial communiques, contested in elections and demonstrations, and felt in the ordinary geography of harbors, apartment blocks, restricted land, and roads leading to guarded entrances. More than seven decades after the first agreement in `1951`, the bargain still defines the country's security posture and the limits of its autonomy. The alliance survives because it answers real fears. It remains controversial because the answer is never free, simple, or evenly shared.
-
-Sources:
-- [US-Japan Security Arrangements | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/area/usa/hosho/taisei.html)
-- [Treaty of Mutual Cooperation and Security between Japan and the United States of America | MOFA](https://www.mofa.go.jp/mofaj/area/usa/hosho/pdfs/jyoyaku.pdf)
-- [US-Japan Status of Forces Agreement | MOFA](https://www.mofa.go.jp/mofaj/area/usa/sfa/pdfs/fulltext.pdf)
-- [Significance of the US-Japan Security System | Ministry of Defense](https://www.mod.go.jp/j/approach/anpo/significant/index.html)
-- [US-Japan Security System | Ministry of Defense](https://www.mod.go.jp/j/approach/anpo/)
-- [Defense of Japan 2025: The Japan-US Alliance | Ministry of Defense](https://www.mod.go.jp/j/press/wp/wp2025/html/n32020000.html)

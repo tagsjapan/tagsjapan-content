@@ -46,9 +46,6 @@ There are also small frictions that matter when you are traveling rather than li
 The mechanics, once understood, are part of the pleasure. You set down your bag. You separate burnables from bottles. You learn where the ash goes. You discover that the real Japanese invention here is not the grill but the predictability. In a country where public spaces are expected to remain usable for strangers, barbecue becomes a way of sharing a resource—heat—without turning it into chaos. The rules aren’t there to kill the mood; they’re there to make the mood possible.
 
 At the end, the grill cools. The trash disappears into its proper categories. The group scatters back toward the station with sunburned faces and the faint scent of charcoal. `Outdoor BBQ` in Japan isn’t a wilderness fantasy. It’s a social device: a way to spend a long midday outside, to cook together, and to see how Japan makes even something as unruly as fire behave politely in public.
-
-Sources:
-
 - Tokyo Metropolitan Park Association, “バーベキュー広場”: https://www.tokyo-park.or.jp/special/bbq/
 - Snow Peak, “手ぶらBBQプラン” (Shinetsu headquarter): https://sbs.snowpeak.co.jp/headquarters/archive/20220726-004770.html
 - Toyosu Gururi Park (official), “バーベキュー”: https://toyosugururi.jp/about/bbq.html

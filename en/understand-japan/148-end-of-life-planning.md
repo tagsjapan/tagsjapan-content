@@ -49,11 +49,3 @@ Marketization solves real problems, and it also creates new ones. Lifetime suppo
 There is also a cultural logic that gives `終活` its distinctive Japanese tone. Research on end-of-life preparation in Japan often notes a recurring motivation: not wanting to burden others. The planning is frequently framed less as self-expression—“this is who I am”—and more as harm reduction: reduce family conflict, reduce administrative chaos, reduce the emotional and financial load on relatives. That motivation can be humane. It can also become a new kind of pressure, where “doing your end-of-life planning correctly” turns into a moral obligation and a consumer market of anxiety.
 
 Seen as a social phenomenon, `End-of-life Planning（終活）` is a lens on how Japan is rewriting responsibility under demographic change. The country is building tools—public campaigns like `人生会議`, institutional guidance for people without family, and a growing service market—to replace what the extended family once did by default. The planning notebook on the shelf is not just stationery. It is evidence that in Japan’s super-aging society, even death has become something that must be organized in advance, with policy, contracts, and community support filling the space where family certainty used to be. The point is not to romanticize planning, but to see what it replaces.
-
-Sources:
-- [人生会議（ACP）紹介 | 厚生労働省](https://www.mhlw.go.jp/stf/web_magazine/closeup/23.html)
-- [人生会議（ACP）特設ページ | 厚生労働省](https://www.mhlw.go.jp/stf/newpage_02783.html)
-- [身寄りがない人への入院・医療意思決定支援 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/miyorinonaihitohenotaiou.html)
-- [高齢者終身サポートサービスの注意喚起 | 消費者庁](https://www.caa.go.jp/policies/policy/consumer_policy/caution/)
-- [都市と地方の高齢者の死生観と終活 | J-STAGE](https://www.jstage.jst.go.jp/article/jhcn/13/2/13_62/_article/-char/ja/)
-- [エンディングノートと死前準備行動に関する研究 | J-STAGE](https://www.jstage.jst.go.jp/article/sagj/9/1/9_43/_article/-char/ja/)

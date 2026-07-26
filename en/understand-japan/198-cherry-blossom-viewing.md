@@ -50,12 +50,3 @@ Two scenes show the range. One is a riverbank park such as `Sumida Park（隅田
 Because the bloom is brief and weather-dependent, hanami also trains a modern kind of attentiveness. People check updates, reschedule gatherings, and adjust plans to match the moving edge of the season. A 2014 issue of *Highlighting Japan* describes hanami as a moment when people pause to watch the flow of life in spring, and the pause is real. Yet it happens inside a highly mediated environment: forecasts, updates, and the collective awareness that the window will close.
 
 `Hanami（花見）` helps you understand Japan because it shows how the country treats seasonality as a collective resource. The blossoms are short-lived, and that brevity creates urgency. Yet the response is not only poetic; it is procedural. Forecasts, updates, tarps, rules, parties, and photographs all work together to produce a shared spring. In Japan, the cherry blossom is not only a symbol. It is a mechanism that turns weather into social time.
-
-Sources:
-- [Cherry Blossoms | Travel Japan (JNTO)](https://www.japan.travel/en/au/experience/cherry-blossoms/)
-- [Enjoy Hanami, Cherry Blossom Viewing | Travel Japan (JNTO)](https://www.japan.travel/en/us/blog/enjoy-hanami-cherry-blossom-viewing-1/)
-- [Hanami | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201404/201404_09_jp.html)
-- [気象庁 さくらの開花（データ）](https://www.data.jma.go.jp/sakura/data/sakura_kaika.html)
-- [気象庁 生物季節観測の情報](https://www.data.jma.go.jp/sakura/data/)
-- [Sumida Park Cherry Blossom Festival | Travel Japan (JNTO)](https://www.japan.travel/en/spot/1688/)
-- [Fuji Cemetery Cherry Blossoms | Travel Japan (JNTO)](https://www.japan.travel/en/spot/186/)

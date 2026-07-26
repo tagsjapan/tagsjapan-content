@@ -47,11 +47,3 @@ Low visibility creates its own disputes. Critics argue about the professionalism
 If national politics is performance and metropolitan politics is strategy, ward politics is governance as paperwork: the work of turning needs into ordinances and budgets, then forcing an administration to explain how it spent the money.
 
 The meeting room scene is easy to overlook, which is exactly the danger. Japan’s democratic legitimacy is not secured only by the Diet or by governors. It is also secured by these small chambers where residents’ lives are translated into line items, and where the daily state is forced, at least occasionally, to answer back.
-
-Sources:
-- [特別区制度の概要 | 特別区長会](https://www.tokyo23city-kuchokai.jp/gaiyo/tokubetsu.html)
-- [都区財政調整制度の概要 | 特別区長会](https://www.tokyo23city-kuchokai.jp/seido/gaiyo_1.html)
-- [区市町村議会議員選挙投票率（統一分） | 東京都選挙管理委員会](https://www.senkyo.metro.tokyo.lg.jp/election/turnout/kugikai-turnout/)
-- [都内選挙日程/データ | 東京都選挙管理委員会](https://www.senkyo.metro.tokyo.lg.jp/election/)
-- [特別区長会の概要 | 特別区長会](https://www.tokyo23city-kuchokai.jp/gaiyo/gaiyo.html)
-- [東京都議会とは | 東京都議会](https://www.gikai.metro.tokyo.lg.jp/outline/about.html)

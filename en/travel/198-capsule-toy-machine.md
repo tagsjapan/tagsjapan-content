@@ -47,9 +47,6 @@ This is where the travel consequences show up. Capsule toys are a time trap. You
 There is also the small matter of waste and luggage. Capsules are plastic, and they multiply quickly. The toy itself may be tiny, but ten tiny toys become a problem in a carry-on. Many experienced travelers open the capsule immediately, keep the figure, and leave the bulky shell behind when there’s a proper place to discard it. Payment is another friction point. Some clusters of machines take electronic money; others are stubbornly coin-driven. The mismatch can be oddly stressful if you haven’t carried cash all day. And duplicates create their own tiny social economy: you notice people swapping with friends, or hovering, deciding whether to do “one more” just to get the missing one.
 
 The best way to treat capsule toys in Japan is as a designed interruption—something you do in the gaps between bigger plans. Ten minutes while waiting for friends. A quick detour on a rainy afternoon. The final half-hour before a train. It helps to choose a machine like you choose food: look at the whole set, decide whether you’d be happy with most outcomes, and walk away if the answer is no. Gachagacha is not deep culture, but it is very real culture: a small, repeatable ritual that turns shopping into play and turns spare time into a souvenir. The capsule pops open in your hands, and for a moment the whole trip feels like that: a machine, a chance, a tiny surprise you didn’t know you were carrying home.
-
-Sources:
-
 - Gashapon US Official, “What is Gashapon?” https://us.gashapon.jp/about/
 - Bandai Namco Holdings, corporate history https://www.bandainamco.co.jp/en/about/history/all.html
 - Bandai Namco Holdings, Integrated Report 2024 feature on Gashapon (store numbers / strategy) https://www.bandainamco.co.jp/en/ir/library/feature05_01_2024.html

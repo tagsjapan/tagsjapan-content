@@ -49,10 +49,3 @@ Places like `Mount Usu（有珠山）` show how eruption memory can be instituti
 The contemporary pressure point is popularity. Volcanic landscapes are often part of national parks and regional economies, which means public access is economically meaningful. When an alert level shifts, the effect is rarely limited to one trail or one viewpoint; it can reorganize transport, work schedules, school activity, and local business expectations in a single announcement. Yet the more a volcano becomes a symbol and a revenue source, the harder it is to manage restriction without political and financial consequences. The temptation is to romanticize the danger—turn volatility into “drama” for consumption. Japan’s more mature stance is the opposite: treat the volcano as a place with rules, and treat the rules as part of what the place is.
 
 `Volcano（火山）` helps you understand Japan because it exposes a recurring national method: take a powerful natural condition, accept that it will not disappear, and build systems that make it livable. JMA definitions, volcano lists, monitoring, and alert levels are not bureaucratic extras. They are the social form of coexistence. They also protect against a common failure mode: treating a volcano as a permanent attraction instead of a changing system that sometimes says “no.” In a volcanic country, “normal life” is not life without disruption; it is life built to absorb disruption without collapsing into denial or panic.
-
-Sources:
-- [活火山とは | 気象庁](https://www.jma.go.jp/jma/kishou/know/kazan/katsukazan_toha/katsukazan_toha.html)
-- [Volcanic Alert Levels | 気象庁](https://www.jma.go.jp/jma/kishou/know/kazan/English/level.html)
-- [日本活火山総覧 Web 版 | 気象庁](https://www.data.jma.go.jp/vois/data/filing/souran/menu_jma_hp.html)
-- [日本の活火山 | 文部科学省](https://www.mext.go.jp/a_menu/kaihatu/jishin/mext_00058.html)
-- [日本活火山一覧 | 国土交通省 (PDF)](https://www.mlit.go.jp/river/toukei_chousa/kasen_db/pdf/2025/2-2-5.pdf)

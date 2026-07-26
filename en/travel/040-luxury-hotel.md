@@ -48,9 +48,3 @@ Still, that quiet can become one of the clearest ways to understand the country.
 That is also why choosing one strong luxury stay is often smarter than scattering the budget across several merely expensive nights. In Japan, quality compounds when there is time to notice it.
 
 At night, when the blackout curtains part and Tokyo or Kyoto or Hokkaido lies beyond the glass in carefully framed silence, the room offers a final lesson. Luxury in Japan is not trying to impress you every minute. It is trying to make it hard for disorder to reach you at all.
-
-Sources:
-- [Luxury Japan, Travel Japan / JNTO](https://www.japan.travel/en/luxury/)
-- [Aman Tokyo](https://www.aman.com/hotels/aman-tokyo)
-- [HOSHINOYA Tokyo](https://hoshinoresorts.com/en/brands/hoshinoya/tokyo/)
-- [Accommodation in Japan, Travel Japan / JNTO](https://www.japan.travel/en/plan/hotels/)

@@ -48,10 +48,3 @@ This is also why Japan sometimes treats convenience stores as semi-public infras
 Yet the model’s strengths have become its controversies. A `24`-hour service standard depends on labor, and labor is scarce. Franchise relationships can become tense when owners and headquarters disagree about staffing and hours, especially when the store is treated as both a private business and a public expectation. Ready-to-eat abundance creates waste; bright lights and refrigeration consume energy; “always open” can become a social demand placed on workers. The system has begun to adapt—more discussion of shorter hours in some locations, more use of self-checkout and automation, and more attention to waste reduction—but the underlying dilemma remains. Japan’s relationship with the `konbini` is therefore ambivalent: dependence mixed with criticism, admiration for operational excellence mixed with anxiety about what the convenience costs.
 
 Understanding the Japanese convenience store is a direct way to understand how Japan makes high-density life workable. The `konbini` sits at the intersection of logistics, finance, franchising, and social habit. It shows how much of Japan’s everyday order is produced not by grand institutions alone, but by small standardized routines repeated across thousands of corners—each store a little box of light, each one helping the country keep moving.
-
-Sources:
-- [コンビニエンスストア統計データ | 日本フランチャイズチェーン協会](https://www.jfa-fc.or.jp/particle/320.html)
-- [セブン-イレブンの歴史 | セブン‐イレブン・ジャパン](https://www.sej.co.jp/company/history/)
-- [サービス一覧 | ローソン](https://www.lawson.co.jp/service/)
-- [サービス | ファミリーマート](https://www.family.co.jp/services.html)
-- [convenience store | Encyclopaedia Britannica](https://www.britannica.com/topic/convenience-store)

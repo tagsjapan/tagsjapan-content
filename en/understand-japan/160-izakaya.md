@@ -47,10 +47,3 @@ The contemporary izakaya is changing because the forces around it are changing. 
 Alcohol still matters, though, and it is part of why the izakaya remains a useful lens on Japan. The National Tax Agency’s materials on `Nihonshu（日本酒）` describe it not only as a beverage but as a regulated product tied to tradition and regional production. Izakaya culture often acts as an entry point into that regionality: local sake, seasonal dishes, and small specialties that carry a prefecture’s name into city neighborhoods. This is another way the izakaya functions as infrastructure. It is a retail channel for place—an everyday conduit that brings regional production and urban consumption into the same room.
 
 To understand `Izakaya（居酒屋）` is to understand how Japan commercializes togetherness. A society that values smooth group life still needs spaces where the group can be made and remade after hours. The izakaya has provided that space by combining a relaxed surface with tight operating logic: shared plates, timed plans, small rituals, and rules that keep the room workable. Its current evolution—under new smoking rules, shifting drinking habits, and a broader range of customers—shows the same pattern Japan often displays elsewhere. The form endures, but it adapts by rewriting the infrastructure underneath the lantern.
-
-Sources:
-- [Dinner at a Japanese Tavern (Izakaya) | JNTO](https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/)
-- [Night Life (Izakaya culture) | JNTO](https://www.japan.travel/de/guide/night-life/)
-- [Nihonshu (Geographical Indication) | National Tax Agency](https://www.nta.go.jp/english/taxes/liquor_administration/02_2.htm)
-- [受動喫煙対策 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000189195.html)
-- [外食・中食産業の振興 | 農林水産省](https://www.maff.go.jp/j/shokusan/eat/121109.html)

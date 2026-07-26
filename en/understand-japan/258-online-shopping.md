@@ -48,12 +48,3 @@ Two ordinary examples show how that arrangement has become social structure. The
 That convenience has costs, and Japan has been forced to name them more directly. Delivery labor becomes more pressured as expectations harden around speed, narrow time windows, and low friction. Packaging grows because the unit of commerce becomes the individual shipment rather than the basket carried home. Fraud and counterfeit goods are not side issues; they shape trust in the system. The National Consumer Affairs Center has repeatedly warned about online shopping troubles, including cases where counterfeit goods arrive and consumers are pushed into paying cash on delivery at the door. In a society that values smooth transactions, these disputes create a different kind of friction: the burden of proof shifts to the consumer, and the “easy order” becomes a complex negotiation over returns, chargebacks, and responsibility.
 
 A final tension sits in the background: the digital divide. Japan is a high‑connectivity society, yet it is also a high‑aging society. When groceries, tickets, and household basics quietly migrate toward app‑based systems, the question is not only who enjoys convenience, but who loses access to ordinary consumption because the interface has changed. Japan’s online shopping story therefore has two meanings at once. On the surface it is about modern retail. Underneath it is about how a society with tight schedules and dense infrastructure turns convenience into something closer to a public utility—then has to decide who the utility is really for.
-
-Sources:
-- [令和6年度電子商取引に関する市場調査の結果を取りまとめました | 経済産業省](https://www.meti.go.jp/press/2025/08/20250826005/20250826005.html)
-- [令和6年度電子商取引に関する市場調査報告書（PDF） | 経済産業省](https://www.meti.go.jp/press/2025/08/20250826005/20250826005-a.pdf)
-- [特定商取引法 | 消費者庁](https://www.caa.go.jp/policies/policy/consumer_transaction/specified_commercial_transactions/)
-- [特定商取引法ガイド | 消費者庁（no-trouble）](https://www.no-trouble.caa.go.jp/)
-- [偽物が届くインターネット通販トラブルで“代引き配達”の利用が増加しています！！ | 国民生活センター](https://www.kokusen.go.jp/news/data/n-20230426_1.html)
-- [「新しい“消費”生活様式」の影響で相談増加！？インターネット通販のトラブルにあらためて注意！ | 国民生活センター](https://www.kokusen.go.jp/news/data/n-20200917_2.html)
-- [Electronic commerce | Encyclopaedia Britannica](https://www.britannica.com/money/e-commerce)

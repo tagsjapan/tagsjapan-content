@@ -48,11 +48,3 @@ That embedded position creates a lasting tension. Cooperation can bring money, a
 So the Japanese `NPO` should not be imagined as a soft alternative to power. It is a form through which civic action becomes institutional, inspectable, and, sometimes, constrained. That is part of its value. By requiring reports, rules, and legal accountability, Japan has tried to convert civic enthusiasm into something that can last past the first surge of outrage or goodwill. The cost is bureaucratic weight. The gain is continuity. The country has effectively decided that social commitment should be able to sit in a ledger as well as in a volunteer's heart.
 
 Look again at that small office with the stamp, the annual report, and the piles of paper waiting to be sorted. The scene can feel far removed from disaster relief, child support, or community care, yet it belongs to the same chain. The public work happens in shelters, kitchens, meeting rooms, and counseling spaces, but it also happens here, where ideals are translated into legal form. That is what the Japanese `Non-profit Organization` really represents: not charity floating free of institutions, but civic energy tough enough to survive the filing deadline and come back to work the next day.
-
-Sources:
-- [Overview of the Specified Nonprofit Corporation System | NPO Homepage](https://www.npo-homepage.go.jp/about/npo-kisochishiki/nposeido-gaiyou)
-- [History of the NPO Law | NPO Homepage](https://www.npo-homepage.go.jp/about/seidokaisei-keii/sokushinhou-koremade)
-- [Trends in Certified and Approved NPO Corporations | NPO Homepage](https://www.npo-homepage.go.jp/about/toukei-info/ninshou-seni?theme=6)
-- [Basic Information on NPOs | NPO Homepage](https://www.npo-homepage.go.jp/about)
-- [NPOs Are a Barometer for a Comfortable and Mature Civil Society | HIGHLIGHTING Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201901/201901_01_jp.html)
-- [Public Interest Corporations and Specified Nonprofit Corporations | Cabinet Office](https://www.cao.go.jp/others/koeki_npo/index.html)

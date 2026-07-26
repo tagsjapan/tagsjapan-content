@@ -49,9 +49,3 @@ The mechanics of eating it are part of the culture. A good yakiniku order is not
 The friction point is that wagyu can be too successful at being itself. Travelers chase the idea of it—“the famous marbling”—and end up ordering more richness than they can enjoy. Another common mismatch is assuming that a restaurant’s use of the word is enough. In a country that cares about labels, you can ask for details without feeling rude. If the menu tells you nothing beyond “wagyu,” that’s information too; it may be a place selling the name more than the meat. The simplest fix is to order less and learn more: share a couple of cuts, try one preparation that’s quick-grilled and one that’s simmered, and leave room for the rest of the trip’s meals instead of trying to compress “all the wagyu” into one night.
 
 When you leave a wagyu meal in Japan, the memory shouldn’t just be the softness. It should be the feeling that someone took beef seriously enough to build vocabulary, categories, and verification around it. That is the real luxury here: not that the bite melts, but that you can trace why it tastes the way it does. Once you see wagyu as a system, you start noticing the same seriousness in everyday places, from grills to supermarket trays.
-
-Sources:
-- [What is Japanese Wagyu?, Wagyu of Japan / JETRO](https://japan-food.jetro.go.jp/wagyu/us/about/index.html)
-- [The pride of Japan, Wagyu beef with its concentrated savoriness, delights the world, Taste of Japan / JETRO](https://japan-food.jetro.go.jp/en/feature/detail/226.html)
-- [Traceability, Wagyu of Japan / JETRO](https://japan-food.jetro.go.jp/wagyu/us/about/index.html#traceability)
-- [Cuts, Wagyu of Japan / JETRO](https://japan-food.jetro.go.jp/wagyu/us/about/index.html#cuts)

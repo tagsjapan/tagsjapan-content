@@ -51,10 +51,3 @@ The core contradiction sits here. A society can become very good at serving one 
 The singles economy, then, is not just a new customer segment. It is the market’s way of cleaning up after demographic change—turning functions that families once absorbed into paid services and administrable procedures. Some of that translation is empowering: it reduces embarrassment and makes solo living comfortable. Some of it is expensive and unevenly accessible. The same society that normalizes the party-of-one seat also has to decide who catches the party of one when illness arrives.
 
 Japan’s solo-designed products and services can look like lifestyle innovation, but they are also a map of social transformation. `Singles Economy（單身經濟）` tells you that Japan’s future is being built around a different default unit of life. The convenience-store tray and the counter seat are not trivial. They are the visible proof that the household has changed—and that both markets and the state are racing to redesign everything that used to assume someone else would be there.
-
-Sources:
-- [単独世帯（一人暮らし）の定義・数 | 総務省統計局](https://www.stat.go.jp/library/faq/faq02/faq02b05.html)
-- [日本の世帯数の将来推計（全国推計）2024年版 | 国立社会保障・人口問題研究所](https://www.ipss.go.jp/pp-ajsetai/j/HPRJ2024/t-page.asp)
-- [日本の世帯数の将来推計（結果表） | 国立社会保障・人口問題研究所](https://www.ipss.go.jp/pp-ajsetai/j/HPRJ2024/hprj2024_gaiyo_kekka1.xlsx)
-- [孤独・孤立対策 | 内閣府](https://www.cao.go.jp/kodoku_koritsu/index.html)
-- [安心・つながりプロジェクト報告（2025年） | 内閣府](https://www.cao.go.jp/press/new_wave/20251105.html)

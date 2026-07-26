@@ -47,9 +47,6 @@ The traveler versions make that logic even clearer. `Welcome Suica`, issued by `
 An `IC card` also quietly shapes where you stay and how you plan your days. If you are relying on dense urban rail travel, an easy tap system makes it more realistic to book a hotel one or two stations away from the obvious center, because the friction of moving in and out drops. It makes quick detours easier. It makes last-minute convenience-store dinners easier. It makes station-based travel feel normal enough that you stop treating every transfer as a formal event. But it also encourages a useful discipline: before a long intercity day, check whether the card covers the trip you have in mind or whether you should buy a proper ticket. The travelers who get into trouble are not the ones who fail to buy a card. They are the ones who think the card has made planning unnecessary.
 
 That is why the `IC Travel Card` belongs in any serious account of travel in Japan. It is a modest object, not much to look at, and in a few cities it is now disappearing into phones. Yet it remains one of the clearest examples of the country's practical elegance. Japan does not ask you to understand every railway company on day one. It gives you a card, asks you to tap, and lets the city teach itself in stages.
-
-Sources:
-
 - PASMO Visitors Guide: https://www.pasmo.co.jp/visitors/en/
 - Welcome Suica, JR East: https://www.jreast.co.jp/multi/en/welcomesuica/welcomesuica.html
 - Nationwide Mutual Usage Service, PASMO: https://www.pasmo.co.jp/about/service/

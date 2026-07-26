@@ -49,10 +49,3 @@ That shift reveals something deep about Japan's place in the world. `Trading Nat
 Understanding the phrase helps explain why Japanese diplomacy often sounds economic even when it is strategic, why industrial policy bleeds into security policy, and why exchange-rate swings produce arguments far beyond finance. The country is not simply export-oriented. It is structurally entangled with the world economy in ways that touch food prices, electricity bills, factory investment, and foreign policy posture all at once.
 
 That is why the image of the trading nation still holds. It is not a relic of the 1960s. It is a continuing description of how Japan manages dependence without accepting passivity: by buying what it cannot provide for itself, selling what it can make better than many rivals, and constantly renegotiating the terms on which that exchange remains possible. It also explains why shipping disruptions, dollar swings, and sanctions regimes can feel less like foreign news than like domestic policy shocks. In a trading nation, the border is not just a line on a map. It is an economic membrane that must keep working every day. When that membrane tightens, household prices and industrial strategy move almost immediately. That is why 1985 and 2024 can sit inside the same story of dependence, adjustment, and political timing at home, too, every day.
-
-Sources:
-- [Time Series Data - Trade Statistics of Japan | Ministry of Finance / Customs](https://www.customs.go.jp/toukei/suii/html/time_e.htm)
-- [Japanese Trade and Investment Statistics | JETRO](https://www.jetro.go.jp/en/reports/statistics.html)
-- [White Paper on International Economy and Trade 2024 | METI](https://www.meti.go.jp/english/report/data/wp2024/wp2024.html)
-- [Economic Diplomacy | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/policy/economy/index.html)
-- [Diplomatic Bluebook 2025: Economic Diplomacy | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/policy/other/bluebook/2025/en_html/chapter3/c030301.html)

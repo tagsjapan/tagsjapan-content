@@ -51,11 +51,3 @@ Time is part of that problem. UNESCO notes that bunraku performances were once c
 The repertory shows what is at stake. Works such as `Sonezaki Shinju（曾根崎心中）`—Chikamatsu’s tragedy of love and obligation—are not about spectacle. They are about social forces: debts, duty, reputation, and the narrow space left for private feeling. In bunraku, those forces are amplified by the very structure of performance. The story is literally carried by a voice trained to inhabit multiple characters, by an instrument that can sound both tender and brutal, and by a puppet that makes the body’s hesitation visible.
 
 `Bunraku（文樂）` helps you understand Japan because it shows a cultural form built on disciplined teamwork rather than on an individual star alone. It also shows how urban merchant culture shaped art: bunraku’s social dramas are inseparable from the moral economy of Osaka life. And it shows how Japan preserves heritage not only by declaring it valuable, but by building institutions—venues, training, beginner programs—that try to keep a complex performance form readable for new generations. In bunraku, the puppet is the surface. The system underneath is what keeps it alive, and keeps it readable for new listeners, again and again.
-
-Sources:
-- [Invitation to BUNRAKU (Introduction) | Japan Arts Council](https://www2.ntj.jac.go.jp/unesco/bunraku/en/introduction/index.html)
-- [Invitation to BUNRAKU (Performers) | Japan Arts Council](https://www2.ntj.jac.go.jp/unesco/bunraku/en/performer/index.html)
-- [Ningyo Johruri Bunraku puppet theatre | UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/ningyo-johruri-bunraku-puppet-theatre-00064)
-- [Bunraku at the National Bunraku Theatre | Japan Arts Council](https://www.ntj.jac.go.jp/en/bunraku/)
-- [National Bunraku Theatre (Osaka) | Japan Arts Council](https://www.ntj.jac.go.jp/en/theatre/bunraku.html)
-- [Ningyo-joruri BUNRAKU (Overview) | Japan Arts Council](https://www2.ntj.jac.go.jp/dglib/contents/learn/edc26/aramashi/en.html)

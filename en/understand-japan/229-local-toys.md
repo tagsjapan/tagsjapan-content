@@ -51,10 +51,3 @@ This reclassification brings a contemporary contradiction. Preservation can keep
 Yet even in simplified form, local toys remain useful for understanding Japan because they reveal how meaning is layered into ordinary material culture. Japan often embeds belief and social memory into everyday objects rather than isolating belief in formal doctrine. A local toy can sit in a kitchen or on a shop counter and still function as a reminder: of illness once feared, of labor once organized, of a place once known for a particular animal or legend. The object asks to be held, not only looked at. That bodily closeness is part of the point.
 
 `Local Toys（鄉土玩具）` help you understand Japan because they show a distinctive Japanese way of storing culture: in small, repeatable forms that can move through households, markets, festivals, and museums without losing all their seriousness. They are not “mere souvenirs,” and they are not pure antiques. They are compressed social stories—wishes and warnings, craft and place—built to survive handling.
-
-Sources:
-- [About | Japan Toy Museum](https://japan-toy-museum.org/about)
-- [Exhibition | Japan Toy Museum](https://japan-toy-museum.org/exhibition)
-- [郷土玩具の世界（展覧会） | 大阪歴史博物館](https://www.osakamushis.jp/news/2025/kyodogangu.html)
-- [伝統的工芸品 こけし | 宮城県](https://www.pref.miyagi.jp/soshiki/shinsan/01kokesi.html)
-- [もっと 知って ふくしま！ 赤べこ篇 | 福島県](https://www.pref.fukushima.lg.jp/site/movie-now/ch-shitte-akabeko.html)

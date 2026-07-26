@@ -49,8 +49,6 @@ The system has had to keep changing because the risk landscape has moved. Japan�
 Still, the numbers force an uncomfortable honesty. Japan is no longer in the 30,000-per-year peak, yet suicide remains a persistent reality in the 20,000 range. That persistence fuels a familiar dispute inside prevention work. If the system concentrates on crisis response—catching people downstream—it risks becoming an endless emergency service. If it reaches upstream toward work culture, income insecurity, and loneliness, it enters territory that is politically harder and slower to change. Suicide prevention in Japan lives inside that tension: the urgent need to answer tonight’s call, and the long need to reshape the conditions that produce so many nights like it.
 
 In the end, Japan’s approach is a kind of social self-portrait. A country that prizes order and endurance has had to admit that endurance is not always enough. It has tried to translate private despair into public responsibility without turning it into a cold metric. The ring in that late-night office matters for a simple reason: answering is not a guarantee of safety, but it is proof that the person has not been left alone with the worst day of their life.
-
-Sources:
 - e-Gov Law Search, Basic Act on Suicide Countermeasures (自殺対策基本法)
 - Ministry of Health, Labour and Welfare (MHLW), suicide countermeasures portal (自殺対策)
 - Government of Japan, Suicide Countermeasures Outline (自殺総合対策大綱)

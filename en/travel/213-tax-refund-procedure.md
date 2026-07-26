@@ -47,9 +47,6 @@ The official framework behind the counter is stricter than its smooth presentati
 There are practical mistakes worth avoiding. Do not assume every attractive shop offers the procedure. Do not buy first and then hope the passport can be dealt with afterward. Do not use an old blog post to interpret a `2026` purchase when the rules are literally in the middle of reform. And do not overlook the luggage consequence. The end of the international-shipping loophole means shopping earlier in the trip may create a week of unnecessary burden. A tax-free purchase that saves money at the register can still be expensive in effort if it has to be hauled from `Kyoto` to `Kanazawa` to `Tokyo` before departure. The better strategy is often to treat shopping like departure logistics, not like impulse sightseeing.
 
 In the end, Japan's tax refund procedure says something larger about the country. It turns a commercial incentive into a structured travel ritual, with dates, documents, and departures all aligned. Hand over the passport, listen carefully, keep the goods in order, and remember that the rule operating on your trip is the one tied to the calendar, not the one living in someone's outdated shopping guide. It is a shopping system that quietly rewards travelers who think about the last day of the trip before they reach the first cashier. The benefit may be measured in yen, but the real skill it asks for is attentiveness. In Japan, even bargain hunting works best when you respect the timetable.
-
-Sources:
-
 - Japan's Tax Exemption, Travel Japan / JNTO: https://www.japan.travel/en/plan/japans-tax-exemption/
 - Changes Are Coming to Tax-Free Shopping in Japan, Travel Japan / JNTO: https://www.japan.travel/en/ca/news/changes-are-coming-to-tax-free-shopping-in-japan/
 - Notice to Foreign Travelers who purchase Tax-Free Goods, National Tax Agency: https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/pdf/explanation_eng.pdf

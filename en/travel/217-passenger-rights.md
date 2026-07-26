@@ -49,10 +49,3 @@ There is, however, something quietly reassuring about the Japanese approach. The
 That is why passenger rights belong in travel writing and not just in legal summaries. A trip through Japan is often built on trust in precision, and when precision fails for weather, maintenance, or traffic reasons, the next precision available is the written remedy. Somewhere after the announcement board changes, the useful traveler stops asking who is to blame and starts asking a more Japanese question: which rule applies here, and what can it do for me now?
 
 The answer is rarely glamorous, but it can save an entire day. A certificate may help explain a missed appointment. A surcharge refund may make a costly reroute slightly less painful. A no-fee rebooking can keep the rest of the itinerary standing. Passenger rights in Japan are therefore less about winning an argument than about preserving continuity. They are tools for keeping the trip intact after the timetable breaks, and travelers who understand that practical purpose usually come away feeling that the system, while strict, was at least built to be used.
-
-Sources:
-- [Delay Certificate, JR East](https://traininfo.jreast.co.jp/delay_certificate/e/index.aspx)
-- [Ticket Exchange and Refund Policy, JR East](https://www.jreast.co.jp/en/multi/ticket/changes.html)
-- [Refunds and Rebooking, ANA](https://www.ana.co.jp/en/eur/plan-book/support/refunds-and-rebooking/)
-- [Transfer and Refunds Due to Aircraft Maintenance, ANA Domestic Flights](https://www.ana.co.jp/en/my/guide/reservation/refund/domestic/aircraft/)
-- [Changes/Refunds When Flight Delays or Cancellations Are Expected, ANA](https://www.ana.co.jp/en/jp/guide/reservation/refund/domestic/weather-nocharge-guide/)

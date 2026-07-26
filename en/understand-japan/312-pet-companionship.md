@@ -50,8 +50,6 @@ Disaster turns the same question into a public conflict. After the 2011 earthqua
 There are also ethical tensions. As pets are increasingly anthropomorphized—treated as children, marketed as lifestyle, dressed and styled for social media—animal welfare can become secondary to human projection. A booming pet economy can hide uncomfortable realities: irresponsible breeding, abandonment, uneven access to veterinary care, and the quiet inequality of who can afford to keep an animal “like family.” The language of companionship can be sincere, and still fail the animal if it turns into consumption without responsibility.
 
 Pet Companionship helps a reader understand Japan because it is a mirror of social change. It shows a family model loosening from traditional forms and re-forming around new kinds of dependence and care. It also shows Japan’s characteristic move of institutionalizing emotion: turning private bonds into something that requires guidelines, services, and coordination across housing, disaster management, and welfare. The cat in the apartment is a small scene, but it belongs to a bigger question. In an aging, more solitary Japan, can the systems of everyday life catch up to the relationships people actually live with?
-
-Sources:
 - Ministry of the Environment (Japan), disaster preparedness and response guidance for people with companion animals
 - Ministry of the Environment (Japan), animal welfare and management materials
 - Japan Pet Food Association, surveys on dog and cat ownership in Japan

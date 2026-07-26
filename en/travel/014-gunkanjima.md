@@ -46,9 +46,6 @@ The most revealing details are often not the broken stairwells that photographer
 There is also a quiet ethical tension here. Gunkanjima is often marketed through its cinematic surface, and there is no use pretending that the surface is not powerful. The broken facades, the sea wall, the enclosed skyline do have a severe beauty. But a traveler who stays only with that beauty misses the harder question of what is being admired. This is not merely an atmosphere piece from another century. It is a site bound to industrial labor and to the costs of Japan's rise as a modern nation. That is why the island is stronger when paired with context, whether through Nagasaki's industrial history or through careful reading before boarding the boat.
 
 By the time you return to the harbor, the island has usually shrunk back into its outline. That final view can seem almost too neat, a black ship shape on water. Yet what stays with many visitors is not the nickname or the photograph, but the mismatch between scale and weight: a tiny island, a population of thousands, a mine closed in 1974, tourism resumed in 2009, world heritage status in 2015. Few places in Japan turn dates and numbers into something so bodily immediate. The sea keeps Gunkanjima separate, but it also keeps drawing the rest of Japan's modern story toward it.
-
-Sources:
-
 - Travel Japan / JNTO, "Hashima (Gunkanjima)" https://www.japan.travel/en/spot/752/
 - Travel Japan / JNTO, "Nagasaki" https://www.japan.travel/en/destinations/kyushu/nagasaki/
 - UNESCO World Heritage Centre, "Sites of Japan's Meiji Industrial Revolution" https://whc.unesco.org/en/list/1484/

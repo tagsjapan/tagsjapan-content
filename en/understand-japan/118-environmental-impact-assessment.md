@@ -51,11 +51,3 @@ In the 2020s, the system has been pulled into a new front line: renewable energy
 Infrastructure projects remain another major arena. Roads, airports, rail extensions, and port development can reshape noise, groundwater, and community boundaries in ways that are not visible until the assessment documents are opened and the hearings begin. In these cases, “environmental” is not only about wildlife. It is also about everyday life: sleep, vibration, traffic, and the long-term shape of a place.
 
 To understand Japan, it helps to see environmental impact assessment as a signature technique of governance: turning political conflict into a slow, document-driven process that produces accountability through disclosure. The system is imperfect, and it can be frustratingly opaque. Yet it is one of Japan’s main answers to a recurring modern problem—how to build without pretending that the costs do not exist. It is Japan’s way of demanding an answer on the record before the cranes arrive.
-
-Sources:
-- [Environmental Impact Assessment Information Support Network | Ministry of the Environment](https://www.env.go.jp/policy/assess/)
-- [Environmental Impact Assessment Act | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=409AC0000000081)
-- [On the 2011 Amendment to the Environmental Impact Assessment Act | Ministry of the Environment](https://www.env.go.jp/press/13872.html)
-- [Environmental Impact Assessment System Overview (PDF) | Ministry of the Environment](https://www.env.go.jp/content/900508684.pdf)
-- [Example: Ministerial Opinion on a Wind Power Project | Ministry of the Environment](https://www.env.go.jp/press/press_01864.html)
-- [Japan’s EIA System and Citizen Participation (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/kankyo/34/4/34_271/_article/-char/ja/)

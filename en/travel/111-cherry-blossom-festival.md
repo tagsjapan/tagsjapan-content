@@ -47,9 +47,6 @@ Farther north, `Hirosaki` offers a different scale and a different mood. The off
 Kyoto, meanwhile, makes the festival feel older without making it simpler. The `Kyoto City Tourism Association` folds spring into a set of routes that braid temples, gardens, and riverside paths, and the festival becomes an exercise in choosing atmosphere. You can place yourself in a crowded temple approach, or you can look for a quieter canal walk where the blossoms feel like they belong to the neighborhood rather than to the internet. The friction point here is not just crowds but timing. Some of Kyoto’s best spring scenes live in narrow streets and busy transit corridors. A late start can mean a lovely plan that collapses into standing-room buses and the slow irritation of being rushed.
 
 If the cherry blossom festival has a single practical message, it is this: don’t bet your trip on one perfect photograph. Treat the bloom as a moving target and the festival as a set of choices. Book lodging with flexible terms if you can. Keep one indoor backup for rainy afternoons. See blossoms once in daylight and once after dark if you want to understand why Japan bothers with night viewing at all. And when you miss the “best day,” notice how quickly the country moves on without bitterness. A park that was packed yesterday is quiet today, petals gather in the gutter like pale confetti, and the next train leaves on time. The festival does not end with a grand finale. It ends the way spring often does: by slipping away while you are already planning the next stop.
-
-Sources:
-
 - Travel Japan / JNTO, “Cherry Blossoms in Japan” — https://www.japan.travel/en/see-and-do/cherry-blossom-forecast-2026/
 - GO TOKYO, “Springtime in Tokyo” — https://www.gotokyo.org/en/story/guide/spring-time-in-tokyo/index.html
 - Hirosaki Tourism Association, “Hirosaki Cherry Blossom Festival” — https://www.hirosaki-kanko.or.jp/en/details.html?id=CNT00405301104931331

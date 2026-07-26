@@ -49,11 +49,3 @@ Concrete cases show how sakura becomes infrastructure. The JNTO profile of Hiros
 Today, sakura sits inside modern pressures that are hard to ignore. The blossoms are now forecast, mapped, and archived as data, which makes seasonal change more measurable and more discussable. Sakura is also a major driver of crowd concentration in public space, which forces cities and parks to manage traffic, litter, and safety without turning the season into a purely commercial event. The cultural power of sakura creates its own management problems: how do you keep the flower a shared public pleasure rather than a private commodity or a stressed civic burden?
 
 `Sakura（桜）` helps you understand Japan because it shows how nature can be turned into social time. The flower’s meaning is not only poetic; it is operational. It coordinates school starts and workplace greetings, it anchors local pride and national media rhythms, and it reveals the tensions between biodiversity and a standardized national image. If you want to see how Japan makes a season into a public emotion, you can start with sakura—not as a symbol floating above reality, but as a plant whose bloom dates and varieties push people into the same calendar, year after year.
-
-Sources:
-- [Cherry Blossoms | JNTO](https://www.japan.travel/en/au/experience/cherry-blossoms/)
-- [History of Japan’s Unique Cherry Blossom Species and Flower-Loving Culture | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202404/202404_00_en.html)
-- [Kumano-zakura | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202404/202404_04_en.html)
-- [Ryukyu Kanhi-zakura Cherry Blossoms | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202404/202404_06_en.html)
-- [Hirosaki Park Cherry Blossoms | JNTO](https://www.japan.travel/en/spot/654/)
-- [Sakurayama Park | JNTO](https://www.japan.travel/en/spot/1505/)

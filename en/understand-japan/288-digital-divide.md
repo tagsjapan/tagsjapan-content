@@ -51,8 +51,6 @@ There is a contradiction at the heart of the effort. Digitalization is often jus
 Scams and security raise the stakes. Learning to use digital services and learning to protect oneself are intertwined, especially for people new to online banking or official portals. If a resident’s first strong digital experience is a fraud attempt, the rational response may be retreat: avoid online procedures entirely, even when the alternatives are shrinking. The divide then widens not because technology is unavailable, but because trust has collapsed.
 
 Digital Divide, in Japan, is a way of seeing the country’s modernization pressure in miniature. Japan wants to digitize because it must, yet it cannot digitize by simply declaring “online is convenient.” Convenience becomes a gate when it replaces, rather than complements, human entry points. The most honest measure of progress may be mundane: whether that older resident at the municipal counter can complete the same task as everyone else without being shamed, rushed, or quietly pushed out of the system.
-
-Sources:
 - Ministry of Internal Affairs and Communications (MIC), Communications Usage Trend Survey (通信利用動向調査)
 - MIC, Digital Utilization Support Promotion Program (デジタル活用支援推進事業)
 - Digital Agency (Japan), digital-society formation plans and priority programs

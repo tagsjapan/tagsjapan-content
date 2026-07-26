@@ -46,9 +46,6 @@ Mechanically, canoeing is a planning activity more than it looks. Weather and wi
 The friction point is that the experience requires cooperation. You may have to move at the group’s pace. You may have to listen more than you talk. If you expected a “quick activity” that delivers a photo in thirty minutes, you might feel impatient. The better expectation is slower: a couple of hours of quiet movement that changes how you hold your attention. The other practical friction is physical. Even gentle paddling uses unfamiliar muscles, and the best trips are the ones where you treat the effort as part of the memory rather than a problem to be minimized.
 
 At the end, when you pull the canoe onto shore and the water stops carrying you, the landscape can feel oddly louder. Your arms feel used in a pleasant way. You notice wind in reeds, distant traffic, the chatter of other visitors. The boat gave you a temporary silence, a way of entering Japan that doesn’t rely on viewpoints built for crowds. That’s why canoeing belongs in a travel itinerary here. Japan’s famous scenes are often framed from land. The canoe lets you frame them from water, quietly, with just enough effort that you feel you earned the view.
-
-Sources:
-
 - Kayaking and Canoeing, Travel Japan / JNTO: https://www.japan.travel/en/au/experience/kayaking-and-canoeing/
 - Canoeing among Okinawa’s Mangroves, Travel Japan / JNTO: https://www.japan.travel/en/my/story/canoeing-among-okinawas-mangroves/
 - Lake Shikaribetsu, Travel Japan / JNTO: https://www.japan.travel/en/spot/755/

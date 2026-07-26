@@ -49,9 +49,6 @@ What Japan often does better than expected is reduce the number of times parents
 Season and weather influence this more than many first-time visitors expect. In July and August, heat turns a short uncovered walk into a serious planning issue for families with babies. In the rainy season, a department store with a nursing room and several food options can be more valuable than a famous view. During winter illumination season, stroller routes and indoor warm-up spots become as important as the display itself. Japan's family services are most helpful when parents treat them as part of route design rather than emergency rescue. The more precisely the day is paced, the more room there is for the child to have an actual good time.
 
 At its best, Japan's child-friendly service culture feels less like special treatment than like a quiet acknowledgment that small children are travelers too. A nursing room behind a department-store corridor, a stroller route through a station concourse, a family rest area at the airport, a changing table where you hoped there might be one: none of these becomes the story of the trip, but together they make the story possible. For families, that is often the difference that matters most.
-
-Sources:
-
 - Travel Japan / JNTO, "Traveling With Children" — https://www.japan.travel/en/plan/traveling-with-children/
 - JNTO FAQ, "Accessibility in Japan" — https://faq.japan-travel.jnto.go.jp/en/guide/accessibility-in-japan/
 - Tokyo Metro, "Safety and Comfort Measures" — https://www.tokyometro.jp/lang_en/corporate/safety/index.html

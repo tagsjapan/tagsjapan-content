@@ -51,11 +51,3 @@ Historic theaters keep the longer story visible. `Kanamaruza（金丸座）`, bu
 It also helps to remember that kabuki was never designed as a temple art. In the Edo period it was tied to urban consumer culture: actor stardom, recognizable role types, fashionable gestures, and a public that knew how to respond. That popular energy is part of kabuki’s identity, and it is also what can be lost when the form is presented only as “heritage.” UNESCO inscription and national institutions help protect technique, but protection can drift into sanctification if the audience no longer feels entitled to be loud, emotionally invested, and fluent in the codes. Beginner programs and audio guides are, in that sense, not only hospitality. They are attempts to rebuild literacy so that the form can remain a living part of city culture rather than a preserved emblem.
 
 `Kabuki（歌舞伎）` is therefore a sharp lens on Japan. It shows how a popular urban art can be elevated into heritage without losing the need to sell tickets. It shows how tradition is maintained through a mix of technique and institution—lineage, theaters, training, and audience cultivation. And it shows a recurring Japanese strategy: keep the old form alive by making it usable in the present, even when that requires new explanations, new technologies, and new kinds of welcome. Kabuki does not survive by being protected from time. It survives by performing inside time.
-
-Sources:
-- [Invitation to KABUKI (Introduction) | Japan Arts Council](https://www2.ntj.jac.go.jp/unesco/kabuki/en/introduction/index.html)
-- [Invitation to KABUKI (Features) | Japan Arts Council](https://www2.ntj.jac.go.jp/unesco/kabuki/en/feature/index.html)
-- [Kabuki theatre | UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/kabuki-theatre-00163)
-- [Kabukiza | JNTO](https://www.japan.travel/en/spot/1729/)
-- [Theater in Japan | JNTO](https://www.japan.travel/en/guide/theater/)
-- [Discover KABUKI 2025 | Japan Arts Council](https://www.ntj.jac.go.jp/en/theatre/national_theatre/2025/discover_kabuki_202507/)

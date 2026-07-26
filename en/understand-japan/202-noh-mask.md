@@ -50,10 +50,3 @@ For that reason, the mask cannot be reduced to museum craft. It is a tool inside
 The contemporary risk is that the Noh mask becomes an exportable icon. People encounter masks as merchandise, design motifs, or “mysterious Japanese faces” long before they see how they work on stage. Institutions respond to that gap by explaining basics—what the mask is, how the stage supports masked movement, why expression changes with angle. The Japan Arts Council’s public-facing introductions and the UNESCO materials are part of that effort: they treat the mask as a working component of a living performance system, not as a freestanding sculpture. The goal is not to make Noh ordinary. It is to keep the mask attached to its job.
 
 `Noh Mask（能劇面具）` helps you understand Japan because it reveals an aesthetic that treats limitation as power. By restricting facial expression, it forces meaning into posture, timing, and space. By narrowing vision, it builds a stage that turns geography into technique. And by preserving a dense classification system—`60` types becoming `200` plus in practice—it shows how a “traditional” art can be both codified and alive. The fixed face is not a constraint on emotion. It is the method.
-
-Sources:
-- [Masks | the-noh.com](https://www.the-noh.com/en/world/mask.html)
-- [Introduction | Invitation to NOHGAKU (UNESCO)](https://www2.ntj.jac.go.jp/unesco/noh/en/introduction/)
-- [National Noh Theatre (Tokyo) | Japan Arts Council](https://www.ntj.jac.go.jp/en/theatre/noh/)
-- [National Noh Theatre | Travel Japan (JNTO)](https://www.japan.travel/en/spot/1667)
-- [Nohgaku theatre | UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/nohgaku-theatre-00012)

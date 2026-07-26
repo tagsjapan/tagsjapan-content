@@ -49,10 +49,3 @@ The technique itself shapes the ecology. Ama divers work without mechanical brea
 This is also why the contemporary debate is so sharp. As ama becomes a “heritage,” it can be made visible through branding and curated narratives—Mie’s “`海女もん`” efforts are one example of turning local products and identity into an organized public-facing frame. Visibility can help, especially when recruitment and local income are under pressure. Yet visibility carries a cost: it can flatten a working life into an image—white clothing, whistles, a timeless village—while obscuring the realities of income instability, physical strain, and the fact that many ama today work in wetsuits and navigate a modern economy.
 
 Ama divers matter for understanding Japan because they sit at a crossroads of themes the country keeps returning to: women’s labor outside the modern corporate model, community-based resource management, and the state’s growing habit of turning local lifeways into cultural assets. The ama story is not only about preserving a past. It is about what happens when a society recognizes that some of its most distinctive “culture” is actually an economic practice carried by aging workers. The question Japan is quietly asking is whether heritage can remain alive as work, not only as narrative.
-
-Sources:
-- [海女（Ama）に出逢えるまち 鳥羽・志摩 | 文化庁 日本遺産](https://japan-heritage.bunka.go.jp/ja/stories/story073/)
-- [海女習俗（県指定無形民俗文化財） | 三重県教育委員会](https://www.pref.mie.lg.jp/common/04/000063473.htm)
-- [鳥羽・志摩の海女漁の技術（動画） | 三重県](https://www.pref.mie.lg.jp/MOVIE/v1005300001.htm)
-- [海女の一日（動画） | 三重県](https://www.pref.mie.lg.jp/MOVIE/005964.htm)
-- [海女もん | 三重県（水産資源管理課）](https://www.pref.mie.lg.jp/SUISAN/HP/m0114000010.htm)

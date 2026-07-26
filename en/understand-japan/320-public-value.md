@@ -49,8 +49,6 @@ Measuring public value is difficult. Some outcomes can be counted—waiting time
 Public Value helps a reader understand Japan because it names the country’s emerging legitimacy problem in plain terms. Japan’s public sector is being asked to deliver more personalization and more continuity with fewer people, tighter budgets, and faster technological change. Digital government can help, but it can also exclude, and exclusion is a value decision whether or not it is admitted. Public value language forces the admission: that administration is not only process. It is a moral and social architecture.
 
 And the concept has a final usefulness: it explains why public services are often noticed only when they fail. A bus that runs on time disappears into routine. A website that works disappears into routine. Disaster information that arrives reliably disappears into routine. The moment they disappear, public value becomes visible. Japan’s challenge is to make that visibility arrive earlier—before a service collapses, before trust collapses, before a community’s options quietly narrow.
-
-Sources:
 - Digital Agency (Japan), Mission / Vision / Values materials
 - Digital Agency (Japan), Service Design materials
 - Digital Agency (Japan), User-centered guidebook for administrative services materials

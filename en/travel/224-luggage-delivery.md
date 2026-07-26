@@ -49,9 +49,6 @@ The service has a deeper travel consequence as well. It subtly reorders what fee
 There is also a psychological shift that first-time users notice almost immediately. Once the large bag is gone, Japan's urban scale feels different. Stairs are no longer negotiations. A side visit to a market or temple on the way to the hotel becomes plausible. A transfer through Tokyo Station feels less like a test of stamina and more like part of the journey. That is why luggage delivery has become such a revealing piece of Japanese travel culture. It reflects an understanding that hospitality is not only about the room waiting at the end, but about the burden carried between one place and the next.
 
 That is why the service leaves such a lasting impression on first-time visitors. It feels both ingenious and oddly obvious, as though someone finally decided that public-transport travel should not require dragging your entire wardrobe through every station in the country. A suitcase disappears into a counter at Narita or a hotel desk in Kyoto, and the next train becomes easier to board, the next walk easier to enjoy. In Japan, that small logistical grace can reshape the tone of the whole journey.
-
-Sources:
-
 - Travel Japan / JNTO, "Hands-Free Travel" — https://www.japan.travel/en/plan/hands-free-travel/
 - Yamato Transport, "Traveling to Japan / Hands-Free Travel" — https://www.global-yamato.com/en/hands-free-travel/
 - JAL ABC, "Hands-Free Travel" — https://www.jalabc.com/en/hands-freetravel/

@@ -47,9 +47,3 @@ The friction, naturally, comes when travelers mistake these trains for ordinary 
 What they offer in return is one of the country's most distinctive forms of slow movement. A road trip lets you stop where you wish, but it asks you to drive. A local train gives you authenticity, but not always comfort or narrative shape. A sightseeing train gives you a curated interval in which the landscape has been given room to perform. That sounds theatrical because it is theatrical. The best ones know where the river broadens, where the station architecture matters, where the sake should be poured, where the mountains deserve a pause. They are not neutral instruments. They are regional pride, carefully timed. They also give travelers a useful excuse to remain in a region one night longer than pure efficiency would justify.
 
 The practical advice is simple enough. Treat a sightseeing train as an event, not a transfer. Reserve early in peak foliage, blossom, or holiday seasons. Check whether the route justifies a round trip or whether it works better as one leg of a larger itinerary. Read the arrival logistics before you fall in love with the photos. If there is a final bus from the arrival station, or a restaurant booking that depends on exact timing, build in more slack than you would for an ordinary train day. Then, once you are seated, do the one thing modern travel rarely encourages: stop optimizing. In Japan the sightseeing train is the clearest reminder that a rail journey can still ask not how fast you are moving, but whether you are paying attention.
-
-Sources:
-- [Scenic Railway Journeys, Travel Japan / JNTO](https://www.japan.travel/en/scenic-railways/)
-- [Traveling by Rail, Travel Japan / JNTO](https://www.japan.travel/en/guide/traveling-by-rail/)
-- [Japan Local Railways, Travel Japan / JNTO](https://www.japan.travel/en/plan/getting-around/other-local-railways/)
-- [Sagano Scenic Railway, Travel Japan / JNTO](https://www.japan.travel/en/spot/73/)

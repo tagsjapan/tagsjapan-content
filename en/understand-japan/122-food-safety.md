@@ -49,11 +49,3 @@ Traceability adds another layer: the desire not only to check a product at the e
 None of this eliminates conflict. Food risks are not only technical; they are communicative. After `2011`, for example, debates over inspection regimes and regional trust around radioactive substances in food showed how numbers alone do not settle an argument. Risk communication is not simply the release of data; it is the slow rebuilding of credibility, and credibility is uneven across regions, generations, and political attitudes. Japan’s system is dense, but density also creates expectations: when people are used to detailed labels and active oversight, the tolerance for ambiguity becomes low.
 
 Food safety is a useful lens for understanding Japan because it reveals a style of modern order that is both meticulous and institutional. The convenience store label is not a national character trait printed on plastic. It is the surface of a system that separates roles, writes standards, monitors flows, and rehearses failure through recall. In Japan, “safe to eat” is not a slogan. It is an ongoing administrative achievement—maintained, revised, and argued about, one small line of text at a time.
-
-Sources:
-- [食品安全基本法とリスク分析 | 食品安全委員会](https://www.fsc.go.jp/policy/basic_law.html)
-- [食品安全委員会 | 内閣府](https://www.fsc.go.jp/)
-- [輸入食品監視指導計画 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/index.html)
-- [食品表示 | 消費者庁](https://www.caa.go.jp/policies/policy/food_labeling/)
-- [トレーサビリティ制度（牛・米） | 農林水産省](https://www.maff.go.jp/j/syouan/seisaku/trace/)
-- [日本の食品安全ガバナンスの展開 | J-STAGE](https://www.jstage.jst.go.jp/article/jafpos/30/1/30_15/_article/-char/ja/)

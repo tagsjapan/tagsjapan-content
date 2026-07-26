@@ -45,13 +45,3 @@ The contradictions show up when trust is mistaken for safety or comfort. Rule-ba
 A high-trust society is not one where nothing goes wrong. It is one where the wrong is expected, categorized, and processed.
 
 That returns you to the station counter. The calm is not magic. It is the sense that there is a procedure, that someone is responsible for the next step, and that most people will treat the procedure as legitimate. Social trust, in this reading, is Japan’s quiet confidence that the ordinary world is governable—and that governability is something a society has to build.
-
-Sources:
-- [World Values Survey 1995 Japan: Trust in people](https://catalog.ihsn.org/catalog/9117/variable/F2/V361?name=V27)
-- [World Values Survey 1995 United States: Trust in people](https://catalog.ihsn.org/catalog/9136/variable/F2/V361?name=V27)
-- [変化する社会における一般的信頼：1978年から2013年の間の日本における対人的信頼の発展 | J-STAGE](https://www.jstage.jst.go.jp/article/bdajcs/8/1/8_25/_html/-char/ja)
-- [社会的不確実性のもとでの信頼とコミットメント | J-STAGE](https://www.jstage.jst.go.jp/article/jssp/11/3/11_KJ00003724698/_article/-char/ja)
-- [遺失物取扱状況（令和6年中） | 警視庁](https://www.keishicho.metro.tokyo.lg.jp/about_mpd/jokyo_tokei/kakushu/kaikei.html)
-- [落とし物はどこへ行くの？ | 警視庁](https://www.keishicho.metro.tokyo.lg.jp/sodan/otoshimono/welcome/index.html)
-- [Contact Lost and Found Center | Tokyo Metropolitan Police Department](https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/finding_services/lost_and_found/information_map.html)
-- [評判予測と規範遵守行動の関係：関係流動性に着目して | J-STAGE](https://www.jstage.jst.go.jp/article/jssp/32/2/32_0946/_article/-char/ja)

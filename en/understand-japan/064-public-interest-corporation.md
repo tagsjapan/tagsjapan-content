@@ -48,11 +48,3 @@ The examples show how broad that middle zone can be. The Japan Travel and Touris
 The tensions are real. Certification can strengthen legitimacy, but it also raises compliance costs. Small organizations may find the paperwork, governance requirements, and reporting burdens hard to sustain even when their actual public work is valuable. A system designed to prevent opacity can also reward those with enough administrative capacity to satisfy the system. Add demographic aging, weak donation cultures in some regions, and the financial strain on local civic institutions, and the question becomes sharper: does the legal framework help public-benefit activity survive, or does it sometimes ask fragile organizations to spend too much energy proving that they deserve to exist?
 
 That tension is part of what makes the concept important. `Public Interest Corporation` is not just a legal category to memorize. It is one of the ways Japan turns public purpose into durable organizational form. Once you see that, many parts of Japanese civic life look different. The society is not held together only by ministries and businesses. It is also held together by a layer of institutions that are private in form, public in mission, and constantly required to show that the two can live together. The word `koeki` on the nameplate is a reminder that in Japan, public work often survives not through rhetoric alone but through a carefully supervised architecture of trust.
-
-Sources:
-- [About Public Interest Corporation System Reform | Cabinet Office Public Interest Commission](https://www.koeki-info.go.jp/regulation/index.html)
-- [Public Interest Corporation Information | Cabinet Office](https://www.koeki-info.go.jp/)
-- [Act on Authorization of Public Interest Incorporated Associations and Public Interest Incorporated Foundations | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=418AC0000000049)
-- [Act on General Incorporated Associations and General Incorporated Foundations | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=418AC0000000048)
-- [Japan Travel and Tourism Association | Official Site](https://www.nihon-kankou.or.jp/home/)
-- [Society for Preservation of Japanese Art Swords | Official Site](https://www.touken.or.jp/)

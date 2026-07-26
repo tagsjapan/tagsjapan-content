@@ -46,9 +46,3 @@ There is, however, a correction to make. Airport express trains are not always t
 Even so, the airport express remains one of the clearest examples of how Japan builds order into travel. It creates a predictable first chapter. The luggage racks, the clean transfer maps, the seat reservations, the timetables built around flights and business patterns, all of this turns the airport-city corridor into something more than public transport. It becomes a confidence machine. By the time the train has passed through Chiba, or the last run of airport hotels has slipped behind you, the journey begins to feel owned rather than endured. That is why many repeat visitors keep paying for the service even after they already know the cheaper alternatives.
 
 The practical advice is to make this decision before you land. Know your destination station, your hotel district, and whether you will have to transfer again. If you are carrying large luggage, arriving for the first time, or trying to reach the city without unnecessary strain, the premium for an airport express is often money well spent. Screenshot the route, note the station exit, and think about what happens after you step off the train, not just while you are on it. The best Japanese airport trains are not memorable because they are glamorous. They are memorable because, in the first controlled hour of the trip, they make competence feel almost automatic.
-
-Sources:
-- [N'EX (Narita Express), JR East](https://www.jreast.co.jp/en/multi/nex/)
-- [N'EX Tickets, JR East](https://www.jreast.co.jp/en/multi/nex/tickets/)
-- [Skyliner Overview, Keisei Electric Railway](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/skyliner/index.php)
-- [How to Find Us, Keisei Electric Railway](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/findus/index.php)

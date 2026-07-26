@@ -49,9 +49,6 @@ That force also changes how the destination is used over the course of a day. A 
 And yet, once the traveler accepts the strength of it, the reward is unusually complete. The air tells you where you are even with your eyes closed. The town's snacks and souvenirs suddenly make sense. The bath's temperature and scent feel continuous with the street. In `Kusatsu`, the smell guides you toward the center of town exactly as the official guide says it will. In other volcanic regions the same logic appears in smaller scale: a pocket of steam by a shrine path, a sulphur note drifting across a bridge, a ryokan corridor that carries the mineral trace indoors.
 
 That is why sulphur hot springs remain one of the clearest travel forms in Japan. They collapse geology, townscape, bathing custom, and memory into one sensory line. A traveler may not remember the mineral classification after returning home, but the nose remembers, and so do the clothes folded beside the bath basket, the steam under winter light, and the faint trace of the spring on the street outside. In Japan, some destinations are identified by monuments. Others are identified by what is in the air.
-
-Sources:
-
 - Qualities of Various Types of Spring Water, Japan Onsen Association: https://www.spa.or.jp/en/spring-quality/
 - How to Best Enjoy Japan's Onsen, Travel Japan / JNTO: https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/
 - Kusatsu Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/1518/

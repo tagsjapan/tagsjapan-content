@@ -47,9 +47,6 @@ That is also why the category says something wider about contemporary travel in 
 That predictability can change how a route is planned. Travelers with pets often choose slower itineraries, more road travel, and longer stays because repeated station transfers, luggage forwarding, and compact urban sidewalks are simply harder with an animal in tow. In Japan, where many trips are built around rail convenience, a pet-friendly hotel can therefore redirect the whole journey toward resort towns, detached cottages, and properties with outdoor circulation. The room choice becomes a route choice, and the hotel quietly determines which version of Japan the traveler is able to see.
 
 When it works, the reward is not novelty but relief. A morning walk from the hotel grounds rather than a guilty handoff to a kennel. A drive to the coast or the mountains that does not have to end in separation. A room where the water bowl, the towel for muddy paws, and the posted guidelines all imply that somebody thought through the problem before you arrived. In Japan, that kind of forethought is often the truest luxury. The pet-friendly hotel offers it not by pretending animals do not complicate travel, but by building the complication into the stay from the start.
-
-Sources:
-
 - Pet-friendly Lodging, Jalan: https://www.jalan.net/theme/pet/
 - Pet-friendly Lodging, Rakuten Travel: https://travel.rakuten.co.jp/pet/
 - Wan's Resort, Izumigo: https://www.izumigo.co.jp/aiken/wans/

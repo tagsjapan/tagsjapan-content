@@ -49,9 +49,6 @@ The travel value of doing the work yourself is not the object. It’s the recali
 If you want the experience to land as “community” rather than as “activity,” build it into a day with time. Don’t schedule a workshop like a 30-minute attraction. Arrive early enough to listen. Leave late enough to browse related work. Add a museum visit or a neighborhood walk that puts the craft back into local context. This is also where responsible travel becomes practical rather than moral. Money spent in a workshop run by local makers is money spent in a place’s skill economy, not only in its souvenir economy.
 
 On the last day of the trip, the finished item—whether it’s in your bag or already mailed home—starts to feel less like a token and more like a record of attention. It contains mistakes you can see, and that’s part of the point. A `Community Craft Workshop` doesn’t just give you something to take. It gives you a small, portable sense of how Japan keeps certain things alive: by letting outsiders try, briefly and respectfully, to join the work.
-
-Sources:
-
 - Japan Traditional Crafts Aoyama Square (Association for the Promotion of Traditional Craft Industries): https://kougeihin.jp/en/
 - VISIT KANAZAWA (official), “Kanazawa Gold Leaf”: https://visitkanazawa.jp/en/kanazawa-101/detail_286.html
 - VISIT KANAZAWA (official), “Gold leaf application experience”: https://visitkanazawa.jp/en/activities/detail_593.html

@@ -51,10 +51,3 @@ Objects help explain how myth persists. Armor and swords, presented as craft mas
 Global popular culture completes the transformation. International audiences often encounter samurai as Japan’s signature archetype, a figure of elegant violence and moral clarity. The archetype is not meaningless, but it is selective. It often omits the samurai as tax enforcers, as administrators, as participants in class domination, and as humans shaped by poverty, debt, and political constraint. The myth is easier to love than the institution. That asymmetry is not accidental. It is how symbols travel.
 
 `Samurai（侍）` help you understand Japan because they show how a historical status group can outlive itself as an ethical logo. The samurai were once a governing class that managed violence and bureaucracy in tandem. After abolition, the image was repurposed into a moral story Japan could tell about itself, and the world could recognize instantly. If you only see the armor, you miss the paperwork. If you only see the moral code, you miss the power system that made the code useful. Understanding the samurai means holding both: the institution that ruled, and the symbol that replaced it.
-
-Sources:
-- [Samurai | Britannica](https://www.britannica.com/topic/samurai)
-- [Samurai | The Metropolitan Museum of Art (Heilbrunn Timeline)](https://www.metmuseum.org/en/essays/samurai)
-- [Samurai exhibition overview | British Museum](https://www.britishmuseum.org/exhibitions/samurai)
-- [甲冑 | 文化遺産オンライン](https://bunka.nii.ac.jp/heritages/detail/662199)
-- [廃刀令（明治9年太政官布告第38号）| 日本法令索引（国立国会図書館）](https://hourei.ndl.go.jp/simple/detail?current=-1&lawId=0000000056)

@@ -47,9 +47,6 @@ If the ryokan version feels too formal—or too expensive—there’s another Ja
 Either way, the mechanics are worth knowing because grilled crab rewards the traveler who understands time. In a ryokan, you may be given a small grill and a short instruction, because the kitchen is handing you the last, most fragile step. Grill until the shell warms and the surface barely browns; eat while the meat is still glossy. In a market, the grill master may do it for you, but the lesson is the same: crab is not meat that forgives impatience. It wants a quick sear, not a long roast. The common mistake is treating the heat as a performance and waiting for “done” the way you would with beef. With crab, “done” often means “too late.”
 
 On the way back to your room, the corridor smells faintly of charcoal on wool coats. The dining hall empties in slow waves. Outside, the sea keeps moving, dark and ordinary. And that is the point: `Grilled Crab` in Japan is not an abstract delicacy. It’s a seasonal agreement between place and appetite. If you travel at the right time, and if you leave enough slack in the evening for a meal that can’t be rushed, the sweetness and smoke become a kind of proof—of winter, of coastline, of a country that lets one ingredient dictate a whole night.
-
-Sources:
-
 - Travel Japan / JNTO, “Taiza Crab: Kyotango’s Specialty”: https://www.japan.travel/en/japans-local-treasures/taiza-crab-kyotangos-specialty/
 - MAFF, Our Regional Cuisines, “Boiled Snow Crab”: https://www.maff.go.jp/e/policies/market/k_ryouri/search_menu/2681/index.html
 - Travel Japan / JNTO, “Kuroshio Market”: https://www.japan.travel/en/spot/959/

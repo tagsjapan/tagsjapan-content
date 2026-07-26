@@ -45,9 +45,3 @@ There is another reason capsule hotels endure: they teach travelers something ab
 That does not mean it is the ideal choice for everyone. Families should look elsewhere. Remote workers and anyone needing desk time will probably grow irritated. For stays of several nights, the economy can fade if you begin to crave floor space more than savings. But for solo travelers, especially those moving fast through major cities, the category remains useful because it is so exact about its purpose. It is an answer for the night, not a fantasy of domestic life. In that respect its honesty is part of its charm.
 
 The practical advice is to book a capsule hotel when your needs are cleanly defined. One person, little luggage, limited room time, good tolerance for shared facilities, and an interest in seeing how efficiently Japan can divide space: that is the ideal profile. Check storage rules, gender policies, and bath access before you commit. If you need to spread out maps, sort shopping, or spend a reflective evening alone, choose something else and do not pretend thrift will compensate for irritation. It also helps to ask whether your schedule matches the category: late arrival, early departure, and a station nearby are often the perfect circumstances. Then accept the place on its own terms. A capsule hotel is not a cheap version of a regular hotel. It is a different argument about what sleep requires, and in Japan it remains one of the city's most persuasive small arguments.
-
-Sources:
-- [Capsule Hotels, Travel Japan / JNTO](https://www.japan.travel/en/guide/capsule-hotels/)
-- [Accommodation, Travel Japan / JNTO](https://www.japan.travel/en/in/accommodation/)
-- [Japan on a Budget, Travel Japan / JNTO](https://www.japan.travel/en/guide/japan-on-a-budget/)
-- [Nine Hours, Official Site](https://ninehours.co.jp/en/)

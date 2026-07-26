@@ -49,10 +49,3 @@ That management has an explicit contemporary target: misunderstanding. Japan Art
 A puppet can carry a society’s heaviest feelings, and the audience learns to take it seriously.
 
 `Puppet Theater（人形浄瑠璃 / 文楽）` helps you understand Japan because it shows how Japanese culture often builds expressive power through structure. It takes a strict division of labor—voice, music, hands—and turns it into emotional realism. It preserves a repertory through institutions without freezing the form into a museum piece. It also shows a Japanese respect for role specialization: art made credible by mastery inside a system, not by improvisation alone. And it offers a lens on Japanese social drama: how love and duty, personal feeling and public obligation, become stories that can be repeated until they feel like collective memory. Bunraku is not only tradition. It is Japan’s discipline of making emotion legible through coordinated craft.
-
-Sources:
-- [Bunraku at the National Bunraku Theatre | Japan Arts Council](https://www.ntj.jac.go.jp/en/bunraku/)
-- [National Bunraku Theatre (Osaka) | Japan Arts Council](https://www.ntj.jac.go.jp/en/theatre/bunraku/)
-- [Ningyo Johruri Bunraku puppet theatre | UNESCO ICH](https://ich.unesco.org/en/RL/ningyo-joruri-bunraku-puppet-theatre-00064)
-- [Theater in Japan (context) | JNTO](https://www.japan.travel/en/guide/theater/)
-- [“BUNRAKU” on the world stage! (U.S. tour, 2025) | Japan Arts Council](https://www.ntj.jac.go.jp/en/news/20245/bunraku_us_tour/)

@@ -51,8 +51,6 @@ This helps explain why the movement matters for understanding Japan. It reveals 
 The present-day debate is more complicated than “stop or continue.” Japan faces pressures of decarbonization, high import dependence, electricity prices, and energy-security anxiety. Supporters of nuclear restarts argue that a realistic transition needs firm supply and that renewables and grids cannot be transformed overnight. Anti-nuclear activists respond that “realism” too often becomes a way to forget what was learned at the cost of catastrophe, and that the same logic that once normalized nuclear risk can normalize it again. This is a conflict with no clean end, because it is a conflict between different timelines: the urgent timeline of energy supply and climate targets, and the long timeline of contamination, displacement, and trust.
 
 In Japan, the Anti-Nuclear Movement is therefore less a single wave than a persistent network that reactivates when decisions return—when restarts are announced, when new policies are issued, when a court ruling lands. It is a reminder that in a high-capacity state, technical systems still depend on social permission. Nuclear power can be engineered; the right to run it has to be argued for, again and again, in public.
-
-Sources:
 - The National Diet of Japan, Fukushima Nuclear Accident Independent Investigation Commission (NAIIC) report
 - Ministry of Economy, Trade and Industry (METI), Basic Energy Plan (*エネルギー基本計画*)
 - Nuclear Regulation Authority (Japan), regulatory standards and public materials

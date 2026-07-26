@@ -49,11 +49,3 @@ The concept is sometimes criticized as vague, and that criticism is fair. “Cul
 Japan’s safety culture discussion also extends into the private sector in unexpected ways. A J-STAGE article on the Tokyo Dome Group reflects on safety culture development over `10` years after an accident, treating safety not as a one-time fix but as an organizational rebuild. The lesson is that “safety” is not limited to obvious high-risk industries. Even leisure and urban infrastructure—stadiums, large facilities, crowded events—depend on risk detection, maintenance discipline, contractor oversight, and honest internal communication. That time horizon matters. It suggests that safety culture is not a training session. It is a long process of changing what people assume is “normal.”
 
 Safety culture is therefore a useful lens for understanding contemporary Japan. It also explains why regulators keep returning to the word “culture”: some failures happen without a single broken rule. It shows how the country responds when technical mastery is not enough: by pushing responsibility upward to management, by building systems for continuous improvement, and by trying to change the social conditions under which bad news is either surfaced or suppressed. In a society where “the air” of a room can discourage dissent, a real safety culture is, in the end, a disciplined refusal to let silence become policy.
-
-Sources:
-- [About the Nuclear Regulation Authority | NRA](https://www.nra.go.jp/aboutNRA/aboutnra.html)
-- [NRA Organizational Ideals | NRA](https://www.nra.go.jp/nra/gaiyou/idea.html)
-- [Decisions on NRA Operations | NRA](https://www.nra.go.jp/disclosure/committee/kettei/01/index.html)
-- [Comprehensive Evaluation of Efforts on Safety Culture / Organizational Climate Deterioration Prevention | NRA](https://www.nra.go.jp/jimusho_PLK/00000082.html)
-- [What is the Transport Safety Management System? | MLIT](https://www.mlit.go.jp/unyuanzen/outline.html)
-- [Tokyo Dome Group Safety Culture (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/safety/60/6/60_447/_article/-char/ja)

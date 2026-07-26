@@ -51,10 +51,3 @@ The tensions are equally mundane and therefore dangerous. When “community” b
 Japan’s community economy therefore sits in a familiar Japanese gray zone between state and market. It is neither pure charity nor pure business. It survives through negotiated mixtures: policy support without full state control, entrepreneurship without full market discipline, intimacy without full privacy. The concept keeps returning because Japan keeps returning to the same practical question: what do you do when the market will not provide a service, the state cannot provide it flexibly enough, and the only remaining resource is human relationship?
 
 To understand “community economy” in Japan is to understand that relationships are not merely cultural decoration. They are treated as a form of capital, a form of infrastructure, and sometimes a form of exploitation. The term’s ambiguity is not a vocabulary failure. It is a map of a society trying to keep everyday life running in places where the old growth model no longer applies.
-
-Sources:
-- [ソーシャルビジネス／コミュニティビジネス（SB/CB） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/index.html)
-- [ソーシャルビジネス55選（平成21年2月） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/sb55sen.html)
-- [ソーシャルビジネス支援 | 日本政策金融公庫](https://www.jfc.go.jp/n/finance/social/index.html)
-- [デジタル田園都市国家構想 | 内閣官房](https://www.cas.go.jp/jp/seisaku/digital_denen/index.html)
-- [Search results: ローカル10000プロジェクト | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB10000%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)

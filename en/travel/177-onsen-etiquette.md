@@ -49,9 +49,6 @@ The itinerary consequences are larger than they appear. If you are staying at a 
 There is also something quietly generous in the system once you understand it. The etiquette asks each bather to do a little extra so the next bather can relax. That exchange helps explain why so many Japanese communal spaces, from trains to baths, feel orderly without looking aggressively policed. The bath works because everyone carries a fraction of the burden. Visitors are not being asked to perform Japaneseness. They are being invited into a temporary social contract.
 
 After a while the washing stool no longer seems intimidating. It becomes part of the rhythm of the place: rinse, soak, cool down, drink water, return if you like. The traveler who once worried about getting everything wrong finds that the rules have done what good rules are supposed to do. They have made ease possible, and then quietly withdrawn from attention.
-
-Sources:
-
 - How to Best Enjoy Japan's Onsen, Travel Japan / JNTO: https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/
 - Caution for using onsen (bathing), Japan Onsen Association: https://www.spa.or.jp/en/caution_bathing/
 - A variety of ways to bathe, Japan Onsen Association: https://www.spa.or.jp/en/bathing/

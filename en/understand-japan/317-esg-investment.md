@@ -49,8 +49,6 @@ The burden question also matters. Large listed companies can hire teams to handl
 Japan’s ESG story is also a story about time horizons. ESG is often justified as “long-term value,” but Japan’s corporate culture has its own long-term language—stable employment, steady relationships, incremental improvement. ESG introduces a new kind of long-term demand: measurable climate and social risk management, board accountability, and disclosure that can be compared globally. It is long-term, but it is also standardized and external. That can feel like outside discipline imposed on an inside system.
 
 ESG Investment helps explain contemporary Japan because it shows how the country changes when global norms meet domestic institutions. Japan did not simply adopt a trend. It used GPIF, regulators, and exchanges to turn that trend into structure. The open question is whether the structure will force real capital reallocation and operational change—or whether Japan will become excellent at reporting while remaining slow to transform. In a country with big pensions and heavy industry, the stakes are not abstract anymore today.
-
-Sources:
 - GPIF, ESG and Stewardship materials
 - GPIF, 2024 Sustainability Investment Report
 - Financial Services Agency (Japan), Sustainable Finance Experts Panel materials

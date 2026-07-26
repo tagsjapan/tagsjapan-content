@@ -49,9 +49,6 @@ The itinerary advice, then, is about observation rather than participation. If y
 If your schedule allows, weekday mornings can be calmer without losing the ritual mood.
 
 The friction points are the usual ones for crowded Japan, sharpened by the fact that this crowd includes small children. Walk slowly. Expect bottlenecks near main gates. Accept that some areas may feel too sensitive to linger. And remember the season: November can be cold, and children in kimono are often less warm than they look. The ritual has beauty, but it also has effort. Seeing that effort is part of seeing the real thing. When it works, the memory is small and precise: the sound of a parent whispering instructions, the flash of patterned fabric against autumn leaves, the way a shrine setting can make a child’s growth feel momentous for a few minutes. Often you also notice the practical afterlife of the ceremony—families checking photos, children clutching small gift bags, sometimes with long `chitose-ame` candy tucked inside, adults negotiating the next stop for lunch or a studio appointment. The tenderness and the scheduling sit side by side, which is exactly how the ritual survives in modern Japan. `Shichi-Go-San` belongs in a travel lexicon because it shows Japan at one of its most characteristic intersections—family life, ritual space, and public order—without requiring the traveler to do anything but notice, and behave well while noticing.
-
-Sources:
-
 - Meiji Jingu, “Rites of life” — https://www.meijijingu.or.jp/en/feelshinto/7.php
 - Meiji Jingu, “Precinct map / Kaguraden” — https://www.meijijingu.or.jp/en/map/
 - Hie Shrine, “七五三について” — https://www.hiejinja.net/gokigan-guide/shitigosan/

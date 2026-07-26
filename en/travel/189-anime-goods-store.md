@@ -49,9 +49,6 @@ Together, these two systems—new and archived—explain why an anime goods stor
 For trip planning, the practical advice is less about “where to go” than about how to contain the experience. Decide what kind of store you need—new release pipeline or deep archive—before you enter the neighborhood. Set a budget that is real. Leave room in your bag, or be ready to buy one. Remember that Akihabara is not the only node; major cities and even smaller ones can have their own concentrated districts. But Akihabara is the clearest place to feel the central truth: in Japan, pop culture consumption isn’t only online. It is built into walkable urban density.
 
 You can leave with nothing and still learn something. Watch how people browse with lists. Listen for the language of “bonus” and “limited.” Notice how a store’s layout funnels you toward a specific series the way a station corridor funnels you toward a specific line. In the evening, when you step back onto the street with a light bag or a heavy one, the neon looks a little different. It no longer reads as pure spectacle. It reads as signage for a very organized kind of desire—one that Japan has turned, quite literally, into a map.
-
-Sources:
-
 - Akihabara, Japan National Tourism Organization: https://www.japan.travel/en/spot/2178/
 - Japanese Anime and Comics, Japan National Tourism Organization: https://www.japan.travel/en/guide/japanese-anime-and-comics/
 - Animate (アニメイト) official site: https://www.animate.co.jp/

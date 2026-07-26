@@ -48,8 +48,6 @@ There is also a measurement problem that becomes a political problem. Loneliness
 The most important shift is demographic and social rather than statistical. Japan’s loneliness discussion is no longer confined to older people living alone. Young adults with unstable work, caregivers trapped at home, women under compounded pressures, and people who appear socially active online can also find themselves without dependable offline support. Urban loneliness becomes a junction where other problems meet—mental health, poverty, housing insecurity, caregiving strain—because thin ties make every shock harder to absorb.
 
 Urban Loneliness helps explain a modern Japan that is highly organized yet increasingly brittle in its middle layers of connection. The city keeps running; the person can keep functioning; the gap widens quietly. The scene on the platform stays the same. What changes is whether, on the day something truly goes wrong, the bright infrastructure of the city can be matched by an equally reliable human one.
-
-Sources:
 - Cabinet Office (Japan), nationwide surveys on loneliness and isolation (孤独・孤立の実態把握に関する調査)
 - Cabinet Office (Japan), Act on the Promotion of Measures for Loneliness and Isolation (孤独・孤立対策推進法) materials
 - Cabinet Office (Japan), Loneliness and Isolation Measures Promotion framework (孤独・孤立対策推進本部等)

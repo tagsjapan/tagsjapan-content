@@ -49,9 +49,6 @@ It is easy to misunderstand this dish if you expect a quick rice bowl. In many s
 This is why `Kamameshi` matters in Japan travel, not just as food trivia. It changes what you do with your time. You stop treating stations as purely functional and start treating them as places where the trip feeds you. You might plan a longer transfer on purpose, or you might choose a lunch that is sturdy enough to carry you through a late museum afternoon without hunting for a restaurant. Travel Japan’s own guide to `ekiben` culture frames station meals as a way to taste regions while moving; `Kamameshi` is one of the clearest versions of that idea because the container itself holds the memory. The friction point is simple: if you are rushing, it won’t feel right. The dish rewards the traveler who leaves a buffer.
 
 Later, the pot sits on a hotel desk beside a paper map and a pile of receipts, smelling faintly of soy and steam. Some people carry the ceramic home. Some leave it behind. Either way, the meal has already done its job. It has turned a transit moment into a small pause you can remember—proof that in Japan, even lunch can be designed as part of the journey. The lid clicks back into place, and for a while the room smells like a station platform.
-
-Sources:
-
 - Oginoya, “峠の釜めし”: https://www.oginoya.co.jp/tougenokamameshi/
 - MAFF, “About Washoku”: https://www.maff.go.jp/e/policies/market/dento_syoku/about/index.html
 - Travel Japan / JNTO, “Experience Japan's Local Ekiben Culture”: https://www.japan.travel/en/guide/experience-japans-local-ekiben-culture/

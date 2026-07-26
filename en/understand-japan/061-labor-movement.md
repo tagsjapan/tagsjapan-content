@@ -47,11 +47,3 @@ That decline matters less as a simple story of weakness than as a story of repre
 Even now, the annual spring round gives organized labor a national microphone that many unions elsewhere would envy. When wage settlements become headline economic news, the country is seeing the afterlife of a system that turned bargaining calendars into part of macroeconomic governance. Conflict did not disappear. A great deal of it was routed into recognizable procedures before it exploded into crisis. That capacity to make wages, bonuses, and working conditions matters of national timing as well as workplace dispute remains one of the Japanese labor movement's most distinctive achievements.
 
 Watch the spring wage rounds, the policy demands issued by Rengo, or the local disputes taken up by community unions, and the same larger issue comes into view. How can workers exercise collective power in a society where employment has long been structured through membership in organizations rather than through a looser labor market? Japan's answer has been distinctive, durable, and incomplete. The labor movement helped build the postwar workplace order, and now it is being tested by the parts of that order it never fully learned to represent. That is why the annual wage headlines still matter. They are not merely economic indicators. They are traces of a much longer argument about who speaks for work in Japan and under what institutional terms.
-
-Sources:
-- [Overview of the 2024 Basic Survey on Labor Unions | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/itiran/roudou/roushi/kiso/24/index.html)
-- [Trade Union Act and Related Laws | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/roudoukumiai/index.html)
-- [Constitution of Japan | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [Organization Structure | JTUC-Rengo](https://www.jtuc-rengo.or.jp/about_rengo/jtuc/organization.html)
-- [Labor-Management Relations in Japan | JILPT](https://www.jil.go.jp/english/lsj/detailed/2016-2017/chapter9.html)
-- [Trade Unions in Japan | JILPT](https://www.jil.go.jp/english/jli/documents/2010/020-03.pdf)

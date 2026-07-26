@@ -47,11 +47,3 @@ The distinction between `NEET` and `hikikomori` also matters. The two can overla
 The debate today is less about whether the issue exists and more about how it should be understood. Japan's shortage economy makes inactive youth look like wasted labor, yet reducing the issue to labor supply misses the human reality. Support organizations and research bodies such as `JILPT` have stressed that youth employment trouble is bound up with education pathways, mental health, regional inequality, and long family dependence. The official response has grown more patient, but the stigma attached to the word `NEET` remains powerful enough that many people hesitate to identify with the category or seek help through it. A label meant to make a problem legible can also make the people inside it feel judged before they speak.
 
 `NEET` became a key term in Japan because it exposed a blind spot in an otherwise highly organized transition system. School, work, and training are supposed to hand a young person from one institution to the next. When that handoff fails, the person may disappear from the smooth national picture without being fully counted as a crisis. The support station waiting room, with its quiet chairs and modest pamphlets, captures the issue well. Japan is not only asking how to put young people into jobs. It is asking how to reconnect people who have drifted beyond the normal routes by which society notices, measures, and receives them.
-
-Sources:
-- [Annual Labour Force Survey Results | Statistics Bureau of Japan](https://www.stat.go.jp/data/roudou/sokuhou/nen/ft/pdf/index1.pdf)
-- [Labour Force Survey FAQ: Number of NEETs | Statistics Bureau of Japan](https://www.stat.go.jp/library/faq/faq16/faq16a10.html)
-- [Regional Youth Support Stations | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/saposute.html)
-- [Act on Promotion of Youth Employment | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000097679.html)
-- [White Paper on Children and Young People 2025 | Children and Families Agency](https://www.cfa.go.jp/policies/youth-kodomo/wakamonohakusho)
-- [Issues in Youth Employment Support | JILPT](https://www.jil.go.jp/institute/zassi/backnumber/2021/09/pdf/040-052.pdf)

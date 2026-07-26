@@ -47,11 +47,3 @@ One of those arenas is explicitly ceremonial. Meiji Jingu’s announcement for t
 There is, however, a modern misunderstanding that follows from this continuity. Outsiders often treat tanka as “long haiku,” or as a strictly classical form best left to textbooks. Inside Japan, the lived reality is more complex. Tanka sits in a useful middle zone: it is more elastic than `Haiku（俳句）`, with enough room for psychological movement; it is more rhythmic than free verse, with an internal pulse that can hold a narrative turn. That middle position helps explain why contemporary subjects keep entering tanka—romance, childcare exhaustion, workplace anxiety, politics, the texture of city life—without breaking the format. The “ancient” form keeps absorbing modern life, which is exactly what made it durable in the first place.
 
 `Tanka（短歌）` helps you understand Japan because it shows a distinctive approach to tradition: keep the skeleton, refresh the voice. The `31`-sound rule creates continuity, but the tradition’s institutions—criticism, magazines, competitions, and the permission to modernize tone—create change. That balance is not unique to poetry; it is a broader cultural habit. Tanka is a small form, but it acts like a long-running social contract: Japan agrees to keep the rhythm, and each generation tests what new life can be made to fit inside it.
-
-Sources:
-- [Tanka | Britannica](https://www.britannica.com/art/tanka-Japanese-poetry)
-- [Revitalization of the tanka and haiku | Britannica](https://www.britannica.com/art/Japanese-literature/Revitalization-of-the-tanka-and-haiku)
-- [Tanka section | KADOKAWA Culture Promotion Foundation](https://www.kadokawa-zaidan.or.jp/en/)
-- [Notice: 154th Meiji Memorial Comprehensive Tanka Competition | Meiji Jingu](https://www.meijijingu.or.jp/news/?id=1768283699-282662)
-- [Tanka magazine back issue (Aug 2024) | KADOKAWA Culture Promotion Foundation](https://www.kadokawa-zaidan.or.jp/tanka/backnumber_2408.html)
-- [70th Kadokawa Tanka Prize announcement | KADOKAWA Culture Promotion Foundation](https://www.kadokawa-zaidan.or.jp/tanka/backnumber_2411.html)

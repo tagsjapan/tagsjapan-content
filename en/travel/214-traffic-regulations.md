@@ -48,9 +48,6 @@ There is a practical elegance in this once you stop fighting it. Japanese traffi
 Winter conditions deepen the point. In parts of Hokkaido, Tohoku, and mountain regions, a road that appears straightforward in summer may require snow tires, slower braking, and a much more conservative sense of daylight in colder months. Rural gas stations can close earlier than a visitor expects, and mountain weather can shift faster than a timetable. None of that changes the legal rules, but it changes how much respect those rules demand in practice. Japan's roads are often beautiful precisely where they are least forgiving of carelessness, which is another reason experienced drivers here plan the day around limits rather than optimism.
 
 By the third or fourth day of driving, the strangeness usually begins to settle. The turn that felt awkward grows ordinary. The stop at a crossing becomes automatic. What seemed at first like a collection of prohibitions starts to read as a national preference for predictability. That is the real travel value of Japan's traffic regulations. They do not simply tell visitors what not to do. They teach the tempo in which the road wants to be used, and once you accept that tempo, the country opens with considerably less friction.
-
-Sources:
-
 - Travel Japan / JNTO, "Things to know when renting a car" — https://www.japan.travel/en/plan/getting-around/cars
 - JAF, "Traffic Rules in Japan" — https://english.jaf.or.jp/driving-in-japan/traffic-rules
 - JAF, "Rules of the Road" — https://english.jaf.or.jp/driving-in-japan/rules-of-the-road

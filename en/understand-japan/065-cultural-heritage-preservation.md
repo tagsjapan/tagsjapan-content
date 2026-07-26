@@ -48,11 +48,3 @@ The examples are famous for a reason. Himeji Castle, designated both a National 
 No part of this is frictionless. Preservation is expensive. Skilled craftspeople are aging. Rural depopulation can hollow out the communities expected to maintain the very places being protected. Heavy commercial use can strip a site of the life that once justified saving it. Disaster risk makes everything harder, since fire, earthquakes, and floods do not respect cultural value. The tension is not between people who care and people who do not. It is between different versions of care: repair or access, ritual continuity or crowd management, local life or national prestige. Japan's preservation regime is strong precisely because it assumes those conflicts are permanent.
 
 That is why `Cultural Heritage Preservation` matters so much in Japan. It shows a country trying to keep the past in working order rather than freeze it under glass. The debate is never settled because the objects are never only objects. They are districts, techniques, seasonal events, communal habits, and claims on public money. When scaffolding rises around a castle keep or a town rewrites its building guidelines to protect an old streetscape, the real work is not nostalgia. It is the slow administrative labor of deciding which parts of yesterday will still have a place in tomorrow.
-
-Sources:
-- [Cultural Properties in Japan | Agency for Cultural Affairs](https://www.bunka.go.jp/seisaku/bunkazai/shokai/)
-- [Cultural Properties Protection Act | e-Gov Legal Search](https://elaws.e-gov.go.jp/document?lawid=325AC0000000214)
-- [Nationally Designated Cultural Properties Database | Agency for Cultural Affairs](https://kunishitei.bunka.go.jp/bsys/index)
-- [Important Preservation Districts for Groups of Traditional Buildings | Agency for Cultural Affairs](https://www.bunka.go.jp/seisaku/bunkazai/shokai/hozonchiku/)
-- [Himeji Castle | Agency for Cultural Affairs](https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/list/himeji.html)
-- [Historic Villages of Shirakawa-go and Gokayama | UNESCO World Heritage Centre](https://whc.unesco.org/en/list/734/)

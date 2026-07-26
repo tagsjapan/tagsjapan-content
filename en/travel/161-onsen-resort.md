@@ -47,9 +47,3 @@ There is also a useful friction point here. Many visitors imagine onsen resorts 
 Yet the rewards are unusually complete when the rhythm clicks. In Kinosaki, the movement from one bath to another turns the whole town into a procession. In Kurokawa, the dark timber and river valleys make the route between baths part of the pleasure. In countless smaller resorts, even those without national fame, the combination of steaming water, local sweets, bridge crossings, and an inn room waiting with tea can make the trip feel less like sightseeing than like temporary membership in a very old routine. Few Japanese travel experiences join body and town quite so convincingly.
 
 The practical advice is to give an onsen resort time and structure. Stay overnight if at all possible. Check bath hours and closures in advance. Pack lightly enough to enjoy the walking loop once your luggage is dropped. If the last bus into town arrives after dinner service, or the public baths close earlier than you assumed, the entire mood of the stay changes, so details matter here more than they do in a city. Choose a town whose atmosphere suits your real interests, whether that is classic bath-hopping, mountain quiet, or a fuller resort strip. Then accept that the trip will slow down around water. In Japan the onsen resort is not a place where you visit one attraction. It is a place where an entire town teaches you how to spend a day differently.
-
-Sources:
-- [Hot Springs, Travel Japan / JNTO](https://www.japan.travel/en/guide/onsen/)
-- [Kinosaki Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1433/)
-- [Kurokawa Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/643/)
-- [Visit Kinosaki, Kinosaki Tourism Association](https://visitkinosaki.com/)

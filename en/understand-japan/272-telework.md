@@ -48,10 +48,3 @@ Telework therefore reveals Japan’s workplace architecture by putting stress on
 The present debate is less about whether telework is possible than about what kind of control Japan is willing to trade for flexibility. Telework can reduce commuting time and open up new patterns of residence, but it can also deepen isolation and produce a new kind of fatigue: endless video meetings, the sense of being always reachable, the blurring of private space into work space. Guidelines on telework increasingly read like manuals for maintaining labor protections—working hours, health management, and information security—after the office’s walls stop doing that work for free.
 
 A useful way to see `Telework` in Japan is as a test of institutional elasticity. Under pressure, the country can change quickly; it proved that in `2020`. But it also tends to settle into negotiated forms rather than total conversions. Telework is now part of Japanese working life, yet it remains uneven, conditional, and socially loaded. It tells you what Japan values at work—coordination, reliability, face‑to‑face trust—and what it fears losing—shared context, informal learning, and a clear line between the organization and the household. The laptop on the kitchen table is not only a tool. It is a small argument about how modern Japan wants to organize responsibility.
-
-Sources:
-- [テレワーク | 総務省](https://www.soumu.go.jp/main_sosiki/joho_tsusin/telework/)
-- [テレワーク（情報セキュリティ） | 総務省](https://www.soumu.go.jp/main_sosiki/cybersecurity/telework/)
-- [テレワーク | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/shigoto/telework.html)
-- [テレワークにおける適切な労務管理のためのガイドライン（PDF） | 厚生労働省](https://www.mhlw.go.jp/content/11911500/000683359.pdf)
-- [情報通信白書（令和6年版）テレワークに関する記述 | 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r06/html/nd226230.html)

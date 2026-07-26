@@ -46,9 +46,6 @@ The friction points deserve plain language. Login pages can be clumsy. Not every
 That is why the best preparation is slightly old-fashioned. Download offline maps before departure. Save key reservations to the device, not just the cloud. If the trip relies on heavy navigation, real-time changes, or remote work, buy a stronger connection instead of treating free Wi-Fi as an article of faith. An `eSIM` or local `SIM` turns free Wi-Fi from a necessity into a bonus, which is exactly the right hierarchy. Then use the public network for what it does well: quick reassurance, practical lookup, and the seamless little rescue operations that keep a travel day from unraveling. Once you stop expecting it to be everything, it becomes much more satisfying at being enough.
 
 The practical advice is short. Assume free Wi-Fi will be available where Japan expects traveler pressure: airports, large stations, chain venues, and major attractions. Assume it may vanish exactly when you need it most somewhere remote. Ignore outdated references to the retired app and check current official guidance instead. Check the airport connection first, while the pressure is lowest. And if you must choose only one principle, choose this one: in Japan, free Wi-Fi is part of the travel system, but not the foundation of it. The trip goes more smoothly when the signal feels like a gift, not a dependency.
-
-Sources:
-
 - Wi-Fi & Connectivity, Travel Japan / JNTO: https://www.japan.travel/en/plan/wifi-and-connectivity/
 - Notice of Service Termination for Japan Connected-free Wi-Fi, NTT Broadband Platform: https://www.ntt-bp.net/articles/2024/12/jcwf.html
 - Japan Wi-Fi auto-connect, NTT Broadband Platform: https://www.ntt-bp.net/jw-auto/en/

@@ -48,11 +48,3 @@ The contemporary tensions follow from unevenness. Institutional language has adv
 Generational change also complicates the picture. Younger people are more likely to encounter diversity language through school materials, online media, and workplace programs than older generations were. That can widen understanding, but it can also produce new conflicts inside families and institutions where older assumptions still organize “normal.” A culture that becomes more visible can also become more contested, because it forces institutions to choose whether they will merely tolerate difference or redesign procedures so that difference can live without constant exception-making.
 
 `LGBTQ+ Culture（同志文化）` helps you understand Japan because it reveals how social change often happens through institutions rather than declarations. Japan tends to turn emerging social realities into policy documents, municipal systems, corporate training, and school procedures—slow tools, but powerful ones. The story is not simply “recognition” versus “non-recognition.” It is whether everyday systems can be made readable and safe for people whose lives do not fit older assumptions. In that gap between official language and lived unevenness, contemporary Japanese LGBTQ+ culture is being built.
-
-Sources:
-- [End discrimination based on sexual orientation and gender identity | Ministry of Justice](https://www.moj.go.jp/JINKEN/jinken04_00126.html)
-- [Guidance for fine-grained responses for students (gender identity / sexual orientation) | MEXT](https://www.mext.go.jp/b_menu/houdou/27/04/1357468.htm)
-- [Survey on school responses (gender identity / sexual orientation) | MEXT](https://www.mext.go.jp/b_menu/houdou/mext_01251.html)
-- [Tokyo Partnership Oath System (2022) | Tokyo Metropolitan Government](https://www.seikatubunka.metro.tokyo.lg.jp/danjo/danjo_seido/0000002112.html)
-- [Inter-municipality linkage for Tokyo partnership system (2025) | Tokyo Metropolitan Government](https://www.seikatubunka.metro.tokyo.lg.jp/danjo/danjo_seido/0000002305.html)
-- [TOKYO ALLY | Tokyo Metropolitan Government](https://www.seikatubunka.metro.tokyo.lg.jp/danjo/danjo_seido/tokyo_ally/)

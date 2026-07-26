@@ -49,10 +49,3 @@ Japan’s cashless future looks less like a leap and more like a layer.
 The tensions are where the story stays Japanese. Small merchants worry about fees, terminal costs, and dependence on platforms that can change rules. Older consumers and people with low digital confidence may find “just scan it” less liberating than confusing, especially when payments are bundled with apps, identity checks, and customer-service chatbots. Consumers also face new kinds of trouble: fraud, mistaken charges, and the cognitive load of managing multiple accounts and payment histories. And Japan is a country that plans for disasters. Power outages and network disruptions keep cash in the picture as a backup technology, a reserve of liquidity that works when the screen goes dark.
 
 As a lens on Japan, `Cashless Society（キャッシュレス社会）` shows how modernization is often made acceptable: not by declaring the old system obsolete, but by building alternatives that feel trustworthy enough to coexist, then gradually shifting the default. Japan’s cashless push has been shaped by state policy, corporate competition, and daily practice at the register. The coin tray has not vanished. It has been joined. That is what Japan’s cashless society looks like in real life: a country stepping toward digital convenience while keeping one hand on the reassuring weight of cash.
-
-Sources:
-- [Cashless (キャッシュレス) | Ministry of Economy, Trade and Industry (METI)](https://www.meti.go.jp/policy/mono_info_service/cashless/index.html)
-- [Calculated the cashless payment ratio for 2024 (2024年のキャッシュレス決済比率を算出しました) | METI](https://www.meti.go.jp/press/2024/03/20250331005/20250331005.html)
-- [Cashless Vision (キャッシュレス・ビジョン) [PDF] | METI](https://www.meti.go.jp/policy/mono_info_service/cashless/image_pdf_movie/cl_vision.pdf)
-- [Payment and Settlement Systems Report | Bank of Japan](https://www.boj.or.jp/en/research/brp/psr/index.htm)
-- [What is cashless payment? (キャッシュレス決済とは？) | Government Public Relations Online](https://www.gov-online.go.jp/article/202309/entry-7678.html)

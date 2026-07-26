@@ -49,10 +49,3 @@ Kyoto’s `Gozan Okuribi（五山送り火）`, held on August `16`, makes the s
 The contemporary tension is not whether Obon survives—it does—but what form it takes under urbanization and demographic change. Obon remains a major period of homecoming movement and family reunion, yet smaller households and dispersed families often compress the rituals. Some maintain full grave visits and offerings; others simplify the altar and the schedule; some keep connection through brief greetings rather than long stays. In public life, bon odori can expand toward open festivals, popular music, and broader participation. The tradition becomes layered: household Obon, community Obon, and city-scale Obon coexisting rather than forcing everyone into one template.
 
 `Obon（お盆）` helps you understand Japan because it places ancestors, family, and locality on the same calendar page. It shows how Japan keeps the dead present without making death only private. It shows religion operating as repeatable action—fires, offerings, dance—more than as a demand for explicit belief. It also shows a distinctive kind of continuity: traditions persist by modularizing, keeping the core sequence (welcome, gather, remember, send off) even when the surface changes. In a society often described through work and institutions, Obon is a reminder that the year still has rooms reserved for the dead—and for the living, too.
-
-Sources:
-- [日本の年中行事と食「お盆と精進料理」｜農林水産省](https://www.maff.go.jp/j/pr/aff/2508/event02.html)
-- [Obon | Highlighting Japan (English)](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201308/201308_05_jp.html)
-- [Bon Odori: A Symbol of Japanese Summer | Highlighting Japan (English)](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201910/201910_12_jp.html)
-- [京都五山送り火｜京都市公式 京都観光Navi](https://ja.kyoto.travel/event/single.php?event_id=1467%2F1000)
-- [七色お和え 奈良県｜農林水産省 うちの郷土料理](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/nana_iro_oae_nara.html)

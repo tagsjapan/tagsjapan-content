@@ -46,9 +46,6 @@ There is also more variety than first-time visitors expect. Some `ryokan` are de
 A great deal of the appeal, in the end, comes from ordinary things being done with unusual coherence. The tray set down in the room. The hallway sound after dinner. The folded bedding that was not there an hour ago. The breakfast that asks for a slower morning than the traveler had planned. None of this needs to be romanticized. Some guests find the structure restrictive. Some would rather eat out late and sleep on a high mattress. Fair enough. A `ryokan` is not for every night of a trip, and it is not always the best use of money if all you need is a bed.
 
 But for one night, and sometimes only one, it can do what few other forms of lodging can do so quietly. It can make Japanese travel stop being a series of public impressions and become, for twelve hours or so, a private participation in someone else's order of life. That is why people remember the slippers at the door almost as clearly as the landscape outside the window.
-
-Sources:
-
 - Japanese Ryokan Guide, Travel Japan / JNTO: https://www.japan.travel/en/guide/japanese-ryokan/
 - What is JAPAN RYOKAN & HOTEL ASSOCIATION?, Japan Ryokan & Hotel Association: https://www.ryokan.or.jp/english/yado/main/66760
 - What's a Ryokan, Japan Ryokan & Hotel Association: https://www.ryokan.or.jp/english/yado/main/28400

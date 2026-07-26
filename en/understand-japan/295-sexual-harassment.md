@@ -51,8 +51,6 @@ In recent years, the discussion has widened beyond the classic office. Japan now
 Generational change is real but uneven. Younger workers and students are often less willing to accept the old “atmosphere” that treats sexualized comments as social lubricant. Social media and public cases have also made the issue harder to bury. Still, a culture that prizes harmony and reputation can make disclosure feel like a personal fault. Sexual harassment persists partly because it exploits exactly those cultural reflexes: do not make trouble, do not embarrass the group, do not accuse without airtight proof.
 
 Seen from the outside, Japan can look contradictory: clear rules on paper, and persistent anxiety in practice. The contradiction is the point. Sekuhara is not just about individual bad actors; it is about who can speak safely inside a hierarchy. Progress is measured not by how polished the manuals are, but by whether a person can use the system—early, without shame, and without retaliation—when “small talk” turns into control.
-
-Sources:
 - Ministry of Health, Labour and Welfare (MHLW), workplace harassment prevention measures (職場におけるハラスメント防止対策)
 - MHLW, Equal Employment Opportunity policy and related legal framework (男女雇用機会均等)
 - MHLW, job-hunting and internship harassment guidance (就活等セクハラ)

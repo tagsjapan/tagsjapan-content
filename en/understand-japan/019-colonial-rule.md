@@ -49,11 +49,3 @@ For that reason, colonial rule is indispensable to understanding modern Japan it
 The hardest debates begin when memory enters the picture. In public discussion, colonial rule is often split into moral fragments: modernization on one side, repression on the other. That division is too neat. Construction and coercion were entangled from the start. A bridge, a school, or a port facility may survive as a material fact, but the system that produced it also sorted populations, imposed unequal law, and redirected local life toward imperial priorities. The task of history is not to deny the concrete works. It is to place them back inside the power structure that made them possible.
 
 That is why archives and museums matter so much here. The Asia Historical Records Center preserves the documentary traces of imperial rule, while historical institutions in Japan have increasingly had to reckon with the place of colonialism inside the broader history of modern Japan. The documents do not speak with one voice, and neither do public memories. Yet the record is clear about the basic point. Japanese colonial rule was not an accidental by-product of national rise. It was one of the ways that rise was organized, justified, and lived, down to the level of forms, lessons, and daily routines everywhere.
-
-Sources:
-- [Japanese colonial empire | Britannica](https://www.britannica.com/place/Japan/The-Japanese-empire)
-- [Empire of Japan | Britannica](https://www.britannica.com/place/Empire-of-Japan)
-- [近代日本と植民地 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002827120)
-- [歴史のなかの日本とアジア | National Museum of Japanese History](https://www.rekihaku.ac.jp/outline/publication/rekihaku/203/index.html)
-- [日本帝国主義と植民地統治 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002663457)
-- [Japan Center for Asian Historical Records](https://www.jacar.go.jp/)

@@ -49,10 +49,3 @@ Critics have long said the House of Councillors duplicates work and encourages d
 Understanding the upper house helps explain an otherwise puzzling feature of Japanese politics: a government can look secure and still struggle to move. Cabinet support may be intact, the prime minister may still command the lower house, and yet legislation drags, committee battles intensify, and headlines turn sour. Often the answer lies across the corridor, in a chamber whose slower rhythm was built into the constitution from the start.
 
 So when the summer campaign posters go up and only half the chamber is on the ballot, the contest should not be mistaken for a minor sequel. The House of Councillors is Japan's institutional cooling system. It cannot usually determine who governs, but it can decide how hot the government will find the ground beneath its feet.
-
-Sources:
-- [参議院の組織と役割 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/riyou/1.htm)
-- [参議院の役割 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/yakuwari/index.html)
-- [参議院議員通常選挙制度 | 総務省](https://www.soumu.go.jp/senkyo/senkyo_s/seido/sangiin/)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [Japanese Diet | Britannica](https://www.britannica.com/topic/Diet-Japanese-government)

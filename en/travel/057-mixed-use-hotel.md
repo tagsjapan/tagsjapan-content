@@ -44,9 +44,3 @@ The friction point is that convenience can be mistaken for silence or simplicity
 Still, Japan uses this hotel form better than most places because it understands something travelers learn the hard way: the last kilometer is often the part that breaks you. The airport train may be efficient, the intercity schedule superb, the city dense with restaurants, and yet the trip can still sag if the handoffs between those pieces are clumsy. Mixed-use hotels are one of the country's quiet answers to that problem. They hide transfers inside architecture. They turn waiting time into bathing time, shopping time, supper time, or simply sleep.
 
 You notice the value most clearly the next morning. A bus departs downstairs. The terminal is still under the same roofline. The station gate is one escalator away. Somewhere below, stores are opening and someone is carrying coffee through a corridor that is part lobby, part mall, part transit machine. Japan did not invent the mixed-use hotel, but it has made it into a particularly local travel tool: a way of stitching the awkward hours of a trip into something almost seamless.
-
-Sources:
-- [Haneda Airport Garden, Sumitomo Realty & Development Shopping City](https://www.shopping-sumitomo-rd.com/haneda/shopping/about/)
-- [Izumi Tenku no Yu Haneda Airport, Haneda Airport Garden](https://www.shopping-sumitomo-rd.com/eng/haneda/spa-izumi/about.html)
-- [Tokyu Kabukicho Tower](https://www.tokyu-kabukicho-tower.jp/)
-- [JR Kyushu Hotel Blossom Oita, Travel Japan / JNTO](https://www.japan.travel/en/spot/704/)

@@ -50,9 +50,3 @@ What makes the Japanese version of the green hotel compelling is that it can imp
 That is probably the most useful way to think about the category. A green hotel is not an excuse to feel virtuous while leaving everything unchanged. It is a test of whether hospitality can be made more local, more durable, and less wasteful without losing its grace. In Japan, where travel is so often prized for precision and atmosphere, that test is becoming one of the most interesting parts of the stay.
 
 It also has a quiet itinerary consequence. Travelers who choose these properties often find themselves planning differently around them, giving more time to meals on site, local walks, public transport, or neighborhood businesses the hotel actively points them toward. They may pack less disposable gear, accept fewer automatic amenities, and shape the day around what the neighborhood can support rather than what a sealed resort can import. The stay becomes less of a consumption bubble and more of a relay into the surrounding place. If Japanese tourism is trying to move from volume toward durability, the green hotel is one of the clearest rooms in which that larger ambition can already be felt.
-
-Sources:
-- [Green by Design: Japan’s Most Beautiful Sustainable Stays, Travel Japan / JNTO](https://www.japan.travel/en/blog/green-by-design-japans-most-beautiful-sustainable-stays/)
-- [Japan Sustainable Tourism Standard for Destinations (JSTS-D), Japan Tourism Agency](https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/jizokukano_taisei/torikumi/jsts-d.html)
-- [Promoting Sustainable Tourism, Japan Tourism Agency](https://www.mlit.go.jp/kankocho/responsible-traveler/en.html)
-- [Green Key](https://www.greenkey.global/)

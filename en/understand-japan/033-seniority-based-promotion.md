@@ -50,10 +50,3 @@ Those strains became harder to ignore after the 1990s. Economic stagnation, flat
 That is why seniority-based promotion still matters. It helps explain why Japanese workplaces can seem orderly and slow at the same time, why authority is often read through tenure as well as title, and why reform of personnel systems has proved so uneven. A company may announce a performance revolution and still preserve the quiet expectation that age and years served carry moral and organizational weight. The old ladder may be less rigid than it once was. It has not disappeared.
 
 To understand seniority-based promotion is to understand a broader Japanese wager about institutions: that people can be stabilized, socialized, and judged through long membership rather than constant external competition. That wager produced cooperation and predictability. It also produced delay, exclusion, and frustration. By the 2000s, many firms were relabeling the old ladder rather than abolishing it. A worker hired in 1988 and reaching management rank in 2008 would have fit the older script almost perfectly. The older employee at the head of the table is not simply a relic of etiquette. He or she is the visible survivor of a system that turned time into rank.
-
-Sources:
-- [令和6年版 労働経済の分析 | 厚生労働省](https://www.mhlw.go.jp/wp/hakusyo/roudou/24/)
-- [Changes in the Employment System Over the Course of History | JILPT Research Eye](https://www.jil.go.jp/english/researcheye/bn/RE028.html)
-- [The Future of the Japanese-Style Employment System | JILPT Research Eye](https://www.jil.go.jp/english/researcheye/bn/RE025.html)
-- [Japanese management | Britannica](https://www.britannica.com/topic/Japanese-management)
-- [日本企業の人事制度 | 国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002622877)

@@ -48,11 +48,3 @@ The contradiction becomes visible when minority culture is celebrated in a museu
 That tension is especially important in the Ainu and Okinawan cases because both have been shaped by the state as well as by local activism. In one direction, the state now funds programs, councils, and cultural facilities. In another, minority communities and regional actors still have to push against simplification, romanticization, or the reduction of living peoples to heritage objects. The same tension echoes across other minority experiences in Japan as well, including long-resident communities that face discrimination without fitting neatly into the heritage model at all. The question is never only whether culture survives. It is who gets to define what survival looks like, who speaks for the community, and whether official inclusion changes everyday social attitudes.
 
 `Minority Groups` in Japan therefore do not simply add diversity to a familiar national picture. They force a revision of the picture itself. They show that Japanese modernity was built not only through integration and development but also through uneven recognition of peoples, languages, and histories that did not fit the smoothest version of national self-description. To study minority groups in Japan is to study what the mainstream once pushed aside, what the state now tries to name, and what remains difficult even after recognition has begun. That revision is still unfinished, which is exactly why the subject remains politically alive.
-
-Sources:
-- [Outline of Ainu Policy | Cabinet Secretariat](https://www.cas.go.jp/jp/seisakukaigi/ainusuishin/policy.html)
-- [Ainu Policy Promotion Council | Cabinet Secretariat](https://www.cas.go.jp/jp/seisakukaigi/ainusuishin/index.html)
-- [Initiatives to Promote and Pass Down Shimakutuba | Okinawa Prefecture](https://www.pref.okinawa.lg.jp/shigoto/kankotokusan/1011671/1011741/1011777/1011775.html)
-- [Okinawan Languages (Shimakutuba) | Okinawa Prefecture](https://www.pref.okinawa.lg.jp/kyoiku/kodomo/1002688/1002689/index.html)
-- [No to Hate Speech | Ministry of Justice](https://www.moj.go.jp/JINKEN/jinken04_00108.html)
-- [Folk Cultural Properties | Agency for Cultural Affairs](https://www.bunka.go.jp/seisaku/bunkazai/shokai/minzoku/index.html)

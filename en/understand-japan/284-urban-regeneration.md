@@ -45,8 +45,6 @@ Disaster risk pushes the concept further. After 2011, and amid increasingly visi
 The argument over who benefits is never far away. Central-district projects can lift land values, raise rents, and squeeze out older tenants and small businesses; the city becomes shinier, but also more selective. In smaller cities, regeneration can look like a promise without a balance sheet, because tax bases shrink and the human capacity to run complex projects is thin.
 
 Seen from the pavement, Urban Regeneration is a phrase that tries to hold two Japans in one hand: the Japan that still bets on dense, connected, internationally legible city centers, and the Japan that must redesign everyday life for a society with more elderly residents and fewer children. The suited commuters outside Tokyo Station are not thinking about the Urban Renaissance Headquarters, but they are walking through its legacy. A city remade by policy always looks cleanest at street level; the harder work is deciding what kind of city Japan is remaking itself into.
-
-Sources:
 - Cabinet Secretariat, Urban Renaissance Headquarters (都市再生本部)
 - Ministry of Land, Infrastructure, Transport and Tourism (MLIT), Urban Renaissance / Urban Regeneration policy pages
 - e-Gov Law Search: Urban Renaissance Special Measures Act（都市再生特別措置法）

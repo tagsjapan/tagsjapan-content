@@ -47,9 +47,6 @@ Nearby venues on the same official lists—such as `Chōjuan（長寿庵）` in 
 Even within the Ibusuki area, the variety is part of the appeal. Another listed venue, `Masunoya（鱒乃家）`, points to how much the experience can change with setting and side dishes—one place sells the gorge atmosphere, another leans toward a family dining room, another adds local fish or other extras that make the stop feel like a proper meal rather than a stunt. The traveler’s best move is to decide what you want from it: the bamboo-flume spectacle, the round-table ease, or simply an hour of cooling in a place that treats water as comfort. Build nagashi somen into a day when heat is your real constraint, not as an afterthought. And when the noodles come, don’t overthink it—catch, dip, eat, and let the current do the rest.
 
 You remember nagashi somen less as “a noodle dish” than as a sensation: the water’s noise, the cold in the bowl, the brief focus on a moving line of white. At the end, the flume keeps running, or the round table keeps circling, ready for the next group. You stand up feeling lighter than lunch usually allows, and your trip has gained a small, very Japanese solution to summer: make the meal itself flow.
-
-Sources:
-
 - Ibusuki Tourism Network, Sōmen Nagashi listings (official): https://www.ibusuki.or.jp/eat/somen/
 - Ibusuki Tourism Network, Chōjuan Kaimon (official listing): https://www.ibusuki.or.jp/eat/somen/chojuan/
 - Ibusuki Tourism Network, Masunoya (official listing): https://www.ibusuki.or.jp/eat/somen/masunoya/

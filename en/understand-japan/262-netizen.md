@@ -51,11 +51,3 @@ The SNS era did not eliminate netizens; it dispersed them. The old “board cult
 The spillover into politics and social conflict is where the term becomes uncomfortable. Japanese debates about `ネット右翼` and online “flame” culture point to the same mechanism: a crowd that is skilled at ridicule and coordination can also be skilled at intimidation. When a target is framed as worthy of punishment, netizen energy can shift from commentary to harassment, with outsized attention and rapid rumor spread doing real damage. The point is not that netizens are uniquely malicious. The point is that the internet’s most fluent speakers can set the tone of a moment, and tone is how crowds decide what is permissible.
 
 `ネット民` is therefore a useful term because it names something that is otherwise hard to see: an online public that is real, emotionally powerful, and skilled at coordination, yet not organized like a party or a formal movement. It gathers around events, amplifies reactions, produces inside language, then dissolves and reforms elsewhere. To understand contemporary Japan, it helps to understand this kind of crowd—not to romanticize it as a new democratic citizen, and not to dismiss it as mere noise, but to recognize it as a style of participation that has learned to speak in fragments and move at network speed.
-
-Sources:
-- [情報通信白書（ポータル） | 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/)
-- [通信利用動向調査 | 総務省](https://www.soumu.go.jp/johotsusintokei/statistics/statistics05.html)
-- [インターネットの匿名性によるDeindividuationとオンライン・コミュニティの秩序 | J-STAGE](https://www.jstage.jst.go.jp/article/jasi/22/0/22_0_138/_article/-char/ja)
-- [匿名と顕名による非難行為の差異 | J-STAGE](https://www.jstage.jst.go.jp/article/pacjpa/87/0/87_1B-052-PE/_article/-char/ja)
-- [ニコニコ動画 | niconico](https://www.nicovideo.jp/)
-- [5ch（5ちゃんねる）](https://www.5ch.net/)

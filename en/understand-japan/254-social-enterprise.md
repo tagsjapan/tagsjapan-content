@@ -48,11 +48,3 @@ The same hybrid logic creates persistent tensions. Without a single legal defini
 There is also a global layer. Japan’s `social business` language developed alongside overseas debates about social enterprise, impact investing, and what the OECD increasingly calls the “social economy.” Yet Japan’s distinctive move has been to fold these global ideas back into local survival problems—mobility, caregiving, youth work, small-town commerce—rather than framing social enterprise primarily as a new corporate sector. It is often less Silicon Valley and more municipal reality: a negotiated space where public needs are met through organizations that must keep their books balanced.
 
 Understanding social enterprise helps you understand a broader Japanese pattern: the country’s preference for incremental, partnership-based solutions that sit between state and market. Japan has been willing to promote `SB/CB` as a policy field without locking it into a single legal box. That flexibility lets practice grow where it fits, but it also keeps the boundaries blurry. Social enterprise in Japan is not a neat category. It is a workaround—creative, constrained, and increasingly necessary in a society where social problems are both predictable and chronic.
-
-Sources:
-- [ソーシャルビジネス／コミュニティビジネス（SB/CB） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/index.html)
-- [ソーシャルビジネス55選（平成21年2月） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/sb55sen.html)
-- [ソーシャルビジネス推進イニシアティブ（平成20年12月～平成22年2月） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/initiative.html)
-- [ソーシャルビジネス「評価のあり方」検討ワーキンググループ | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/sbwg.html)
-- [ソーシャルビジネスコンソーシアム新事業創出展開支援事業 | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/conso.html)
-- [Social Economy | OECD](https://www.oecd.org/en/topics/social-economy.html)

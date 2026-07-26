@@ -49,11 +49,3 @@ Yet law changed faster than social expectation. That is why the `ie` system stil
 This is one of the clearest examples of how Japan's modernity often works: the state can become fully modern in law while older social expectations continue to shape everyday life. That is why the `ie` system is more than a historical curiosity. It provides a way to understand the long tension in Japan between individual dignity and household continuity, between equality in principle and inherited role in practice. One can hear echoes of it in arguments about caregiving, gender, marriage, succession, and social duty.
 
 The household imagined by the `ie` system was never just a private refuge. It was a durable social device, one that helped organize how Japan distributed authority, labor, obligation, and memory. People were born into it, married into it, left it, or were taken into it through adoption. But the structure's deepest priority remained the same: the house should last. To understand that is to understand why family in Japan has so often meant more than intimacy, and why the remains of that older order can still be felt long after the law that once enforced it has been dismantled.
-
-Sources:
-- [我が国における氏の制度の変遷 | 法務省](https://www.moj.go.jp/MINJI/minji36-02.html)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [明治前半期における「家」制度の形成 | J-STAGE](https://www.jstage.jst.go.jp/article/jsl1951/1956/7-8/1956_7-8_123/_article/-char/ja)
-- [近代日本における「家」の情緒 | J-STAGE](https://www.jstage.jst.go.jp/article/jsr/68/3/68_424/_article/-char/ja/)
-- [男女共同参画白書 | 內閣府男女共同参画局](https://www.gender.go.jp/about_danjo/whitepaper/index.html)
-- [近代日本における「家」制度の成立とその変容 | 国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000011285291)

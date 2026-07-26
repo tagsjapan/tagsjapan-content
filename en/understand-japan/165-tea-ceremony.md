@@ -49,10 +49,3 @@ Tea ceremony also says something larger about how Japan handles foreign inherita
 That success has created a modern problem. Tea ceremony survives as a serious discipline, but it is also regularly presented to beginners and foreign visitors as an approachable cultural experience. The opening is understandable; no tradition stays alive by sealing its doors forever. Still, something is lost when the practice is flattened into kimono rental, photographs, and a quick bowl of matcha detached from the room, the sequence, and the effort that give it shape. Even introductory sessions usually retain rules about dress, posture, and etiquette, which suggests that the tradition still protects a line between access and dilution. The line matters because tea ceremony was built over centuries, and it can be thinned much faster than it can be learned.
 
 The strength of tea ceremony lies in that line. It remains alive not because every guest understands everything, and not because every gathering is equally formal, but because the practice still insists that attention can be trained. The bowl passes from hand to hand, the room settles again, and what lingers is not only the taste of tea. It is the feeling that care, in Japan, can be made visible through form, sequence, restraint, repeated practice, and patient repetition across generations.
-
-Sources:
-- [Tea Ceremony | Travel Japan | JNTO](https://www.japan.travel/en/guide/tea-ceremony/)
-- [Green tea varieties and how matcha is made | Ministry of Agriculture, Forestry and Fisheries](https://www.maff.go.jp/j/heya/sodan/1404/01.html)
-- [Guide to Japan's Cultural Heritage | Travel Japan | JNTO](https://www.japan.travel/en/guide/japans-cultural-heritage/)
-- [日本茶入門 1 | 農林水產省](https://www.maff.go.jp/j/pr/aff/2001/spe1_01.html)
-- [日本茶入門 2 | 農林水產省](https://www.maff.go.jp/j/pr/aff/2001/spe1_02.html)

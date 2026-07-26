@@ -49,11 +49,3 @@ Pressure on the system has kept growing. The Children and Families Agency said t
 Long school vacations make the strain even easier to see. Summer break does not suspend parental employment, and the club that looked sufficient for a few afternoon hours suddenly has to absorb long daytime stretches, meals, fatigue, and restlessness. A system that appears modest on an ordinary weekday turns out to be carrying a much larger share of the family welfare burden than its plain rooms suggest.
 
 That is why after-school care is so revealing. It sits far from the glamour of education reform and far from the rhetoric of family values, yet it shows how Japan tries to reconcile work, care, and childhood in real time. In a spare room by the schoolyard, with backpacks lined against the wall and a snack tray set out before dusk, the country is answering a basic question every weekday: after school, who is responsible for the child, and what kind of society makes that answer possible?
-
-Sources:
-- [After-school Children's Clubs Overview | Children and Families Agency](https://www.cfa.go.jp/policies/kosodateshien/houkago-jidou/overview/)
-- [After-school Children's Clubs | Children and Families Agency](https://www.cfa.go.jp/policies/kosodateshien/houkago-jidou)
-- [FY 2024 Implementation Status of After-school Children's Clubs | Children and Families Agency](https://www.cfa.go.jp/assets/contents/node/basic_page/field_ref_resources/69799c33-85cb-44f6-8c70-08ed3a292ab5/3a1c440d/20250127_policies_kosodateshien_houkago-jidou_57.pdf)
-- [About the After-school Children Plan | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo2/siryou/07121811/001.htm)
-- [School and Community Collaboration | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/kids/find/kyoiku/mext_0018.html)
-- [Guidelines for Certified Training of After-school Child Support Staff | Children and Families Agency](https://www.cfa.go.jp/policies/kosodateshien/houkago-jidou)

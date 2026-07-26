@@ -49,11 +49,3 @@ For that reason, the policy conversation has begun to shift from “quantity onl
 Japan is also expanding the boundary of who childcare is for. The `Kodomo Dare‑Demo Tsūen System（こども誰でも通園制度）` is designed to let families use limited nursery services even if they do not fit the traditional “both parents working” eligibility logic. It is an attempt to separate early-childhood support from the assumption that only employed parents “deserve” access, while still limiting the service so it can be staffed and managed. The policy direction is clear: childcare is being reframed from a support for employed parents into a more universal parenting support tool. National implementation is scheduled for `2026`, which makes the reform a live test: can the system widen access without breaking the staffing and quality conditions that make childcare meaningful?
 
 That expansion sharpens the core contradictions. Hoikusho is expected to be educational, safe, emotionally supportive, and reliable enough to anchor working life. It is also expected to be flexible enough to meet diverse family situations and to cushion social problems that show up in early childhood—poverty, isolation, domestic stress. The more functions the nursery is asked to perform, the more the system depends on professional caregivers, stable funding, and municipal capacity to allocate services fairly. When those supports are thin, families experience the system as arbitrary: not “a right,” but a lottery. For understanding contemporary Japan, nursery schools are a better guide than abstract birthrate charts. They show what it means to treat care as public infrastructure, and how hard it is to maintain that infrastructure in a society that is aging, urbanizing, and anxious about the future. Hoikusho is where Japan’s promises about work, gender, and family become concrete—one morning drop‑off at a time.
-
-Sources:
-- [保育 | こども家庭庁](https://www.cfa.go.jp/policies/hoiku/)
-- [子ども・子育て支援制度 | こども家庭庁](https://www.cfa.go.jp/policies/kokoseido)
-- [保育所等関連状況取りまとめ（2025-04-01） | こども家庭庁](https://www.cfa.go.jp/policies/hoiku/torimatome/r7/)
-- [保育提供体制ダッシュボード | こども家庭庁](https://www.cfa.go.jp/policies/hoiku/torimatome/govdashboard)
-- [こども誰でも通園制度 | こども家庭庁](https://www.cfa.go.jp/policies/hoiku/daredemo-tsuen)
-- [保育所保育指針 | 厚生労働省](https://www.mhlw.go.jp/web/t_doc?dataId=00010450)

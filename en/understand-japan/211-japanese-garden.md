@@ -49,10 +49,3 @@ That ongoing labor is central to what Japanese gardens are. Highlighting Japan d
 The contemporary tension is simplification. Globally, “Japanese garden” is often flattened into a narrow image: a few stones, a neat hedge, an atmosphere of calm. That image travels well, but it can reduce a living landscape language into a décor style. It also encourages a postcard logic, where the garden is treated as a fixed picture rather than a seasonal system that changes under maintenance and weather. In Japan, the same tension appears when gardens are valued primarily as heritage objects—worthy of protection, but read as static. The harder truth is that gardens survive as gardens only when people keep doing garden work, keep learning the grammar, and keep allowing time to remain visible rather than forcing the landscape into a permanent “best moment.”
 
 `Japanese Garden（日本庭園）` helps you understand Japan because it shows how Japanese aesthetics often operate: not by inventing entirely new materials, but by composing relations—between inside and outside, between movement and stillness, between the near stone and the borrowed mountain, between a crafted frame and a seasonal change that cannot be controlled. The garden is nature edited, but it is also an education in limits. You can design an experience, but you cannot freeze time. Japanese gardens make that tension readable—quietly, persistently, and with an attention that feels almost institutional.
-
-Sources:
-- [Borrowed Scenery | Nabunken Japanese Garden Dictionary](https://www.nabunken.go.jp/org/bunka/jgd/pages/BorrowedScenery.html)
-- [Stroll Garden | Nabunken Japanese Garden Dictionary](https://www.nabunken.go.jp/org/bunka/jgd/pages/StrollGarden.html)
-- [Pond Garden | Nabunken Japanese Garden Dictionary](https://www.nabunken.go.jp/org/bunka/jgd/pages/PondGarden.html)
-- [Japanese Gardens as Living Organisms | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202105/202105_01_en.html)
-- [Stones in a Japanese Garden | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202110/202110_08_en.html)

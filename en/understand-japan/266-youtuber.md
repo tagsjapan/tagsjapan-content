@@ -51,10 +51,3 @@ The controversies track the same maturation. As sponsorships and product placeme
 A second controversy is inequality. Many people want to be YouTubers; few can sustain the work long-term. The distribution curve is steep: a small number of channels capture a large share of views and income, while most creators operate on thin margins and high time cost. Policy changes, copyright claims, and shifts in recommendation systems can move a channel’s fortunes without warning. The job’s modern appeal—freedom from institutions—coexists with a dependence on a single global platform.
 
 To understand the Japanese YouTuber is to understand a new kind of labor that sits between entertainment, entrepreneurship, and advertising. It is a job built on public intimacy, run through private metrics, and stabilized by an ecosystem of agencies, sponsors, and viewers who behave like patrons. Japan did not invent YouTube, but it has turned “YouTuber” into a legible social identity—one that reveals how fame, work, and media have been recombined in the platform era.
-
-Sources:
-- [YouTube Partner Program overview | YouTube Help](https://support.google.com/youtube/answer/72851?hl=en)
-- [YouTube Creators](https://www.youtube.com/creators/)
-- [UUUM (Company)](https://www.uuum.co.jp/)
-- [Stealth marketing and the Act against Unjustifiable Premiums and Misleading Representations | Consumer Affairs Agency](https://www.caa.go.jp/policies/policy/representation/fair_labeling/stealth_marketing)
-- [Search results: 動画配信サービス 人気 動画 考察 | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=%E5%8B%95%E7%94%BB%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E4%BA%BA%E6%B0%97+%E5%8B%95%E7%94%BB+%E8%80%83%E5%AF%9F)

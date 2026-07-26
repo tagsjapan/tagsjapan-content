@@ -49,9 +49,6 @@ Then there is the plateau that links directly to recovery and comfort. Travel Ja
 The friction points are also highland-specific, and Japan does not hide them. Weather changes quickly. Wind makes a mild temperature feel sharp. Mists can erase views in minutes. Transportation can be sparse in the afternoon, which means the real constraint is sometimes not your legs but the last bus. Even a flat boardwalk can be slick after rain, and on open plateaus the sun can be harsher than in the city. Pack water, and don’t assume phone signal is reliable everywhere. The best plateau day is planned with layers and with time: a light rain shell, something warm even in summer, and a clear idea of how you are getting back. The word “trekking” can make people underestimate the gentler routes, but the plateau does not care what you call it. It can still chill you, soak you, and strand you if you assume it behaves like a city park.
 
 When you return, the plateau stays in your body as a kind of clean fatigue. Your shoes smell of grass or wet wood. Your face feels slightly wind-burned. And if you are lucky enough to end the day in a hot spring, you will understand why this high-country walking fits Japan so well: the landscape is open, the routes are readable, and the trip has a built-in way to soften the edges. The point was never to conquer the height. It was to let the highland change the day.
-
-Sources:
-
 - Travel Japan / JNTO, “Yatsugatake Mountains”: https://www.japan.travel/en/spot/1359/
 - Travel Japan / JNTO, “Akiyoshidai Plateau”: https://www.japan.travel/en/japans-local-treasures/akiyoshidai-plateau/
 - Travel Japan / JNTO, “The Yokone Plateau in the Mae-Nikko Highlands”: https://www.japan.travel/en/japans-local-treasures/the-yokone-plateau-in-the-mae-nikko-highlands/

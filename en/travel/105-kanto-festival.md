@@ -47,9 +47,6 @@ The travel experience has a Japanese kind of order to it. People queue. Staff ke
 The friction points are the ones that come with any large summer festival, sharpened by Akita’s particular conditions. It can be humid despite being “northern Japan.” Mosquitoes do not care about your itinerary. The performance night can run long, and trains and buses will not wait for you. Many travelers underestimate how tiring it is to stand still in a crowd after a day of sightseeing, and then discover that the festival rewards a slower day: a simpler afternoon, an early dinner, a deliberate walk to the viewing area. The itinerary consequence is almost always a trade: fewer daytime stops in exchange for a night you will actually remember.
 
 When it finally works—the pole steady on a forehead, the lanterns trembling, the crowd holding its breath—the festival does something that a lot of famous events struggle to do. It makes you feel the old metaphor again. The lanterns really do look like rice ears, and the street really does feel like a field. Then the performer lowers the pole, another rises, and the night continues in waves. You leave with the image of light being balanced by a human body, and with a small, quiet understanding of why Japan’s festivals so often turn ordinary infrastructure into temporary ritual. For a few hours, Akita’s main road is not a road at all. It is a harvest held up against the dark.
-
-Sources:
-
 - English｜Akita Kanto Festival official website: https://www.kantou.gr.jp/english/
 - About the festival｜Akita Kanto Festival official website: https://www.kantou.gr.jp/about/
 - Reserved-seat application｜Akita Kanto Festival official website: https://www.kantou.gr.jp/kanran/

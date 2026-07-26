@@ -51,8 +51,6 @@ A mega-event is a mirror.
 What the Tokyo Olympics reveals about Japan is not only ability, but vulnerability. Japan proved it could execute a complex project under extraordinary constraints, which is a genuine achievement. It also revealed how fragile grand narratives can be when reality shifts. “Recovery Olympics” language lost force under pandemic conditions. Trust became as important as competence, and harder to produce. Many Japanese citizens remember the Games less through athletic highlights than through the question that lingered in ordinary conversation: for whom was this done, and at what social cost?
 
 Tokyo Olympics matters for understanding Japan because it marks a turning in how the country thinks about national projects. Japan still has the capacity to stage big events. What has changed is the automatic belief that bigness equals shared pride. The empty stadium on the screen—perfectly built, strangely silent—captures the new mood. The country can still build the stage. The harder work is rebuilding agreement about why the stage should exist at all.
-
-Sources:
 - Tokyo 2020 Organising Committee, official final report and legacy materials
 - International Olympic Committee (IOC), Tokyo 2020 pages and documentation
 - Government of Japan, Tokyo 2020 Games information and policy materials

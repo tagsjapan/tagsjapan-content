@@ -49,9 +49,6 @@ For itineraries, night market food is less about ticking off a list and more abo
 The friction points are predictable and therefore manageable. Seats are limited. Cash is often useful. The menu can be short, and the cooking can be loud and smoky. Festival stalls may be one-night-only, so a missed date means there is nothing to substitute. And the “night market” you imagined may not exist in a given city at all, because Japan’s after-dark food scenes are unevenly distributed. The more accurate expectation is to look for what the place actually does at night—Fukuoka’s yatai, a seasonal festival’s stalls, a winter food tied to a specific region—rather than searching for a universal template.
 
 When it works, the memory is always physical. Your jacket smells like sauce. Your hands are sticky from a paper tray. You carry a warm cup for longer than you need to because your fingers want it. Somewhere nearby, a game stall rings a bell or a cook calls out an order number. Then the lights come down, the street becomes just a street again, and you walk back toward a station feeling as if you’ve borrowed a city’s private evening for a few hours.
-
-Sources:
-
 - Fukuoka Yatai Food Stalls, Travel Japan / JNTO: https://www.japan.travel/en/spot/273/
 - Get Involved in Local Japanese Festivals, Travel Japan / JNTO: https://www.japan.travel/en/guide/get-involved-in-local-festivals/
 - Ten Japanese Festivals to Take Part in, Travel Japan / JNTO: https://www.japan.travel/en/guide/ten-japanese-festivals-to-take-part-in/

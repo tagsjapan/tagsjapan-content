@@ -49,9 +49,3 @@ If you want to understand how it works, watch what happens between the batter bo
 The friction point is simple: don’t plan to “save it for later.” Tempura rewards timing more than almost any other famous Japanese dish, and the difference between crisp and soggy is the difference between understanding it and just eating fried things.
 
 When you step back onto the street after a tempura meal, the sensation isn’t the usual post-fry heaviness. It’s more like you’ve been given a new way to taste a place. You start noticing what the season is doing—what vegetables are appearing on menus, what fish is coming into markets—because tempura is basically a delivery system for that information. In Japan, even the fried food keeps its eye on the calendar.
-
-Sources:
-- [Tempura, Kikkoman Food Culture Glossary](https://www.kikkoman.com/en/cookbook/glossary/tenpura.html)
-- [What is Washoku?, MAFF (Washoku World Challenge Archive)](https://www.maff.go.jp/e/policies/market/washoku-world-challenge/en/learning_01.html)
-- [「和食」がユネスコ無形文化遺産に登録されています, 農林水產省](https://www.maff.go.jp/j/keikaku/syokubunka/ich/)
-- [和食で健康ライフをはじめよう！, 農林水產省](https://www.maff.go.jp/j/pr/aff/2011/spe1_01.html)

@@ -49,9 +49,6 @@ For itinerary planning, `foot baths` reward a slower style of travel. A hot-spri
 Travelers often underestimate these places because they are free, public, and unspectacular. They do not look like headline attractions. They rarely demand reservations. They almost never photograph as well as a dramatic open-air bath. But that is partly their virtue. They belong to the part of travel that improves the day without insisting on being the day. A town that has thought to give arriving strangers a place to warm their feet has usually understood something about hospitality.
 
 So the memory that remains is not always of the water itself. It may be the sight of shopping bags set down beside a bench, the station clock a few minutes away, the brief silence that falls over a group of people who have stopped trying to get anywhere. In Japan, that small pause is often where a place begins to feel inhabited rather than visited.
-
-Sources:
-
 - Hot Springs in Japan, Travel Japan / JNTO: https://www.japan.travel/en/guide/hot-springs/
 - Visit Kinosaki: https://visitkinosaki.com/
 - Arima Onsen Tourism Association: https://visit.arima-onsen.com/

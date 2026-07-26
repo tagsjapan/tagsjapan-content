@@ -50,10 +50,3 @@ This is where media imagination collides with practice. The Japan Tourism Agency
 If you want a single material to focus on, stones are the clearest entry. Highlighting Japan’s discussion of stones in Japanese gardens emphasizes that placement carries roles and balance; stones are not “natural accents” but structural decisions. In karesansui, stones are the bones. They decide whether the implied terrain feels stable, whether the eye can travel, whether the gravel reads as sea or as empty floor. This makes karesansui a useful window into Japanese aesthetics more broadly. It shows a preference for compression—packing meaning into a few elements—and a preference for disciplined framing: meaning is not explained; it is staged.
 
 `Karesansui（枯山水）` helps you understand Japan because it turns a familiar cultural claim—“Japan values emptiness”—into something more precise. Emptiness here is not a lack. It is a constructed condition that requires history, technique, and ongoing work. The garden’s quiet is not natural; it is maintained. Its symbolism is not vague; it is built into material choices and viewing rules. In karesansui, Japan’s aesthetic power looks less like effortless serenity and more like a system for making attention behave.
-
-Sources:
-- [Dry Landscape Garden | Nabunken Japanese Garden Dictionary](https://www.nabunken.go.jp/org/bunka/jgd/pages/DryLandscapeGarden.html)
-- [Sakuteiki | Nabunken Japanese Garden Dictionary](https://www.nabunken.go.jp/org/bunka/jgd/pages/Sakuteiki.html)
-- [Japanese Gardens as Living Organisms | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202105/202105_01_en.html)
-- [Stones in a Japanese Garden | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202110/202110_08_en.html)
-- [Rock Garden | Japan Tourism Agency](https://www.mlit.go.jp/tagengo-db/en/R1-00450.html)

@@ -47,9 +47,3 @@ What the huts add, beyond safety, is a changed experience of time. Evening falls
 Even travelers who climb only once come away understanding something important about Japan's outdoor culture. The hut is where endurance gets translated into procedure. Instead of romanticizing hardship, the system breaks hardship into reservations, meal times, route stages and weather judgment. That may sound unpoetic, but it is exactly why the experience can remain available to so many ordinary hikers.
 
 When you shoulder your pack and step back onto the trail, the hut is already behind you in more ways than one. It was never the destination. It was the point at which the mountain made the terms clear, and you agreed to travel on those terms.
-
-Sources:
-- [Mt. Fuji Climbing Official Website](https://www.fujisan-climb.jp/en/index.html)
-- [Kamikochi Official Website](https://www.kamikochi.org/)
-- [Japan National Parks](https://www.japan.travel/national-parks/)
-- [Yamakei Online: Mountain Huts](https://www.yamakei-online.com/yamagoya/)

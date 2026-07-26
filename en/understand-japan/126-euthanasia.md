@@ -50,12 +50,3 @@ Japan’s public argument often revolves around a dilemma that has no clean reso
 The result is that “euthanasia” in Japan functions less as a policy endpoint than as a boundary marker. It defines what the system is reluctant to authorize, and it throws attention onto what the system is willing to build: procedural governance for end-of-life care. The safeguards are imperfect, and the debates keep returning, especially as demographic pressure grows.
 
 Listen to the language of the guidelines and you can hear Japan’s characteristic instinct in high-stakes domains: do not pretend the dilemma is simple; build a process that can bear the dilemma. The argument about euthanasia is real, but the daily work happens in meetings, notes, and repeated conversations—small administrative acts that try to make the last decisions less lonely, and less dangerous.
-
-Sources:
-- [「人生の最終段階における医療の決定プロセスに関するガイドライン」の改訂について | 厚生労働省](https://www.mhlw.go.jp/stf/houdou/0000197665.html)
-- [「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン」（PDF） | 厚生労働省](https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197701.pdf)
-- [「人生の最終段階における医療・ケアの決定プロセスに関するガイドライン」解説編（PDF） | 厚生労働省](https://www.mhlw.go.jp/file/04-Houdouhappyou-10802000-Iseikyoku-Shidouka/0000197702.pdf)
-- [終末期医療の現段階―法制化の必要性からACPへ | 日本医師会](https://www.med.or.jp/doctor/rinri/i_rinri/c05.html)
-- [リビング・ウィル、DNAR、POLST | 日本医師会](https://www1.med.or.jp/doctor/rinri/i_rinri/c04.html)
-- [「安楽死」と「尊厳死」: 法律的考察 | J-STAGE](https://www.jstage.jst.go.jp/article/jabedit/9/1/9_KJ00002059100/_article/-char/ja/)
-- [尊厳死と安楽死 | J-STAGE](https://www.jstage.jst.go.jp/article/naika1913/85/12/85_12_1983/_article/-char/ja/)

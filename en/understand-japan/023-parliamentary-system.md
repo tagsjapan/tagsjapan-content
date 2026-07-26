@@ -49,10 +49,3 @@ That dependence on parliamentary maintenance makes seemingly minor events unusua
 To understand this is to understand why so much of Japanese political life happens in places that do not look dramatic at first glance: party leadership contests, coalition talks, committee rooms, schedule fights, and procedural votes. The country's parliamentary system rewards organization more than personal charisma and treats political legitimacy as something mediated through parties and chambers rather than announced by a single national ballot. The visible result is often quieter than a presidential system. The underlying calculation is relentless.
 
 So the familiar Diet chamber scene deserves a second look. The camera is showing more than a ritual. It is showing Japan's basic rule for turning public votes into executive power. A cabinet may speak in the name of the state, but it comes to life only after the numbers line up on the floor.
-
-Sources:
-- [Cabinet System of Japan | Prime Minister's Office of Japan and His Cabinet](https://japan.kantei.go.jp/cabinet_system/index.html)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [国会の権限 | 衆議院](https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/kokkai/kokkai_kengen2.htm)
-- [国会の基礎知識 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/index.html)
-- [Parliamentary government | Britannica](https://www.britannica.com/topic/parliamentary-government)

@@ -49,9 +49,6 @@ The mechanics that make vegetarian eating work in Japan are mostly about communi
 And yet, done well, vegetarian travel in Japan can feel unusually calm. Once you find the right restaurants, the food tends to be thoughtful rather than apologetic—vegetables treated as main characters, tofu given real texture, seasonal ingredients used for their own sake rather than as substitutes. The main consequence is that you start planning your days from meals outward. You choose where to stay based on access to a few reliable spots. You book a `shojin` lunch and let it anchor the afternoon. You travel a little lighter, because you aren’t carrying the constant uncertainty of the next bowl.
 
 At the end of a good vegetarian meal in Japan, the most surprising feeling is not restriction but relief. The broth was clear because it was meant to be clear. The flavors were clean because they weren’t hiding anything. Outside, the city is still full of tempting smells you may or may not be able to eat. Inside, for an hour, the question disappeared. That is what a `Vegetarian Restaurant` provides on a Japan trip: not a special diet, but a stable place to stand.
-
-Sources:
-
 - A Vegetarian and Vegan Guide to Japan, Travel Japan / Japan National Tourism Organization (JNTO): https://www.japan.travel/en/in/story-and-guide/vegetarian-guide/
 - Food Diversity in Kyoto (Vegetarian), Kyoto Travel: https://kyoto.travel/en/see-and-do/vegetarian.html
 - Enjoy Diverse Culinary Culture in Tokyo, GO TOKYO: https://www.gotokyo.org/en/plan/diverse-culinary-culture/index.html

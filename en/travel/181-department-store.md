@@ -47,9 +47,6 @@ It is worth noticing, too, how department stores absorb the calendar. New Year g
 This seriousness changes trips in subtle ways. A department store is one of the easiest places to solve multiple travel problems without lowering the tone of the day: buy a proper gift, eat a polished but portable dinner, rest in a café, find household goods, and step back out into the station district without having crossed half the city. It becomes especially valuable near holidays, on rainy afternoons, or in the awkward hour between hotel check-in and an evening reservation. It also offers a rare form of urban shelter in which doing errands still feels like participating in local culture rather than retreating from it. In such moments the department store acts less like a mall than like a refuge for urban transition.
 
 That is why the Japanese department store deserves more attention in travel than it usually gets. It is one of the places where the country's ideas about service, presentation, and city life remain visible in concentrated form. You may leave with only a wrapped sweet or a neatly boxed bento. But you also leave having seen a particular Japanese proposition: that buying and giving can still be cultivated acts, and that an afternoon indoors can reveal a city just as clearly as a walk through its streets.
-
-Sources:
-
 - Department Store Sales Reports, Japan Department Stores Association: https://www.depart.or.jp/store_sale/
 - Department Shop Address, Japan Department Stores Association: https://www.depart.or.jp/depart_address/en.php
 - Nihonbashi Mitsukoshi Department Store History, Nihonbashi Mitsukoshi: https://www.mistore.jp/store/nihombashi/shops/experience/theater/shopnews_list/shopnews0132.html

@@ -1,6 +1,6 @@
 ---
 title: "Kūki"
-slug: understand-japan-kuki
+slug: understand-japan-kūki
 wp_status: draft
 wp_blog_id: 1
 
@@ -49,10 +49,3 @@ What is striking is how the concept has been treated as something operational, n
 Kūki is often translated as “reading the room,” but the Japanese term carries an extra edge: the room reads you back. It can be kind, and it can be coercive.
 
 Return to the moment when the objection died in the speaker’s throat. That is kūki at work: a collective inference that becomes a rule without ever becoming a sentence. Understanding it does not mean romanticizing it or condemning it. It means seeing one of Japan’s most persistent methods of social coordination—an unwritten rulebook that can make daily life feel smooth, and can also make it hard to say what needs to be said.
-
-Sources:
-- [空気を読む | コトバンク](https://kotobank.jp/word/%E7%A9%BA%E6%B0%97%E3%82%92%E8%AA%AD%E3%82%80-482319)
-- [KY | コトバンク](https://kotobank.jp/word/ky-183275)
-- [ケーワイ | コトバンク](https://kotobank.jp/word/%E3%81%91%E3%83%BC%E3%82%8F%E3%81%84-3221524)
-- [「空気を読むロボット」 | J-STAGE](https://www.jstage.jst.go.jp/article/jjsai/28/2/28_284/_article/-char/ja/)
-- [ビジネスゲームを用いた「忖度」「空気」と「水」による品質詐称発生メカニズム | J-STAGE](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3A3J1301/_article/-char/ja)

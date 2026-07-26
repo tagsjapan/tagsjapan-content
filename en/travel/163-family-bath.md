@@ -47,9 +47,3 @@ There is, however, a correction worth making. A family bath is not a cultural by
 Specific places show how flexible the form can be. In large onsen towns such as Kinosaki or Kurokawa, a stay may combine public bath rounds with a privately reserved bath at the inn, allowing travelers to decide how adventurous to be. In room-with-bath ryokan, the family bath becomes part of the room's architecture and often its luxury. Elsewhere the appeal is simpler: forty or fifty minutes, a wooden tub, a mountain view, and the chance to have the experience on your own schedule. What matters is not prestige. It is fit. The right family bath can turn an anxious booking into the most restorative night of the trip. For multigenerational groups especially, it can mean the difference between one person opting out and everyone participating.
 
 The practical advice is plain. If a private bath is important to your stay, confirm exactly what type it is, whether it costs extra, and how far in advance it can be booked. Treat the reservation like any other key part of the itinerary. If the slot sits awkwardly against dinner or check-in, ask the inn before arrival rather than hoping the problem will solve itself on site. If you are new to onsen, do not think of the family bath as settling for less. In Japan it is often the most intelligent first step into hot spring travel: a space private enough to feel safe, formal enough to feel real, and warm enough to make the rest of the town begin to dissolve into steam. Often that confidence is what makes a later visit to the public bath possible at all.
-
-Sources:
-- [Onsen Etiquette, Travel Japan / JNTO](https://www.japan.travel/en/guide/onsen-etiquette/)
-- [Japanese Ryokan Guide, Travel Japan / JNTO](https://www.japan.travel/en/guide/japanese-ryokan/)
-- [How to Onsen, Visit Kinosaki](https://visitkinosaki.com/plan-your-trip/onsen/how-to-onsen/)
-- [Kurokawa Onsen Official Site](https://www.kurokawaonsen.or.jp/eng_new/)

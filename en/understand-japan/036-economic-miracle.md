@@ -49,10 +49,3 @@ That is why 1973 matters so much. The oil crisis did not erase prosperity, but i
 Understanding the `Economic Miracle` helps explain why postwar Japan often appears both modern and heavily patterned. So many features of the country that later generations treated as natural were actually concentrated products of those decades: the priority given to infrastructure, the authority of big manufacturing firms, the reach of commuter society, the moral prestige of work, and the deep expectation that material life should improve from one generation to the next. When growth faltered in later decades, what hurt was not only income. It was the loss of a historical rhythm people had come to expect.
 
 The phrase `miracle` risks making the period sound effortless. It was not. It was built through policy, labor, discipline, investment, and sacrifice, and it carried consequences that never vanished. The trains, expressways, school-to-company pipeline, and middle-class apartment blocks that later generations inherited were largely products of this compressed era. The miracle also built the expectation that each generation would live more comfortably than the last. It fixed a national faith in infrastructure, employment, and scale for millions nationwide. Still, when the train doors opened in 1964 and a new national tempo was suddenly visible, Japan had already entered the age in which growth itself became a social environment.
-
-Sources:
-- [Japan - Postwar Japan | Britannica](https://www.britannica.com/place/Japan/Postwar-Japan)
-- [The economy of Japan | Britannica](https://www.britannica.com/place/Japan/The-economy)
-- [Economic White Papers | Cabinet Office, Government of Japan](https://www5.cao.go.jp/keizai3/whitepaper.html)
-- [高度経済成長と生活変化 | 国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I000002634866)
-- [公害の歴史と対策 | 環境省](https://www.env.go.jp/)

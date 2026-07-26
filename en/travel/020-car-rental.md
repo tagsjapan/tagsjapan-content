@@ -47,9 +47,6 @@ There are practical frictions too. Fueling procedures, tolls, parking fees, and 
 This is especially true in regions where attractions are beautiful but badly synchronized by public transport. A coast road with three viewpoints, a farm café, and a small shrine can be delightful by car and exhausting by bus. The same route may look modest on the map, yet take half a day if every connection must be caught in sequence. Driving collapses those waiting gaps. The traveler stops obeying the timetable and begins obeying daylight, weather, and appetite, which is often exactly the right adjustment once the trip has left the major cities behind.
 
 That is the right way to think about `Car Rental` here. It is not an act of rebellion against Japanese transport excellence. It is what you choose when the country you want lies beyond the train diagram. On those trips, the keys matter less as symbols of freedom than as tools of alignment. They match your method of travel to a landscape that is wider, more dispersed, and more road-shaped than the city-centered image of Japan first suggests.
-
-Sources:
-
 - Things to know when renting a car, Travel Japan / JNTO: https://www.japan.travel/en/plan/getting-around/cars/
 - Drive with a foreign license, JAF: https://english.jaf.or.jp/driving-in-japan/drive-in-japan
 - Driving a Motor Vehicle in Japan, JAF: https://english.jaf.or.jp/safe-driving/traffic-rules-in-japan

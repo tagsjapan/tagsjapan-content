@@ -47,9 +47,6 @@ The common friction is assuming that tax-free automatically means easiest or che
 One of the more interesting travel consequences is how duty-free retail alters the mood of shopping districts. Department stores, major drugstore chains and airport-adjacent commercial areas have become adept at receiving overseas demand without losing their basic Japanese orderliness. The tax-free counter sits there like a reminder that the country has turned visitor consumption into an organized service industry. Yet the service still depends on self-discipline from the customer. Bring the right document. Watch the threshold. Check the rules that apply on your travel dates. That quiet insistence on procedural literacy is one reason the experience feels so Japanese. Shopping may feel spontaneous; the tax benefit rarely is.
 
 So the duty-free shop deserves attention not because it is glamorous, but because it reveals how Japan handles the practical side of tourism. Shopping here is not only desire and display. It is paperwork, signs, thresholds and a moving deadline in November 2026. If you understand that, the process becomes much easier, and the city around it makes more sense as well. The passport in your hand, the receipt at the counter, the small logo by the register: these are minor objects, but on a trip they can redirect both spending and time with surprising force. In Japan, even impulse buying is often framed by procedure. The rule is part of the retail atmosphere. Efficiency, here, still asks to be documented, checked and stamped.
-
-Sources:
-
 - Travel Japan / JNTO, "Japan Shopping Q&A" https://www.japan.travel/en/guide/shopping-q-and-a/
 - Travel Japan / JNTO, "Shopping in Japan" https://www.japan.travel/en/guide/shopping-in-japan/
 - National Tax Agency, "No.6559 Eligible foreign travelers for tax-free purchases" https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6559.htm

@@ -48,9 +48,3 @@ You can experience something called “shojin” in a restaurant, but the settin
 The short friction point is expectation. If you arrive hoping for strong, restaurant-style impact, you may feel disappointed. If you arrive willing to taste slowly—and to accept that “subtle” is a deliberate choice—you’ll get a meal that changes your sense of what Japanese food can be. It also helps to confirm details in advance, because “temple food” on a menu does not always mean the same rules.
 
 After shojin ryori, the trip’s loud meals don’t disappear, but they land differently. You notice your own pace, your own appetite, the difference between eating as entertainment and eating as part of a day’s structure. Japan offers plenty of food that is fast and unforgettable. Shojin ryori is unforgettable for the opposite reason: it makes you aware of time.
-
-Sources:
-- [和食文化関連情報, 農林水産省](https://www.maff.go.jp/j/shokusan/wasyoku/)
-- [Koyasan Official Guide](https://www.koyasan.or.jp/en/)
-- [Koyasan Stay Information](https://www.koyasan.or.jp/en/stay/)
-- [Travel Japan Guides, Travel Japan / JNTO](https://www.japan.travel/en/guide/)

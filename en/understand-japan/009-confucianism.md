@@ -49,11 +49,3 @@ That background is one reason Confucianism still matters in modern Japan even af
 There are real grounds for criticism here. Confucianism in Japan could reinforce rigid hierarchy, conservative gender roles, and obedience to superiors. It helped legitimize ordered inequality. But that is not the whole story. It also spread literacy, encouraged discipline, and gave social life a language of responsibility rather than pure coercion. It offered standards by which rulers could be judged as well as standards by which subjects could be instructed. Like many influential traditions, it carried both burdens and resources. To reduce it to a tool of domination would be too simple; to praise it as pure moral wisdom would be simpler still.
 
 Confucianism matters in Japan today not because it survives as a declared creed, but because it helped shape the moral atmosphere in which institutions, organizations, and relationships long operated. Its words may not be spoken as often as they once were. Its grammar remains. When hierarchy is softened with etiquette, when duty is spoken of as character, when learning is treated as moral formation as much as skill acquisition, Confucianism is not far away. It lingers in expectation, tone, and the moral weight attached to roles.
-
-Sources:
-- [Confucianism | Britannica](https://www.britannica.com/topic/Confucianism)
-- [Neo-Confucianism | Britannica](https://www.britannica.com/topic/Neo-Confucianism-Japanese-philosophy)
-- [Japanese philosophy: The early modern period | Britannica](https://www.britannica.com/topic/Japanese-philosophy/The-early-modern-period)
-- [Japan: The Tokugawa status system | Britannica](https://www.britannica.com/place/Japan/The-Tokugawa-status-system)
-- [江戸の朱子学 | NDLサーチ](https://ndlsearch.ndl.go.jp/books/R100000002-I025110756)
-- [近代日本政治思想史にとって儒教とは何か | NDLサーチ](https://ndlsearch.ndl.go.jp/books/R000000004-I030427830)

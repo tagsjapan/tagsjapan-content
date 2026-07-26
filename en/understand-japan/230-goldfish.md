@@ -51,10 +51,3 @@ Modern urban Japan has also re-curated goldfish into “art.” Aquariums and ex
 The tension arrives precisely because the fish is alive. When goldfish are staged under intense lighting, crowded tanks, or highly aestheticized conditions, a question becomes harder to avoid: are we looking at a cared-for animal, or at a disposable visual material? The ethical boundary is not always clear, and it tends to sharpen as display technology becomes more ambitious. Meanwhile, the production side faces its own pressures—succession, labor, water management, market shifts—because an industry that looks charming from the outside is still demanding work on the inside.
 
 `Goldfish（金魚）` help you understand Japan because they show how Japan turns living things into cultural form without pretending the life disappears. A goldfish can be a city’s industrial output, a child’s summer memory, and an urban design motif in the same decade. It can be gentle and also commercial. It can be intimate and also mass-produced. To follow goldfish in Japan is to see a recurring Japanese method: take a small, fragile thing and build an entire seasonal and economic system around it—beautiful, practical, and always slightly uneasy about where “culture” ends and “life” begins.
-
-Sources:
-- [金魚の歴史 | 大和郡山市](https://www.city.yamatokoriyama.lg.jp/kanko_bunka_sports/kingyo/kingyonitsuite/6269.html)
-- [金魚の生産から販売まで | 大和郡山市](https://www.city.yamatokoriyama.lg.jp/soshiki/nogyosuisanka/kingyo/1/1906.html)
-- [金魚の系統 | 大和郡山市](https://www.city.yamatokoriyama.lg.jp/soshiki/nogyosuisanka/kingyo/2/1904.html)
-- [全国金魚すくい選手権大会（概要） | 大和郡山市](https://www.city.yamatokoriyama.lg.jp/soshiki/chiikishinkoka/kingyo/4/9538.html)
-- [EDORIUM（江戶リウム） | すみだ水族館](https://www.sumida-aquarium.com/about/floor/edorium/)

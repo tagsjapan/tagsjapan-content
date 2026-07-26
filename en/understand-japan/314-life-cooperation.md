@@ -49,8 +49,6 @@ Japan’s aging society pushes co-ops back toward their social role. When commun
 There is a deeper cultural fit here. Japan tends to trust systems that are routine, standardized, and quietly reliable. Co-ops work because they make cooperation boring—in the best sense. They embed mutual aid in weekly deliveries, in membership fees, in claims procedures, in community notices. The publicness is in the repetition.
 
 Life Cooperation therefore helps explain how Japan maintains stability in ordinary life. It is not a dramatic social movement. It is a distributed institution that sits between market and state on the ground every day, translating collective action into groceries, coverage, and support. The open question is whether Japanese co-ops can keep that cooperative identity as they grow older, larger, and more necessary—and whether members will keep acting like co-owners in a society that increasingly trains everyone to act like customers.
-
-Sources:
 - Ministry of Health, Labour and Welfare (MHLW), materials on the Consumer Co-operative Act (消費生活協同組合法)
 - Japanese Consumers’ Co-operative Union (JCCU), organizational history and structure materials
 - Public disclosures on Japanese co-op home delivery (宅配) operations

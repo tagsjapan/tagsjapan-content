@@ -49,9 +49,3 @@ The best use case is modest. Think of the scooter as a tactical tool for a light
 There is also a timing issue that experienced visitors learn quickly. Scooters are most useful in the shoulder spaces of a day: after check-in but before dinner, between a station and a waterfront museum, across a district that looks compact on the map but sprawls on foot. They are less useful during the heaviest pedestrian crush and less calming when a traveler is already late. That gives them a very Japanese niche. They are best when used deliberately, almost politely, to smooth a day rather than to dominate it. The traveler who understands that usually gets genuine value from the system; the traveler chasing carefree speed usually runs into the rules first.
 
 After a short ride, the most Japanese part of the experience is often the end: the careful docking, the confirmation on the app, the relief of having completed the trip exactly where the map said you should. The machine promises speed, but the system insists on order. That balance, more than the scooter itself, is what travelers are really encountering.
-
-Sources:
-- [National Police Agency: Specified Small Motorized Bicycle](https://www.npa.go.jp/bureau/traffic/anzen/tokuteikogata.html)
-- [LUUP English Site](https://www.luup.sc/en/)
-- [National Police Agency English Site](https://www.npa.go.jp/english/index.html)
-- [Travel Japan / JNTO Transport Planning](https://www.japan.travel/en/plan/getting-around/)

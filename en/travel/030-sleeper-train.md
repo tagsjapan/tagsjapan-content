@@ -49,9 +49,3 @@ It also carries a subtler expectation correction. In an age of high-speed rail, 
 There is a social dimension as well. Sleeper trains place strangers into a shared nocturnal compact that ordinary day trains rarely produce. People speak more softly, organize their baggage more carefully and seem aware that the carriage is temporarily part corridor, part bedroom, part waiting room for morning. The etiquette is understated but real. You feel it when lights dim, when shoes are set neatly aside, when the landscape disappears and the journey becomes mostly sound. Japan is particularly good at this sort of collective adjustment. The train remains public, but for a few hours it behaves like a fragile private arrangement among everyone on board.
 
 At dawn, when the curtains begin to glow and a station sign in western Japan slides past the window, the old logic of travel reasserts itself. You have not beaten the country; you have crossed it properly, in darkness, inside a timetable that still believes the night is part of the road.
-
-Sources:
-- [Night Trains, Travel Japan / JNTO](https://www.japan.travel/en/guide/night-trains/)
-- [Sunrise Seto / Sunrise Izumo, JR West](https://www.jr-odekake.net/train/sunriseseto_izumo/)
-- [WEST EXPRESS Ginga, JR West](https://www.jr-odekake.net/railroad/westexginga/)
-- [Seven Stars in Kyushu, JR Kyushu](https://www.cruisetrain-sevenstars.jp/)

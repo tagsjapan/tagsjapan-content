@@ -51,11 +51,3 @@ In the late twentieth century, haiku’s life expanded beyond Japan. The Haiku I
 Globalization, however, produces a predictable distortion. Haiku becomes a synonym for “three short lines,” a format suited to social-media captions and motivational slogans. In English and other languages, strict 5-7-5 counting often feels unnatural, which leads many international practitioners to keep the spirit of brevity while loosening the numeric rule. That flexibility is part of haiku’s global survival, yet it also creates a gap in understanding: Japan’s haiku tradition is tied to Japanese sound structure, seasonal vocabulary, and a long culture of shared reference. A haiku can travel, but it does not travel unchanged.
 
 `Haiku（俳句）` helps you understand Japan because it shows how the country turns restraint into a craft, and craft into a communal habit. A form that can be written on a scrap of paper becomes a way to train attention to season, to mood, to social nuance, to the small moment that carries more than it seems to carry. The world may remember haiku as a cute three-line poem. Japan’s deeper claim is harsher and more interesting: that saying less can require more discipline, and that the echo after the words is part of what the words are for. It is also a reminder that art can be a daily habit for many people.
-
-Sources:
-- [Haiku | Britannica](https://www.britannica.com/art/haiku)
-- [About HIA | Haiku International Association](https://www.haiku-hia.com/eng/about-hia/)
-- [Haiku International Association (HIA)](https://www.haiku-hia.com/eng/)
-- [The Making of Haiku | Nippon.com](https://www.nippon.com/en/japan-topics/g02001/)
-- [Basho Festival | Haiku Master MATSUO BASHO](https://www.basho-bp.jp/en/?page_id=16)
-- [Basho Memorial English Haiku Contest | Haiku Master MATSUO BASHO](https://www.basho-bp.jp/en/?p=167)

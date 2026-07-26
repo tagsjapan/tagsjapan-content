@@ -49,11 +49,3 @@ Karoshi also exposes how hard it is to change a system through rules alone. Over
 For families, the struggle does not end with the death or breakdown. Recognition matters. Compensation processes can be lengthy, and the burden of proving that a death was “work-related” forces loved ones to translate grief into documentation. Many pursue recognition not only for money but for social truth: to prevent a death from being quietly filed as personal weakness. In this respect, karoshi is not only a labor issue. It is a battle over naming—over whether Japanese society will admit, in official language, that a system can kill.
 
 Karoshi remains one of the sharpest concepts for understanding Japan because it sits at the seam between virtues and costs. Discipline, reliability, and organizational efficiency are real. So is the damage they can produce when endurance becomes a default expectation rather than an exceptional choice.
-
-Sources:
-- [Karoshi-tō Prevention White Paper | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000138529.html)
-- [Karoshi-tō Prevention White Paper FY2024 (Reiwa 6) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/wp/hakusyo/karoushi/25/index.html)
-- [Compensation Status for Karoshi-tō (FY2024 / Reiwa 6) Released (June 2025) | MHLW](https://www.mhlw.go.jp/stf/newpage_59039.html)
-- [Compensation Status Related to Karoshi-tō | MHLW](https://www.mhlw.go.jp/stf/newpage_04738.html)
-- [Act on Promotion of Preventive Measures against Karoshi-tō | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=426AC1000000100)
-- [Karoshi | Encyclopaedia Britannica](https://www.britannica.com/topic/karoshi)

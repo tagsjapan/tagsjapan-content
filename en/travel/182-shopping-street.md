@@ -48,9 +48,6 @@ That fragility is part of why they matter so much on a trip. A shopping street i
 The best way to use a shopping street on a trip is therefore not to "do" it like an attraction. Go at different times if you can. Morning and late afternoon often feel like different worlds. Eat something simple rather than hunting only for Instagrammable stalls. Notice what services appear between the food and souvenir shops. Notice whether the street still belongs mostly to residents or increasingly to visitors. Those observations change where you choose to eat, how long you linger in an area, even whether a district feels better by day or night. A `shotengai` can quietly redirect the rest of the day.
 
 That quiet redirection is the real gift of Japan's shopping streets. They restore proportion. They put travel back at walking speed and return attention to the middle distance between monument and household. A bowl of noodles, a pharmacy sign, a florist with buckets by the curb, the short covered stretch before the rain begins again: these are not the parts of a trip most people plan around, yet they are often the parts that make a city feel inhabited rather than staged. The shopping street does not ask to be admired from afar. It asks you to join the flow.
-
-Sources:
-
 - Much More than Shopping! Experience the Japanese Local Shopping Streets 'Shoutengai', Travel Japan / JNTO: https://www.japan.travel/en/tokyo2020/local-shopping-streets-shoutengai/
 - Musashi-Koyama Shopping Street Palm, GO TOKYO: https://www.gotokyo.org/en/spot/704/
 - Ameyoko, GO TOKYO: https://www.gotokyo.org/en/spot/71/index.html

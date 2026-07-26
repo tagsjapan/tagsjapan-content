@@ -49,11 +49,3 @@ Japanese society argues over whether this order is weakening. Some employers put
 Fresh-graduate hiring gives the whole system a durable afterlife. A company may say it wants flexible, capable people and may well believe it, but recruitment calendars, alumni networks, and early resume screening still encourage employers to read school background as a quick social signal. A degree does not script an entire life. It often decides which corridor a person enters first, and in Japan that first corridor can remain very hard to leave behind.
 
 That is why the credential society remains such a useful term. It captures a Japan in which education is sincerely valued, social mobility is widely promised, and inequality is still reproduced through officially respectable channels. A train platform poster for an entrance seminar, a wage table broken down by degree, a parent deciding how much to spend on extra lessons: these are small scenes, but they belong to the same long shadow cast by the school name.
-
-Sources:
-- [School Basic Survey 2025 | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/toukei/chousa01/kihon/kekka/k_detail/2025.htm)
-- [Education at a Glance 2025: Japan | OECD](https://www.oecd.org/en/publications/education-at-a-glance-2025_1a3543e2-en/japan_8f0a8541-en.html)
-- [Basic Survey on Wage Structure 2024 | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/itiran/roudou/chingin/kouzou/z2024/index.html)
-- [2015 SSM Japan Survey | Center for Social Research and Data Archives, University of Tokyo](https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=1508)
-- [Survey on Children's Learning Expenses | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/toukei/chousa03/gakusyuhi/kekka/k_detail/1421183_00011.htm)
-- [Education at a Glance 2024: Japan | OECD](https://www.oecd.org/en/publications/2024/09/education-at-a-glance-2024-country-notes_532eb29d/japan_fb7f8db2.html)

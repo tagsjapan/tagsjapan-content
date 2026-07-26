@@ -46,9 +46,6 @@ There is a friction point worth respecting. Many first-time visitors come wantin
 What it is trying to organize, most of all, is the relationship between body and place. Bathe once on arrival and the journey falls away. Eat the local dinner and the region becomes legible through taste. Bathe again before bed and the weather outside begins to matter differently. Wake early, slide open the window, and the whole stay acquires a softness city travel rarely permits. This is why so many Japan itineraries place an onsen ryokan in the middle or at the end of a fast-moving route. It functions as a hinge. The trip has been outward-looking; now it briefly turns inward.
 
 The practical advice is to read the house rules as part of the attraction, not as a nuisance. Confirm the latest dinner time before booking transport. Decide whether you want a full meal plan or a simpler room-only stay. Learn whether tattoos, private baths, or child access change the bathing options. And if the stay matters to you, do not give it the scraps of the day. Arrive in time to settle, bathe, and let the room teach you its order. In Japan the onsen ryokan remains one of the most complete answers to a travel question few hotels even ask: not where will you sleep, but how would you like the night itself to proceed?
-
-Sources:
-
 - Japanese Ryokan Guide, Travel Japan / JNTO: https://www.japan.travel/en/guide/japanese-ryokan/
 - Japan Ryokan and Hotel Association: https://www.ryokan.or.jp/english/
 - Healing Powers of Hot Springs, Travel Japan / JNTO: https://www.japan.travel/en/sustainable/healing-powers-hot-springs/

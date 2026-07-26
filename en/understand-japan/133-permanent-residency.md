@@ -50,11 +50,3 @@ The details of change matter because they show how “permanent” is still mana
 
 The contemporary tension is inequality of access. Permanent residency can remove job restrictions and stabilize long‑term planning, which can help people move, change employers, and build family life without constant administrative re‑approval. Yet the same criteria that define “stability” can exclude the very workers Japan increasingly relies on: people in low‑wage sectors, people with interrupted employment, people whose paperwork depends on intermediaries, people whose lives are stable in practice but messy on paper. Selectivity can look, from the bottom, like a system that welcomes labor without welcoming settlement.
 To understand Japan through permanent residency is to see how the country manages the contradiction of needing foreign residents while resisting a simple narrative of immigration. Permanent residency exists as a door, but it is a narrow one. It offers a way to become durable inside a system built to keep most statuses temporary. The lesson is not that Japan refuses settlement. It is that Japan turns settlement into an administrative decision—a stability that must be granted, and that can be re‑defined as policy shifts.
-
-Sources:
-- [永住許可（入管法第22条） | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)
-- [永住許可指針（2024-11-18 改訂） | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)
-- [永住許可申請 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/procedures/16-4.html)
-- [永住許可関連資料 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/resources/nyuukokukanri01_00007.html)
-- [関係法令 | 出入国在留管理庁](https://www.moj.go.jp/isa/policies/bill/hourei_index.html)
-- [出入国管理及び難民認定法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=326CO0000000319)

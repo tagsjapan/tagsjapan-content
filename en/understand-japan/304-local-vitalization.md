@@ -50,8 +50,6 @@ The tension is built in. Local Vitalization invites every municipality to craft 
 Tokyo’s numbers keep this argument from becoming a pure story of local creativity. Japan’s migration statistics continue to show the capital region absorbing people even when the state is trying to reverse the flow. In the 2024 results of the Resident Basic Register population movement report, the Tokyo metropolitan area still recorded a net in-migration of 135,843 people. Local Vitalization, then, is not best understood as a simple “success” or “failure.” It is a long negotiation with gravity: a country using policy to slow the slide toward a single dominant city, while acknowledging that economic concentration has its own momentum.
 
 To read Local Vitalization is to read Japan’s political style under demographic stress. The country responds to national-scale problems by building frameworks—strategies, grants, programs, metrics—and asking localities to fill them with workable life. Sometimes that works. Sometimes it produces paperwork and rivalry. But the premise remains stubbornly human-scale: the question is not whether a place has a catchy brand. It is whether the bus still runs, the school still opens in April, and someone in town still wants to take over the shop when the owner retires.
-
-Sources:
 - Cabinet Secretariat (Japan), Local Vitalization (*chihō sōsei*) policy materials and “Local Vitalization 2.0”
 - Cabinet Secretariat (Japan), “Digital Garden City Nation” comprehensive strategy materials
 - Ministry of Internal Affairs and Communications (MIC), *Chiiki Okoshi Kyōryokutai* program information

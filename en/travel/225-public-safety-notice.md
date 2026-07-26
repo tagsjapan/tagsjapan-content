@@ -48,9 +48,6 @@ Public safety notices also teach something important about travel hierarchy. The
 The best habit is procedural. Save the official `JNTO` pages before the trip. When a notice appears, check the official source first, then compare it with your hotel or railway operator, then decide whether the trip needs to slow down, reroute, or stop for the day. Social media can be useful for atmosphere, but it is a poor substitute for a formal warning hierarchy. This matters especially on island, mountain, and coastal itineraries, where a single closure can remove the whole day's transport logic. It also matters on tightly ticketed days involving ferries, scenic trains, or ropeways, because these are exactly the trips most likely to look normal on paper right up until access disappears. Travelers who understand this tend to make better decisions faster, especially outside the major cities where transport alternatives are fewer.
 
 That is why public safety notices belong to the real texture of travel in Japan. They are not signs that the country has ceased to function; they are signs of how seriously it takes functioning under pressure. When the screens change color and the front desk begins explaining the situation, the trip enters a different kind of Japanese order, one built not around punctuality but around controlled response. If you can read that order properly, you travel more calmly, not less.
-
-Sources:
-
 - Emergencies, Travel Japan / JNTO: https://www.japan.travel/en/plan/emergencies/
 - Safe Travel Information, Travel Japan / JNTO: https://www.japan.travel/en/japan-safe-travel-information/
 - Emergency Warning Map, Travel Japan / JNTO: https://www.japan.travel/en/japan-safe-travel-information/warning/

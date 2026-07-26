@@ -52,10 +52,3 @@ The three languages overlap in daily practice. Most practitioners move through k
 The modern argument, then, is not “what is karate.” It is “who gets to define karate.” Okinawa claims definitional authority through origin and cultural policy. Mainland Japan claims authority through federation structure and educational integration. International sport claims authority through rules and championships. The friction is not an accident. It is the result of karate succeeding too well: a local practice became a global practice, and global practices always produce competing claims over meaning.
 
 `Karate（空手道）` helps you understand Japan because it shows how Japanese culture moves between locality and system. It is Okinawa insisting on place-based memory, Japan building institutional forms that make practice scalable, and the world demanding rules that make practice comparable. The art survives by translating itself, again and again, into new forms without fully leaving its old ones behind. The question is not whether karate changes. It is whether the origin story and the training depth can remain audible inside the noise of global competition.
-
-Sources:
-- [沖縄空手会館｜沖縄県公式ホームページ](https://www.pref.okinawa.jp/bunkakoryu/bunkageijutsu/1009556/1009629/1018652/1009640.html)
-- [About Okinawa Karate Kaikan | 沖縄空手会館](https://karatekaikan.jp/en/pages/about)
-- [公益財団法人 全日本空手道連盟（JKF）](https://www.jkf.ne.jp/)
-- [一般社団法人 沖縄伝統空手道振興会](https://www.odks.jp/)
-- [Karate | Origin, Description, & History | Britannica](https://www.britannica.com/sports/karate)

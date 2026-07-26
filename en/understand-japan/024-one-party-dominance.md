@@ -49,11 +49,3 @@ The present version of one-party dominance is not identical to the old `1955 sys
 Understanding that pattern helps explain much more than election results. It clarifies why policy in Japan can feel steady even when leaders change, why local politics is often tied to personal support organizations and constituency service, and why reform tends to arrive through adjustment rather than rupture. One-party dominance has never meant the absence of debate. It has meant that debate often unfolds within a field whose center of gravity is hard to move. It also helps explain why prime ministers can change while the governing center remains strangely familiar from one election cycle to the next.
 
 Look again at those election posters after the rain has faded the paper. The faces change slowly, the promises change more quickly, and the scaffolding underneath often stays in place. That is the political world Japan built after 1955: democratic, competitive, and for a remarkably long time, hard to prise from the same hands.
-
-Sources:
-- [自民党の歴史 | 自由民主党](https://www.jimin.jp/aboutus/history/)
-- [立党宣言・綱領 | 自由民主党](https://www.jimin.jp/aboutus/declaration/)
-- [日本政治のしくみ | 総務省](https://www.soumu.go.jp/senkyo/senkyo_s/naruhodo/)
-- [衆議院議員総選挙制度 | 総務省](https://www.soumu.go.jp/senkyo/senkyo_s/seido/shugiin/)
-- [The political system | Britannica](https://www.britannica.com/place/Japan/The-political-system)
-- [Liberal-Democratic Party of Japan | Britannica](https://www.britannica.com/topic/Liberal-Democratic-Party-of-Japan)

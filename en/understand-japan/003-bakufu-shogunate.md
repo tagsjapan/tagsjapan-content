@@ -51,10 +51,3 @@ The word "bakufu" is often flattened in modern summaries into "feudal military g
 There was a price to the stability the bakufu produced. The long Tokugawa peace rested on social rigidity, disciplined status boundaries, and a political order that could look calm because movement was tightly managed. By the 1850s, when Western powers forced Japan into a new international environment, that stability began to look like stiffness. A system built to control domains and preserve order at home had trouble answering external pressure and internal legitimacy crisis at the same time. The bakufu collapsed in the 1860s not because it had never worked, but because it had worked so long in one set of conditions that it struggled to survive another.
 
 That is the lasting interest of the shogunate. It shows a Japan that did not simply choose between throne and sword, court and army, symbolism and administration. It built a state around the managed coexistence of those things. The emperor in Kyoto, the shogun in his seat of command, the daimyo traveling the roads to Edo: these are not just picturesque scenes from a vanished past. They are part of the political grammar that shaped how Japan learned to divide power, preserve form, and govern through hierarchy.
-
-Sources:
-- [shogunate | Britannica](https://www.britannica.com/topic/shogunate)
-- [Kamakura shogunate | Britannica](https://www.britannica.com/topic/Kamakura-shogunate)
-- [Tokugawa shogunate | Britannica](https://www.britannica.com/topic/Tokugawa-shogunate)
-- [Japan: Medieval Japan | Britannica](https://www.britannica.com/place/Japan/Medieval-Japan)
-- [国立国会図書館デジタル展示会 | National Diet Library](https://www.ndl.go.jp/)

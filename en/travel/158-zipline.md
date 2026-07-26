@@ -48,9 +48,6 @@ The experience also has a cultural side that isn’t obvious until you’ve done
 If you’re traveling with people who have different comfort levels, ziplines can be a surprisingly diplomatic choice. One person can ride. Another can watch from a platform. The activity creates shared anticipation without requiring everyone to share the same appetite for fear. The only real requirement is patience: for the briefing, for the queue, for the weather. This is not a “drop in, do it, leave” attraction unless you are very lucky.
 
 Afterward, you walk back across the grounds with legs that feel slightly unreal, as if you’ve borrowed someone else’s balance for a while. You check your phone and realize you didn’t take the photo you imagined. The memory is not a frame. It’s a moving line across a landscape—Japan letting you travel through scenery the way it often prefers: safely, deliberately, and with just enough speed to make the view stick.
-
-Sources:
-
 - Mishima Skywalk (official), “Guide / tickets”: https://mishima-skywalk.jp/guide/
 - Mishima Skywalk (official), homepage: https://mishima-skywalk.jp/
 - Mishima City Official Tourism Guide, “Long Zip Slide”: https://mishima-tourism.jp/plan/experiences/experiences03/?hl=en

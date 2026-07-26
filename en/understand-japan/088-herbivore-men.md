@@ -47,11 +47,3 @@ That helps explain why the label became so contentious. Critics argued that `Her
 By the `2020s`, Japan had begun using different language for the same field of tension. Public debate moved toward `diverse life courses`, men's parental leave, work-style reform, and the redistribution of care. Those phrases are more institutional and less theatrical than `Herbivore Men`, yet the old label still matters because it caught the moment when male change first became impossible to ignore. It named the discomfort before policy language caught up. It also captured the unease of a society in which many women wanted partners less tied to patriarchal habits, while workplaces still often rewarded exactly those habits.
 
 `Herbivore Men` remains a useful phrase only if it is treated as a symptom rather than a census category. It points to a Japan in which men are no longer uniformly governed by the salaryman-breadwinner script, yet are not fully free of it either. The term stuck because it dramatized that transition. A quieter young man, a smaller wallet, a softer wardrobe, a less linear career, a different idea of adulthood: none of these alone explains much. Taken together, they mark the end of an older certainty. The label's real subject was never just men. It was the public realization that the masculine center of postwar Japan had started to shift, and that nobody had agreed on the new map.
-
-Sources:
-- [The 16th National Fertility Survey 2021 Overview | National Institute of Population and Social Security Research](https://www.ipss.go.jp/ps-doukou/j/doukou16/JNFS16_gaiyo.pdf)
-- [The 15th National Fertility Survey Overview | National Institute of Population and Social Security Research](https://www.ipss.go.jp/ps-doukou/j/doukou15/NFS15_gaiyo.pdf)
-- [Issues and Measures for Changing Men's Lifestyles and Awareness | Cabinet Office Gender Equality Bureau](https://www.gender.go.jp/kaigi/senmon/kurashikata_ishikihenkaku/houkoku.html)
-- [2009 Buzzword Awards Nominee: 草食男子 | Jiyu Kokumin Sha](https://www.jiyu.co.jp/singo/index.php?eid=00026)
-- [草食系男子 | imidas](https://imidas.jp/genre/detail/L-101-0083.html)
-- [Surveys on Japanese Attitudes | NHK Broadcasting Culture Research Institute](https://www.nhk.or.jp/bunken/research/yoron/index.html)

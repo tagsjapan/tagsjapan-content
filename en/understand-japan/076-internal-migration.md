@@ -47,11 +47,3 @@ The difficulty is that policy often works downstream while the strongest forces 
 What makes the subject especially revealing is that internal migration exposes a tension between individual rationality and collective cost. For a single person, moving to Tokyo, Osaka, or another major urban center may be a sensible choice. For the country as a whole, decades of the same sensible choice can hollow out municipalities, destabilize local service systems, and push national development toward a narrower and riskier geography. Japan is therefore not debating whether mobility is good or bad in the abstract. It is debating how much concentration a society can absorb before the places left behind start losing more than population.
 
 That is why `Internal Migration` remains one of the key terms for understanding Japan now. It connects education, employment, housing, regional decline, and national planning in a single current. The packed commuter train in the capital and the shuttered storefront in a provincial town are not separate stories. They are often downstream effects of the same flow. Watch who keeps leaving, who keeps arriving, and which age groups are thickest in each place, and the map of contemporary Japan begins to redraw itself in front of you.
-
-Sources:
-- [Basic Resident Register Population Migration Report | Statistics Bureau of Japan](https://www.stat.go.jp/data/idou/index.html)
-- [Summary of 2025 Results | Statistics Bureau of Japan](https://www.stat.go.jp/data/idou/2025np/jissu/youyaku/index.html)
-- [Major Metropolitan Area Development Laws | Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/kokudoseisaku/metoropolitan_area_development.html)
-- [Regional Population Projections 2023 | National Institute of Population and Social Security Research](https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/t-page.asp)
-- [Town, People, and Job Creation: Long-term Vision and Comprehensive Strategy | Headquarters for Regional Revitalization](https://www.chisou.go.jp/sousei/mahishi_index.html)
-- [Second Comprehensive Strategy for Regional Revitalization (2020 revision) | Headquarters for Regional Revitalization](https://www.chisou.go.jp/sousei/info/pdf/r02-12-21-senryaku2020.pdf)

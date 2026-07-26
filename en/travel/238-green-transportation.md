@@ -49,9 +49,3 @@ This is also why Japan has become so persuasive on the subject. The country is g
 By the end, the memory is not usually "I emitted less carbon," even if that is true. It is that the trip had edges, stops, distances, and surfaces that made sense. You knew where the town began because you rolled into it or walked through it. You knew the lake was large because your legs said so. Japan's green transportation works best when it returns movement to human proportion without giving up the precision the country does so well.
 
 That is why the subject belongs to mainstream travel rather than to a virtuous niche. In Japan, greener movement often reveals more and costs less in stress than travelers expect, provided they are willing to trade a little spontaneity for timetable awareness. The reward is not only cleaner transport. It is a trip with better texture: stations that matter, roads that can be felt, towns entered at their real scale, and a stronger sense that moving through Japan is itself part of seeing it.
-
-Sources:
-- [Sustainable Travel in Japan, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/)
-- [How to Travel by Train and Bus in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/)
-- [National Cycle Routes in Japan, Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/road/bicycleuse/good-cycle-japan/national_cycle_route/english.html)
-- [Biwaichi Route Info](https://en.biwako1.jp/basic/route/)

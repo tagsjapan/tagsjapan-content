@@ -50,10 +50,3 @@ That media ecology is also why ukiyo-e is easy to misread today. Global fame can
 Reading ukiyo-e as media does not reduce its artistry. It clarifies it. The genre’s graphic power comes from solving a real problem: how to make an image legible, stylish, and emotionally charged on paper that would be handled by ordinary people. That design intelligence—composition, line economy, color strategy, typified faces—helped ukiyo-e travel far beyond Edo.
 
 `Ukiyo-e（浮世絵）` helps you understand Japan because it reveals Edo society as a place where culture was already commodified, collaborative, and image-driven. It shows how a city produces icons: actors, courtesans, landscapes, and moods, printed into repeatable form. It also shows how Japan later reclassifies its own pop culture into high art. That reclassification is part of modern Japan’s story: turning the ordinary into heritage without forgetting what made it ordinary. The prints did not change. The frame did—and the audience did, too.
-
-Sources:
-- [ukiyo-e | Britannica](https://www.britannica.com/art/ukiyo-e)
-- [nishiki-e | Britannica](https://www.britannica.com/art/nishiki-e)
-- [About the Museum | Ota Memorial Museum of Art](https://www.ukiyoe-ota-muse.jp/eng/about/)
-- [Collection | Ota Memorial Museum of Art](https://www.ukiyoe-ota-muse.jp/eng/collection)
-- [Beauty Looking Back | Britannica](https://www.britannica.com/art/Beauty-Looking-Back)

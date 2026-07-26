@@ -51,10 +51,3 @@ In the last two decades, the pressures on Japanese baseball have become easier t
 In the last two decades, the pressures on Japanese baseball have become easier to name. Demographic decline reduces the pool of young players; other sports compete more effectively for attention; elite talent moves overseas and returns with different training assumptions. Meanwhile, the sport’s school-based intensity has faced sustained criticism around overuse injuries and the moralized language of endurance. Debates over pitch counts, practice hours, and who is responsible for young athletes’ bodies have pushed baseball from nostalgia into policy. Japan’s baseball culture is strong enough to survive argument, but it has to keep deciding what it wants its strength to mean: development, devotion, or damage disguised as devotion.
 
 The national team, often branded as `Samurai Japan（侍ジャパン）`, adds another twist. It pulls baseball out of its local and league loyalties and turns it into a temporary national “we,” synchronized with international calendars and global comparison. Yet even here, the engine remains domestic: the players, the coaching culture, the feeder systems, the stories that television knows how to tell. Baseball’s power in Japan is not just that it wins. It is that the country has built a social scaffold sturdy enough to make winning and losing feel like shared experience.
-
-Sources:
-- [Nippon Professional Baseball (NPB)](https://npb.jp/)
-- [Baseball Federation of Japan / Samurai Japan](https://www.japan-baseball.jp/)
-- [Japan High School Baseball Federation (JHBF)](https://www.jhbf.or.jp/)
-- [Hanshin Koshien Stadium](https://koshien.hanshin.co.jp/)
-- [baseball | Encyclopaedia Britannica](https://www.britannica.com/sports/baseball)

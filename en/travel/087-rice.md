@@ -49,9 +49,6 @@ Back in everyday travel, rice shows up in the places tourists actually eat. It�
 Rice is also an unusually practical souvenir if you understand its rules. It’s heavy, which changes your luggage math. It’s often labeled by region and variety, which means buying it can feel like buying a place. And it has shelf-life questions: some forms travel easily—rice crackers, instant rice, furikake—and some are best treated as local pleasures rather than gifts. The smart approach is the same as with any Japanese food purchase: look at what it is, where it’s from, how soon it should be eaten, and whether it’s meant for sharing. Rice culture in Japan is partly about distribution—bringing something back, dividing it, making sure everyone gets a taste.
 
 By the end of a trip, rice becomes a kind of baseline memory. You may not remember every temple, but you remember the first bowl you ate that made you pause, and the last one you ate when you realized you had started judging restaurants by their rice. That’s why `Rice` belongs in a travel lexicon. It isn’t glamorous, but it connects the country’s farming calendar, its regional pride, its daily meal design, and the way travelers actually move and eat. In Japan, a simple bowl of rice is rarely just a side. It’s a structure.
-
-Sources:
-
 - MAFF, “Rice and Rice Products in Japan” — https://www.maff.go.jp/e/japan_food/rice/index.html
 - MAFF, “作況調査 / 米” — https://www.maff.go.jp/j/tokei/kouhyou/sakumotu/sakkyou_kome/
 - Niigata Tourism (official) — https://enjoyniigata.com/en/

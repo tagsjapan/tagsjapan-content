@@ -49,11 +49,3 @@ This is one reason the five-household group still matters as a historical key to
 The scholarship also cautions against treating the `gonin-gumi` as perfectly uniform. Local conditions mattered. Domain administration varied. Rural and urban practice did not always match. Some groups were more active or coercive than others. Even so, the core principle remained recognizable: governance could be made more effective by binding households into small circles of shared liability. That principle outlasted the exact institutional form.
 
 The `gonin-gumi` should therefore be understood not as a quaint historical curiosity but as a sharp illustration of how early modern Japan organized rule. A handful of households, a register, an unwelcome duty shared among neighbors, a problem settled before it reached a magistrate, an atmosphere in which help and pressure came from the same people: these scenes show what the system really was. It was the state, scaled down to the distance between adjoining doors, and made durable by the fact that those doors stayed in sight of one another every day.
-
-Sources:
-- [Gonin-gumi | Britannica](https://www.britannica.com/topic/gonin-gumi)
-- [五人組と近世村落 : 連帯責任制の歴史 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R100000002-I000010555045)
-- [五人組制度新論 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R100000002-I000000713992)
-- [五人組帳 | 國立國會圖書館](https://ndlsearch.ndl.go.jp/books/R100000094-I28713)
-- [Tokugawa shogunate | Britannica](https://www.britannica.com/topic/Tokugawa-shogunate)
-- [The Tokugawa status system | Britannica](https://www.britannica.com/place/Japan/The-Tokugawa-status-system)
