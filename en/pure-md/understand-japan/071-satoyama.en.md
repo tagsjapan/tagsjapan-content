@@ -19,11 +19,3 @@ People often describe satoyama as harmony. Locals have usually experienced it as
 Japan's treatment of satoyama is revealing because it shows a national preference for thinking in relationships rather than categories. The term joins land use, local economy, biodiversity, memory, and daily work inside a single frame. It refuses the easy opposition between pristine nature and human interference. By that logic, it is a concept of proximity. People are close to the forest, close to water, close to seasonal labor, and close to the consequences if that chain breaks. Modern satoyama projects often depend on schools, civic groups, and subsidy-backed management associations because household labor alone no longer sustains the old system.
 
 `Satoyama` matters because it corrects a common misunderstanding about Japan. The admired landscape is not always the landscape left alone. Very often it is the landscape still being cared for. What appears calm has usually been organized. What appears natural has often been maintained. The word endures because it captures that paradox with unusual clarity, and because it keeps asking whether a society can preserve a living landscape once the people who made it begin to disappear. It names both an ecology and a labor problem. Every cleaned channel and repaired terrace makes the same point in physical form. The term remains alive because the question remains unanswered.
-
-Sources:
-- [SATOYAMA Initiative](https://satoyama-initiative.org/)
-- [Conservation and Sustainable Use of Satoyama | Ministry of the Environment](https://www.env.go.jp/nature/satoyama/)
-- [The Satoyama Initiative was Launched at CBD COP 10 | Ministry of the Environment](https://www.env.go.jp/press/100338.html)
-- [Sado's Satoyama in Harmony with the Crested Ibis | FAO GIAHS](https://www.fao.org/giahs/giahsaroundtheworld/designated-sites/asia-and-the-pacific/sado/en/)
-- [Noto's Satoyama and Satoumi | UNESCO](https://en.unesco.org/silkroad/silk-road-themes/underwater-heritage/noto-satoyama-satoumi)
-- [Rural Stay Portal | Ministry of Agriculture, Forestry and Fisheries](https://www.maff.go.jp/j/nousin/kouryu/nouhakusuishin/)

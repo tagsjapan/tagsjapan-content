@@ -47,8 +47,3 @@ The debate begins where the mirror ends. Supporters see liberation: a wider spac
 It looks like style. It functions like a test.
 
 Genderless Fashion helps a reader understand Japan because it shows a familiar pathway of change. In Japan, formal systems can be slow to move, but aesthetics and consumer culture can move quickly, teaching people what to tolerate before policy catches up. The trend also shows the limits of that pathway: visibility is not the same as acceptance, and a blurred outfit does not automatically blur the deeper distribution of roles. Still, the unisex rack is not nothing. It is a small public sign that the gender line, once treated as obvious, is now being negotiated—one outfit at a time. Japan is watching, and adjusting, in real time.
-- SHIBUYA109 lab., youth culture research and trend reports
-- UNIQLO LifeWear, unisex/gender-neutral product lines and brand messaging
-- WWD JAPAN, reporting on genderless fashion and retail shifts
-- FASHIONSNAP, coverage of Japanese fashion trends and marketing language
-- Tokyo Fashion, street-style documentation and trend observation

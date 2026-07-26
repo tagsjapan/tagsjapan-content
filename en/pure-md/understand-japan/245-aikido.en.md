@@ -19,10 +19,3 @@ The contradiction, of course, is practical. A martial art that emphasizes harmon
 This makes aikido a useful lens for Japan’s broader approach to self-cultivation. Japanese budō often carries a double ambition: practical technique and character formation. Aikido pushes the character side unusually hard, which is why it attracts many overseas practitioners who are looking for a method of embodied ethics rather than a competitive ladder. It is also why aikido remains controversial. When you refuse a scoreboard, you also refuse an easy proof.
 
 `Aikido（合気道）` helps you understand Japan because it shows how Japan can institutionalize an ideal. It takes a founder’s philosophy, builds a foundation, creates federations, sets rank structures, and spreads a practice globally while insisting that the central point is not winning. Whether one finds the claim convincing is secondary. That insistence is the story. The Japan-understanding fact is that aikido keeps making the claim in public form: harmony can be trained, restraint can be embodied, and conflict can be practiced without turning practice into a hunt for trophies.
-
-Sources:
-- [合気会とは – 合気会](https://aikikai.or.jp/about/)
-- [全日本連盟 | 全日本合気道連盟（JAFA）](https://jafaikido.jp/about)
-- [About the IAF | International Aikido Federation](https://www.aikido-international.org/about/)
-- [日本武道館 武道学園 | 公益財団法人日本武道館](https://www.nipponbudokan.or.jp/shinkoujigyou/gakuen/about)
-- [Aikido | Definition, History, & Facts | Britannica](https://www.britannica.com/sports/aikido)

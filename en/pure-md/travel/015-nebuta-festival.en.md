@@ -15,10 +15,3 @@ The best way to understand its travel logic is to compare two scenes. In the fir
 The common mistake is to treat it like fireworks, something vivid but passive. Nebuta is more demanding than that. You need to think about access, timing and behavior. You also need to accept that the festival is not designed around the convenience of every traveler with a camera. Streets are crowded. Return journeys can be slow. Weather can shape the mood. If you plan to dance, costume rules are not decorative niceties. If you plan to watch, route knowledge matters. The friction is part of what protects the festival from turning into a frictionless spectacle for visitors alone.
 
 Late in the evening, when one float has passed and the crowd begins to turn its head for the next, you can feel how the festival changes the city without pretending to replace it. Aomori is still there: the station, the harbor air, the ordinary streets waiting to reopen. But for those August nights the city's scale belongs to Nebuta. That is why people travel north for it, and why they return. The memory is not simply of bright paper and drums. It is of a place that, for a few evenings each year, moves to a common beat and lets you stand either just outside it or briefly inside it.
-
-Sources:
-
-- Aomori Nebuta Festival Official Site, festival information https://www.nebuta.jp/info/
-- Aomori Nebuta Festival Official Site, viewing seat information https://www.nebuta.jp/info/purchase/group.html
-- Aomori Nebuta Festival Official Site, awards information https://www.nebuta.jp/know/award/award.html
-- Travel Japan / JNTO, "Aomori Nebuta Festival" https://www.japan.travel/en/spot/102/

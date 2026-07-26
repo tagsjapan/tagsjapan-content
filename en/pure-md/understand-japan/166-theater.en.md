@@ -19,10 +19,3 @@ The pressures are visible in contemporary debates. Operating costs rise. Regiona
 Specific theaters make the layers concrete. `Kabukiza（歌舞伎座）`, first built in `1889` and reopened in `2013`, remains a high-visibility commercial home of classical performance in Tokyo. `Uchikoza（内子座）`, completed in `1916` and later preserved through local effort, shows how a theater can function as community memory, not only as entertainment business. The National Noh Theatre, established in `1983`, demonstrates another pattern: when a form has specialized space and specialized training, the state can preserve it by preserving the conditions of performance, not only the script.
 
 Seen through theater, Japan’s cultural strategy becomes legible. It preserves tradition by institutionalizing venues, organizations, and training. It supports contemporary arts by building national platforms rather than leaving everything to the market. And it increasingly treats stages as civic spaces—places where society rehearses itself. `Theater（劇場）` is therefore not just where Japan tells stories. It is part of how Japan decides what kind of cultural life can be sustained, and who gets to be in the audience when the lights go down.
-
-Sources:
-- [劇場、音楽堂等の活性化に関する法律について | 文化庁](https://www.bunka.go.jp/seisaku/bunka_gyosei/shokan_horei/geijutsu_bunka/gekijo_ongakudo/)
-- [Our History | Japan Arts Council](https://www.ntj.jac.go.jp/en/about_us/history.html)
-- [About Us | New National Theatre, Tokyo](https://www.nntt.jac.go.jp/english/about/)
-- [Theater in Japan | JNTO](https://www.japan.travel/en/guide/theater/)
-- [Uchikoza Kabuki Theater | JNTO](https://www.japan.travel/en/spot/245/)

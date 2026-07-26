@@ -18,10 +18,3 @@ Shame is another gate. Many people delay seeking help because they are not sure 
 
 In recent years, shocks such as pandemic disruption and rising prices have made the edge feel closer to the mainstream. That shift is part of what makes living poverty a useful lens for understanding Japan today. It marks a country moving from an older faith—work plus family equals stability—toward a risk landscape where stability must be actively maintained, and where the institutions that once absorbed strain do not reach as far. The kitchen table remains the same size; what changes is how much weight it has to hold.
 Living poverty is the name Japan gives to that added weight before the legs snap.
-
-Sources:
-- Ministry of Health, Labour and Welfare (MHLW), Self-Reliance Support System for People in Need (生活困窮者自立支援制度)
-- MHLW, statistics on consultation/support institutions (自立相談支援機関の設置状況)
-- MHLW, Housing Security Benefit (住居確保給付金)
-- MHLW, annual labour and welfare white paper materials (厚生労働白書)
-- Cabinet Office (Japan), child poverty and related policy materials (子供の貧困対策)

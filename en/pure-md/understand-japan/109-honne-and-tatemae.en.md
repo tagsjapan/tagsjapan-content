@@ -19,10 +19,3 @@ Honne and tatemae is not only about words. It can be read in timing, in pauses, 
 The practical value of the concept is not to turn every interaction into a hunt for hidden truth. It is to understand that public speech often carries a second job: protecting the relationship and the room.
 
 Return to the meeting, and the phrase “let’s think about it” stops being a cultural riddle. It becomes a tool. It may signal uncertainty, it may signal refusal, it may signal a need to consult someone else before speaking plainly. Honne and tatemae names the structure that makes such signals necessary in a society built on long-running relationships and high demands for smooth coordination. Understanding it helps you see Japan less as a land of secrets and more as a place where language is often asked to carry both meaning and mercy at once. The pair is less a key to “real feelings” than a map of how speech is made safe.
-
-Sources:
-- [本音 | コトバンク](https://kotobank.jp/word/%E6%9C%AC%E9%9F%B3-632457)
-- [立前／建前 | コトバンク](https://kotobank.jp/word/%E7%AB%8B%E5%89%8D-561100)
-- [本音と建前の天秤 | J-STAGE](https://www.jstage.jst.go.jp/article/arepj/53/0/53_37/_article/-char/ja/)
-- [日本人は表情から本音と建前の感情をどのように認知するのか？ | J-STAGE](https://www.jstage.jst.go.jp/article/jsre/28/Supplement/28_ps03/_article/-char/ja/)
-- [産業廃棄物処理事業を題材とした受容評価に関する意見表明過程 | J-STAGE](https://www.jstage.jst.go.jp/article/sesj/31/6/31_310603/_article/-char/ja/)

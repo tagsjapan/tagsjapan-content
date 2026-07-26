@@ -17,10 +17,3 @@ The mechanics, again, shape the traveler’s experience. Some lantern-floating e
 `Lantern Floating` also offers a rare kind of cultural access because it forces you to notice the boundary between looking and belonging. In a shopping street, tourists and locals are consuming the same things. At a memorial riverbank, the stakes aren’t equal. The friction point is modern travel itself: phones come out, cameras search for the perfect frame, and the mood can fracture. The better way to carry the night home is often to watch longer than you photograph, and to keep your voice low enough to hear the water.
 
 Later, the lanterns are gone, or far downstream where you can’t see them. The crowd thins. The city goes back to neon and traffic. But the river holds a memory of light moving at river speed, not human speed. That is what `Lantern Floating` offers a traveler: a summer night in Japan that refuses to become entertainment, and instead asks you to stand still, read a few handwritten wishes, and let the season feel serious for a while.
-
-Sources:
-
-- MLIT (Japan Tourism Agency multilingual database), “Hiroshima Peace Memorial Toro Nagashi”: https://www.mlit.go.jp/tagengo-db/en/R1-00499.html
-- Dive! Hiroshima, “Hiroshima Peace Memorial Toro Nagashi”: https://dive-hiroshima.com/en/explore/2558/
-- Kyoto City Official Travel Guide (京都観光Navi), “嵐山灯籠流し”: https://ja.kyoto.travel/event/single.php?event_id=5039
-- Hiroshima Peace Memorial Museum: https://hpmmuseum.jp/

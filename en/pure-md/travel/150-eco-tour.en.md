@@ -17,10 +17,3 @@ But Japan’s ecotourism is not only about remote, high-drama nature. Travel Jap
 For travelers, the itinerary consequences are practical. Eco tours run on weather, tides, and safety thresholds, and cancellation is not a failure but often a sign that the operator takes risk seriously. You may need to reserve early, especially in popular regions. You may need gear you didn’t plan to pack, or at least the willingness to rent it. And you need to accept that an eco tour is not a substitute for independent hiking. It is slower, more structured, and often more informative. The friction point is that some people arrive expecting speed—“We’ll see the best spots in ninety minutes”—and leave frustrated. The more accurate expectation is that the guide is there to reduce uncertainty, not to maximize distance.
 
 The reward is a different kind of memory. You walk less and notice more. You learn where to step, how to look, and when not to push closer. At the end, when boots are wiped clean and the group’s chatter fades, the landscape doesn’t feel like something you consumed. It feels like something you were briefly allowed to visit. That is Japan’s particular contribution to ecotourism: not the claim that nature is pristine, but the insistence that access should come with a method—and that method, like a good map, can change how you travel.
-
-Sources:
-
-- Ecotourism Promotion Act, Ministry of the Environment (Japan): https://www.env.go.jp/nature//ecotourism/try-ecotourism/law/
-- Japan Ecotourism Society (official): https://ecotourism.gr.jp/english/
-- Iriomote Ecotourism Promotion Council, Ministry of the Environment (Japan): https://www.env.go.jp/nature/ecotourism/try-ecotourism/certification/iriomote/
-- Mt. Fuji Satoyama Vacation and Ecotours, Travel Japan / JNTO: https://www.japan.travel/en/japans-local-treasures/mt-fuji-satoyama-vacation-and-ecotours/

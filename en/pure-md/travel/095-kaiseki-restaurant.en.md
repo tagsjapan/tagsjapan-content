@@ -15,10 +15,3 @@ This also produces the main friction point. Travelers sometimes book kaiseki und
 There is a further tension worth keeping. Kaiseki can easily become theater for visitors, especially in cities where beautiful rooms and famous names circulate online long before anyone tastes the broth. Yet the strongest kaiseki meals rarely feel performative in that crude sense. They feel measured. A leaf, a lacquer tray, a clear soup, a grilled fish, a rice course at the right time: the drama is in how little needs to be overstated. That restraint is what keeps the meal from collapsing into luxury branding. It also explains why kaiseki matters beyond food. It is one of the clearest travel encounters with a Japanese preference for form that does not advertise itself loudly.
 
 When the final rice and pickles arrive, many visitors realize the evening has moved differently from any other meal on the trip. The point was never abundance alone. It was arrangement. A kaiseki restaurant matters in Japan because it can turn dinner into a controlled passage through season, place and attention. If you choose one carefully, and give it the time it asks for, the meal does not simply fill an evening. It becomes the evening, and the memory often lasts in the quiet details: the bowl that felt cool in the hand, the course that arrived exactly when it should, the sense that the season had briefly been set on the table and allowed to pass.
-
-Sources:
-
-- Travel Japan / JNTO, "Kaiseki Guide" https://www.japan.travel/en/guide/japanese-kaiseki-cuisine/
-- Travel Japan / JNTO, "Japanese Ryokan Guide" https://www.japan.travel/en/guide/japanese-ryokan/
-- Travel Japan Luxury / JNTO, "Kikunoi" https://www.japan.travel/en/luxury/detail/kikunoi/
-- Travel Japan Luxury / JNTO, "Jiki Miyazawa" https://www.japan.travel/en/luxury/detail/jiki-miyazawa/

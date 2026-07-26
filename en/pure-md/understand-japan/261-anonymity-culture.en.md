@@ -19,10 +19,3 @@ The costs are equally visible, and research has tried to name the mechanism. Whe
 Japan’s contemporary debate is therefore not about choosing anonymity or banning it. It is about balancing anonymity with accountability. The legal system has treated online speech as part of a rights-and-harms framework rather than as a separate digital playground. A key example is the `2001` act often called the `Provider Liability Limitation Act`, which defines procedures for addressing rights infringements and for seeking disclosure of sender information in certain cases. The Ministry of Justice, meanwhile, treats online abuse as a human-rights concern, providing counseling channels and public education about “the internet and human rights.” These responses do not erase anonymity. They try to draw a line where anonymity stops being a protective distance and becomes a tool for inflicting damage.
 
 Anonymity culture remains durable in Japan because the underlying pressure remains durable: the cost of being publicly wrong, publicly weak, or publicly out of place can be high. As long as social roles stay heavy, anonymous speech will remain attractive. The more interesting question is what kind of society anonymity makes visible. It shows where people need safety to talk, and it shows where people will use distance to avoid responsibility. Japan’s anonymity culture is not a glitch in modern communication. It is a mirror held up to the distribution of social risk.
-
-Sources:
-- [特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律（平成十三年法律第百三十七号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/413AC0000000137)
-- [インターネット人権相談受付窓口へようこそ！ | 法務省](https://www.moj.go.jp/JINKEN/jinken113.html)
-- [インターネットの匿名性によるDeindividuationとオンライン・コミュニティの秩序 | J-STAGE](https://www.jstage.jst.go.jp/article/jasi/22/0/22_0_138/_article/-char/ja)
-- [匿名と顕名による非難行為の差異 | J-STAGE](https://www.jstage.jst.go.jp/article/pacjpa/87/0/87_1B-052-PE/_article/-char/ja)
-- [CGMにおいてユーザが志向する匿名性についての考察 | J-STAGE](https://www.jstage.jst.go.jp/article/jasmin/2008f/0/2008f_0_21/_article/-char/ja)

@@ -17,9 +17,3 @@ Examples make the point. In Hakuba, whole-house stays suit ski groups who need g
 That is why the best use of a Japanese vacation rental villa is not to imitate hotel travel inside a bigger shell. It is to let the trip slow down enough for space to matter. After dark, when groceries are on the counter, shoes are lined at the door, and tomorrow's plan is being made around a table instead of in a lobby, the logic of the format becomes obvious. You are not just occupying a room. You are borrowing a local rhythm for a few days and making the journey answer to it.
 
 What seems at first like a lodging upgrade is really a planning decision about how social your trip will be. Villas work best when the group wants to share time rather than merely share cost. In Japan that can mean an evening of cooking local produce, an early departure timed to weather instead of restaurant reservations, or simply the relief of returning from a long drive to a space that still feels open. The format does not suit every traveler. But for the right family or group, it can turn an expensive, busy country into a place that feels briefly livable instead of perpetually in transit.
-
-Sources:
-- Rakuten STAY VILLA: https://www.rakutenstay.com/villa/
-- Hakuba Valley Tourism, Stay: https://www.hakubavalley.com/en/stay/
-- Japan Tourism Agency, Private Lodging Information: https://www.mlit.go.jp/kankocho/minpaku/
-- Travel Japan / JNTO, Accommodation in Japan: https://www.japan.travel/en/plan/hotels/

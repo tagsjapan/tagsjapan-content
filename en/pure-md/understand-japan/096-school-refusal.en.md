@@ -17,12 +17,3 @@ That shift has not dissolved the tension. Many parents and teachers still feel t
 `School Refusal` matters for understanding Japan because it exposes a difficult limit in the country's school culture. Japanese schools are good at shared routines, common tempo, and daily belonging. Those strengths can hold many children together. They can also make the institution hard to inhabit for students overwhelmed by anxiety, peer pressure, sensory stress, bullying, or the exhaustion of trying to match a group rhythm that no longer feels possible. `Futōkō` reveals what happens when a system built on collective attendance encounters children who need another form of connection before they can learn at all.
 
 Look in the entryway of a family home on a weekday morning and the whole issue can be condensed into a few objects: indoor school shoes in a bag, a timetable still pinned to the wall, a backpack standing ready by the door. Nothing is broken. Nothing looks dramatic. Yet the route from the front step to the classroom has become impassable. Japan's debate over `School Refusal` now turns on whether it can build more than sympathy around that scene. It has to build routes, rooms, and relationships capable of meeting a child before the school door closes completely.
-
-Sources:
-- [Measures for School Refusal, Including the COCOLO Plan | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1397802_00005.htm)
-- [Related Laws on School Refusal | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1397799.htm)
-- [Outline of the Act on Securing Educational Opportunities | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1380956.htm)
-- [FY 2024 Survey Results and Response Enhancements | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422178_00006.htm)
-- [Survey on Problem Behavior, School Refusal, and Other Student Guidance Issues | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302902.htm)
-- [Measures on School Refusal | Children and Families Agency](https://www.cfa.go.jp/policies/futoko-taisaku)
-- [Seamless Regional Support Project for Children with School Refusal | Children and Families Agency](https://www.cfa.go.jp/policies/futoko-taisaku/futoko-jigyo)

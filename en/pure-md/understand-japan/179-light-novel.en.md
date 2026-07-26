@@ -19,10 +19,3 @@ Platforms also widened the entry point. Web novel ecosystems such as `Shōsetsuk
 The current tensions follow from that success. One tension is cultural: the “light” label can be treated as a marker of low seriousness, even when the field produces complex world-building and durable readership. Another tension is industrial: if a genre becomes too tightly coupled to adaptation, it can begin to write toward what adapts easily—clear hooks, visualizable scenes, season-shaped arcs—at the expense of slower ambiguity. KADOKAWA’s strategy updates in `2025` read as an attempt to manage that coupling: reorganize media strategy, shift discovery mechanisms, and keep the pipeline moving even as print-era hubs fade.
 
 `Light Novel（ライトノベル）` helps you understand Japan because it clarifies how the country turns narrative into a production system. It shows how publishing builds precise shelves, how editors and illustrators co-produce character identity, how readers participate through rankings and prizes, and how stories are engineered to be portable across media. A light novel may look like a small paperback. In Japanese cultural industry terms, it is often a blueprint: a compact form designed to grow.
-
-Sources:
-- [The Place Where “Light Novels” Were Born | J-STAGE](https://www.jstage.jst.go.jp/article/jshuppan/52/0/52_1/_article/-char/ja/)
-- [Media Mix and Light Novel Editors | J-STAGE](https://www.jstage.jst.go.jp/article/arcs/6/0/6_145/_article/-char/ja)
-- [Non-native Readers in the Media Mix Era | J-STAGE](https://www.jstage.jst.go.jp/article/sor/60/3/60_187/_article/-char/ja/)
-- [KADOKAWA light novel strategy update | KADOKAWA Group](https://group.kadokawa.co.jp/information/promotional_topics/article-11426.html)
-- [“Isekai” Boom Offers Better Lives in Other Worlds | Nippon.com](https://www.nippon.com/en/japan-topics/g01206/)

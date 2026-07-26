@@ -20,10 +20,3 @@ The contemporary cultural afterlife is obvious in popular culture. The Japanese 
 The unresolved tension is that “spiriting away” can be compassionate and cruel. It can protect a community from pointless blame, and it can also hide human causes—violence, neglect, exploitation—behind a comforting mystery. It can respect the terror of not knowing, and it can also block the work of knowing. Japan’s modern institutions lean toward facts and procedure; Japan’s folk vocabulary leans toward meaning and emotional containment. Kamikakushi is where those two tendencies meet.
 
 `Spiriting Away（神隱）` helps you understand Japan because it shows how Japan manages the experience of disappearance across eras. It reveals a culture that does not treat uncertainty as empty space. It fills the gap with narratives that keep social life coherent, even when the outcome is tragic or unresolved. In Japan, absence is not only an event. It is also a problem of language—what you can say when facts fail—and kamikakushi remains one of the most enduring answers in everyday speech.
-
-Sources:
-- [行方不明者 | 警察庁](https://www.npa.go.jp/publications/statistics/safetylife/yukue.html?s=09)
-- [About YoukaiDB (English) | Nichibunken](https://www.nichibun.ac.jp/YoukaiDB/english_kaisetsu.html)
-- [YoukaiDB search: “神隠し” | Nichibunken](https://sekiei.nichibun.ac.jp/cgi-bin/YoukaiDB3/msearch/msearch.cgi?index=&config=&query=%e7%a5%9e%e9%9a%a0%e3%81%97)
-- [YoukaiDB card example (1928, Niigata) | Nichibunken](https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=1230014)
-- [千と千尋の神隠し | スタジオジブリ](https://www.ghibli.jp/works/chihiro/)

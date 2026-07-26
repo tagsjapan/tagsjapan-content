@@ -19,11 +19,3 @@ A particularly visible recent flashpoint has been `malicious host club（悪質�
 Viewed this way, `Sex Industry（風俗業）` becomes a revealing lens on Japanese state–society relations. The state does not pretend that demand disappears. Instead it builds a system of categories and controls that tries to keep the market legible and containable. Society, meanwhile, often continues to speak about the same market with moral distance. The result is a long-running tension: permitted existence paired with persistent stigma; formal regulation paired with informal silence.
 
 That tension is why this topic belongs in a “Japan understanding” lexicon. It shows how Japanese governance works when a social reality is both durable and uncomfortable. It also shows how policy priorities can shift—from “public morals” language toward consumer protection and exploitation prevention—without changing the basic premise that the market will be regulated rather than denied. The neon is the surface. The deeper story is the paperwork, and the policing.
-
-Sources:
-- [風俗営業等の規制及び業務の適正化等に関する法律 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=323AC0000000122)
-- [Act on Control and Improvement of Amusement Business | Japanese Law Translation](https://www.japaneselawtranslation.go.jp/en/laws/view/2566)
-- [風俗営業等の現状 | 警察庁](https://www.npa.go.jp/bureau/safetylife/hoan/fuzoku/fuzoku_jokyo.html)
-- [令和6年における風俗関係事犯の取締り状況等について | 警察庁](https://www.npa.go.jp/bureau/safetylife/hoan/h26_fuzoku_jihan.pdf)
-- [悪質ホストクラブ対策 | 警察庁](https://www.npa.go.jp/bureau/safetylife/hoan/hostclub.html)
-- [繁華街の性風俗産業をめぐる統治 | J-STAGE](https://www.jstage.jst.go.jp/article/shabyo/31/0/31_75/_article/-char/ja/)

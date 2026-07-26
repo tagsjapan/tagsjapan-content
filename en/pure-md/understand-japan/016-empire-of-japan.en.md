@@ -19,11 +19,3 @@ This is also where the empire's contradiction becomes hardest to escape. Japan's
 Postwar Japan has never settled on a single language for this inheritance. Some sites emphasize sacrifice and military honor. Others stress destruction, defeat, and the vow never to repeat the past. Still others display the architecture and industrial artifacts of the period in a tone almost detached from imperial violence. That is why memory around the empire feels so uneven. The stone buildings, the museum labels, the patriotic songs, and the peace declarations do not tell the same story. They are arguments conducted in public space. The unevenness matters because the empire did not vanish cleanly with surrender documents. Administrative habits, commemorative practices, archives, and habits of selective remembrance remained behind in Japan itself. The afterlife of empire survives not only in ruins and museums but in the way historical credit and historical blame are still sorted.
 
 To study the Empire of Japan is to watch a modern state become imperial not by accident but by design. It built institutions quickly, expanded confidently, and taught its population to inhabit an imperial world. Then it lost that world in war. The end came in 1945 and 1947, but the empire's afterlife remains wherever modern achievement and historical violence still sit uncomfortably side by side.
-
-Sources:
-- [Empire of Japan | Britannica](https://www.britannica.com/place/Empire-of-Japan)
-- [The emergence of modern Japan | Britannica](https://www.britannica.com/place/Empire-of-Japan/The-emergence-of-modern-Japan)
-- [Imperial Japan | Britannica](https://www.britannica.com/place/Empire-of-Japan/Imperial-Japan)
-- [憲法 | National Diet Library](https://www.ndl.go.jp/diet/field_index/field_kenpo)
-- [沿革 | National Diet Library](https://www.ndl.go.jp/aboutus/outline/history)
-- [Principal Public Records Holdings | National Archives of Japan](https://www.archives.go.jp/english/ourholdings/principal_101.html)

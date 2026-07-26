@@ -15,9 +15,3 @@ There is, understandably, friction in how people approach the place. Some arrive
 The park also says something broader about travel in Japan. It reminds visitors that the country is not only a landscape of beauty, order, and culinary pleasure, though it is certainly those things too. It is also a country shaped by twentieth-century trauma, reconstruction, public mourning, and self-examination. Hiroshima makes that visible without demanding theatrical emotion. It asks instead for attention, quiet, and enough time to move from monument to museum to open sky and back into the city with a changed eye. Very few places can alter the moral weather of a trip so decisively.
 
 The practical advice is to give the park at least half a day, and to pair the open-air walk with the museum rather than choosing one or the other. Arrive knowing that the visit may slow you down. If you are traveling with children or first-time visitors to this history, a little preparation helps. Keep the camera secondary. It also helps not to sandwich the visit between overly cheerful appointments that leave no room for reflection afterward. Many travelers find the city around the park looks different for the rest of the day, and it is worth allowing for that change. In Hiroshima the most important part of the itinerary is not seeing a famous structure. It is allowing a city to show, step by step, how it chose to remember what happened to it.
-
-Sources:
-- [Hiroshima Peace Memorial Park, Travel Japan / JNTO](https://www.japan.travel/en/japans-local-treasures/hiroshima-peace-memorial-park/)
-- [Hiroshima Peace Memorial, World Heritage, Travel Japan / JNTO](https://www.japan.travel/en/world-heritage/hiroshima-peace-memorial/)
-- [Hiroshima Atomic Bomb Dome, Travel Japan / JNTO](https://www.japan.travel/en/spot/2202/)
-- [Hiroshima Peace Memorial Museum, Travel Japan / JNTO](https://www.japan.travel/en/spot/893/)

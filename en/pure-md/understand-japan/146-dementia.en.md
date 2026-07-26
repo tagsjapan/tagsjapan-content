@@ -19,12 +19,3 @@ Clinical and technological change adds another layer of tension. Japan has been 
 The hardest pressure remains scale. Japan’s welfare white paper materials include projections showing that the number of people living with dementia will remain high in the future, which means coexistence cannot be a boutique ideal. It has to be built into staffing, services, transport, and public spaces. This is where Japan’s approach becomes visibly Japanese: national laws and plans set direction, while local governments are expected to translate that direction into concrete programs. Dementia governance is therefore not only about individuals. It is about municipal capacity and the day-to-day coordination work that holds communities together.
 
 You can see the system’s ambition in ordinary examples: a community program trains supporters; a municipality is pushed to produce a local plan; a family learns about services and rights; a workplace adjusts; a shop learns how to respond. None of this eliminates the pain of dementia. It tries to reduce the secondary damage—the isolation, the stigma, the quiet stripping away of dignity—by making “understanding” part of public policy rather than a private virtue. Japan’s dementia policy shift is ultimately an argument about what an aging society owes its members. If everyone is a potential future patient, then dementia cannot be handled only behind clinic doors. It has to be negotiated in the open: in language, in law, and in the routines of people who may never touch a medical chart but who decide, in a single encounter, whether someone still belongs.
-
-Sources:
-- [認知症施策 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/ninchi/index.html)
-- [認知症サポーター | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000089508.html)
-- [認知症の人の日常生活・社会生活における意思決定支援ガイドライン | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000212395.html)
-- [認知症施策推進本部 | 内閣官房](https://www.cas.go.jp/jp/seisaku/ninchisho_suishinhonbu/index.html)
-- [認知症施策推進基本計画（概要PDF） | 内閣官房](https://www.cas.go.jp/jp/seisaku/ninchisho_suishinhonbu/pdf/kihon_keikakugaiyou.pdf)
-- [認知症人口の将来推計（図表） | 厚生労働省（白書バックデータ）](https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/22/backdata/01-03-02-11.html)
-- [Dementia (Fact sheet) | WHO](https://www.who.int/news-room/fact-sheets/dementia)

@@ -16,10 +16,3 @@ That design principle is one reason municipal guides in Japan are so practical. 
 This has itinerary consequences that are easy to miss. If your day includes a long rail ride, a festival in a crowded district, or a rural stay with limited shops nearby, carrying a small kit changes your margin for error. It allows you to respond calmly if weather turns, if public transport pauses, if a multilingual alert hits your phone with no immediate explanation. The bag also encourages a better habit on arrival: checking hotel exits, reading local notices, and deciding what part of the kit should stay with you rather than in the suitcase. On crowded summer days, even a bottle of water and a charged phone can be the difference between inconvenience and a genuine problem. That is not paranoia. It is simply using Japan the way Japan uses itself.
 
 In the end, the disaster kit is a travel object with almost no romance attached to it, and still it says a great deal. It says that uncertainty can be reduced by prior thought. It says that mobility matters. It says that a country accustomed to earthquakes and storms has learned to translate fear into lists, pouches, copies, batteries, and water. Slip a well-made kit into your day bag and you may never need it. That is the ideal outcome. In Japan, preparedness often succeeds by becoming nearly invisible. The quiet competence of that idea is one of the country's least glamorous and most reassuring travel lessons.
-
-Sources:
-
-- Tokyo Metropolitan Government, "Tokyo Bousai" — https://tokyo-bousai.metro.tokyo.lg.jp/en/index.html
-- Prime Minister's Office of Japan, "Preparations at Home for Disasters" — https://www.kantei.go.jp/jp/headline/bousai/sonae.html
-- Cabinet Office, "Helpful Apps and Websites in the Event of Disaster (Multilingual)" — https://www.bousai.go.jp/kokusai/web/index_en.html
-- Travel Japan / JNTO, "Safety Tips" — https://www.japan.travel/en/plan/safety-tips/

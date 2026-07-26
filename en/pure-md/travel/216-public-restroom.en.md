@@ -15,10 +15,3 @@ There is still a useful correction to make. Not every public restroom in Japan m
 What public restrooms reveal, finally, is how much of Japan's travel comfort depends on ordinary infrastructure being taken seriously. The country's famous transport efficiency, walkability, and attention to detail would feel different if the simple bodily question of where to go next kept interrupting the day. Instead, that question is often answered before it becomes stressful. The restroom becomes one of the quiet reasons the trip feels manageable. It is part of the wider pattern by which Japanese public life tries to convert friction into procedure and embarrassment into usable design.
 
 The practical advice is straightforward. Learn the main pictograms for wheelchair access, baby-changing facilities, and ostomate support. Do not occupy barrier-free spaces casually if you do not need them. In older districts or at night, use a good facility when you see one rather than assuming another will appear five minutes later. Department stores, big parks, stations, and newer civic projects are often the safest bets when comfort really matters, especially in bad weather. They are also usually easiest to locate quickly. And if you are traveling with children, older relatives, or anyone with a medical condition, include restroom locations in your route planning the way you already include train times. In Japan, the public restroom rarely asks to be admired. It simply helps the day hold together.
-
-Sources:
-
-- Barrier-free in daily life, Government of Japan Public Relations Online: https://www.gov-online.go.jp/useful/article/201812/1.html
-- Expanding the spirit of barrier-free, Government of Japan Public Relations Online: https://www.gov-online.go.jp/tokusyu/barrierfree/
-- THE TOKYO TOILET, Nippon Foundation: https://www.nippon-foundation.or.jp/what/projects/thetokyotoilet
-- THE TOKYO TOILET project site: https://tokyotoilet.jp/

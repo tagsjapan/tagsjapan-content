@@ -46,7 +46,3 @@ Hokkaido offers the opposite lesson: fishing as landscape. The prefecture’s of
 For beginners, Japan’s managed fishing spots and experience-style boat trips can be the most satisfying way in. They solve the two hardest problems at once: access and uncertainty. Equipment is often available, boundaries are clear, and the etiquette is taught rather than assumed. You may fish for a set time, learn how to handle a catch (or how to release it), and end the experience with the feeling that you participated without trespassing—on rules, on water, or on someone else’s work. It is also a better fit for family travel, where the goal is a shared hour outside, not a technical pursuit.
 
 If you go fishing in Japan and catch nothing, the trip can still be a success. The real souvenir is a new way of reading the water: signs, seasons, boundaries, and the small discipline that keeps public edges clean. Pack up carefully. Take your line. Wash your hands. Step back into the city or the countryside with the sense that you didn’t just borrow a view—you borrowed a local order, and returned it intact.
-- JNTO / Travel Japan, “Fishing in Japan”: https://www.japan.travel/en/guide/fishing-japan/
-- Fisheries Agency (Japan), “Recreational Fishing (遊漁の部屋)” (official): https://www.jfa.maff.go.jp/j/enoki/
-- HOKKAIDO LOVE! (official tourism): https://www.visit-hokkaido.jp/en/
-- GoTokyo (Tokyo Metropolitan Government / TCVB), “Tokyo Bay”: https://www.gotokyo.org/en/story/guide/tokyo-bay/index.html

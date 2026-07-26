@@ -17,10 +17,3 @@ The logistics are where the traveler either wins or loses. Meeting points are of
 If there’s one expectation correction worth packing with your wetsuit, it’s that canyoning is less about bravery than about cooperation. You move as a group. You learn to listen even when you can’t hear well over water. You wait your turn to jump. You accept that the guide’s caution is part of the experience rather than a nuisance. In a country that is famous for orderly cities, canyoning is one of the places you feel the other Japan—the steep, wet, physical one—without needing years of outdoor training to enter it.
 
 Afterward, you pull off the wetsuit and the world feels hot. Your legs carry that faint, rubbery tremble that comes from cold water and adrenaline. On the train back toward Tokyo, or back toward your onsen town, you smell like river and neoprene and summer. `Canyoning` has done what Japan’s best outdoor experiences do: it has turned the mountains from a background into a place you’ve been inside, and it has made room in a travel itinerary for the kind of memory you can’t buy in a shop.
-
-Sources:
-
-- Travel Japan / JNTO, “Canyoning”: https://www.japan.travel/en/sports/adventure/activities/canyoning/
-- Travel Japan / JNTO, “Natural thrills canyoning in Minakami”: https://www.japan.travel/en/japans-local-treasures/natural-thrills-canyoning-minakami/
-- Travel Japan / JNTO, “Hakuba Canyoning”: https://www.japan.travel/en/spot/2245/
-- Travel Japan / JNTO, “Canyoning Adventure in Mie Prefecture”: https://www.japan.travel/en/japans-local-treasures/canyoning-adventure-mie-prefecture-2023/

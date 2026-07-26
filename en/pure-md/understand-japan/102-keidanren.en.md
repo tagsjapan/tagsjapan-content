@@ -17,11 +17,3 @@ That is where the contradictions become visible. Keidanren’s membership base a
 And yet, if you want to understand how Japan makes economic policy without constant open confrontation, Keidanren is hard to avoid. Its public statements are not merely messaging; they are a method of coordination, a way to translate corporate preferences into the idiom of national strategy.
 
 Watch the press room again, and the point sharpens. The chairman’s sentences sound like they belong in a cabinet briefing because Japan’s postwar political economy grew around that kind of institutional overlap: business federations that speak the language of the state, a policy process that treats organized actors as legitimate interlocutors, and a society that argues about growth and fairness through organizations as much as through parties. Keidanren’s power, and the unease it provokes, come from the same place—the ability to make corporate consensus look like common sense.
-
-Sources:
-- [経団連とは | Keidanren](https://www.keidanren.or.jp/profile/pro001.html)
-- [会員一覧 | Keidanren](https://www.keidanren.or.jp/membership/list.html)
-- [2024年人事・労務に関するトップ・マネジメント調査結果 | Keidanren](https://www.keidanren.or.jp/policy/2025/007.pdf)
-- [Annual Report 2025 | Keidanren](https://www.keidanren.or.jp/en/profile/annualreport/2025/index.pdf)
-- [経団連とは | 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA01E350R00C24A6000000/)
-- [Keidanren | Britannica](https://www.britannica.com/topic/Keidanren)

@@ -17,9 +17,3 @@ The mechanics of the thing are modest, and that is part of the appeal. There is 
 That may be why onsen eggs are remembered so fondly. They are not grand meals and do not try to be. They simply catch a moment when Japan's volcanic geography, tourist choreography, and local appetite all meet in your hand. A shell cracks; steam or mineral smell hangs in the air; someone nearby is walking back toward the bath. For the price of a small snack, the town has managed to explain itself.
 
 There is one final reason they matter: onsen eggs are unusually good at teaching scale. A hot-spring town may advertise itself through grand scenery, famous baths, or old inns, but a visitor often understands the place only when daily life becomes edible and ordinary. The egg is cheap, easy to carry, and usually available without ceremony. That low barrier is precisely why it works. Japan excels at these modest thresholds into place, moments when a traveler moves from observing local culture to participating in it without having to make a grand production of the fact.
-
-Sources:
-- [Kusatsu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1518)
-- [How to Best Enjoy Japan’s Onsen, Travel Japan / JNTO](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/)
-- [Hot Springs: What Are They?, National Parks of Japan / JNTO](https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/hot-springs-what-are-they/)
-- [Owakudani Official Site](https://owakudani.com/)

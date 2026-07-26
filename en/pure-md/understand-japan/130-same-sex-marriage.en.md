@@ -19,11 +19,3 @@ The current moment in Japan feels like an unstable equilibrium. Local partnershi
 Any full legalization would also be more than a single symbolic amendment. Japan’s marriage system is threaded through the Civil Code, the Family Register Act, and the administrative practices that connect names, parent‑child relationships, and household registration to everyday documentation. A reform that opens the marriage door would have to decide, in concrete terms, how the register records a family, how related statutes read the category of “spouse,” and how the state handles the downstream questions—some technical, some intensely political—that follow from recognizing a new kind of legal couple. That complexity is one reason Japan’s shifts often begin with partial measures and court‑driven pressure rather than immediate comprehensive redesign.
 
 So “same‑sex marriage” in Japan is a debate about the register because the register is where Japan stores family reality. The municipal counter and the stamped form are not minor details; they are the country’s definition of entry. Until the law changes, the partnership certificate remains a bridge that does not reach the far bank. And until the register changes, Japan’s family recognition will continue to carry a visible seam—one that tells you as much about the state’s governing style as it does about love.
-
-Sources:
-- [婚姻届 | 法務省](https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-2)
-- [婚姻について知ろう | 法務省](https://www.moj.go.jp/MINJI/kazoku/konin.html)
-- [裁判例結果詳細（大阪高裁 令和7年3月25日） | 裁判所](https://www.courts.go.jp/app/hanrei_jp/detail4?id=94031)
-- [裁判例結果詳細（最高裁 令和6年3月26日） | 裁判所](https://www.courts.go.jp/app/hanrei_jp/detail2?id=92849)
-- [法務省所管法令のうち同性パートナーが「含まれ得る」と解釈される規定について | 法務省](https://www.moj.go.jp/hisho/shomu/hisho01_00383.html)
-- [選択的夫婦別氏制度について | 法務省](https://www.moj.go.jp/MINJI/minji36)

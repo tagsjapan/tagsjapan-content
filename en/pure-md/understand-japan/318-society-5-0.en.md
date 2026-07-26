@@ -19,10 +19,3 @@ Society 5.0 therefore sits inside a classic Japanese contradiction: the country 
 In practical terms, the best Society 5.0 work tends to be unglamorous: making digital services usable, maintaining data quality, training staff, funding maintenance, and redesigning workflows so that technology reduces burden instead of adding it. The vision becomes real not when a robot appears on a stage, but when a local clinic can share information safely, a rural resident can access care without a long trip, and a city can respond to a disaster with data that actually reaches the people who need it.
 
 Society 5.0 helps explain contemporary Japan because it shows the country’s preferred answer to demographic pressure: build a new operating layer rather than accept decline. It is a grand narrative and a coordination tool at the same time. The open question is whether Japan can turn a compelling “5.0” story into everyday institutions that work for everyone, not only for the best-funded pilot sites. Japan is still writing the operating manual.
-
-Sources:
-- Cabinet Office (Japan), Society 5.0 official materials
-- Cabinet Office (Japan), Sixth Science, Technology and Innovation Basic Plan materials
-- MEXT, Science, Technology and Innovation White Paper (科学技術・イノベーション白書)
-- Digital Agency (Japan), Digital Society Priority Plan (重点計画)
-- MLIT, Smart City policy materials (スマートシティ)

@@ -19,10 +19,3 @@ Contemporary conflict shows up clearly in invasive species. Shiga Prefecture’s
 Concrete life on the lake makes the abstraction real. `Okishima（沖島）`, an inhabited island within the lake, reminds you that Lake Biwa is not a remote wilderness. It is lived-in space. Meanwhile, contemporary practices such as `Biwaichi（ビワイチ）`—circum-lake cycling—show how modern Japan is re-narrating the lake as a public landscape that people can experience at human speed. The value of such practices is not only economic. They can make system-scale dependence visible: a person moving around the lake begins to feel how shoreline, river mouths, agricultural fields, and towns connect into one basin story.
 
 `Lake Biwa（琵琶湖）` helps you understand Japan because it reveals what “nature” looks like when it must serve as infrastructure. It turns environmental protection into a problem of state and society working together: policy and participation, data and habit, local livelihood and regional demand. It also reveals a cultural fact that is easy to miss: water produces culture, not just utility. Food, settlement, and seasonal life around Lake Biwa are not add-ons; they are the social shape of a long-lived lake. If Fuji is Japan’s mountain-symbol, Lake Biwa is Japan’s quiet reminder that the nation also runs on basins, flows, and the difficult work of keeping a shared resource alive.
-
-Sources:
-- [Lake Biwa System | Shiga Prefecture](https://www.pref.shiga.lg.jp/biwako-system/english/)
-- [What Kind of Lake Is Lake Biwa? | Shiga Prefecture](https://www.pref.shiga.lg.jp/biwakatsu/handbook_en/106514.html)
-- [The Life in Lake Biwa 1 | Shiga Prefecture](https://www.pref.shiga.lg.jp/biwakatsu/handbook_en/106534.html)
-- [The life in Lake Biwa 2 | Shiga Prefecture](https://www.pref.shiga.lg.jp/biwakatsu/handbook_en/106533.html)
-- [Think of the forest, river, the village, and the lake | Shiga Prefecture](https://www.pref.shiga.lg.jp/biwakatsu/handbook_en/106535.html)

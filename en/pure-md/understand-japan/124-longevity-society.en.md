@@ -19,12 +19,3 @@ The everyday effect is a redesign of small things. Benches in public space, step
 The tension, of course, is that longevity is not equally distributed as quality. Living longer can mean prolonged independence, or prolonged frailty. It can mean more years of paid work, or more years of caregiving—often carried by family members and an increasingly strained care workforce. It can deepen regional inequality: cities can compensate with service density, while rural areas face fragile transport, thin medical staffing, and isolation. Japan’s longevity society is therefore double-edged: a public health achievement that forces constant redesign, and a moral test of whether long life will be treated as a shared project or as a private burden.
 
 To understand Japan through the idea of a longevity society is to see that the country’s most visible “future” is already here, embodied in routines and institutions. Longevity is not just an outcome of medicine. It is a new social environment—one that turns late life from an epilogue into a full act, and demands that the state, the market, and the neighborhood all learn how to support it without pretending that support is free.
-
-Sources:
-- [令和7年版高齢社会白書 1 高齢化の現状と将来像 | 内閣府](https://www8.cao.go.jp/kourei/whitepaper/w-2025/html/zenbun/s1_1_1.html)
-- [高齢社会対策大綱（令和6年9月13日閣議決定） | 内閣府](https://www8.cao.go.jp/kourei/measure/taikou/r06/hon-index.html)
-- [令和6年簡易生命表の概況 | 厚生労働省](https://www.mhlw.go.jp/toukei/saikin/hw/life/life24/index.html)
-- [平均寿命と健康寿命 | e-Health Net / 厚生労働省](https://kennet.mhlw.go.jp/information/information/hale/h-01-002.html)
-- [健康寿命の定義と算出方法 | e-Health Net / 厚生労働省](https://kennet.mhlw.go.jp/information/information/hale/h-01-001.html)
-- [健康寿命延伸産業分野における新事業活動のガイドラインについて | 厚生労働省](https://www.mhlw.go.jp/seisakunitsuite/bunya/kenkou_iryou/iryou/kenkoujyumyou/index.html)
-- [健康日本21（総論） | 厚生労働省](https://www.mhlw.go.jp/www1/topics/kenko21_11/s0.html)

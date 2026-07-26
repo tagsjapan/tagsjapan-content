@@ -17,10 +17,3 @@ Festival volunteering also extends into the less visible work of inclusion. NPO 
 The boundary to keep in mind is the one many outsiders get wrong. Volunteering is not a free backstage pass. It does not guarantee a better photo angle. It asks for discipline—showing up when you said you would, following local instruction, accepting training, doing unglamorous tasks, and respecting that some ceremonial spaces are not “open” no matter how eager you are. Language can also be a friction point. Some roles may require Japanese. Others don’t, but still require the ability to communicate calmly in a crowded, cold, unfamiliar environment. The most useful travel tip is simple: read the recruitment notice like you’d read a train timetable. If you can keep the commitments it implies, volunteering can be one of the most honest ways to touch a festival.
 
 After a shift, the festival looks different. You notice where the crowd bottlenecks, where the signs are, how quickly a mood can change when the weather turns, how many small decisions keep an event humane. You may still take your photos. But you also carry something rarer: a sense of the festival as a civic machine—local pride powered by schedules, tools, and people who don’t appear in souvenir shots. In Japan, where `matsuri` is both tradition and logistics, that backstage knowledge may be the most lasting souvenir of all.
-
-Sources:
-
-- Japanese Festivals & Events, Travel Japan / JNTO: https://www.japan.travel/en/see-and-do/festivals-and-events/
-- 2026 Sapporo Snow Festival Volunteer Recruitment (Official notice): https://www.snowfes.com/news/918.html
-- Sapporo Snow Festival Official Site: https://www.snowfes.com/
-- Tetote — Sapporo Snow Festival welfare volunteer house: https://tetote.org/service/#volunteer

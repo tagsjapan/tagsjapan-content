@@ -17,10 +17,3 @@ But the most common “urban garden” encounter is smaller and more ordinary th
 In itinerary terms, urban gardens are best used as a kind of counter-programming. They fit naturally into a morning when you’re tired of ticket gates and want a slower walk, or an afternoon when rain has pushed you off the obvious routes and you’re looking for something that still feels local. The friction point is access. Many plots are working spaces, not attractions: they can be fenced, scheduled, or simply private. Photography is not always welcome. The right move is to treat an urban garden like a neighborhood you’re visiting rather than a backdrop you’re consuming—observe first, then follow whatever signage or local guidance the space offers.
 
 What you gain, if you take the time, is a different picture of Japanese urban life. A city garden in Japan is not only about vegetables. It is about how Japan manages density without making everything hard. It is about leaving room for seasons and routine inside the metropolis. And it is about learning, on a trip, that “green space” can mean something more practical than lawns and cherry trees: a place where food is still being grown, inside the city that will eat it.
-
-Sources:
-
-- MAFF — Urban agriculture and citizen gardens overview: https://www.maff.go.jp/j/nousin/kouryu/tosi_nougyo/
-- MAFF — Status of citizen gardens (as of end of March 2025): https://www.maff.go.jp/j/nousin/kouryu/tosi_nougyo/s_joukyou.html
-- Nerima Ward — National Urban Agriculture Festival: https://www.city.nerima.tokyo.jp/kankomoyoshi/nogyo/toshinou_festival/index.html
-- MLIT — City planning where urban greenery and agriculture coexist (policy context): https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000071.html

@@ -15,11 +15,3 @@ That durability helps explain why he matters for understanding Japan. Matsushita
 Yet the saintly image has always been selective. The phrase "god of management" softens the harder questions that attach to any giant postwar corporation: the place of paternal authority in management, the dependence of old ideals on stable male employment, the relationship between wartime Japan and companies that later reintroduced themselves as engines of reconstruction. It also flatters a style of leadership that assumed organizations would remain comparatively coherent and loyal. That assumption is harder to sustain in an era of global supply chains, contract work, platform business, and a workforce less willing to treat the company as its main moral home. Matsushita's ideas still attract admiration, especially when contemporary management feels thin or purely financial. They also require translation. The appeal remains strongest whenever Japanese executives or readers feel that efficiency has outrun judgment and that management has forgotten how to speak about purpose in ordinary language.
 
 That is what gives the name its continuing weight. A plug manufacturer who began in 1918 became, by way of a corporation, a publishing institute, and a leadership school, an emblem of how Japan once wanted business to speak about duty. The workshop tools in the museum are small. The afterlife is not. Matsushita survives because he turned personal conviction into organizations, and because Japan still has not finished deciding how much of that older language of mission, character, and social responsibility it wants to keep.
-
-Sources:
-- [History of Panasonic | Panasonic Holdings](https://holdings.panasonic/jp/corporate/about/history.html)
-- [Konosuke Matsushita Story | Panasonic Holdings](https://holdings.panasonic/jp/corporate/about/history/founders-story.html)
-- [Konosuke Matsushita Museum | Panasonic Museum](https://holdings.panasonic/jp/corporate/about/history/panasonic-museum/facility/konosuke-museum.html)
-- [About PHP | PHP Institute](https://www.php.co.jp/think/aboutphp.php)
-- [About Matsushita Institute of Government and Management | MIGM](https://www.mskj.or.jp/about)
-- [Program | Matsushita Institute of Government and Management](https://www.mskj.or.jp/about/program.html)

@@ -49,8 +49,3 @@ Policy responses have tended to focus on the first, concrete step: creating a wa
 The pandemic years made the fragility more obvious. When 24-hour facilities reduced hours or closed, and when informal jobs dried up, the thin layer of consumer infrastructure that some people depended on suddenly failed. It was an unglamorous lesson: if the “shelter” is a market service, it can disappear when the market changes.
 
 Mobile Refugees, then, is less a category of person than a diagnostic of systems. It shows what happens when employment is flexible but housing is not, when welfare entry points assume documents and addresses that the most precarious cannot easily provide, and when social connection is too weak to substitute for formal guarantees. The real relief is not a better booth. It is the moment a person can finally stop moving and still be allowed to exist on paper.
-- Ministry of Health, Labour and Welfare (MHLW), survey and materials on people with unstable housing/employment (住居喪失不安定就労者)
-- MHLW, housing and livelihood support policy information
-- Tokyo Metropolitan Government, TOKYO Challenge Net (TOKYOチャレンジネット)
-- MHLW, Housing Security Benefit (住居確保給付金)
-- Japan Institute for Labour Policy and Training (JILPT), research on net café refugees and precarious work

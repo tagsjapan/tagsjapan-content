@@ -17,11 +17,3 @@ The restoration also reveals something about how Japan came to believe in catch-
 There was a cost. The standard success story of the Meiji Restoration tends to celebrate independence, industrialization, and the avoidance of colonization. All of that belongs to the record. So does coercion. Local autonomy narrowed. Old communities were folded into stronger forms of national administration. Conscription meant not merely equality before the state but the placement of bodies under state command. The institutions assembled in the 1870s made later constitutional government possible, but they also helped create the administrative and military capacities that imperial expansion would later rely on. For that reason, scholars still argue over what kind of event the Meiji Restoration really was. Revolution, restoration, conservative reform, and bureaucratic revolution each capture part of the picture and miss another part.
 
 That argument remains alive because the restoration still works as political memory in Japan. The word `ishin`, or restoration, continues to carry the charge of large-scale reform undertaken in a moment of danger. Politicians borrow it. Commentators invoke it. It survives less as a settled historical lesson than as a usable myth about what the Japanese state can do when cornered. Yet the old railway image remains a good corrective. The train from Shimbashi to Yokohama did not stand only for progress. It stood for a new kind of power, one able to reorganize space, time, movement, and ordinary life in the name of national survival. That is why the Meiji Restoration still matters. It was not simply the moment Japan began to change. It was the moment the modern Japanese state learned how much it could ask society to become.
-
-Sources:
-- [Meiji Restoration | Britannica](https://www.britannica.com/event/Meiji-Restoration)
-- [五箇條御誓文 | 國立公文書館](https://www.archives.go.jp/ayumi/kobetsu/m01_1868_02.html)
-- [廢藩置縣 | 國立公文書館](https://www.archives.go.jp/ayumi/kobetsu/m04_1871_04.html)
-- [學制 | 國立公文書館](https://www.archives.go.jp/ayumi/kobetsu/m05_1872_02.html)
-- [徴兵令 | 國立公文書館](https://www.archives.go.jp/ayumi/kobetsu/m06_1873_01.html)
-- [日本最初の鉄道 | 國土交通省](https://www.mlit.go.jp/tetudo/tetudo_tk1_000004.html)

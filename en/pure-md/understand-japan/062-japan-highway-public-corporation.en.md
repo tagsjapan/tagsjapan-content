@@ -17,11 +17,3 @@ You can still read the old institutional logic on the road itself. Interchanges 
 That helps explain why arguments about the old corporation remain more complicated than a simple morality tale of public failure. Without the borrowing and toll model, Japan would almost certainly have built a national expressway system more slowly. Without reform, it might have continued piling debt and politically motivated expansion into a less accountable structure. Privatization improved managerial clarity, but it did not erase high tolls, long repayment horizons, disaster-repair burdens, or debate over whether some routes were overbuilt in the first place. The conflict was never state versus market in the abstract. It was over what kind of institution could carry the cost of national infrastructure without turning that mission into a permanent fiscal sink.
 
 That is why the old name still matters. Every clean ramp, every rest area, every toll charge folded into a logistics plan carries some inheritance from the `Japan Highway Public Corporation`. The corporation belongs to history, but the roadscape it created is still present tense. It is one of the clearest reminders that modern Japan's smooth surfaces were often laid down by heavy institutions, long debts, and a developmental state willing to build first and sort out the political consequences later. The fast lane still carries the weight of the old public bargain underneath it, even now.
-
-Sources:
-- [History of the Privatization of the Four Highway Public Corporations | Japan Expressway Holding and Debt Repayment Agency](https://www.jehdra.go.jp/kiko/kiko20_keii.html)
-- [Corporate Outline and History | NEXCO East](https://www.e-nexco.co.jp/company/outline/)
-- [Corporate Outline | NEXCO Central](https://www.c-nexco.co.jp/corporate/company/outline/)
-- [Corporate Outline | NEXCO West](https://corp.w-nexco.co.jp/corporate/outline/)
-- [Expressway Company Act | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=416AC0000000099)
-- [Overview of Road Administration | Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/road/road/index.html)

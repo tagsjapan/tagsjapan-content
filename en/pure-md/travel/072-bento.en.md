@@ -15,10 +15,3 @@ The friction points are small but real. Popular ekiben can sell out, especially 
 If you want to see how bento shifts with context, try three versions on the same trip. Buy an ekiben for a Shinkansen ride and notice how well it fits the time slot of departure and arrival. Pick up a depachika bento in a department-store basement late in the day and see how the box turns into a kind of urban dinner, something to take back to your room when you don’t want to hunt for a restaurant. And buy a convenience-store bento on a rainy evening, when you need speed more than ceremony, and notice how even that version is designed to be eaten without fuss.
 
 In the end, bento is one of Japan’s most practical travel pleasures because it does not announce itself as a pleasure. It is food built for the country’s movement: for platforms, for seats facing windows, for picnic blankets under cherry trees, for the quiet meal after a long day of walking. You fold the paper wrap back into a square, slide the empty box into your bag, and step off the train feeling as if you did not “stop for lunch” at all—yet you still ate like someone who understands Japan’s pace.
-
-Sources:
-
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), information on washoku food culture https://www.maff.go.jp/j/shokusan/wasyoku/
-- JR-Cross Foods, ekiben information https://foods.jr-cross.co.jp/ekiben/
-- Travel Japan / JNTO, Japan travel guides (food context) https://www.japan.travel/en/guide/
-- Travel Japan / JNTO, rail travel guidance (context for eating while moving) https://www.japan.travel/en/plan/getting-around/

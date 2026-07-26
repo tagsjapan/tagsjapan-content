@@ -19,10 +19,3 @@ National law sits under all of this as a quiet constraint. The Ministry of Healt
 The core contemporary tension is emotional rather than technical. Communal graves solve a real burden problem, but they also ask a hard question: what is a grave for? A family grave provides exclusivity, a place where the dead feel “ours.” A communal grave provides durability, a place where the dead will not be left unattended because the household dissolved. For some families, the loss of a clearly individualized resting place is painful. For others, the ability to guarantee care without burdening children is itself a moral relief. Japan’s communal-grave expansion is therefore not only about cost. It is about redesigning the relationship between death and family at a moment when “family” is no longer a stable administrative unit.
 
 `Communal Grave（合葬墓）` helps you understand Japan because it shows how Japan turns a private moral obligation into a public institution when social conditions change. It takes the old logic of succession and replaces it with long-term municipal maintenance, written rules, and capacity planning. It also exposes a characteristic Japanese compromise: keep order and continuity through systems, even if the systems feel less intimate than the older forms. The dead still need a place. The question now is whether that place belongs to a household, or to the civic infrastructure that remains when households cannot.
-
-Sources:
-- [千葉市平和公園合葬式樹木葬墓地 | 千葉市](https://www.city.chiba.jp/hokenfukushi/iryoeisei/seikatsueisei/jyumokusou.html)
-- [市営穂高墓地公園「合葬式墳墓」 | 安曇野市](https://www.city.azumino.nagano.jp/soshiki/16/42096.html)
-- [令和7年度合葬墓使用者募集のご案内 | 広島市](https://www.city.hiroshima.lg.jp/soshiki/75/149751.html)
-- [墓地・埋葬等のページ｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123872.html)
-- [墓地行政に関する調査－公営墓地における無縁墳墓を中心として－ | 総務省](https://www.soumu.go.jp/menu_news/s-news/hyouka_230913000167928.html)

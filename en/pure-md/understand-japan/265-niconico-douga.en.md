@@ -19,10 +19,3 @@ Yet the same design that built cultural power also created long-term business an
 Niconico’s contemporary problem is not simply “competition.” It is aging and specialization. For many users, the platform now carries a particular memory: the taste of mid‑2000s Japanese internet culture, the thrill of synchronized joking, the feeling of discovering subculture before it became mainstream. Newer audiences may find those cues hard to read, and newer creators may prefer platforms with larger global reach. Niconico survives by being more like a cultural home base than a universal town square, and that survival requires tradeoffs—membership models, infrastructure investment, and moderation choices that can feel like betrayal to users who loved the older chaos.
 
 To understand Niconico is to understand a Japanese solution to a universal media question: how to turn audience reaction into a medium. The platform’s overlay makes emotion legible and communal, and its history shows how that communal layer can generate real cultural production. Even if the center of gravity has shifted, the invention remains. Many of today’s viewing habits—live chat, reaction memes, collective “watch parties”—are global now. Niconico is a reminder that Japan built a version early, and built it with a distinctive confidence that the crowd, not the creator alone, can be the main event.
-
-Sources:
-- [ニコニコ動画 (Niconico)](https://www.nicovideo.jp/)
-- [株式会社ドワンゴ (DWANGO)](https://dwango.co.jp/)
-- [ニコニコ超会議 (Niconico Chokaigi)](https://chokaigi.jp/)
-- [クリプトン・フューチャー・メディア (Crypton Future Media)](https://www.crypton.co.jp/)
-- [Search results: ニコニコ動画 初音ミク 動画 コミュニティ | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+%E5%8B%95%E7%94%BB+%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3)

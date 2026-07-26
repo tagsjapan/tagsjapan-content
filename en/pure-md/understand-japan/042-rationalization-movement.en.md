@@ -19,10 +19,3 @@ That tension still echoes today. Whenever Japanese institutions talk about produ
 Understanding the rationalization movement helps explain why Japanese management culture often looks both demanding and participatory, both procedural and moralized. Efficiency in Japan was not merely a technical matter. It was built into a national narrative about reconstruction, cooperation, and modernity. That narrative has worn thin in places, but it has not disappeared.
 
 So the history of rationalization is not a footnote to postwar industry. It is part of the deeper story of how Japan turned productivity from a managerial technique into a social bargain, and how that bargain still shapes the language of work long after the original campaign posters came down. The legacy is easiest to spot when modern managers ask workers to join improvement teams, share suggestions, and accept continuous change as part of ordinary employment. That posture did not appear from nowhere. It was built through decades of productivity education, labor-management bargaining, and the repeated 1955 claim that efficiency should serve a broader social good, not only a narrower managerial demand. Modern debates over digital reform and staff shortages still borrow that older expectation. The old demand for consultation still shadows productivity talk in boardrooms and ministries, and in public policy language today, and beyond, as well, still. Even where workers doubt the bargain, the language of the bargain remains. The social memory of that bargain persists strongly.
-
-Sources:
-- [生産性運動とは | 日本生産性本部](https://www.jpc-net.jp/movement/movement.html)
-- [日本生産性本部とは | 日本生産性本部](https://www.jpc-net.jp/about/history.html)
-- [生産性運動三原則 | 日本生産性本部](https://www.jpc-net.jp/column/detail/70th_chronicle4.html)
-- [全労生 | 日本生産性本部](https://www.jpc-net.jp/movement/committee/zenrousei.html)
-- [公正と効率を両立させる真の生産性運動 | JILPT](https://www.jil.go.jp/kokunai/topics/mm/20090610c.html)

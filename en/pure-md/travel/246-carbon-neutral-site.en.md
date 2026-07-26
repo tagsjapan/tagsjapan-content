@@ -17,10 +17,3 @@ This is where “carbon neutral site” connects back to classic Japan travel lo
 The short friction point is greenwashing and ambiguity. Not every destination that uses sustainable language has done sustainable work, and not every visitor behavior can be “offset” by good intentions. The useful traveler’s move is to look for specifics—transport measures, crowd management, energy initiatives, waste systems—rather than for inspirational phrasing. If the only thing you can find is a slogan, assume it’s a slogan.
 
 Japan’s best sustainable destinations don’t ask you to be perfect. They ask you to participate. A carbon-neutral direction is not a switch you flip; it’s a relationship between a place that wants to stay itself and travelers who want to enjoy it without consuming it. When that relationship works, you feel it in the trip: easier movement, less chaos, and a landscape that still looks like itself when you leave.
-
-Sources:
-- [Be a More Sustainable Traveler, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/be-a-more-sustainable-traveler/)
-- [Leading Sustainable Destinations in Japan, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/leading-sustainable-destinations-japan/)
-- [Hakuba Village and Teshikaga, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/hakuba-village-and-teshikaga/)
-- [Biei and Ome, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/biei-and-ome/)
-- [Japan’s Green Growth Strategy Through Achieving Carbon Neutrality in 2050, METI](https://www.meti.go.jp/english/policy/energy_environment/global_warming/ggs2050/index.html)

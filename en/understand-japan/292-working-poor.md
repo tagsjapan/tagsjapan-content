@@ -49,8 +49,3 @@ The debate therefore turns into an argument about what counts as “solution.”
 There is also a social perception trap. A person who works looks “fine” from the outside, and Japan’s cultural emphasis on endurance can make people treat hardship as private. Working poverty then becomes undercounted and underdiscussed until it erupts as debt, illness, missed rent, or a child’s unmet needs. The condition is structural, but it is lived as shame.
 
 Working Poor is a useful term for understanding Japan because it exposes where the postwar model has frayed. The country still runs on work, but not all work produces the same life. The convenience store clerk and the caregiver are not outliers; they are signals. Japan’s challenge is not merely to keep people employed, but to rebuild the link between labor and livelihood in a labor market that has learned how to separate the two.
-- Ministry of Health, Labour and Welfare (MHLW), measures on non-regular employment (非正規雇用対策)
-- MHLW, equal pay for equal work (同一労働同一賃金)
-- MHLW, minimum wage system (最低賃金制度)
-- Ministry of Internal Affairs and Communications (MIC), Labour Force Survey (労働力調査)
-- MHLW, Comprehensive Survey of Living Conditions (国民生活基礎調査)

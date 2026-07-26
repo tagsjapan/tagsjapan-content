@@ -19,10 +19,3 @@ The term *kaigo rishoku*—caregiving-related resignation—captures the most vi
 Japan has responded with more attention to supporting family caregivers, but the debate remains sharp. Does the system quietly assume that families will fill the gaps in formal services? If so, “socialized care” becomes a partial promise. Support cannot be only a subsidy. It has to include respite, local service capacity, workplace norms that make leave usable without punishment, and coordination mechanisms that reduce the invisible administrative burden. Otherwise the policy surface improves while the household core continues to burn out.
 
 Informal Caregiving helps a reader understand Japan because it reveals the country’s real operating base in an aging era. Japan built one of the world’s best-known long-term care insurance systems, and it still relies on unpaid labor at home to make the system workable. The question is no longer whether families care—they do—but whether the society is willing to treat that care as labor: visible, shared, and supported, rather than quietly assumed.
-
-Sources:
-- Ministry of Health, Labour and Welfare (MHLW), long-term care insurance system (*介護保険制度*) materials
-- Ministry of Health, Labour and Welfare (MHLW), policies and guidance on preventing caregiving-related resignation (*介護離職防止*)
-- Cabinet Office (Japan), Aging Society White Papers (*高齢社会白書*)
-- Ministry of Health, Labour and Welfare (MHLW), materials on support for family caregivers
-- High-trust research on caregiving and family care in Japan

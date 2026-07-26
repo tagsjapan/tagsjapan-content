@@ -17,9 +17,3 @@ If you want to eat yakitori well, treat it like a conversation rather than an or
 The friction point is that yakitori is social food in a country that can be shy about strangers. You may be sitting inches from someone else’s elbow, and the room may be louder than you expected from “polite Japan.” Cash is still common, and some shops build the evening around drinks, which can surprise travelers who thought they were just buying dinner. If you’re sensitive to smoke or noise, aim for an earlier hour, before the post-work rush tightens the room, or choose a larger shop on a main street. If you treat the space with the same compact manners the locals do—order, eat, don’t sprawl—you’ll find it’s welcoming in its own way.
 
 When you step back onto the platform afterward, the smell of charcoal follows you like a souvenir you didn’t buy. Yakitori’s gift is that it feeds you and orients you at the same time. Even one stop—ten minutes, two skewers, a choice between shio and tare—can make a city’s night feel legible.
-
-Sources:
-- [Yakitori—Your Guide to Chicken Skewers, Travel Japan / JNTO](https://www.japan.travel/en/guide/yakitori-a-guide-to-chicken-skewers/)
-- [Memory Lane (Omoide Yokocho), Travel Japan / JNTO](https://www.japan.travel/en/spot/243/)
-- [A different side of Tokyo at Shinbashi and Yurakucho, Travel Japan / JNTO](https://www.japan.travel/en/story/a-different-side-of-tokyo-at-shinbashi-and-yurakucho/)
-- [Fukuoka Yatai Food Stalls, Travel Japan / JNTO](https://www.japan.travel/en/spot/273/)

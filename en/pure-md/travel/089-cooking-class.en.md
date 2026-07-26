@@ -17,10 +17,3 @@ Japan also offers classes that are explicitly domestic in spirit, the kind that 
 The friction points are mostly practical, which is good news because practical problems can be solved. These classes usually require reservations, and many run on fixed start times. Language support varies, so it’s worth checking what is offered before you book. If you have allergies or dietary restrictions, tell the organizer early; many classes can accommodate vegetarian or other needs, but not if you spring them at the last moment. And remember the real cost: not just money, but time and energy. A good cooking class can take half a day, especially if a market visit is included. Plan it on a day when you can linger afterward, because you’ll want to.
 
 When you leave, you carry something that doesn’t fit in a shopping bag. You walk past restaurants and recognize the smell of stock. You see `koji` mentioned on a label and know it isn’t just a buzzword. You sit down to dinner later in the trip and notice the sequence—broth first, pickles, rice, the quiet logic of balance—and it feels a little less like “Japanese food is amazing” and a little more like “I understand why this works.” That is the best souvenir a cooking class offers: not a recipe, but a new set of eyes for the rest of the journey.
-
-Sources:
-
-- Travel Japan / JNTO, “Take a Traditional Japanese Cooking Class in Historic Kanazawa” — https://www.japan.travel/en/experiences-in-japan/1642/
-- Travel Japan / JNTO, “Omicho Market Tour and Cooking Class” — https://www.japan.travel/en/experiences-in-japan/3472/
-- Travel Japan / JNTO, “Learn the Art of Japanese Cuisine from a True Master” — https://www.japan.travel/en/experiences-in-japan/489/
-- Travel Japan / JNTO, “Take a Japanese Cooking Class in a Traditional Townhouse” — https://www.japan.travel/en/experiences-in-japan/3993/

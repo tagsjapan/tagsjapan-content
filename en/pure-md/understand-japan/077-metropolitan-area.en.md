@@ -19,11 +19,3 @@ This is one reason the term is so useful for understanding Japan beyond city pla
 The pandemic briefly encouraged talk that remote work might loosen Japan's metropolitan grip. Some households moved. Some firms adjusted. Commuting patterns softened at the edges. Still, the large structure held. Headquarters, specialized labor markets, elite universities, and professional networks remained heavily concentrated in the big urban belts. What changed was not the disappearance of the metropolitan area but a more visible awareness that its convenience depends on a careful, expensive, and unequal arrangement of space.
 
 To understand a Japanese metropolis, then, it is not enough to stand in the center and look at the skyline. You have to follow the first train outward, watch where the school routes run, see where apartment towers meet old shopping streets, and notice how many lives are organized across prefectural lines without anyone finding that unusual. The metropolitan area is the scale at which much of contemporary Japan actually functions. It is also the scale at which the country's gains and imbalances become hardest to separate, because national growth and regional thinning are often being produced by the same urban machine.
-
-Sources:
-- [Metropolitan Area Development Laws | Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/kokudoseisaku/metoropolitan_area_development.html)
-- [Overview of Major Metropolitan Areas | Ministry of Land, Infrastructure, Transport and Tourism](https://www.mlit.go.jp/kokudoseisaku/daitoshikenyouran.html)
-- [Basic Resident Register Migration Report 2025 | Statistics Bureau of Japan](https://www.stat.go.jp/data/idou/2025np/jissu/youyaku/index.html)
-- [Basic Resident Register Migration Report 2024 | Statistics Bureau of Japan](https://www.stat.go.jp/data/idou/2024np/jissu/youyaku/index.html)
-- [2020 Population Census Outline | Statistics Bureau of Japan](https://www.stat.go.jp/data/kokusei/2020/kekka/pdf/outline_01.pdf)
-- [Basic Resident Register Migration Reports | Statistics Bureau of Japan](https://www.stat.go.jp/data/idou/index.html)

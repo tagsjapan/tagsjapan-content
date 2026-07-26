@@ -19,10 +19,3 @@ The criticism is equally familiar. States can back the wrong sectors, reward inc
 That is why industrial policy remains a key to understanding Japan. It reveals a governing style that has long preferred coordination to passivity and strategic patience to market fatalism. It also shows how Japan understands vulnerability. Energy dependence, technological rivalry, and demographic pressure all encourage the state to keep shaping the industrial map rather than leaving it to chance. The older partnership among bureaucrats, firms, banks, and law has changed form, but it has not become irrelevant.
 
 In Japan, industrial policy is not an eccentric exception to capitalism. It is one of the country's recurring answers to the question of how an exposed nation keeps enough productive strength to remain wealthy, stable, and strategically self-respecting. That is also why each new industrial push arrives with echoes of older debates. Are public funds buying time for genuine adaptation, or merely protecting politically useful incumbents from discipline? Those questions followed `MITI` in the 1950s and 1970s and still follow `METI` in the 2020s. In Japan, strategy tends to arrive through ministries, law, finance, and administrative guidance rather than through rhetoric alone. That continuity is itself part of the story. It keeps strategic argument alive inside government and keeps industrial priorities open to revision over time and circumstance, repeatedly, still.
-
-Sources:
-- [Policy Index | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/english/policy/)
-- [Industrial Competitiveness Enhancement Act | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/english/policy/economy/industrial_competitiveness_act/)
-- [White Paper on International Economy and Trade 2024 | METI](https://www.meti.go.jp/english/report/data/wp2024/wp2024.html)
-- [Green Growth Strategy Through Achieving Carbon Neutrality in 2050 | METI](https://www.meti.go.jp/english/policy/energy_environment/global_warming/ggs2050/index.html)
-- [Green Innovation Fund | METI](https://www.meti.go.jp/english/policy/energy_environment/global_warming/gifund/index.html)

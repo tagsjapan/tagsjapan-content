@@ -19,10 +19,3 @@ Japan’s institutional response has been incremental rather than revolutionary.
 Another pressure point is algorithmic power. Users feel free because they can post, but the distribution system is not democratic; it is engineered. Recommendation and ranking systems can nudge public attention toward outrage, toward simplification, toward conflict that keeps people scrolling. The governance problem is not only “bad users.” It is that the public space is partially owned and tuned by companies whose incentives are not identical to the public interest.
 
 To understand SNS in Japan is to understand a society that now watches itself in real time. SNS does not replace television or newspapers; it sits beside them, quoting them, mocking them, amplifying them, and sometimes pressuring them. It is a mirror, but it is also a heat lamp: it can illuminate a neglected issue and it can intensify a minor spark into a national fire. The same scroll holds official announcements, fan jokes, neighborhood complaints, and national politics, collapsing categories that used to be separated by media and by social distance. That collapse is part of the strain. Japan lives with both truths at once, because SNS is no longer a tool on the side. It is part of how daily reality is produced.
-
-Sources:
-- [Communications Usage Trend Survey | Ministry of Internal Affairs and Communications (MIC)](https://www.soumu.go.jp/johotsusintokei/statistics/statistics05.html)
-- [Human rights violations on the internet | Ministry of Justice (Japan)](https://www.moj.go.jp/JINKEN/jinken88.html)
-- [mixi, Inc. (Corporate)](https://mixi.co.jp/)
-- [Social media | Encyclopaedia Britannica](https://www.britannica.com/topic/social-media)
-- [Research Navi | National Diet Library](https://ndlsearch.ndl.go.jp/en/rnavi)

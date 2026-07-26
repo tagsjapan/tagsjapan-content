@@ -19,10 +19,3 @@ Everyday practice fills in the gaps that institutions cannot cover. Many househo
 Regional difference matters. Okinawa lives with typhoons as a frequent seasonal fact, which shapes building expectations and daily habits. Metropolitan areas often feel the risk through transport shutdowns and river levels. Mountainous regions face slope failure. The same word—typhoon—covers different local vulnerabilities, which is why the governance apparatus needs both national forecasts and local decision-making. A single central rule cannot fit every coastline, basin, and hillside.
 
 `Typhoon（颱風）` helps you understand Japan because it shows the country’s risk culture in motion: a society that tries to make uncertainty legible, that normalizes preventive disruption, and that treats disaster knowledge as something that must be shared widely rather than locked inside expert institutions. Typhoon season is not just weather. It is an annual rehearsal of how Japan coordinates state signals, corporate decisions, municipal authority, and household judgment—often imperfectly, but with the assumption that “doing nothing” is rarely an option.
-
-Sources:
-- [台風とは | 気象庁](https://www.jma.go.jp/jma/kishou/know/typhoon/1-1.html)
-- [台風衛星画像 | 気象庁](https://www.jma-net.go.jp/sat_info/himawari/obsimg/image_typh.html)
-- [防災情報のページ | 内閣府 (防災)](https://www.bousai.go.jp/)
-- [Hazard Map Portal Site | 国土地理院](https://disaportal.gsi.go.jp/)
-- [大雨・台風の基礎知識 (PDF) | 厚生労働省](https://www.mhlw.go.jp/content/11907000/001602349.pdf)

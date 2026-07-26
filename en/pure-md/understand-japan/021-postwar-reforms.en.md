@@ -19,11 +19,3 @@ The story is not perfectly triumphant. Reform was shaped by occupation power, an
 That tension is part of the reason the reforms lasted. Because Japanese bureaucratic and political institutions translated occupation directives into durable law and practice, the system did not evaporate when the occupation ended. It became ordinary. Local assemblies, school rituals, labor expectations, rural property patterns, and the language of rights moved from emergency reform into daily structure. Later generations inherited the institutions without always remembering how deliberate their design had been.
 
 To study postwar reforms, then, is to look past the image of ruins and recovery and see the drafting table beneath it. The Japan that emerged after 1945 was rebuilt not only with cement and steel but with rules. Many of the habits now treated as the natural grammar of postwar Japanese life were written into place during those reform years, when defeat forced the country to rethink who could govern, who could own, and what the state was for. The postwar order became durable because it changed institutions and expectations together, over time, across generations, and across regions nationwide.
-
-Sources:
-- [The Birth of the Constitution of Japan | National Diet Library](https://www.ndl.go.jp/constitution/shiryo/outline.html)
-- [日本国憲法の誕生 資料一覧 | National Diet Library](https://www.ndl.go.jp/constitution/shiryo/index.html)
-- [Postwar Japan | Britannica](https://www.britannica.com/place/Japan/Postwar-Japan)
-- [The Occupation | Britannica](https://www.britannica.com/place/Japan/The-occupation)
-- [戦後改革とGHQ | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002866134)
-- [農地改革関係資料 | Ministry of Agriculture, Forestry and Fisheries](https://www.maff.go.jp/j/nousin/noukan/)

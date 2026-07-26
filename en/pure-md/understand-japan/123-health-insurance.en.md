@@ -17,11 +17,3 @@ The card matters for a reason. It is not just proof of eligibility; it is a dail
 The pressures on the system are also part of what makes it such a useful lens for understanding Japan. Rapid aging increases demand for chronic care while shrinking the working-age base that helps finance it. Regional disparities—where doctors are, which hospitals can stay open, how long it takes to reach a clinic—make “access” uneven. Cost-control measures, from revisions to fees to debates over burden-sharing, are never only technical. They are arguments about intergenerational fairness and about what level of care a society can promise as a default. In public debate, health insurance becomes a proxy for broader questions: how to keep rural life viable, how to manage long hospital stays, how to balance prevention against treatment, and how much responsibility should remain with employers, municipalities, and the national budget.
 
 To understand Japan through health insurance is to see a particular version of social stability: the decision to make medical care ordinary, and to treat the financial risk of illness as something a society shares rather than something an individual must absorb alone. The system’s greatest achievement is not that it makes everything easy. It is that it makes seeking care feel normal—even when the underlying arithmetic is hard.
-
-Sources:
-- [国民皆保険制度 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/index.html)
-- [医療保険制度の概要 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/iryouhoken01/index.html)
-- [高額療養費制度を利用される皆さまへ（PDF） | 厚生労働省](https://www.mhlw.go.jp/content/000333279.pdf)
-- [協会けんぽとは | 全国健康保険協会](https://www.kyoukaikenpo.or.jp/g3/)
-- [国民健康保険制度 | 国民健康保険中央会](https://www.kokuho.or.jp/system/)
-- [社会保障制度について | 厚生労働省](https://www.mhlw.go.jp/stf/newpage_21438.html)

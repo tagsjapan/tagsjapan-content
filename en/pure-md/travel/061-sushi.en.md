@@ -15,10 +15,3 @@ Regional variation keeps proving the point. Hokkaido's cold-water catch produces
 Another correction: sushi is not just about the fish. It is also about what your body is doing on the day. Are you eating lightly before a long train ride? Do you want a calm mid-afternoon meal after walking temple precincts? Are you willing to commit money and appetite to a fixed course? The answers change the restaurant type you should seek. Japan makes those distinctions visible. Standing sushi, kaiten-zushi, neighborhood shops, department-store takeaway counters, and high-end counter restaurants all coexist, and each occupies a different travel slot. That structure is part of why sushi remains so useful to travelers: it adapts without becoming vague.
 
 By the end of a good trip, the most durable sushi memory is often very small. A dab of wasabi already hidden between fish and rice. A brushed glaze on anago. A piece of pressed mackerel bought for the train. The hiss of hot tea in a plain cup. Sushi in Japan keeps returning to that scale: not national grandeur, but compact decisions made with precision. It looks simple because the work has been pushed inward. What you taste, if you are lucky, is rice carrying time.
-
-Sources:
-
-- Kikkoman, "Sushi" — https://www.kikkoman.com/en/cookbook/glossary/sushi.html
-- MAFF, "What is Washoku?" — https://www.maff.go.jp/e/policies/market/washoku-world-challenge/en/learning_01.html
-- MAFF, "Washoku registered as UNESCO Intangible Cultural Heritage" — https://www.maff.go.jp/j/keikaku/syokubunka/ich/
-- Travel Japan / JNTO, "Tokyo's Best Sushi" — https://www.japan.travel/en/guide/tokyos-best-sushi/

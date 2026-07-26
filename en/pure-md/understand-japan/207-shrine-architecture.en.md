@@ -19,10 +19,3 @@ That spatial logic is a strong lens on Japan. It shows how Japanese religious li
 The modern tension is visibility. Shrines are now photographed constantly, and the torii can be reduced to a logo, while the precinct’s layered logic disappears into “scenery.” Preservation adds another pressure: repairs, rebuilding, and temporary structures such as `gonden（権殿）` exist because a shrine is used, not merely displayed. The same system that looks timeless is, in practice, maintained through continuous management—materials, carpentry, ritual schedule, and community support. Shrine architecture survives because it remains a working interface between institution and neighborhood, not because it sits untouched.
 
 The most honest way to read a shrine is to read its distances: what it lets you do, what it asks you to pause before, and what it keeps at the center without giving it away.
-
-Sources:
-- [Shrines and Shinto | Jinja Honcho](https://www.jinjahoncho.or.jp/shinto/jinja/)
-- [jinja kenchiku 神社建築 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/j/jinjakenchiku.htm)
-- [honden 本殿 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/hOri/honden.htm)
-- [heiden 幣殿 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/h/heiden.htm)
-- [kibitsuzukuri 吉備津造 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/k/kibitsuzukuri.htm)

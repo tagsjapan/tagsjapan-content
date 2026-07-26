@@ -49,7 +49,3 @@ The friction points are mostly about clothing and judgment. Snowshoeing looks ge
 Daylight is another quiet constraint. In deep winter, the usable afternoon can be shorter than your instincts expect, and missing the last bus back toward town is a fast way to turn a calm outing into stress. Sunglasses help on bright days when snow glare bounces up into the eyes, and a small towel in the pack is useful when a climb makes you sweat under your jacket.
 
 If you plan well, snowshoeing becomes one of Japan’s most satisfying winter experiences because it pairs effort with recovery. You work enough to feel you’ve earned the warmth afterward. You move slowly enough to notice details that speed sports erase. And you come back with a memory that isn’t made of spectacle: the curve of a trail through silent trees, the shock of white light, the feeling of breathing in cold air without rushing. In a country that runs on timetables, snowshoeing gives you a different winter rhythm—one measured in footsteps and quiet.
-- Travel Japan / JNTO, “Myoko-Togakushi Renzan National Park” — https://www.japan.travel/en/japans-local-treasures/myk-togakushi-renzan-national-park/
-- Go! NAGANO, “The Best Places to Go Snowshoeing in Nagano” — https://www.go-nagano.net/en/trip-idea/id19236
-- Go! NAGANO, “Cozy Cabins and Snowshoeing in Iiyama’s Snow Country” — https://www.go-nagano.net/en/trip-idea/id20015
-- Travel Japan / JNTO (Japan Snow), “Backcountry” — https://www.japan.travel/en/sports/snow/guides/backcountry/

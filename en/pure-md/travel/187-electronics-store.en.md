@@ -15,10 +15,3 @@ Bic Camera’s station-front footprint has made it a familiar sight for visitors
 The friction points show up when the purchase leaves the store. Large boxes are awkward on trains. High-value electronics are heavy, and Japan’s station districts include a lot of stairs, narrow platforms, and transfers. If you buy too early in a trip, you end up hauling your “souvenir” through museums and shrines for days; if you buy too late, you discover your hotel checkout time is fighting your shopping plans. Many seasoned travelers solve this with very Japanese tactics: station lockers, an extra hotel stop, or simply treating electronics shopping as the last major activity before heading to the airport. There’s also the mental friction of choice. Many travelers are surprised by how exhausting “comparing” can be in a foreign language, under bright lights, surrounded by a thousand almost-identical products. The practical move is to decide what matters before you enter—size, weight, a couple of must-have features—and then treat the store like a mission, not a museum.
 
 When you finally step back outside, you carry something very Japanese: not only the item, but the feeling of having moved through a system designed for purchase at scale. There are countries where shopping is chaotic. Japan’s big electronics stores are the opposite: overwhelming in quantity, but orderly in structure. Even if you don’t buy anything, walking a few floors is a crash course in Japanese consumer life—how a city near a station turns choice into spectacle, and spectacle into a shopping bag you now have to carry all the way back to your hotel.
-
-Sources:
-
-- National Tax Agency (Japan), “Tax-free Shopping in Japan” (PDF) https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/pdf/explanation_eng.pdf
-- Bic Camera official site https://www.biccamera.com/bc/main/
-- Yodobashi Camera official site https://www.yodobashi.com/
-- Travel Japan / JNTO, “Shopping in Japan” https://www.japan.travel/en/guide/shopping-in-japan/

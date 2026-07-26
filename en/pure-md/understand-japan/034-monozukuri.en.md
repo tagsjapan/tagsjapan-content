@@ -19,10 +19,3 @@ The current version of the idea is also under pressure from new national priorit
 That is why `Monozukuri` remains such a revealing Japanese keyword. It tells us how Japan prefers to dignify production: by stressing skill over spectacle, process over rhetoric, and the site of work over abstract management. It also shows how readily the country turns a practical habit into a public ideal. Few societies take a word that simply means making things and load it with so much moral and political significance.
 
 When the term appears on a ministry website and on a workshop wall, it has already crossed an important boundary. It is no longer just a description of labor. It is a national story about what kind of labor deserves respect, and what kind of country Japan still hopes to be when it speaks in the language of making. That is why `Monozukuri` now appears in export promotion, vocational contests, workforce policy, and debates about whether aging supplier networks can still transmit skills accumulated over 30 or 40 years. The word lets Japan talk about factories and workshops as cultural assets, not only as profit centers. That symbolic reach keeps the term alive well beyond the factory gate today.
-
-Sources:
-- [2025 White Paper on Manufacturing Industries | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/report/whitepaper/mono/2025/index.html)
-- [2024 White Paper on Manufacturing Industries | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/report/whitepaper/mono/2024/index.html)
-- [ものづくりマイスター制度 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/monozukuri_master/index.html)
-- [ものづくりマイスターのご案内 | 厚生労働省](https://waza.mhlw.go.jp/monodukuri/)
-- [The Concept of “Monozukuri Genba” | J-STAGE](https://www.jstage.jst.go.jp/article/amr/18/5/18_0190416a/_article/-char/en)

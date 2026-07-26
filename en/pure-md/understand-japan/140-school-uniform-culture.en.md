@@ -19,11 +19,3 @@ Local reforms show how Japan changes institutions: by adding options rather than
 Uniforms also live in a second economy of meaning. They are school branding; they are a signal students recognize instantly on a street or a train platform; they are a prop in photography, popular media, and teenage self-styling. Students interpret uniforms as much as they wear them, finding small ways to reclaim agency within rules. That coexistence—regulation and reinterpretation, discipline and youth culture—is what makes uniform culture such a dense lens on Japan.
 
 If you want to understand how Japanese institutions translate abstract norms into daily sensation, uniforms are an unusually clear entry point. They show how order is made visible, how belonging is manufactured, and how a society adjusts when the old rules no longer justify themselves automatically. The fabric may not change overnight, but the demand that institutions explain their authority has already begun to reshape what “looking like a student” is allowed to mean.
-
-Sources:
-- [生徒指導提要（改訂版） | 文部科学省](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1404008_00001.htm)
-- [生徒指導提要（PDF） | 文部科学省](https://www.mext.go.jp/content/20221206-mxt_jidou02-100002753_1.pdf)
-- [都立高校における制服の選択肢拡大について | 東京都教育委員会](https://www.kyoiku.metro.tokyo.lg.jp/press/2022/release20221110_02.html)
-- [明治期以降の学校制服の成立に関する研究 | J-STAGE](https://www.jstage.jst.go.jp/article/isjk/47/0/47_145/_article/-char/ja/)
-- [女子生徒制服の変遷と身体規範 | J-STAGE](https://www.jstage.jst.go.jp/article/jssw/64/5/64_100/_article/-char/ja/)
-- [校則見直しと子どもの権利（報道整理） | NHK](https://www3.nhk.or.jp/news/html/20220902/k10013797621000.html)

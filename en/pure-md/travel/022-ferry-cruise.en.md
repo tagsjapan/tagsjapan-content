@@ -15,9 +15,3 @@ That public quality is one of the reasons ferries remain such a revealing way to
 Yet that friction is part of the reward, because it forces the trip back into physical terms. In Kagawa or Ehime, island travel makes you read timetables with a little more humility. In Kyushu, an overnight sailing can turn a transfer day into a long, horizontal interval of sea and deck wind. Even international routes, such as the long-standing links between Busan and Fukuoka that JNTO highlights, remind you that Japan can still be entered by water in a way that feels older, more gradual, and strangely more memorable than walking off an aircraft bridge into immigration lines. You arrive with the coastline already in your body.
 
 The practical advice is straightforward. Decide first whether you need a ferry as transport, as scenery, or as one night's lodging, because the right route for one is not always the right route for another. Check the port, not just the city name. Check boarding deadlines, sea conditions, and whether your ticket is for open seating, a berth, or a private cabin. Build time for the bus or taxi at the far end. Above all, give the crossing enough room in your itinerary to remain what it is. In Japan the best ferry trips are not the ones that imitate rail. They are the ones that let the country become a chain of coasts again, and let you feel each approach as something earned rather than merely scheduled.
-
-Sources:
-- [Ferry & Cruise Ships, Travel Japan / JNTO](https://www.japan.travel/en/plan/getting-around/ferry-cruise-ships/)
-- [Getting to Japan, Travel Japan / JNTO](https://www.japan.travel/en/plan/getting-to-japan/)
-- [Sunflower Ferry Route Guide, Mitsui O.S.K. Lines / Ferry Sunflower](https://www.ferry-sunflower.co.jp/en/route/)
-- [Meimon Taiyo Ferry Route Guide, Meimon Taiyo Ferry](https://www.cityline.co.jp/english/)

@@ -17,9 +17,3 @@ Mechanically, Japan can be very good at this—if you engage early. Stations can
 The friction point is inconsistency, especially in older buildings and in crowded tourist districts where “accessible” routes can become slow routes simply because of people. There’s also a cultural friction: travelers may feel awkward asking. Japan’s own policy framing is a reminder that asking is part of the system. The Tourism Agency’s reporting on universal tourism initiatives—over 100 adopted efforts in the Reiwa 7 fiscal year, according to a March 13, 2026 announcement—suggests that regions and businesses are being encouraged to treat access as competence, not charity. For travelers, a simple tactic is to shift the trip’s timing rather than only the trip’s geography: travel off-peak when you can, build longer transfer windows, and choose routes that trade one extra stop for a step-free connection.
 
 The best way to see inclusive tourism on a Japan trip is to notice what disappears. When the elevator is where it should be, when the station staff is prepared, when the route is mapped, the trip stops feeling like a series of negotiations. It starts feeling like travel again. That’s the quiet ambition behind Japan’s universal-tourism push: not to create a special kind of trip, but to make the ordinary trip available to more kinds of people. Often the decisive “access feature” is simply clear information delivered early, before fatigue and crowds turn small gaps into barriers on the ground.
-
-Sources:
-- [Accessible Tourism, Travel Japan / JNTO](https://www.japan.travel/en/guide/accessibility-in-japan/)
-- [｢観光地・観光産業におけるユニバーサルツーリズム促進事業｣の事業説明会を実施します！, 観光庁](https://www.mlit.go.jp/kankocho/topics06_00049.html)
-- [「ユニバーサルツーリズムの先進事例に学ぶ！令和7年度成果報告会」を開催します, 観光庁](https://www.mlit.go.jp/kankocho/topics06_00047.html)
-- [Route 14: Accessible Tour Guide Service, GO TOKYO](https://www.gotokyo.org/en/guide-services/imperial-palace-accessible/index.html)

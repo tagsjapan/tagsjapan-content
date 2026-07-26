@@ -17,10 +17,3 @@ If Biwaichi is about completing a relationship with one lake, the `Fuji Five Lak
 The itinerary consequence of lake cycling is that it rewards staying overnight. A lake seen in one afternoon can feel like a day-trip stop; a lake experienced at dawn and dusk becomes a place. On Biwaichi, spending a night along the shore turns the ride into a sequence of towns rather than a single endurance goal. Around Fuji, sleeping nearby gives you a chance at clear morning views and lets you ride before buses and tour groups fill the roads. Seasons change the logic as much as scenery does: spring can turn a shoreline into a blossom ride, summer can punish you with reflected sun off the water, and autumn can make the same loop feel like a moving `koyo（紅葉）` corridor. Lake cycling also reshapes what you pack. Rain gear matters. Gloves can matter. A small towel for sweat or sudden drizzle matters. It is travel, but it is travel with the body included.
 
 The friction points are worth respecting. Japan’s roads can narrow unexpectedly, and mixed traffic demands attention, especially near busy sightseeing areas. Weather can change quickly around water. In winter or early spring, the beauty of a clear lake day can hide the danger of cold hands and early darkness. The cure is not bravado but planning: shorter ambitions, earlier starts, and the willingness to take a train or bus for part of the route if your legs or the wind say “enough.” A good lake-cycling day ends with the quiet satisfaction of arriving under your own power, not with the drama of barely making it back.
-
-Sources:
-
-- Biwaichi Route Info (official) — https://en.biwako1.jp/basic/route/
-- MLIT, “National Cycle Routes in Japan” — https://www.mlit.go.jp/road/bicycleuse/good-cycle-japan/national_cycle_route/english.html
-- Travel Japan / JNTO, “Sports Cycling in Japan” — https://www.japan.travel/en/sports/cycling/
-- Travel Japan / JNTO, “Mt. Fuji and Lake Kawaguchi Area (Fuji Five Lakes)” — https://www.japan.travel/en/destinations/chubu/yamanashi/fuji-five-lakes/

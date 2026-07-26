@@ -19,10 +19,3 @@ The criticism has always been as strong as the praise. Bureaucracy can mean stea
 Recent decades have pushed the system to adapt. Administrative reform, especially around the 2001 central-government reorganization, strengthened the cabinet-centered side of executive leadership. Prime ministers and political appointees now press more openly to steer policy than they once did. Yet that has not turned Japan into a state run by politicians alone. When crises strike, from economic shocks to natural disasters, ministries still matter because information, implementation, and coordination depend on them. Bureaucratic power may be less sovereign than it once looked, but it remains deeply embedded in the way Japanese government functions.
 
 That is why bureaucracy deserves to be understood as more than a stereotype about forms and seals. It is the quiet machinery through which Japan has often preferred to govern: ordered, expert, procedural, sometimes frustratingly closed, and rarely absent from any serious national decision. That can be a public virtue and a democratic frustration in the very same moment. The neat pile of papers on the counter is only the visible edge of a much larger administrative world.
-
-Sources:
-- [Administrative Organizations of Japan | Prime Minister's Office of Japan and His Cabinet](https://www.kantei.go.jp/jp/constitution_and_government_of_japan/administrative_organizations_of_japan.html)
-- [国の行政機関の機構 | 総務省](https://www.soumu.go.jp/menu_sosiki/gyoukan/kanri/sonota/daijin.html)
-- [人事院](https://www.jinji.go.jp/)
-- [The role of government | Britannica](https://www.britannica.com/place/Japan/The-role-of-government)
-- [The political system | Britannica](https://www.britannica.com/place/Japan/The-political-system)

@@ -15,10 +15,3 @@ Japan's system also works because information and place are tightly linked. The 
 The friction point is obvious enough: visitors often rely too heavily on social media, intuition, or the assumption that someone else will explain everything in English when the time comes. Sometimes that happens. Sometimes it does not. Batteries fail, signals slow, and station staff are busy. The best correction is simple. Before settling into a room, glance at the nearest designated evacuation points and keep the accommodation address saved offline. During a warning, follow official announcements, municipal guidance, and staff directions rather than rumor. In a country as system-minded as Japan, the public route is usually the strongest route.
 
 The practical advice is modest because modest preparation is usually enough. Install `Safety tips`. Save screenshots or offline information for the area where you are staying. If you move to a new city, take `30` seconds to see what the nearest shelter or evacuation site is called. Note whether your route crosses a coast, river, or steep hillside, because that changes what kind of warning matters most. And if an actual emergency begins, do not waste time trying to solve the entire event at once. Solve the immediate question: where is the designated safe place and what are local authorities saying now? In Japan, that question has usually been answered before you arrived. The shelter is simply where that answer becomes a room.
-
-Sources:
-
-- Disaster Prevention Portal, Geospatial Information Authority of Japan: https://disaportal.gsi.go.jp/
-- Evacuation Information Guidelines, Cabinet Office, Government of Japan: https://www.bousai.go.jp/oukyu/hinanjouhou/r3_hinanjouhou_guideline/
-- Safety tips for travelers, Travel Japan / JNTO: https://www.japan.travel/en/plan/app/
-- Tokyo Bousai Book, Tokyo Metropolitan Government: https://tokyo-bousai.metro.tokyo.lg.jp/en/index.html

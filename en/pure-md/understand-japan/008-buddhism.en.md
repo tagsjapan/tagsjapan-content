@@ -19,11 +19,3 @@ The numbers still point to enormous scale even if they do not measure personal c
 This helps explain the mixed reputation Buddhism now carries in Japan. On one hand, temples remain essential to funerals, memorial rites, grave care, and many forms of local cultural continuity. On the other, critics have long spoken of "funeral Buddhism," suggesting that too much of Japanese Buddhism has become economically dependent on death rituals while losing vigor as a living spiritual path. Rural depopulation and demographic decline add to the pressure, leaving many temples with fewer families to sustain them. Yet Buddhism has hardly vanished. Zen, meditation, Buddhist art, and Buddhist philosophy continue to circulate in Japan and abroad with real force. The religion's public form is changing, but its vocabulary for grief and transience remains widely legible.
 
 What survives, then, is not a simple old religion fading away, nor a timeless essence that has remained untouched. It is a many-layered inheritance that still structures how Japan handles mortality, remembers its dead, imagines spiritual discipline, and gives form to the idea that beauty and life are inseparable from transience. Buddhism in Japan endures because it lives not only in sermons or doctrine, but in the social places where people still need it most.
-
-Sources:
-- [宗教年鑑 | 文化庁](https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenjihokokusho/shukyo_nenkan/index.html)
-- [宗教年鑑 令和7年版 PDF | 文化庁](https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenkan/pdf/r07nenkan.pdf)
-- [Religion of Japan | Britannica](https://www.britannica.com/place/Japan/Religion)
-- [Japanese religion | Britannica](https://www.britannica.com/topic/Japanese-religion)
-- [Buddhism | Britannica](https://www.britannica.com/topic/Buddhism)
-- [Buddhism in Korea and Japan | Britannica](https://www.britannica.com/topic/Buddhism/Korea-and-Japan)

@@ -17,10 +17,3 @@ The reasons for withdrawal are also more mixed than public stereotypes allow. Ma
 The tension in Japan's debate runs deep. Family can be a safety net, and family can also become the reason the problem stays hidden. A society with strong school and work tracks can give many people structure, yet make reentry brutally hard once those tracks are lost. Public sympathy has grown, but stigma still clings to the term, often reducing a complicated condition to a humiliating identity. `Hikikomori` therefore matters not because it is exotic, but because it reveals a weakness inside a highly organized society: stability is abundant for those inside the rhythm, while the path back for those who fall out can be painfully narrow.
 
 In the evening, a light may still be visible under a bedroom door while the rest of the house settles down. That image has become almost too familiar in Japanese discussion, yet it still carries the whole dilemma. Behind the door is a person, not a type. Outside it are parents, officials, counselors, and communities trying to decide what help should look like when ordinary schedules no longer work. Japan's long argument over `Hikikomori` is really an argument about whether society can build patient forms of return instead of waiting for shame or time to do the work alone.
-
-Sources:
-- [Initiatives for Hikikomori Support | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/hikikomori/)
-- [Survey on the Attitudes and Lives of Children and Young People, FY 2022 | Cabinet Office](https://www8.cao.go.jp/youth/kenkyu/ishiki/r04/pdf-index.html)
-- [First, Know Hikikomori Now | Hikikomori Voice Station](https://hikikomori-voice-station.mhlw.go.jp/information/)
-- [White Paper on Health, Labour and Welfare 2023, Figure 2-2-6 | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/22/backdata/01-02-02-06.html)
-- [Policy Dialogue on People in States of Hikikomori and Others Facing Hardship | Cabinet Office](https://www.cao.go.jp/minister/1909_s_eto/photo/2020_008.html)

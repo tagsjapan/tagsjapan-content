@@ -17,10 +17,3 @@ Mobility shows the same dynamic in a sharper form. Japan has long regulated pass
 Seen from outside, this can look slow. From inside, it is a characteristic method. Japan does not treat novelty as proof; it treats novelty as a claim that must survive administrative questions. The sharing economy therefore becomes a small, repeating drama of Japanese governance: a global model arrives with glossy language about efficiency, and then it is translated into forms that allow a city hall, an industry regulator, and a suspicious neighbor to live with it.
 
 Back in that apartment hallway, the lockbox is not a symbol of a frictionless future. It is a symbol of negotiated trust. Japan’s sharing economy keeps expanding, but it expands through boundaries: days-per-year limits, registration systems, complaint channels, and a constant struggle over where responsibility sits—on the host, the user, the platform, or the state. The term helps explain Japan because it shows what the country does with a modern promise it cannot refuse. It makes it ordinary, then it makes it accountable. What begins as a peer‑to‑peer shortcut ends up as managed infrastructure, shaped to fit the country’s practical need to make strangers answerable to someone.
-
-Sources:
-- [住宅宿泊事業法（平成二十九年法律第六十五号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/429AC0000000065)
-- [民泊制度ポータルサイト（制度概要・手続等） | 観光庁（国土交通省）](https://www.mlit.go.jp/kankocho/minpaku/)
-- [自家用車活用事業（いわゆる日本版ライドシェア） | 国土交通省](https://www.mlit.go.jp/jidosha/jidosha_fr3_000051.html)
-- [規制改革推進会議（資料） | 内閣府（規制改革）](https://www8.cao.go.jp/kisei-kaikaku/kisei/meeting/wg/2409_05local/241213/local_ref02_02.pdf)
-- [一般社団法人シェアリングエコノミー協会](https://sharing-economy.jp/ja/)

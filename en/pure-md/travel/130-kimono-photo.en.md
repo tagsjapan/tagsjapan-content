@@ -17,10 +17,3 @@ Two scenes show the difference between a shallow and a meaningful version of the
 If you treat `Kimono Photo` as a quick checklist item, it will feel like one. If you treat it as a half-day that asks you to move differently, it changes the trip in a more lasting way. You plan fewer transfers. You stop picking up souvenirs because you have nowhere to put them. You notice how a curb feels, how a gate forces you to bow your head, how people give each other room in a crowded street. You don’t become Japanese by wearing a `kimono`, but you do borrow—briefly—the tempo that the clothing was designed to enforce.
 
 At the end of the session you return to the shop, hand back the layers, and step into your own shoes again. The city immediately speeds up. What lingers is not only the photo, but the memory of a day when your body was gently restricted into attention. Japan sells the image because the image sells Japan. The more surprising souvenir is the slower walk you keep for the next few blocks, even after the sleeves are gone.
-
-Sources:
-
-- Kimono, Japan National Tourism Organization (JNTO): https://www.japan.travel/en/guide/kimono/
-- Asakusa, GO TOKYO (Tokyo official travel guide): https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html
-- Responsible Travel, Kyoto Travel / Kyoto City Tourism Association: https://kyoto.travel/en/responsible-travel/
-- Japanese Ryokan Guide, Japan National Tourism Organization (JNTO): https://www.japan.travel/en/guide/japanese-ryokan/

@@ -17,11 +17,3 @@ But the concept is also controversial for exactly the same reason. Mutual aid so
 That tension runs through the concept today. On the one hand, Japan has good reason to value mutual aid. Few societies exposed to earthquakes, floods, and rapid aging can afford to act as if institutions alone are enough. On the other hand, mutual aid cannot be conjured by rhetoric. It needs time, trust, bodies, organizational memory, and meeting places. Once local populations thin out, the pool of available helpers shrinks. A policy that leans too heavily on `kyojo` may end up relying on precisely the communities whose capacity is already eroding.
 
 That is why mutual aid is such a revealing keyword in Japan. It is about solidarity, but also about governance. It carries warmth, but also pressure. The local disaster warehouse, the handwritten evacuation roster, the volunteer meal round, the care network built around a neighborhood meeting hall: these are the visible forms of a society trying to hold risks at a scale smaller than the state and larger than the household. Japan continues to rely on that layer because it has to. The harder issue is not whether mutual aid is good. It is whether the social ground beneath it remains strong enough to bear the weight now placed on it.
-
-Sources:
-- [Disaster Management White Paper 2014: Strengthening Regional Disaster Capacity Through Mutual Aid | Cabinet Office](https://www.bousai.go.jp/kaigirep/hakusho/h26/honbun/0b_1s_00_00.html)
-- [Disaster Management White Paper 2023: Progress in Mutual Aid Initiatives | Cabinet Office](https://www.bousai.go.jp/kaigirep/hakusho/r05/honbun/t1_2s_04_02.html)
-- [Disaster Management White Paper 2024: Advance Preparedness Through Self-Help and Mutual Aid | Cabinet Office](https://www.bousai.go.jp/kaigirep/hakusho/r06/honbun/1b_1s_01_01.html)
-- [Five Components of the Community-Based Integrated Care System | MHLW](https://www.mhlw.go.jp/content/10900000/0000062684.pdf)
-- [Toward a Community of Mutual Support | MHLW](https://www.mhlw.go.jp/stf/newpage_00506.html)
-- [Outline of the Revised Basic Act on Disaster Management | Cabinet Office](https://www.bousai.go.jp/taisaku/chikubousai/pdf/gaiyou.pdf)

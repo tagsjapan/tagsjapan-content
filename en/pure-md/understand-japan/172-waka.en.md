@@ -19,11 +19,3 @@ And then, in a move that still surprises outsiders, the court tradition found a 
 The contemporary tension is that this afterlife can also shrink the tradition. In everyday talk, waka becomes “those hundred poems,” or it becomes “tanka,” and the broader historical field disappears. Yet the same simplification is part of the preservation mechanism. Waka may no longer be the country’s most active mass-writing genre, but it remains one of the deepest layers of cultural vocabulary: a set of phrases, images, and emotional turns that education, performance, and repeated quotation keep alive. Under that pressure—without romanticizing it—waka is less a museum piece than a durable operating system, quietly running underneath later Japanese literary forms.
 
 In a karuta match, the room holds its breath for a syllable. The line begins, and bodies move before conscious thought catches up. That physical reaction is a reminder of what Japan did with waka over a thousand years: it turned poetry into something shared, judged, remembered, and institutionalized. `Waka（和歌）` is not only “old Japanese poems.” It is an example of how Japan binds language, authority, and emotion into a form that can be repeated until it becomes part of the way a society feels.
-
-Sources:
-- [Waka | Britannica](https://www.britannica.com/art/waka-Japanese-poetry)
-- [古今和歌集 | National Institute of Japanese Literature](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail02-02_003.html)
-- [新古今和歌集 | National Institute of Japanese Literature](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail03-01_001.html)
-- [和歌九品 | National Institute of Japanese Literature](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail02-02_005.html)
-- [俊頼髄脳 | National Institute of Japanese Literature](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail02-03_004.html)
-- [“Hyakunin Isshu”: Japan’s Most Famous Poetry Anthology | Nippon.com](https://www.nippon.com/en/guide-to-japan/cs00036/)

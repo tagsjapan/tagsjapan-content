@@ -17,10 +17,3 @@ There are still choices to make. Room size matters more than price when travelin
 Many business hotels also build in small supports that matter disproportionately on the road: coin laundry for the fifth day of a summer trip, a simple breakfast that gets you to the first train without hunting for food, an amenity counter that handles forgotten razors or tea, a front desk accustomed to quick luggage storage. None of this is grand hospitality, but together it explains why the category survives so successfully. The hotels know exactly which annoyances recur in city travel and shave them down one by one.
 
 Yet that would miss what the category has quietly achieved. The `Business Hotel` has become one of the indispensable supports of Japanese travel because it translates the country's broader values of order, punctuality, and compact design into a nightly form. It does not ask to be remembered in the abstract. It wants to have done its work so well that the traveler recalls the trip, not the lodging. And in a rail-bound, station-centered country, that may be the purest kind of hospitality available: a room modest enough not to interrupt the journey, and competent enough to keep it moving.
-
-Sources:
-
-- Accommodation, Travel Japan / JNTO: https://www.japan.travel/en/in/accommodation/
-- Why Choose Toyoko Inn, Toyoko Inn: https://www.toyoko-inn.com/feature/
-- A Steadfast Hotel Network Across Japan, Toyoko Inn: https://www.toyoko-inn.com/eng/feature/hotel/
-- Recharge Your Mind & Body: Rooms & Services, Toyoko Inn: https://www.toyoko-inn.com/feature/facility?lcl_id=en

@@ -20,10 +20,3 @@ This is where the contemporary tensions concentrate. As services and quality ris
 Industry surveys reflect that widening scope. When a national association’s “pet-keeping reality” survey treats disaster preparedness, microchips, and support services as separate tracked categories, it is acknowledging that pet-keeping has become an infrastructure issue. The household may be the unit of affection, but the society must manage the externalities: public health, safety, shelter, and responsibility when the owner cannot continue.
 
 Seen as a lens on Japan, the pet economy is not a soft cultural curiosity. It is a map of how demographic structure reshapes daily life and how the state responds when private choices become widespread social conditions. Japan did not simply decide to love pets more. It built a system—markets, services, and regulation—around a new kind of family member. The microchip, the safety law, the booming food market, and the expanding service ecosystem all point to the same conclusion: in contemporary Japan, companionship is both intimate and institutional.
-
-Sources:
-- [全国犬猫飼育実態調査 | 一般社団法人ペットフード協会](https://petfood.or.jp/data-chart/)
-- [ペットフード流通量調査（結果） | 一般社団法人ペットフード協会](https://petfood.or.jp/data-ryutu-result/)
-- [ペットフードの安全（制度・情報） | 農林水産省](https://www.maff.go.jp/j/syouan/tikusui/petfood/)
-- [犬と猫のマイクロチップ情報登録制度 | 環境省](https://www.env.go.jp/nature/dobutsu/aigo/pickup/chip.html)
-- [動物愛護管理行政（法制度） | 環境省](https://www.env.go.jp/nature/dobutsu/aigo/1_law/index.html)

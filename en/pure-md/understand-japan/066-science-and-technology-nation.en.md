@@ -19,11 +19,3 @@ Still, the gap between national ambition and working conditions on the ground is
 Committee politics therefore matter more than they may look from the outside. When experts meet under Cabinet Office and e-CSTI procedures in late `2025` and early `2026` to shape the seventh basic plan, they are not merely updating slogans. They are deciding how much weight to give basic research against short-term strategic fields, how much money should flow to universities versus commercialization, and how tightly science policy should be tied to economic security. Japan's science policy culture trusts plans, but the plans are also battlegrounds. The neat five-year rhythm exists precisely because the underlying trade-offs never disappear.
 
 `Science and Technology Nation` in Japan is not a triumphant label attached after success. It is a continuing administrative project, revised in public, argued over in committees, and used to connect university labs, corporate strategy, social policy, and national anxiety. The documents on the conference table may not look dramatic. They are still part of the machinery by which Japan tries to turn foresight into statecraft.
-
-Sources:
-- [Basic Plans for Science and Technology / Science, Technology and Innovation | Cabinet Office](https://www8.cao.go.jp/cstp/kihonkeikaku/index.html)
-- [Science, Technology and Innovation | Cabinet Office](https://www8.cao.go.jp/cstp/stmain.html)
-- [Science and Technology Basic Plan | MEXT](https://www.mext.go.jp/en/policy/science_technology/lawandplan/title01/detail01/1375311.htm)
-- [Integrated Innovation Strategy 2025 | Cabinet Office](https://www8.cao.go.jp/cstp/tougosenryaku/index.html)
-- [Science and Technology White Paper 2025 | MEXT](https://www.mext.go.jp/b_menu/hakusho/html/hpaa202501/)
-- [Announcement of the 11th Meeting of the Basic Plan Expert Committee | e-CSTI](https://e-csti.go.jp/en/news/20251208/)

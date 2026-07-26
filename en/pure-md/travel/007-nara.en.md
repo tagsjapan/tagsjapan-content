@@ -15,9 +15,3 @@ The region beyond the center strengthens the point. Travel Japan points to place
 There is friction here, and it is practical as much as philosophical. Deer are wild animals despite their familiarity, and official travel advice now regularly reminds visitors how to behave around them. Crowds can clog the most famous paths. Summer heat can make the city center tiring. And travelers with only a few hours often spend them in the most obvious zones at the busiest times, then conclude that Nara is pleasant but slight. That is usually a failure of schedule, not of place. Nara needs a morning, a late afternoon, or better still a night nearby to reveal how quiet and spacious it can become once the day-trippers withdraw.
 
 The practical advice is therefore to reduce the cute-animal agenda and increase the walking agenda. See the deer, certainly, but do not let them become the whole story. Pair the major temple and park core with Naramachi or another slower quarter. If possible, stay overnight or arrive early enough to catch the city before it turns performative. Even one quieter hour away from the main crowds can change the entire impression of Nara from charming to profound. In Japan there are many places where history is preserved. Nara is one of the few where it still seems to walk beside you, nodding for crackers, under the trees.
-
-Sources:
-- [Nara, Travel Japan / JNTO](https://www.japan.travel/en/destinations/kansai/nara/)
-- [Nara City & Around, Travel Japan / JNTO](https://www.japan.travel/en/spot/ma_151/)
-- [Naramachi, Travel Japan / JNTO](https://www.japan.travel/en/spot/2001/)
-- [How to Nara: Taming Deer and Other Travel Tips, Travel Japan / JNTO](https://www.japan.travel/en/uk/inspiration/how-to-nara/)

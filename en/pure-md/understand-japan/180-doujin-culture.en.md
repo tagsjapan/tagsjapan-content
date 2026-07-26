@@ -19,12 +19,3 @@ That weekend logic is now being reshaped by digital distribution. Online platfor
 Preservation has become another front. Meiji University’s Yonezawa Memorial Library and its broader Tokyo International Manga Library ambitions treat manga, anime, and doujin materials as cultural records worth collecting and studying. This is an important shift in status. Doujinshi are often fragile objects: small print runs, unstable storage, copyright complexity, and rapid disappearance once an event ends. Institutional collection implies that what was once dismissed as disposable fandom has become usable history—evidence for studying postwar popular culture, community identity, and the informal economies that grow around media.
 
 `Doujin Culture（同人文化）` helps you understand Japan because it reveals how a society can build an alternate creative infrastructure inside, beside, and sometimes against the market. It shows Japan’s capacity for self-organization, its comfort with dense rule-bound public spaces, and its tendency to turn even unofficial cultural practices into stable institutions once they prove they can last. Doujin culture looks like a crowd around tables. It is also a long-running experiment in how publishing can be owned by a community.
-
-Sources:
-- [Comic Market official site](https://www.comiket.co.jp/)
-- [For Press / overview (50th anniversary note) | Comic Market](https://www.comiket.co.jp/info-i/ForPress.html)
-- [What is Comic Market? (English) | Comic Market](https://www.comiket.co.jp/info-a/TAFO/C97TAFO/cmkfor_eng.html)
-- [Origins of Comic Market | Meiji University (Yonezawa Memorial Library)](https://www.meiji.ac.jp/manga/yonezawa_lib/exh-genryu.html)
-- [Microcosmos of Doujinshi | Meiji University (Yonezawa Memorial Library)](https://www.meiji.ac.jp/manga/yonezawa_lib/exh-microcosmos.html)
-- [Comiket 50th anniversary exhibition | Meiji University](https://www.meiji.ac.jp/koho/press/2025/qfki0t00000feio0.html)
-- [About COMITIA | COMITIA](https://comitia.co.jp/html/about.html)

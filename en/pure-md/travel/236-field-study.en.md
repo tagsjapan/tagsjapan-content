@@ -17,10 +17,3 @@ This is where `sustainable travel` becomes more than a slogan. `Travel Japan / J
 The friction points are practical, and they are worth naming. Field study requires time that you cannot schedule to the minute. It often requires local guidance, which means booking ahead and accepting that language support may be limited outside major hubs. It also requires leaving space in your itinerary for conversation and note-taking—acts that feel “unproductive” if you are addicted to a packed schedule. Before you book, it helps to ask plain questions: how much walking is involved, what you will actually do (observe, interview, harvest, build), and what the host expects from visitors beyond payment. The itinerary consequence is clear: plan fewer stops, stay longer in one area, and treat a guide or local host as part of the core budget, not an optional upgrade.
 
 When field study works, the payoff is quiet but powerful. You return to the station with muddy shoes or a head full of new questions, and the trip feels less like “Japan was beautiful” and more like “Japan made sense in one particular place.” On the ride back, you look at your notes and realize you have brought home something harder to buy than souvenirs: a small, structured understanding. It can be as simple as knowing why a coastline looks the way it does, or why a village survives at all. That is the real charm of field study travel in Japan. It turns the country from a sequence of scenes into a sequence of reasons.
-
-Sources:
-
-- Educational Travel to Japan, JNTO: https://education.jnto.go.jp/en/
-- Farm Stay (Nouhaku) promotion, MAFF: https://www.maff.go.jp/j/nousin/kouryu/nouhakusuishin/
-- Japan Geopark Network: https://geopark.jp/en/
-- Sustainable Travel Experiences, Travel Japan / JNTO: https://www.japan.travel/en/sustainable/

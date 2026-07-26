@@ -46,7 +46,3 @@ There are itinerary consequences, too. Martial arts sessions are often scheduled
 If you want to make the experience feel less like a novelty, pair it with a day that already has some structure: a museum morning, a quiet lunch, a walk through a neighborhood where you can arrive on time and not sweaty and late. The best martial arts experiences do not feed adrenaline so much as they feed focus. You may leave with sore legs from stance work, or with bruises from learning breakfalls, but the deeper aftertaste is psychological: a sense of how much Japan trusts repetition.
 
 On the street afterward, you blend back into the city with your shoes on and your phone in your hand. Nothing looks different. But your body has been briefly tuned to another tempo—bow, pause, listen, try again. For a traveler, that tempo can be as valuable as any landmark. It’s a small, portable understanding: that in Japan, strength is often treated not as a burst, but as a practice.
-- Travel Japan / JNTO, “A Lesson in Martial Arts”: https://www.japan.travel/en/experiences-in-japan/1038/
-- Travel Japan / JNTO, “Nippon Budokan”: https://www.japan.travel/en/spot/1718/
-- Nippon Budokan Foundation (English): https://www.nipponbudokan.or.jp/english/
-- All Japan Kendo Federation (English): https://www.kendo.or.jp/en/

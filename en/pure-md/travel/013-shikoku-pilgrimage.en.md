@@ -17,10 +17,3 @@ The itinerary consequences are immediate. If you are walking, where you stay mat
 There is also the question of what kind of record you want to keep. Many pilgrims carry a `nokyocho`, the temple stamp book that collects calligraphy and seals at each stop, and that object subtly changes the trip. It turns every temple office into a point of pause and reminds the traveler that progress is not measured only in distance. Others wear the traditional white vest or carry the wooden staff associated with the route. None of this is compulsory for a modern visitor, but the material culture matters because it slows the eye and gives shape to the repetition. The pilgrimage is full of such small objects: a bell rope, a name slip, a coin tray, a pair of shoes left outside a hall.
 
 The henro remains one of the clearest ways to understand how Japanese travel can still be structured by pilgrimage rather than tourism alone. It is not pure asceticism, and it is not a museum piece. It is an old route that has learned to live beside rental cars, official model itineraries, and contemporary curiosity without becoming entirely modernized. By the time you leave, what stays in the mind is often not a single grand temple but a sequence of ordinary details: a stamp drying on a page, a roadside vending machine, wet shoes outside a lodging door, and the sense that the island has been teaching pace as much as place.
-
-Sources:
-
-- Association of the Shikoku Pilgrimage Temples, "Shikoku 88 Temple Pilgrimage" — https://88shikokuhenro.jp/en/
-- Travel Japan / JNTO, "The Whole of the Henro: Circle Shikoku Like a Pilgrim" — https://www.japan.travel/en/experiences-in-japan/583/
-- Travel Japan / JNTO, "A 2-Day Pilgrimage in Shikoku" — https://www.japan.travel/en/itineraries/a-pilgrimage-in-shikoku/
-- Travel Japan / JNTO, "Hiking in Japan" — https://www.japan.travel/en/guide/hiking/

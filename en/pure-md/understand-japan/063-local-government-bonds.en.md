@@ -19,11 +19,3 @@ This gives local bonds their double character. On one side they look fair. If a 
 The visible examples are everywhere once you know how to read them. A reconstructed school building, a renewed sewage network, a widened evacuation road, a river improvement project, or a station-front redevelopment may all rest partly on local bond financing. Some prefectures explain this directly to residents. Kanagawa Prefecture's public materials on prefectural bonds, for instance, show how openly the subject can be discussed when officials have to justify long-term borrowing to the people who will live with the repayment. A local bond issue is therefore not just an accounting event. It is a public statement about what a place considers urgent enough to finance across time.
 
 That is why `Local Government Bonds` deserve a place in any serious vocabulary for understanding Japan. They show how local governments translate policy into concrete space, how central oversight shapes local action, and how public infrastructure is built under conditions of uneven growth, disaster pressure, and demographic decline. A town hall may debate them in dry financial language, but the result is anything but abstract. Bonds become school walls, water pipes, flood barriers, and repaired roads. They are promises made in fiscal form that a place will still be there, still serving people, when the repayment schedule comes due.
-
-Sources:
-- [Local Government Bonds | Ministry of Finance FILP](https://www.zaisei.mof.go.jp/filp/summary/filp/localbonds.html)
-- [Local Government Bonds Q&A | Ministry of Finance FILP](https://www.zaisei.mof.go.jp/filp/summary/filp/localbonds/qa.html)
-- [FY2025 Local Government Bond Plan | Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/main_content/001011205.pdf)
-- [Local Public Finance Bureau | Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/main_sosiki/c-zaisei/index.html)
-- [What Are Prefectural Bonds? | Kanagawa Prefecture](https://www.pref.kanagawa.jp/docs/hy8/cnt/f417309/)
-- [What Are Publicly Offered Local Government Bonds? | Japan Finance Organization for Municipalities](https://www.jfm.go.jp/support/bond/index.html)

@@ -17,10 +17,3 @@ Shizuoka offers another travel logic: eel as a place-name you can taste. Travel 
 The friction points are not dramatic, but they are real. The first is sticker shock: many travelers underestimate how quickly an “eel rice bowl” becomes one of the more expensive meals of a trip. The second is timing. Popular shops can involve queues, and some operate in a way that feels old-fashioned—limited servings, set lunch hours, the sense that you arrive when the restaurant is ready for you, not when your app says it’s convenient. The third is preference. If you expected crisp char and get Kanto softness, or expected delicacy and get Kansai smoke, the meal can feel like a mismatch. Knowing the two styles in advance saves disappointment.
 
 In the end, `unagi` is a food that teaches Japan’s particular way of mixing everyday life with ceremony. It is rice and fish, but it arrives in a box like a gift. It is a lunch, but it comes with a calendar story. When you close the lid again, the sweetness of `tare` clings to the palate and the hands smell faintly of smoke. Outside, summer continues. Inside that small lacquered rectangle, you’ve tasted a country that still believes a season can be eaten.
-
-Sources:
-
-- Tokyo-Style Kabayaki (鰻のかば焼き 東京都), MAFF “Local Cuisine in Japan”: https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/34_24_tokyo.html
-- Shimane eel dishes (うなぎ豆腐 島根県), MAFF “Local Cuisine in Japan”: https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/unagidofu_shimane.html
-- Shizuoka’s Local Flavours, Travel Japan / JNTO: https://www.japan.travel/en/ca/cuisine/chubu/shizuoka/
-- Local Foods, Travel Japan / JNTO: https://www.japan.travel/en/local-specialities/local-foods/

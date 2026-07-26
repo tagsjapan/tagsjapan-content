@@ -19,10 +19,3 @@ Nippon Budokan offers another window into institutionalization: a public-interes
 Internationalization sharpens the internal contradiction. The International Kendo Federation (FIK), established in `1970`, positions itself as a non-political body that propagates and develops kendo internationally and sets standards for competition and grading guidelines. World championships and global affiliation expand kendo’s reach, but they also force the Japanese institutions to keep explaining what is “essential”: is it the scoring system, the etiquette, the language of character, or some combination? A practice that markets itself as moral discipline has to keep that discipline legible when the match becomes an international sport.
 
 `Kendo（剣道）` helps you understand Japan because it shows how Japan turns inherited violence into public pedagogy. It takes sword technique, removes the sword, adds protective gear, adds rules, adds ritual framing, and then tells a society: this is not just how you win; this is how you train a self. The sound in the dōjō—the stamp, the strike, the shout—is therefore not only athletic. It is Japan’s old question, remade for modern institutions: how do you cultivate restraint and intensity at the same time, and convince the public that the result is education rather than aggression?
-
-Sources:
-- [About AJKF | All Japan Kendo Federation](https://www.kendo.or.jp/en/organization/)
-- [Kendo | Britannica](https://www.britannica.com/sports/kendo)
-- [Organization | International Kendo Federation (FIK)](https://www.kendo-fik.org/organization)
-- [武道・ダンス必修化 | 文部科学省](https://www.mext.go.jp/a_menu/sports/jyujitsu/1330882.htm)
-- [日本武道館 武道学園 | 公益財団法人日本武道館](https://www.nipponbudokan.or.jp/shinkoujigyou/gakuen/about)

@@ -17,10 +17,3 @@ That certainty now competes with new retail realities. Specialty chains, suburba
 This is where the mythology and the economics diverge. The department store is often imagined as timeless elegance, but it is also a business under pressure: labor costs, large real estate footprints, and the challenge of keeping a multi-floor experience compelling when convenience is a thumb away. In practice, many stores survive by leaning into what is most Japanese about the format—making service itself a cultural object, and making food, gifts, and curated events the place where the physical store still matters.
 
 Understanding the Japanese department store helps explain how consumption and social form interlock in Japan. The institution is a bridge between private spending and public presentation, between a household’s decisions and a city’s shared sense of taste. Even as the industry shrinks, the store’s cultural role remains instructive: it shows how Japan built a modern urban middle-class rhythm not only through what people bought, but through how buying was packaged, staged, and made socially meaningful.
-
-Sources:
-- [日本百貨店協会](https://www.depart.or.jp/)
-- [商業動態統計 | 経済産業省](https://www.meti.go.jp/statistics/tyo/syoudou/index.html)
-- [三越伊勢丹グループのあゆみ | 株式会社三越伊勢丹ホールディングス](https://www.imhds.co.jp/content/imhds/corporate/company/history-imhds.html)
-- [高島屋の歴史 | 高島屋史料館](https://www.takashimaya.co.jp/shiryokan/history/)
-- [department store | Encyclopaedia Britannica](https://www.britannica.com/topic/department-store)

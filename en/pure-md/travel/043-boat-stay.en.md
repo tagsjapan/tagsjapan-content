@@ -17,10 +17,3 @@ There are also expectation errors worth correcting. Some travelers assume a `Boa
 What lingers, when it works, is not the cleverness of the concept but the change in perspective. You return from dinner along a pier instead of a street. You wake to rigging noise instead of elevators. You look across a harbor at buildings that might have seemed ordinary from the land side and suddenly understand why cities were built where they were. Japan's coastal life has always invited that view, but travelers do not often give it the night. A `Boat Stay` does, and that is enough to make familiar harbor towns feel new again.
 
 The category matters because it changes not only the view but the conduct of the traveler. Boarding time suddenly matters in a way ordinary hotel check-in does not. A bag that was easy to wheel through a station becomes awkward on a narrow gangway. Wind and rain become practical actors in the evening. Japan tends to package unusual experiences with reassuring clarity, but it does not eliminate the physical facts underneath them. That restraint is part of the appeal. A boat stay works when the harbor is allowed to keep some authority over the night, and when the traveler accepts that sleeping on water should feel a little different from sleeping beside it.
-
-Sources:
-
-- The Inland Sea, Travel Japan / JNTO: https://www.japan.travel/en/destinations/chugoku/hiroshima/the-inland-sea/
-- Riviera Marina, Riviera Group: https://www.riviera.co.jp/marina/
-- BOTEL, GLAMPROOK: https://www.glamprook.jp/botel/
-- Cruises in Japan, Travel Japan / JNTO: https://www.japan.travel/en/plan/cruises-in-japan/

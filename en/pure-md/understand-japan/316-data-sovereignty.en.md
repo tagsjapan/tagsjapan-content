@@ -19,10 +19,3 @@ The hardest trade-offs are not philosophical; they are operational. A strict “
 Data Sovereignty helps explain contemporary Japan because it exposes what “digital state capacity” really means. It is not only having good software. It is having classification rules, permission models, incident response, procurement standards, and public explanations that make citizens believe the system is acting legitimately. Japan can advocate global data rules in 2019 and still struggle to build domestic trust in 2024, because trust is built in the details of everyday use.
 
 In the end, Japan’s debate is not simply about borders. It is about whether Japan can remain a country that benefits from open global systems while maintaining control over the data that now underpins welfare, administration, industry, and security. Data sovereignty, in Japan, is the ongoing work of making openness trustworthy—and making trust durable.
-
-Sources:
-- Digital Agency (Japan), Data Strategy Promotion materials (データ戦略推進)
-- Digital Agency (Japan), Digital Society Priority Plan (デジタル社会の実現に向けた重点計画)
-- Digital Agency (Japan), Data Security Working Group materials and summaries
-- Personal Information Protection Commission (Japan), data governance and privacy policy materials
-- G20 Osaka 2019, DFFT (Data Free Flow with Trust) policy messaging and documents

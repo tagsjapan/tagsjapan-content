@@ -17,11 +17,3 @@ An even clearer signal is the move to record name readings. From `May 26, 2025`,
 Efficiency, however, comes with pressure. The `koseki` helps Japan run many procedures smoothly because it centralizes proofs of kinship and nationality. It also hardens boundaries. When the state organizes family through fixed fields, relationships that do not fit neatly—same‑sex couples under a marriage system tied to the register, disputes over surnames, non‑typical household arrangements—encounter the edges quickly. Privacy is another enduring tension. A register designed to certify family facts is, by design, a system that makes certain intimate details administratively retrievable. Modernization raises the question anew: what does it mean to digitize a family ledger that was never only “data”?
 
 The `koseki（戸籍）` is therefore one of the most revealing institutions in Japan. It shows a country that treats family as both private life and public order, and that repeatedly turns personal milestones into state‑verifiable facts. If you want to understand why paperwork around marriage, names, and kinship feels unusually consequential in Japan, the answer is often simple: the register is where the state stores family reality.
-
-Sources:
-- [戸籍 | 法務省](https://www.moj.go.jp/MINJI/koseki)
-- [戸籍のABC（Q1-5） | 法務省](https://www.moj.go.jp/MINJI/minji04_00031)
-- [戸籍法の一部を改正する法律について（令和6年3月1日施行） | 法務省](https://www.moj.go.jp/MINJI/minji04_00082)
-- [戸籍情報連携システムに関するお知らせ | 法務省](https://www.moj.go.jp/MINJI/kosekirenkei)
-- [戸籍に氏名の振り仮名が記載されます | 東京法務局](https://houmukyoku.moj.go.jp/tokyo/page000001_00944.html)
-- [婚姻届 | 法務省](https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-2)

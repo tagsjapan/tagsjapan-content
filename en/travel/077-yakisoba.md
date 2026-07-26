@@ -47,8 +47,3 @@ For a second example, head north to `Yokote` in Akita, a city that announces its
 Taken together, these local versions offer an expectation correction. Yakisoba is not merely cheap food for crowds. In Japan it can be that, and it can also be a marker of civic identity, supported by associations, tourism bodies, and local narratives that treat a griddle dish as worthy of explanation. The `MAFF` local cuisine database exists because Japan takes regional food seriously as cultural infrastructure, not only as restaurant entertainment. The travel tip that follows is the one this whole lexicon keeps trying to teach: don’t eat the thing only once. If a dish is common, that is a reason to repeat it, not a reason to dismiss it. One tray at a festival, one plate in a hometown you detoured for—that’s enough to hear the accents.
 
 Back on the train, you may find yourself thinking about noodles the way you normally think about stations. Not as a single category, but as a network. A firm bite here, a softer one there. An egg on top in the north, a scattering of powder in the shadow of Fuji. Yakisoba, in the end, is not a signature meal. It’s a travel companion: hot, fast, and endlessly capable of sounding like wherever you are.
-- Fujinomiya Yakisoba — Features (Fujinomiya Yakisoba Association): https://umya-yakisoba.com/fujinomiyayakisoba/
-- Fujinomiya Yakisoba Association (Official site): https://umya-yakisoba.com/
-- Shizuoka Tourism (Official): https://www.visit-shizuoka.com/
-- Yokote Yakisoba (Yokote City Tourism Association): https://www.yokotekamakura.com/specialty-goods/6-1/
-- MAFF Local Cuisine Search (Japanese local food database): https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/

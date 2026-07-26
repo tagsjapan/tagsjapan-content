@@ -17,11 +17,3 @@ The hard part is avoiding empty repetition. A drill that becomes a procession ca
 There is also a generational task hidden inside the policy: converting catastrophe into institutional memory without turning it into performance. If the message becomes only fear, students tune it out; if it becomes only ritual, adults confuse participation with preparedness.
 
 To understand Japan, it helps to see Disaster Prevention Education as a kind of infrastructure. It sits alongside seawalls and retrofitted buildings, quietly shaping what people do in the first minutes of a crisis, when official help is still on the way. The most revealing objects are rarely dramatic: a hazard map folded into a school newsletter, a drill schedule pinned by the shoe lockers, a child practicing how to read a warning and decide where to go. In a country where disasters recur, education is one of the few tools that can be renewed every year without pretending the risk has gone away.
-
-Sources:
-- Ministry of Education, Culture, Sports, Science and Technology (MEXT), School Safety (学校安全)
-- MEXT, disaster-prevention education support and teaching resources
-- Cabinet Office (Japan), Disaster Management materials and disaster education resources
-- Japan Meteorological Agency (JMA), disaster-prevention knowledge and warning explanations
-- Fire and Disaster Management Agency (FDMA), community disaster-preparedness training and guidance
-- Kamaishi City / Iwate Prefecture education and disaster-preparedness materials related to 2011 evacuation education

@@ -17,11 +17,3 @@ That is why the figure sits at a revealing intersection of gender discipline and
 In the present tense, large-scale “yankii girl” scenes have thinned, while the imagery remains busy. Nippon.com, writing about the renewed popularity of delinquent manga via *Tokyo Revengers（東京卍リベンジャーズ）*, notes that the real-world presence of these groups has declined even as the stories keep circulating. That gap between media and everyday life is not a mistake; it is the modern condition of the type. Once a stigmatized figure becomes less common on actual streets and school grounds, it becomes easier to romanticize, parody, and resell. The “bad girl” becomes retro.
 
 `Yankee Girls（扶桑花少女）` helps you understand Japan because it makes the boundaries of acceptable girlhood visible. It shows how quickly a society can turn youth deviance into a recognizable style, and how quickly that style can be converted into entertainment once the threat recedes. It also shows something harder to say cleanly: that a young woman’s toughness can be both self-authored and socially forced, both protection and stigma. When rebellion gets a skirt and a script, you can watch gender norms, class pressures, and media economics all at work in the same frame.
-
-Sources:
-- [助番（スケバン）是什麼 | Kotobank](https://kotobank.jp/word/%E5%8A%A9%E7%95%AA-541462)
-- [《スケバン刑事》條目 | Kotobank](https://kotobank.jp/word/%E3%81%99%E3%81%91%E3%81%B0%E3%82%93%E5%88%91%E4%BA%8B-716767)
-- [Yankii manga history via Tokyo Revengers boom | Nippon.com](https://www.nippon.com/ja/japan-topics/g01075/)
-- [沖繩的ヤンキー青年與地元 | J-STAGE](https://www.jstage.jst.go.jp/article/psaj/54/0/54_54005/_article/-char/ja)
-- [風俗業界女性的網絡與學校經驗 | J-STAGE](https://www.jstage.jst.go.jp/article/eds/96/0/96_87/_article/-char/ja/)
-- [《〈ヤンチャな子ら〉的民族誌》書評 | J-STAGE](https://www.jstage.jst.go.jp/article/eds/105/0/105_195/_article/-char/ja/)

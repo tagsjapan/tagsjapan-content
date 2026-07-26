@@ -17,10 +17,3 @@ Scale shows how institutionalized the model has become. MHLW notes that by the e
 You can see the logic in a modern example: an employee facing family caregiving pressure. MHLW’s own guidance encourages people to connect with the local support center, treating it as a way to avoid the spiral toward `care-related job quitting（介護離職）`. The center becomes a bridge not only for the elderly person but for the working family member, connecting household stress to the care system before the household breaks.
 
 Japan’s community general support centers are therefore a lens on how the country governs aging: through institutions that coordinate, translate, and connect. They do not “solve” old age. They make it administratively and socially manageable by turning fragmented problems into a shared plan. In a society where aging is the dominant background condition, the ability to coordinate becomes a form of public infrastructure—and the center is where that infrastructure has an address.
-
-Sources:
-- [地域包括ケアシステム | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/index.html)
-- [地域包括支援センターの手引きについて | 厚生労働省](https://www.mhlw.go.jp/topics/2007/03/tp0313-1.html)
-- [家族介護に直面している方への支援 | 厚生労働省](https://www.mhlw.go.jp/shushoku_hyogaki_shien/family-care/)
-- [地域包括ケアシステムについて Q&A | 中国四国厚生局](https://kouseikyoku.mhlw.go.jp/chugokushikoku/chiikihoukatsusuishin/qa.html)
-- [令和6年版 厚生労働白書 | 厚生労働省](https://www.mhlw.go.jp/stf/wp/hakusyo/kousei/24/)

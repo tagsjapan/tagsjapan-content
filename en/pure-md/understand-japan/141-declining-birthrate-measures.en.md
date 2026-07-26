@@ -17,11 +17,3 @@ The governance style has also shifted toward measurement. In `2025`, the Child a
 That helps explain why public frustration persists even as policy density increases. Japan’s vital statistics continue to show new lows in births, and national population projections anticipate ongoing population decline and aging. Many critiques now focus less on whether subsidies exist and more on whether the underlying life structure has changed: wages that lag costs, long work hours, gendered division of care, and a housing and education environment that turns parenthood into a high-risk financial decision. In this view, a child allowance can be meaningful and still not be decisive, because it does not rewrite the deeper arithmetic of time, money, and future security.
 
 Declining birthrate measures are a revealing lens for understanding Japan. They show the state trying to maintain itself by repairing the conditions of private life, and they show the limits of incremental governance. Japan can expand childcare, adjust leave benefits, and write new strategies, yet still confront the reality that people will not choose family formation if society feels unstable. Even the move toward KPIs is part of this: an attempt to turn diffuse social fear into something the state can track, justify, and claim to manage in plain numbers. Birthrate policy is therefore both social policy and national self‑preservation: a long, anxious effort to make the future feel livable enough that people will create it.
-
-Sources:
-- [こども未来戦略 | こども家庭庁](https://www.cfa.go.jp/resources/strategy)
-- [少子化対策KPI検討チーム | こども家庭庁](https://www.cfa.go.jp/councils/syoshika-kpi-team)
-- [次世代育成支援対策 | こども家庭庁](https://www.cfa.go.jp/policies/shoushika/jisedaishien)
-- [令和6年（2024）人口動態統計 月報年計（概数） | 厚生労働省](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai24/index.html)
-- [日本の将来推計人口（令和5年推計） | 国立社会保障・人口問題研究所](https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp)
-- [地域少子化対策重点推進交付金 | こども家庭庁](https://www.cfa.go.jp/policies/shoushika/jisedaishien/chiikisyoshika)

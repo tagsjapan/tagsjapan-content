@@ -19,11 +19,3 @@ Minamata also changed the shape of environmental politics in Japan by showing ho
 Today, Minamata is simultaneously a site of mourning and a site of education. Museums, memorial spaces, and storytelling practices preserve the record of what happened and why it matters. This is not only commemoration. It is an attempt to keep the disaster from being folded too neatly into a redemption narrative of “pollution overcame.” The temptation to tell a clean success story is strong—especially once policy and technology improve. Minamata resists that closure because the central question remains political: how quickly and how fully are victims recognized, and who gets to declare the problem finished?
 
 Minamata disease remains a key lens for understanding Japan because it forces an unromantic reading of postwar growth. It also explains why “growth first” promises can sound hollow when the costs are hidden. The country’s economic achievements are real. So is the fact that the costs were often delayed, unevenly distributed, and borne by communities with less power to be heard early. When Japan remembers Minamata, it is remembering a moment when the sea—usually treated as a resource—became evidence, and when the bodies of residents became the record of what industrial success can conceal for decades.
-
-Sources:
-- [Minamata Disease Measures | Ministry of the Environment](https://www.env.go.jp/chemi/minamata.html)
-- [50 Years Since Official Recognition of Minamata Disease | Ministry of the Environment](https://www.env.go.jp/chemi/minamata/50th/index.html)
-- [Minamata Convention on Mercury | Ministry of the Environment](https://www.env.go.jp/chemi/tmms/minamata_convention.html)
-- [Minamata Disease Municipal Museum | Minamata City](http://www.minamata195651.jp/index.html)
-- [Minamata Disease Information | Kumamoto Prefecture](https://www.pref.kumamoto.jp/soshiki/48/50008.html)
-- [Passing Down the Experience and Lessons of Minamata Disease (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/jhs/64/6/64_489/_article/-char/ja/)

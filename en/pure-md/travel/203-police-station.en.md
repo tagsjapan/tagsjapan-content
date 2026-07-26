@@ -17,9 +17,3 @@ Consular support fits into this picture rather than replacing it. If a passport 
 And yet that is precisely why police facilities matter so much in Japan travel. They are one of the country's clearest examples of order made physically accessible. Not abstract law, not a hotline floating somewhere in the background, but a room near the station where a confused visitor can begin. The existence of that room changes behavior. People report losses sooner. They ask for help earlier. They do not have to spend an hour deciding whether their problem is "serious enough" to deserve attention. In a travel context, that is a major form of safety.
 
 If you leave a police box in Japan with a stamped paper in your hand, or simply with directions and a steadier pulse, you understand something essential about the country. The reputation for safety is not only a social mood. It is a network of small, reachable places where order can be put back together.
-
-Sources:
-- [National Police Agency](https://www.npa.go.jp/english/index.html)
-- [Safe Japan, National Police Agency](https://www.npa.go.jp/english/safe_japan/index.html)
-- [Tokyo Metropolitan Police Department](https://www.keishicho.metro.tokyo.lg.jp/multilingual/english/index.html)
-- [Japan Visitor Hotline, Travel Japan / JNTO](https://www.japan.travel/en/plan/hotline/)

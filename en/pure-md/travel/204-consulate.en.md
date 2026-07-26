@@ -17,10 +17,3 @@ The itinerary consequence is obvious and brutal. Once consular help becomes nece
 There is a subtler use for consular awareness as well. Some travelers with dual nationality issues, expiring passports, visa complications, or family emergencies back home discover that the relevant question is not "Is this an emergency?" but "Which government office can tell me what my options are?" In Japan, where immigration procedure and identity checks are generally clear but not casual, the answer can matter quickly. Even if a consulate cannot resolve the problem on the spot, it can clarify which documents matter, what local report you must obtain first, and whether the situation affects onward travel. That guidance can prevent a second mistake from following the first.
 
 Most trips will never involve a consulate, and that is exactly how it should be. Its place in Japan travel is structural rather than visible, like a fire exit in a hotel corridor. You hope never to test it. Still, if the trip suddenly narrows to a missing document, a hospital call, or a family member waiting for news, the consulate stops being an abstraction. It becomes a number in your phone, a map pin in a business district, and the difference between panic without direction and trouble that has, at last, entered a procedure.
-
-Sources:
-
-- Ministry of Foreign Affairs of Japan, "Embassies, Consulates and Permanent Missions" — https://www.mofa.go.jp/about/emb_cons/over/index.html
-- Travel Japan / JNTO, "Staying Safe in Japan" — https://www.japan.travel/en/plan/emergencies/
-- U.S. Embassy & Consulates in Japan, "Lost or Stolen Passport" — https://jp.usembassy.gov/passports/lost-stolen-passport/
-- UK Government, "Foreign travel advice: Japan help and support" — https://www.gov.uk/foreign-travel-advice/japan/help-and-support

@@ -19,10 +19,3 @@ Digital tools now serve the same function in new forms: a profile slide at the s
 If you want a small but revealing entry point into Japanese work culture, watch what happens in those first twenty seconds. Japanese companies keep teaching the ritual because it compresses affiliation, hierarchy, and follow-up expectations into a repeatable start. The meeting begins with a card because Japan often begins relationships by making roles legible. The paper is only the surface.
 
 The deeper act is the shared agreement about who each person is allowed to be in the room.
-
-Sources:
-- [Business Meeting Flow: Business Card Exchange and Self-Introduction | JETRO (2021)](https://www.jetro.go.jp/agriportal/online/2021/096ba96d58210329.html)
-- [First Impression Judgments in a Business Card Exchange Scene (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/pacjpa/82/0/82_3PM-008/_article/-char/ja/)
-- [Personal Information Protection Act FAQ | Personal Information Protection Commission (PPC)](https://www.ppc.go.jp/personalinfo/faq/)
-- [Meishi (名刺) | Kotobank](https://kotobank.jp/word/%E5%90%8D%E5%88%BA-642808)
-- [Basics of Online Business Card Exchange | Sansan](https://jp.sansan.com/media/online-meishi/)

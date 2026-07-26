@@ -18,9 +18,3 @@ What makes the day-use onsen so important in Japan travel is not that it is chea
 
 Used well, it can also improve travel judgment. A bath taken at the right point in the day changes how much energy remains for evening wandering, for another train ride, or for the next morning's departure. Japan makes room for that kind of recalibration.
 By the time you return to the platform, your clothes are back on and the journey is moving again, but something has changed. The bath has taken a strip of ordinary transit time and made it memorable. In Japan, that ability to turn a pause into part of the trip is often the difference between travel that merely functions and travel that settles in the memory.
-
-Sources:
-- [How to Best Enjoy Japan’s Onsen, Travel Japan / JNTO](https://www.japan.travel/en/guide/how-to-best-enjoy-onsen/)
-- [Kamisuwa Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1363)
-- [Kusatsu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1518)
-- [Awara Tourism Association](https://awara.info/en/)

@@ -49,8 +49,3 @@ Regional variation matters. The Tokyo metropolitan area has an enormous rail web
 Japan now faces the difficult question that satellite cities were built to postpone: what is a metropolitan life if the core keeps pulling opportunity and the periphery keeps absorbing the costs of living? In the high-growth era, the answer was simple—build more housing and run more trains. In a shrinking, aging society, the answer becomes governance: how to renovate, consolidate services, maintain mobility, and rebuild local community life without pretending that every suburb can keep the same form forever.
 
 Satellite City is a key to understanding modern Japan because it shows how the country turned urbanization into routine. The metropolis is not only the skyline in the center; it is the daily flow that connects center and periphery through rails, timetables, and housing policy. The question ahead is whether satellite cities can evolve from “places that send people away” into places that can hold more of life locally—especially when life itself is getting older.
-- Ministry of Land, Infrastructure, Transport and Tourism (MLIT), urban planning policy materials (都市計画)
-- MLIT, Capital Region development policy materials (首都圏整備)
-- Urban Renaissance Agency (UR), new town development and housing estate materials
-- Cabinet Office (Japan), Capital Region White Paper and related materials (首都圏白書)
-- Statistics Bureau of Japan (MIC), Population Census (国勢調査)

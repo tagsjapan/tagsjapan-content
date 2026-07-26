@@ -17,10 +17,3 @@ The Mount Fuji corridor offers the other classic pattern. `Gotemba Premium Outle
 The friction point is that an outlet mall is not automatically a bargain paradise. Stock can be uneven, sizes can be limited, and the most popular brands can feel picked over by mid-afternoon. On weekends, crowds can thicken enough that the day turns into slow circulation rather than relaxed browsing. Weather matters more than people expect because many outlets are open-air: rain makes the walking feel longer, and winter wind makes the coffee stops feel less optional. And while Japan’s tax-free shopping infrastructure can make purchasing smoother for visitors, it also adds a layer of procedure—often including having your passport on hand, plus receipts and counter steps—that takes time when everyone is doing it at once.
 
 A good outlet day in Japan has the same discipline as a good travel day anywhere: choose your lane and don’t overreach. Decide whether you’re hunting one or two items or simply enjoying the atmosphere. Go earlier than you think you need to, because return transport and evening plans are easier when you’re not leaving at the same time as everyone else. Leave room in your suitcase before you go, and remember that the “best” outlet is often the one that fits your route, not the one with the most famous name. The outing works when it feels like an intentional part of the trip—one suburban day with a clear beginning and end—rather than a shopping spree that drags across the whole itinerary.
-
-Sources:
-
-- MITSUI OUTLET PARK (official) — https://mitsui-shopping-park.com/mop/
-- MITSUI OUTLET PARK KISARAZU (official) — https://mitsui-shopping-park.com/mop/kisarazu/english/
-- Premium Outlets Japan (official) — https://www.premiumoutlets.co.jp/en/
-- Travel Japan / JNTO, “Shopping in Japan” — https://www.japan.travel/en/guide/shopping-in-japan/

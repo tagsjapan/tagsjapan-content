@@ -17,10 +17,3 @@ The modesty of the format is part of its value. Because these guides are not usu
 There is also something instructive in the way these programs reflect local confidence. A city that trains volunteers to meet visitors is saying that ordinary residents, not only licensed experts, are part of the tourism interface. That creates a tone different from purely commercial tourism. The traveler is not only buying access but accepting a civic invitation to pay closer attention. In a country where many public interactions are brief and carefully bounded, this kind of semi-formal hospitality can feel unexpectedly personal. It gives the trip not just explanation, but a sense of being locally received.
 
 Perhaps that is why these encounters stay in the memory. Not because the guide translated every sentence or unlocked some secret city, but because the exchange added a human voice to a place that might otherwise have remained beautifully organized and slightly distant. A station exit becomes the beginning of a story. A market lane gains shape. A viewpoint gains bearings. In Japan, volunteer interpreters are one of the ways local knowledge still reaches the traveler without first having to pass through a cash register.
-
-Sources:
-
-- Travel Japan / JNTO, "Tourist Information Center / Guide Services" — https://www.japan.travel/en/plan/tic-guide-services/
-- GO TOKYO, "Tour Guide Services by Tokyo Volunteer Guides" — https://www.gotokyo.org/en/guide-services/index.html
-- GO TOKYO, "Tokyo Volunteer Guides / Machinaka Community Tourist Information" — https://www.gotokyo.org/en/plan/machinaka-community-tourist-information/index.html
-- GO TOKYO, "Observation Deck Guide Services" — https://www.gotokyo.org/en/guide-services/observation-deck/index.html

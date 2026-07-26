@@ -50,8 +50,3 @@ There is a further complication: older people are not one group. Some continue w
 Japan’s aging crisis also links problems that used to be discussed separately. Loneliness and isolation, dementia support, older drivers and mobility, housing design, the collapse of local shopping streets, the limits of family caregiving, and the labor market divide between stable and unstable work all press on the same set of services. The country’s long experience with aging policy has made it unusually good at naming the parts. The crisis is that the parts keep growing faster than the connectors between them.
 
 To understand contemporary Japan, “Aging Crisis” is less a panic slogan than a description of governance under demographic pressure. Japan is trying to keep a high-functioning society running while its population structure changes the basic terms of labor, care, and community. The charts matter. The minutes matter more.
-- Cabinet Office (Japan), Annual Report on the Aging Society (高齢社会白書)
-- Ministry of Health, Labour and Welfare (MHLW), care workforce measures (介護人材確保)
-- MHLW, Community-based Integrated Care System (地域包括ケアシステム)
-- National Institute of Population and Social Security Research (IPSS), population projections (将来推計人口)
-- MHLW, labour and welfare white paper materials (厚生労働白書)

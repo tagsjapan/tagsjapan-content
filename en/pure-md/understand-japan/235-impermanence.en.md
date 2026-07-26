@@ -19,10 +19,3 @@ Yet the lens has an edge. If impermanence becomes too comfortable, it can slide 
 The modern reminder is not only literary. Events like `2011` put mujo back into lived reality at national scale: homes swept away, towns remade, familiar landscapes reordered. In such moments, impermanence stops being a refined sentiment and becomes a harsh fact. The question becomes what the lens is for. Does it help people endure without collapsing? Does it help a society rebuild without pretending it can restore the past exactly as it was? Japan’s impermanence, at its best, is not a romanticization of loss. It is a vocabulary for facing loss without lying about it.
 
 `Impermanence（無常觀）` helps you understand Japan because it explains a recurring Japanese posture toward time: attentive, unsentimental, and structurally aware. It shows how Japan can make a Buddhist doctrine into a shared cultural tool—used to read history, to interpret seasons, to discipline pride, and to survive disaster. The bell in the Heike opening does not only ring for the past. It rings as a reminder that change is normal, and that the work of living is learning how to respond to it without denial.
-
-Sources:
-- [無常 | 生活の中の仏教用語 | 大谷大学](https://www.otani.ac.jp/yomu_page/b_yougo/nab3mq0000000ps9.html)
-- [諸行無常 | 仏教語豆事典 | 浄土真宗本願寺派（西本願寺）](https://www.hongwanji.or.jp/mioshie/words/000254.html)
-- [「諸行無常」・「盛者必衰」と経論 : 『平家物語』序章をめぐって | CiNii Research](https://cir.nii.ac.jp/crid/1050567175338063744)
-- [「諸行無常」・「盛者必衰」と経論--『平家物語』序章をめぐって | NDLサーチ](https://ndlsearch.ndl.go.jp/books/R000000004-I10600117)
-- [「祇園精舎の鐘の声」——『平家物語』冒頭の理解をめぐって—— | NDLサーチ](https://ndlsearch.ndl.go.jp/books/R000000025-I010500006286834)

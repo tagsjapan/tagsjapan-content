@@ -17,10 +17,3 @@ The itinerary consequence is straightforward. Accessible travel in Japan rewards
 Bathing culture adds another layer to the equation. Many travelers understandably want the ryokan or hot-spring part of Japan as much as the urban one, but accessible bathing remains more variable than accessible transit. Some modern hotels provide adapted rooms and better bathroom design, while older inns may have stairs, narrow thresholds, or bathing spaces built around traditions that are difficult to retrofit. This does not make such trips impossible, but it does mean that the emotional center of a journey may require the most careful checking. In Japan, the places of greatest atmosphere are often the ones where access cannot be assumed from reputation alone.
 
 When it works, wheelchair accessibility in Japan reveals a valuable truth about the country. The famous Japanese virtues of order and service are real, but they are most meaningful when translated into specific supports: a platform ramp, an elevator marked on a station diagram, a staff member waiting where promised, a room that has been measured rather than merely advertised. Those are the details that allow a traveler to keep moving. In the end, accessibility in Japan is less about grand claims of inclusion than about whether the route holds together from door to door.
-
-Sources:
-
-- Travel Japan / JNTO, "Accessible Travel in Japan" — https://www.japan.travel/en/plan/accessible-travel/
-- JR East, "Barrier-Free Information" — https://www.jreast.co.jp/e/customer_support/barrierfree.html
-- Tokyo Metro, "Barrier-Free Facilities" — https://www.tokyometro.jp/en/station/barrierfree/index.html
-- GO TOKYO, "For Visitors with Disabilities" — https://www.gotokyo.org/en/plan/for-visitors-with-disabilities/index.html

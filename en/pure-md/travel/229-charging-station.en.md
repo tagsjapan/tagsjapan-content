@@ -17,10 +17,3 @@ The friction point is wonderfully mundane. Not every charging spot provides ever
 Two common travel scenes show why. On arrival day, topping up at Haneda or picking up rental power at Narita can stabilize the entire entry into the country, especially if the route onward involves rail changes or late hotel arrival. On a day of dense urban movement, a quick battery loan can protect the practical functions of the trip from being drained by maps, photos, and constant ticket checks. Neither scene is dramatic. That is exactly the point. Charging stations matter because they prevent a string of small failures from becoming the defining memory of the day.
 
 The wisest way to think about battery power in Japan is to treat it as you would cash or transit credit: a basic reserve that should not be allowed to hit zero by accident. Carry the cable that fits your devices. Learn where major charging points are on your route. If you rent a mobile battery, check the return geography before you walk away. Japan has built a travel world that runs beautifully on electricity and timing. The little station that restores one of those also helps preserve the other.
-
-Sources:
-
-- Haneda Airport, "Device Charging" - https://tokyo-haneda.com/en/service/facilities/battery_charge.html?tab=terminal2
-- Narita Airport, "ChargeSPOT at Narita Airport" - https://www.narita-airport.jp/en/service/internet/t1-t2-t3-ChargeSPOT/
-- ChargeSPOT Japan - https://www.chargespot.jp/
-- Travel Japan / JNTO, "Useful Apps" - https://www.japan.travel/en/plan/useful-apps/

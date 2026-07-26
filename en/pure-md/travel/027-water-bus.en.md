@@ -17,9 +17,3 @@ There is an expectation correction here for first-time visitors. Japan's water b
 The operators themselves reveal something about the Japanese approach. Tokyo Cruise feels polished and visitor-facing, the sort of route a first-time traveler can understand quickly. Tokyo Mizube Line carries a more municipal flavor and suggests that the city still regards the rivers as public corridors, not just tourism scenery. Osaka's Aqua-Liner leans harder into urban theater, turning bridges and riverbanks into the substance of the ride. These distinctions matter because they keep the category from becoming generic. A water bus in Japan is never only "a boat tour." It reflects how each city has chosen to reuse, narrate and regulate its waterside geography.
 
 By the time you step back onto land, the city usually feels less flat. A river journey in Japan does not just show off the skyline; it restores the fact that Tokyo and Osaka were built from water outward as much as from rails inward. For an hour or so, the trip stops being a sequence of stations and becomes a sequence of banks, and that small correction can change the whole tone of a day.
-
-Sources:
-- [Tokyo Cruise](https://www.tokyocruise.jp/en/)
-- [Tokyo Mizube Line](https://www.waterbus.co.jp/en/)
-- [Aqua-Liner, Osaka Suijo Bus](https://www.suijobus.co.jp/en/)
-- [Ferry & Cruise Ships, Travel Japan / JNTO](https://www.japan.travel/en/plan/getting-around/ferry-cruise-ships/)

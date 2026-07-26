@@ -18,9 +18,3 @@ That is why farm stays matter so much in Japan travel today. They give the trip 
 
 At night, after the dishes are done and the roads have emptied, the country feels less like a landscape and more like a household extended outward. That is the strength of a Japanese farm stay. It does not ask you to admire rural life from a distance. It asks you to keep pace with it until morning.
 
-
-Sources:
-- [Countryside Stays in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/homestay-farmstay/)
-- [Heritage Stays in Japan, Travel Japan / JNTO](https://www.japan.travel/en/heritage-stays/)
-- [Traditional Town Stays, Travel Japan / JNTO](https://www.japan.travel/en/heritage-stays/traditional-town-stays/)
-- [The Rethinking of Rural Tourism in Japan, Japan Tourism Agency](https://www.mlit.go.jp/kankocho/en/)

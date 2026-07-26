@@ -17,10 +17,3 @@ There is another, quieter reason the `Shinkansen` matters so much: it changes th
 Even the small rituals on board become part of the travel education. The cart in the aisle, the carefully timed cleaning at terminal stations, the traveler who unwraps an `ekiben` only after the train is underway, the collective instinct not to block the aisle for longer than necessary: none of these customs are legally essential, but they help explain why the system feels smoother than the raw technology alone can account for. A first-time visitor may remember the speed; a repeat visitor often remembers the order.
 
 That is why the `Shinkansen` endures as more than a symbol of modern Japan. Symbols can be admired from a distance. This one has to function dozens of times an hour, in all weather, for commuters, students, business travelers, and tourists carrying too much luggage. Its great achievement is not romance, though there is some of that. It is the discipline to make velocity feel almost ordinary. When the doors close, the platform recedes, and the train slides toward another city exactly when it said it would, distance stops being geography and becomes timetable.
-
-Sources:
-
-- About the Shinkansen, Central Japan Railway Company: https://global.jr-central.co.jp/en/company/about_shinkansen/
-- Tokaido Shinkansen, Central Japan Railway Company: https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/
-- Travel Information, Central Japan Railway Company: https://global.jr-central.co.jp/en/info/
-- About JAPAN RAIL PASS: https://japanrailpass.net/en/about_jrp/

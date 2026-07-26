@@ -17,10 +17,3 @@ That means an overnight bus changes more than transport cost. It changes where y
 The body logic is also different from ordinary train travel. Shoes that were comfortable all day may feel less kind at six in the morning after a broken night's sleep. A neck pillow, an extra layer, eye mask, or simple decision to pack less can matter more than the fare difference that justified the bus in the first place. Travelers who enjoy overnight coaches tend to be the ones who treat them as a small operational project, not as a miracle of effortless thrift.
 
 For some people that is exactly the charm. Japan's overnight buses reveal a country willing to turn even budget fatigue into a manageable system. They are not glamorous and should not be sold as such. But they remain one of the sharpest examples of travel time being re-engineered rather than merely endured. If you choose well, pack lightly, and respect what the next morning will actually feel like, the bus does something no hotel can do. It hands you a new city at sunrise and asks whether the saved night was worth the exchange.
-
-Sources:
-
-- Buses in Japan, Travel Japan / JNTO: https://www.japan.travel/en/plan/getting-around/buses
-- Japan Bus Pass, WILLER TRAVEL: https://willer-travel.com/st/3/en/pc/buspass/
-- Preparation before boarding bus, WILLER TRAVEL: https://willer-travel.com/en/guide/departure/
-- Tokyo to Universal Studios Japan Nighttime, WILLER TRAVEL: https://willer-travel.com/en/bus_search/tokyo/all/osaka/usj/time-division_night/

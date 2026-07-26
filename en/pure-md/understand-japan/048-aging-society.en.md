@@ -17,11 +17,3 @@ Still, the story cannot be told only as admirable adaptation. Longer lives are a
 That is why recent Japanese policy language has tried to change the tone. Official documents increasingly speak not only of burden but of participation, lifelong learning, social engagement, and later-life employment. The move is significant. It reframes aging from a passive condition to a stage that can still include work, contribution, and autonomy. Yet this more optimistic vocabulary works only if the material side keeps pace. A slogan about active aging does little for a person in a rural district where transport has thinned out, shops have closed, and caregiving falls on an exhausted relative. The demographic fact is national. The lived reality is intensely local.
 
 So the aging society in Japan is best understood not as a future threat but as the present condition in which other questions now unfold. The station elevator, the clinic shuttle, the community meal service, the older cashier still working at 72, the apartment modified for safer bathing and easier movement: these are not peripheral details. They are the infrastructure of a country learning how to live when almost one person in three is over 65. Longevity changed Japan's social weather. The adjustments are now everywhere, if you know what you are looking at.
-
-Sources:
-- [Annual Report on the Aging Society 2025 | Cabinet Office](https://www8.cao.go.jp/kourei/whitepaper/w-2025/html/zenbun/index.html)
-- [About the Annual Report on the Aging Society | Cabinet Office](https://www8.cao.go.jp/kourei/whitepaper/index-w.html)
-- [Population Estimates as of October 1, 2024 | Statistics Bureau of Japan](https://www.stat.go.jp/english/data/jinsui/2024np/index.html)
-- [Population Projections for Japan 2023 | IPSS](https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp)
-- [Detailed Tables for Population Projections 2023 | IPSS](https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/db_zenkoku2023/db_zenkoku2023syosaikekka.html)
-- [Annual Report on the Aging Society 2025 Summary | Cabinet Office](https://www8.cao.go.jp/kourei/whitepaper/w-2025/html/gaiyou/index.html)

@@ -17,11 +17,3 @@ That is why the figure remains politically charged. Some defend the full-time ho
 The contradiction is clearest in the present. Younger generations are more accustomed to dual-income households and less likely to treat the housewife as the only respectable female role. Government policy regularly promotes women's employment and men's participation in care. Yet if workplace culture still rewards long male hours, if schools still assume daytime parental availability, and if care services remain uneven, families often slide back toward a pattern in which the mother steps away from paid work first. The image changes, the arithmetic stays.
 
 `Housewives` remain a key term for understanding Japan because they show how family, labor, and welfare have been locked together. The role survives not because the past has remained intact, but because its institutions have not fully been redesigned. The lunchbox on the kitchen counter and the pension rule on the government form belong to the same story. Both point to a society that has changed its rhetoric faster than it has changed the structure of care. The full-time housewife is no longer the unquestioned center of Japanese family life. She is still one of the clearest traces of how that family life was built.
-
-Sources:
-- [White Paper on Gender Equality 2025 | Cabinet Office Gender Equality Bureau](https://www.gender.go.jp/about_danjo/whitepaper/r07/zentai/html/honpen/b1_s00_00.html)
-- [Category 3 Insured Person | Japan Pension Service](https://www.nenkin.go.jp/service/yougo/tagyo/dai3hihokensha.html)
-- [What Are Category 1 and Category 3 Insured Persons? | Japan Pension Service](https://www.nenkin.go.jp/faq/kokunen/seido/kanyu/20140602-01.html)
-- [Measures for the Income Wall | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/taiou_001_00002.html)
-- [Education at a Glance 2025: Japan | OECD](https://www.oecd.org/en/publications/education-at-a-glance-2025_1a3543e2-en/japan_8f0a8541-en.html)
-- [Surveys on Japanese Attitudes | NHK Broadcasting Culture Research Institute](https://www.nhk.or.jp/bunken/research/yoron/index.html)

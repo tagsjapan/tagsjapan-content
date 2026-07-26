@@ -19,10 +19,3 @@ The point is discipline, not décor.
 The contemporary tension is that the tea room is now often viewed as an icon of “Japanese minimalism” detached from its operating logic. A reconstructed tea room in a museum can be admired as a sculpture of space, but the original system depends on use—on the repetitive work of cleaning, arranging, kneeling, entering, and making. When the practice drops out, elements like `nijiriguchi（躙口）` risk becoming exotic features rather than functional constraints. Cultural-property framing can preserve the shell while flattening the grammar, which is why descriptions that link details back to choreography matter as much as carpentry.
 
 A tea room is small, but it is not private. It is an interface between host and guest, between ambition and restraint, between what can be said aloud and what must be carried by posture. The room’s power comes from treating attention as something architecture can shape. You can call it beautiful, but the better word is demanding: a space that makes the body do the thinking, one low doorway at a time.
-
-Sources:
-- [chashitsu 茶室 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/c/chashitsu.htm)
-- [sukiya 数寄屋 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/s/sukiya.htm)
-- [nijiriguchi 躙口 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/n/nijiriguchi.htm)
-- [sumiro 隅炉 | JAANUS](https://www.aisf.or.jp/~jaanus/deta/s/sumiro.htm)
-- [Taian (National Treasure tea room) | Cultural Heritage Online](https://online.bunka.go.jp/heritages/detail/202151)

@@ -19,10 +19,3 @@ In Japan, a movement can look small and still change the rules.
 The recurring criticism is that Japan’s #MeToo is “weak” because it does not resemble the headline-making purges seen elsewhere. That comparison misses how Japanese social change often accumulates. It moves through language, through media framing, through the creation of consultation entry points, through legal revisions, and through the slow normalization of conversations that used to be taboo. None of this eliminates the risk of speaking. Survivors still face online abuse, reputational harm, and the exhausting demand to be “perfect victims.” The gap between official acknowledgment and lived safety remains wide.
 
 What #MeToo reveals about Japan is not only a gender conflict, but a governance style: the struggle to bring private harm into public responsibility without crushing the person who reports it. The flowers at Flower Demo are a small technology for doing that—offering recognition without requiring spectacle. They mark a shift from “endure quietly” toward “name it, support it, change the procedure.” In a society built on the management of friction, #MeToo is a fight over who bears the friction of telling the truth.
-
-Sources:
-- Cabinet Office (Japan), annual gender-equality white paper materials
-- Ministry of Justice (Japan), criminal law revisions related to sexual offenses (性犯罪関連の刑法改正)
-- Ministry of Health, Labour and Welfare (MHLW), workplace harassment prevention measures
-- General Incorporated Association Spring (一般社団法人 Spring), survivor support and advocacy materials
-- UN Women Japan, #MeToo and gender-based violence resources

@@ -50,8 +50,3 @@ The real transformation is measured in mundane tasks. It is a father who can sta
 
 Male Parenting is a useful lens for understanding contemporary Japan because it shows how reforms actually land. Policy can move first, by changing leave rules and producing new incentives; culture follows slowly, through what workplaces reward and what families can afford. Japan’s challenge is to make father involvement durable, not symbolic—to build a society where a father at the daycare door is not performing modernity, but simply doing his job at home.
 The shift is slow, but it is measurable.
-- Ministry of Health, Labour and Welfare (MHLW), Ikumen Project (イクメンプロジェクト)
-- MHLW, childcare leave and related制度 information (育児休業制度)
-- MHLW, Basic Survey on Equal Employment Opportunity (雇用均等基本調査)
-- Cabinet Office (Japan), annual gender-equality white paper materials
-- Children and Families Agency (こども家庭庁), childcare and family-support policy materials

@@ -17,10 +17,3 @@ Kyoto offers the other classic pattern: the city as a series of evening threshol
 Then there are places like `Korankei`, in Aichi Prefecture, where the festival feels less like a city ritual and more like a valley filling with visitors. The Toyota tourism information presents it as a named autumn-leaves destination, and that naming matters. A gorge or riverside that might be “pretty” in another month becomes, in autumn, a place people travel to with purpose. The travel consequence is straightforward: you are likely to need more time than you expect, and you should assume bottlenecks—roads, parking, bridges, food-stall lines—because part of the pleasure here is precisely that everyone has come to see the same narrow stretch of color.
 
 The best way to approach the `Autumn Leaves Festival` is to treat it as a season you enter rather than a checklist you clear. Choose one mountain day and one city evening if you can; the contrast is part of the point. Pack for cold nights even if afternoons feel mild. Build buffer time on weekends, because Japan’s leaf season is popular enough to slow its own movement. And if you miss peak color, remember that autumn in Japan has a long aftertaste. Leaves fall, paths clear, and temples return to their quieter selves, but the memory stays sharp because it is anchored in such practical moments: a gloved hand holding a hot can of coffee, a bus window fogging slightly as it climbs, and a late train ride back with the red still in your eyes.
-
-Sources:
-
-- Travel Japan / JNTO, “Autumn Leaves in Japan” — https://www.japan.travel/en/see-and-do/autumn-leaves-forecast-2026/
-- Visit Nikko, “Autumn” — https://www.visitnikko.jp/en/discover/autumn/
-- Kyoto City Tourism Association, “Autumn in Kyoto” — https://kyoto.travel/en/season_festivals/autumn.html
-- Tourism Toyota, “Korankei Autumn Leaves” — https://www.tourismtoyota.jp/en/spots/detail/29/

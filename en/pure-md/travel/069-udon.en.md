@@ -17,10 +17,3 @@ The counterpoint is that Japan refuses to let udon belong to only one place. A `
 Udon does come with a small, useful friction point: it rewards you when you stop treating it like a generic backup plan. Many good udon shops, especially the ones locals actually rely on, keep short hours. A line can form quickly at lunch and dissolve just as quickly when the noodles run out. In summer, first-time visitors sometimes order hot broth out of habit and wonder why they feel sluggish afterward; in winter, they order cold noodles because the photo looked refreshing and then spend the next hour wishing they had chosen differently. The itinerary consequence is simple: let season and pace make the choice for you, and do not be shy about eating udon exactly when you need it—between trains, after a long museum, before a hike—because that is how the dish was built to live.
 
 In the end, udon’s travel value is not that it is “authentic.” It is that it is dependable without being dull. You can chase famous meals and still find that Japan’s most persuasive food lesson happens at a counter you did not research: a bowl that arrives fast, tastes of wheat and broth and place, and sends you back into the station feeling quietly reset. That is udon at its best—an edible piece of Japanese routine, slipped neatly into the gaps of a real trip.
-
-Sources:
-
-- From Tokushima Ramen to Sanuki Udon: Deep Inside Shikoku’s Noodle-based Cuisine, JNTO: https://www.japan.travel/en/japan-magazine/2201_from-tokushima-ramen-to-sanuki-udon-deep-inside-shikokus-noodle/
-- Kagawa, Travel Japan / JNTO: https://www.japan.travel/en/destinations/shikoku/kagawa/
-- Local cuisine in western Japan, Travel Japan / JNTO: https://www.japan.travel/en/gastronomy/local-cuisine-western-japan/
-- Udon, Kikkoman Food Culture Glossary: https://www.kikkoman.com/en/cookbook/glossary/udon.html

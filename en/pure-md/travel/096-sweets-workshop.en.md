@@ -18,10 +18,3 @@ This is why sweets workshops matter for travel planning. They fit the awkward pa
 The expectation correction is that the workshop is not a shortcut to mastery, and the point isn’t perfect results. Your flower may look clumsy. Your “leaf” may resemble a dumpling. That’s fine. The deeper souvenir is the way your eyes change afterward. You start noticing why a certain sweet is pale green in early spring, why another has a single red accent in late autumn, why the display case looks less like a dessert counter and more like a seasonal calendar. The city’s quiet design logic becomes easier to read.
 
 When you leave, you carry a small box that weighs almost nothing, yet it changes the rest of the day. You taste `matcha` bitterness on the tongue and find yourself choosing a slower route back—past a garden wall, along a river, through a shopping street where sweets are no longer just treats but messages. Japan sells its seasons through scenery, festivals, and travel campaigns. In a sweets workshop, it also sells them through your hands.
-
-Sources:
-
-- Wagashi: A delectable art form — Learn the craft of traditional Japanese confectionery, Travel Japan / JNTO (2021-04-06): https://www.japan.travel/en/sg/story/wagashi-delectable-art-form-learn-craft-traditional-japanese-con/
-- Wagashi class information, Kanshundo (Kyoto): https://www.kanshundo.co.jp/class/
-- Morihachi Honten (Kanazawa) official information: https://www.morihachi.co.jp/shop_honten
-- Rakugan making workshop details, Morihachi: https://www.morihachi.co.jp/honten_rakugan

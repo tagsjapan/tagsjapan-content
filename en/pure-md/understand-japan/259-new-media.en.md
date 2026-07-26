@@ -19,10 +19,3 @@ Generational change makes the shift feel sharper than it is. For many older peop
 The conflict points are now familiar. Misinformation spreads quickly because it travels in emotional formats that are easy to forward. Defamation and harassment travel quickly because anonymity and distance reduce the cost of cruelty. Platform dependence becomes a governance problem because a few companies can shape public attention without the institutional responsibilities of a broadcaster. Japan has responded through a mix of legal procedure, education, and social adaptation, but the deeper question remains unsettled: how do you preserve the openness of networked speech while reducing the speed at which damage spreads?
 
 New media, in the Japanese context, is therefore not a celebration of novelty. It is a description of a new public square whose floor is made of algorithms, group chats, reposts, and clips, built on top of older institutions that never fully disappeared. The two-screen living room captures the shape of the era. Japan has not replaced an old media order with a new one. It has learned to live inside the overlap, where attention moves faster than verification and where “public” is assembled, moment by moment, by platforms that are both infrastructure and arena.
-
-Sources:
-- [情報通信白書（ポータル） | 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/)
-- [通信利用動向調査 | 総務省](https://www.soumu.go.jp/johotsusintokei/statistics/statistics05.html)
-- [NHK放送文化研究所（Bunken）](https://www.nhk.or.jp/bunken/)
-- [インターネット資料収集保存事業（WARP） | 国立国会図書館](https://warp.da.ndl.go.jp/)
-- [New media | Encyclopaedia Britannica](https://www.britannica.com/topic/new-media)

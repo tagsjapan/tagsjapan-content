@@ -19,10 +19,3 @@ The modern tension is that the outline is now loved by far more people than the 
 Fuji’s management problem is also an interpretive problem. When the mountain becomes a “checklist” achievement, it risks losing the older layers that made ascent meaningful: ritual discipline, local religious networks, and the idea of the mountain as a place that demands preparation and respect. When the mountain becomes only an image, it can be reduced to a branded shape detached from volcanic risk and lived practice. Fuji’s cultural power therefore requires constant translation—by UNESCO committees, local authorities, shrine institutions, and the people who keep the routes and sites functioning.
 
 `Mount Fuji（富士山）` helps you understand Japan because it shows how a landscape can be engineered into continuity across time. Volcano becomes shrine network; shrine network becomes art; art becomes national symbol; symbol becomes a management burden that must still answer to geology. Fuji is not only “majestic.” It is a layered institution built on a mountain, and a mountain still capable of reminding institutions that nature does not obey the image.
-
-Sources:
-- [Fujisan, Sacred Place and Source of Artistic Inspiration | UNESCO](https://whc.unesco.org/en/list/1418)
-- [Mt. Fuji: More Than a Mountain | JNTO](https://www.japan.travel/en/fuji-guide/mt-fuji-more-than-a-mountain/)
-- [Mt. Fuji Guide | JNTO](https://www.japan.travel/en/fuji-guide/)
-- [Fujisan—Sacred Place & Source of Artistic Inspiration | JNTO](https://www.japan.travel/en/world-heritage/fujisan-sacred-place-and-source-of-artistic-inspiration/)
-- [Explore Nature Worship at the Foot of Sacred Mt. Fuji | JNTO](https://www.japan.travel/en/experiences-in-japan/151/)

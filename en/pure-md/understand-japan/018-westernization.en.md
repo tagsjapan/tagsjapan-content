@@ -19,11 +19,3 @@ That hybrid quality is the real subject. Westernization in Japan worked because 
 The older story of westernization as pure progress now looks too neat. It tends to ignore the pressure applied to people whose customs were reclassified as backward, the unevenness between city and countryside, and the way "civilization" became a hierarchy rather than a neutral description. Still, the opposite story of passive imitation is just as thin. Japan did not simply submit to foreign influence. It studied it, translated it, disciplined it, and made it work under local conditions. The boot on the floor, the railway platform in 1872, the telegraph line before 1880, the thousands of kilometers of track by 1890: all of them point to a society learning the West in order to alter itself without disappearing into someone else's image.
 
 That remains the key to reading modern Japan. The imported form mattered, but the local rearrangement mattered more. Westernization became durable only when it stopped looking purely foreign and started behaving like something the country could claim as its own.
-
-Sources:
-- [Meiji Restoration | Britannica](https://www.britannica.com/event/Meiji-Restoration)
-- [Accomplishments of the Meiji Restoration | Britannica](https://www.britannica.com/event/Meiji-Restoration/Accomplishments-of-the-Meiji-Restoration)
-- [洋靴: 足もとから見直す文明開化 | National Diet Library](https://ndl.go.jp/kaleido/entry/2/index.html)
-- [文明開化失われた風俗 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000009467944)
-- [仮名垣魯文 | Portraits of Modern Japanese Historical Figures](https://www.ndl.go.jp/portrait/datas/6067/)
-- [Outline of the National Archives | National Archives of Japan](https://www.archives.go.jp/english/abouts/outline.html)

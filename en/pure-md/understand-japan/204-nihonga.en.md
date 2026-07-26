@@ -19,10 +19,3 @@ The main contemporary tension is interpretive. Outside Japan, nihonga can be tre
 Nihonga is tradition under management, and management is part of its modern beauty.
 
 `Nihonga（日本画）` helps you understand Japan because it shows a characteristic strategy of modernization: rebuild continuity by creating categories that can survive comparison. Nihonga is a case where “tradition” is not the opposite of modernity; it is something modern Japan actively organized—through media choices, exhibition systems, and canon-making. The paintings may look quiet. The category behind them is one of Japan’s loudest modern inventions.
-
-Sources:
-- [nihonga | Britannica](https://www.britannica.com/art/nihonga)
-- [Modern Japanese Paintings (Main Building) | Adachi Museum of Art](https://www.adachi-museum.or.jp/en/main_building)
-- [Contemporary Japanese Paintings (Annex) | Adachi Museum of Art](https://www.adachi-museum.or.jp/en/annex)
-- [Spring Exhibition 2026 “Highlights of Japanese Painting” | Adachi Museum of Art](https://www.adachi-museum.or.jp/archives/exhibition/spring2026)
-- [The 110th Exhibition of the Japan Art Institute | Adachi Museum of Art](https://www.adachi-museum.or.jp/en/archives/exhibition/inten110)

@@ -19,11 +19,3 @@ Money makes the court’s limits visible. Child support and spousal maintenance 
 Non‑public procedure is another double‑edged feature. Privacy is a major reason the family court exists, and many cases would be cruel or impossible if every detail were argued in public. But confidentiality also makes it harder for outsiders to scrutinize how the court handles power imbalances—especially in cases involving domestic violence or intimidation. The system has responded by emphasizing safety measures and by experimenting with phone or online participation in some circumstances, a quiet modernization that reflects both technological change and the realities of high‑conflict cases.
 
 Seen up close, the family court is one of Japan’s most “everyday” state institutions. It sits at the seam where private life becomes a matter of official record—marriage and divorce, parental authority, guardianship, and the juvenile cases that reveal what a household could not contain. Adult guardianship petitions, inheritance disputes, and other family‑status matters can land here as well, further narrowing the distance between “private” problems and public procedure. The room may be small and the voices restrained, but the function is large: to translate intimate disorder into a set of decisions that can be filed, enforced, and lived with.
-
-Sources:
-- [家事事件 | 裁判所](https://www.courts.go.jp/saiban/syurui/syurui_kazi/index.html)
-- [裁判手続 家事事件Q&A | 裁判所](https://www.courts.go.jp/saiban/qa/qa_kazi/index.html)
-- [家庭裁判所調査官 | 裁判所](https://www.courts.go.jp/saiban/zinbutu/tyosakan/index.html)
-- [裁判所の組織 | 裁判所](https://www.courts.go.jp/about/sosiki/index.html)
-- [概要 | 裁判所](https://www.courts.go.jp/about/sosiki/gaiyo/index.html)
-- [戸籍 | 法務省](https://www.moj.go.jp/MINJI/koseki)

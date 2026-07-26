@@ -19,10 +19,3 @@ The social memory is just as important as the policy lesson. Japan after the bub
 Understanding the `Economic Bubble` therefore means more than learning a sequence of financial events. It means seeing how a society that had associated rising value with national success suddenly discovered how much of that value depended on fragile belief. The late 1980s were not an illusion in the sense that nothing happened. Too much happened on paper, and the paper turned out to matter terribly once the ground beneath it gave way.
 
 The gleaming office towers, the soaring land prices, the famous stock index peak of 1989: all were part of a moment when Japan seemed to have outrun normal economic gravity. The aftermath trained bankers, officials, and households to distrust easy asset stories. Real estate, equities, and leverage never again looked innocent in quite the same way. Caution later came to seem like a national habit, but it was also a learned response to very expensive unreality. Later booms in property or stocks would be judged through this memory almost automatically. That suspicion still frames arguments about credit, land, and financial exuberance in Japan today, still, and elsewhere in debate too. The lesson that followed was severe enough that the country still lives with it.
-
-Sources:
-- [資産価格バブルと金融政策: 1980年代後半の日本の経験と教訓 | IMES / Bank of Japan](https://www.imes.boj.or.jp/research/abstracts/japanese/kk19-4-9.html)
-- [バブル発生に関する期待と経済成長 | Bank of Japan](https://www.boj.or.jp/research/wps_rev/wps_2024/wp24j03.htm)
-- [「バブル/デフレ期の日本経済と経済政策」第1巻 | ESRI / Cabinet Office](https://www.esri.cao.go.jp/jp/esri/prj/sbubble/history/history_01/history_01.html)
-- [Saving Behavior and the Asset Price "Bubble" in Japan | IMF](https://www.imf.org/en/publications/occasional-papers/issues/2016/12/30/saving-behavior-and-the-asset-price-bubble-in-japan-analytical-studies-537)
-- [不良債権問題の基本的な考え方 | Bank of Japan](https://www.boj.or.jp/finsys/fs_policy/fss0210c.htm)

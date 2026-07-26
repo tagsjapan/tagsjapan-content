@@ -20,10 +20,3 @@ Institutions now stabilize what was once unstable by design. Nichibunken’s `Yo
 The contemporary contradiction is that yokai are both deeper and thinner than they look. They are deeper because they continue to encode real anxieties—about nature, disease, violence, death, and the unpredictability of life. They are thinner because modern circulation can strip them into “content”: mascots, memes, decorative patterns detached from local stories. Yet even in simplified form, yokai still do cultural work. They offer a socially acceptable way to talk about dread without collapsing into solemnity. They let the uncanny stay present without becoming unbearable.
 
 `Yokai Culture（妖怪文化）` helps you understand Japan because it shows how Japan repeatedly manages uncertainty through form. The strange is not denied; it is drawn, named, performed, and archived. A yokai is an imaginative solution that becomes a social routine. It is fear turned into a character, then character turned into culture, then culture turned into institutional memory. Japan’s yokai culture endures because it still answers a practical question: how do you live with what you cannot fully explain, without pretending it is not there?
-
-Sources:
-- [妖怪 | NDLイメージバンク | 国立国会図書館](https://www.ndl.go.jp/imagebank/yokai)
-- [新形三十六怪撰 | NDLイメージバンク | 国立国会図書館](https://ndlsearch.ndl.go.jp/imagebank/theme/shinkei36kaisen)
-- [About YoukaiDB (English) | Nichibunken](https://www.nichibun.ac.jp/YoukaiDB/english_kaisetsu.html)
-- [「江戸の妖怪絵巻」 | 国立歴史民俗博物館](https://www.rekihaku.ac.jp/event/2023_exhibitions_tokushu_edo.html)
-- [第3展示室特集展示「江戸の妖怪絵巻」プレスリリース | 国立歴史民俗博物館](https://www.rekihaku.ac.jp/news/20230619.html)

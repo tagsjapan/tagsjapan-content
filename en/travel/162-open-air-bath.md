@@ -49,7 +49,3 @@ What the outdoor bath finally offers is not just relaxation but proportion. The 
 Time of day changes the experience more than many visitors expect. A bath at dusk is about color and transition; a bath after dinner can feel private even in a shared setting because the world beyond the fence has gone quiet; a dawn bath often reveals just how much weather had been hidden by darkness the night before. Travelers who plan for more than one soak usually understand the place better. They realize the outdoor bath is not one fixed attraction but several versions of itself depending on light, air, and the patience to return.
 
 That is why people remember an outdoor bath less as a facility than as a moment. The cold board underfoot, the dark trees beyond the steam, the caution sign by the steps, the silence after someone leaves the water and the surface settles again. In the best cases, the place feels built not to impress but to hold a precise balance between comfort and exposure. You are safe, warm, and unmistakably outside. Few travel experiences explain Japan's bathing culture more quickly or more physically than that.
-- Hot Springs in Japan, Travel Japan / JNTO: https://www.japan.travel/en/guide/hot-springs/
-- Nyuto Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/2167/
-- Kurokawa Onsen, Travel Japan / JNTO: https://www.japan.travel/en/spot/643/
-- Onsen etiquette, Travel Japan / JNTO: https://www.japan.travel/en/guide/onsen-etiquette/

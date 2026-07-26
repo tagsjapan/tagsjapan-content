@@ -17,10 +17,3 @@ Different venues create different winter scenes. The `Susukino` page on the offi
 The friction points are exactly what you would expect—and a few you might not. Crowds compress around the most famous sculptures, and that can mean slow movement in cold air. Warm drinks help, but they also mean frequent glove removal, which is when fingers start complaining. Photos drain batteries faster. Public toilets become part of the route. The solution is not heroism. It’s treating winter like a real parameter: plan a warm indoor break, keep your hands dry, and accept that the most comfortable festival experience is usually two shorter visits rather than one long, stubborn march.
 
 A good snow festival night ends with a small return to ordinary city life: a heated train car, a convenience-store hot drink, the relief of sitting down, and the lingering sense that you have walked through something the city built for you. The sculptures will melt eventually. That impermanence is part of their charm. Japan’s snow festivals take the season that can feel most hostile to travel and turn it, for a few days, into a public invitation. You step back indoors, cheeks numb, and realize winter in Japan isn’t only something you survive. It’s something people show up for.
-
-Sources:
-
-- Travel Japan / JNTO, “Sapporo Snow Festival” — https://www.japan.travel/en/spot/473/
-- Sapporo Snow Festival (official) — https://www.snowfes.com/
-- Sapporo Snow Festival (official), “Susukino Site” — https://www.snowfes.com/sites/susukino/
-- Travel Japan / JNTO, “Asahikawa Winter Festival” — https://www.japan.travel/en/spot/470/

@@ -19,11 +19,3 @@ It also matters that “groupism” became a common explanation at a particular 
 Contemporary Japan is often described as moving toward individualization and greater mobility, and there is truth in that. Yet research warns against reading that change as a simple “end of groupism.” One J-STAGE article explicitly frames the present as a landscape of multiple trends, including loosening groupism, mild individualization, and new forms of conformity returning through different channels. In other words, the group can weaken in one institution and reappear in another: in online fandoms, in consumer communities, in sports teams, or in new kinds of corporate culture.
 
 That is why `groupism` remains useful as a lens rather than a verdict, especially in many workplaces, schools, and local communities. It helps explain how Japan has historically made cooperation routine through institutions that reward belonging. It also helps explain why debates about individuality, diversity, and dissent often run into a stubborn social fact: for many people, the group is still the main place where identity is recognized and where life becomes legible. The question is not whether Japan is “groupist” or “individualist.” The question is how much weight belonging should carry, and what kinds of groups are allowed to define it.
-
-Sources:
-- [Groupism (集団主義) | Kotobank](https://kotobank.jp/word/%E9%9B%86%E5%9B%A3%E4%B8%BB%E7%BE%A9-77196)
-- [Individualism and Groupism (個人主義-集団主義) | Kotobank](https://kotobank.jp/word/%E5%80%8B%E4%BA%BA%E4%B8%BB%E7%BE%A9%E9%9B%86%E5%9B%A3%E4%B8%BB%E7%BE%A9-2099746)
-- [Three Trends Around “Groupism–Individualism” in Contemporary Japan (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/jjgd/27/0/27_17/_article/-char/ja)
-- [We, Japanese, gotta have WA? (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/jjsss/17/1/17_3/_article/-char/ja/)
-- [Group (集団) | Kotobank](https://kotobank.jp/word/%E9%9B%86%E5%9B%A3-77172)
-- [Review: “The Illusion of Groupism” by Yotaro Takano (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/jcss/16/1/16_1_195/_article/-char/ja/)

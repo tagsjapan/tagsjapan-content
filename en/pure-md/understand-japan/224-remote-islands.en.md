@@ -20,10 +20,3 @@ Concrete cases show how the tensions stack. `Ogasawara（小笠原）` is often 
 This produces the contemporary contradiction. Remote islands are frequently expected to become “revived” through inflows and new industries, yet the conditions that make them remote—high operating costs, limited labor pools, weather disruptions—do not disappear. Island policy therefore has to operate on two time scales at once: short-term economic oxygen and long-term livability. The political temptation is to treat remote islands as symbols—heritage, beauty, frontier—while the practical task is far less poetic: keep transport workable, keep services accessible, keep communities from becoming impossible to inhabit.
 
 `Remote Islands（離島）` help you understand Japan because they reveal Japan as a maritime state where distance is not an abstraction. They show how national cohesion is maintained through continuous subsidy, infrastructure, and policy attention—not as a one-time project, but as a permanent cost. They also show a form of inequality that is easy to ignore from the mainland: the unequal price of normal life. If you want a place where Japan’s governance meets its geographic limits, remote islands are that place.
-
-Sources:
-- [日本の島の数 | 国土地理院](https://www.gsi.go.jp/kihonjohochousa/islands_index.html)
-- [離島振興 | 国土交通省](https://www.mlit.go.jp/kokudoseisaku/chirit/)
-- [日本の島嶼構成 (PDF) | 国土交通省](https://www.mlit.go.jp/kokudoseisaku/chirit/content/001477518.pdf)
-- [国境離島に関する資料 (PDF) | 内閣府 海洋政策](https://www8.cao.go.jp/ocean/kokkyouritou/yuushiki/h25_02yuushiki/pdf/shiryou2.pdf)
-- [Ogasawara Islands | UNESCO World Heritage](https://whc.unesco.org/en/list/1362/)

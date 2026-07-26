@@ -19,10 +19,3 @@ Cool is a moving target.
 Another challenge is the platform era itself. Cultural influence now travels through global distribution systems—streaming, social media, algorithms—that no single state can control. A successful Japanese creator or brand can reach the world directly, while an official campaign can struggle to compete for attention. This does not make policy irrelevant, but it changes the policy task. The most valuable role may be to remove friction—help with rights, translation, partnerships, training, and international connection—rather than to decide, from the center, what the world should find attractive.
 
 Cool Japan is useful for understanding Japan because it shows how the country governs through framing. Japan prefers to build systems that coordinate rather than to command. Cool Japan is a coordination attempt applied to culture: gather what is already strong, label it, fund it, showcase it, and turn it into a narrative that can be used in diplomacy and business. Its struggles are instructive. They show the limits of “managing” attraction, and they reveal how much of Japan’s real soft power still comes from social and creative energies that do not obey strategy documents.
-
-Sources:
-- Cabinet Office (Japan), Cool Japan strategy documents and policy materials
-- Cool Japan Fund Inc., corporate information and investment disclosures
-- Ministry of Economy, Trade and Industry (METI), content industry policy materials
-- Ministry of Foreign Affairs of Japan (MOFA), Japan House initiative materials
-- Board of Audit of Japan, audits and reviews related to government funds and schemes

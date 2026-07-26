@@ -18,10 +18,3 @@ For the traveler, the best use of a steam bath is often educational as much as p
 Afterward, what lingers is not necessarily the room itself but the town outside it. Steam lifting past rooftops, pipes running beside walls, a meal cooked by geothermal heat, the odd sensation of having bathed in something half visible: the experience folds back into the place that produced it. In Japan that is often the highest compliment a bath can earn. It does not detach you from the landscape. It explains the landscape through your skin.
 
 For that reason, steam baths work best when travelers stop treating them as collectibles. The point is not to gather one more bathing format for a checklist, but to notice what sort of place could only have produced this one. In `Beppu`, steam is civic infrastructure, visual atmosphere, and tourist invitation all at once. Even a short session can recalibrate the rest of the trip. You walk the streets differently afterward, more aware of vents, pipes, and drifting heat, and the city stops being a backdrop for baths and becomes the source of them.
-
-Sources:
-- [Hyotan Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/714)
-- [Beppu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/716/)
-- [Hot Springs: What Are They?, National Parks of Japan / JNTO](https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/hot-springs-what-are-they/)
-- [A Variety of Ways to Bathe, Japan Onsen Association](https://www.spa.or.jp/en/bathing/)
-- [Caution for Using Onsen, Japan Onsen Association](https://www.spa.or.jp/en/caution_bathing/)

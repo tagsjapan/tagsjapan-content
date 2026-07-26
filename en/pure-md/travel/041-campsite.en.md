@@ -17,10 +17,3 @@ The examples that stay with people are often the modest ones. A family at a lake
 What a Japanese campsite finally offers is not wildness without mediation but immersion with boundaries. The traveler gets smoke on clothing, damp shoes by morning, and the satisfaction of a meal made outdoors, but also clean toilets, posted fire rules, and the expectation of self-restraint after dark. That balance is why the format works for so many people, from experienced outdoor travelers to families trying their first night under canvas. It invites them into nature, but only after laying out the terms under which nature can still be shared.
 
 That is also why campsites connect so neatly to other Japanese travel habits. The evening may end with a visit to a nearby day-use bath, a run to a roadside station for breakfast supplies, or a careful check of the next morning's bus and park-gate timing. The trip remains linked to local infrastructure even while it feels remote. In many countries camping advertises itself as escape from systems. In Japan it often feels more convincing as a quieter branch of them: a way to sleep under trees without pretending weather, rubbish, transport, and neighboring campers no longer exist. The result is less romantic in theory than in practice, and far more repeatable.
-
-Sources:
-
-- Camping in Japan, Travel Japan / JNTO: https://www.japan.travel/en/guide/camping/
-- Shiretoko National Park, Travel Japan / JNTO: https://www.japan.travel/en/spot/1851/
-- Kamikochi, Travel Japan / JNTO: https://www.japan.travel/en/spot/1357/
-- National Parks of Japan, Ministry of the Environment: https://www.env.go.jp/en/nature/nps/

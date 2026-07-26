@@ -17,10 +17,3 @@ Japan’s logistical style shows up most vividly in access. The fiesta’s `Acce
 Saga even extends balloons beyond the festival calendar. The official pages for the `SAGA Balloon Museum` note an opening year of `2016` and position it as a permanent venue—the kind of institution that lets balloon culture be understood even when there isn’t an event outside. For a traveler, that’s a useful hedge. If conditions cancel flights, a museum visit can turn the disappointment into context, and it gives the day a second act: a warm indoor stop after a cold dawn by the river. It also reflects a broader Japanese travel pattern: seasonal spectacles often gain year-round counterparts, so the place has something to offer whether or not you hit the perfect date.
 
 At the end of a balloon morning, the most memorable detail is often not the height. It’s the decision point. A flag moves, a coordinator watches the wind, a pilot shakes their head, and the whole field accepts it without drama. If the balloons rise, they do so with a kind of quiet confidence, drifting like bright punctuation over a plain. If they don’t, you still watched a place take weather seriously—still stood by a river at dawn, still felt how travel can be shaped by things you can’t control. In Japan, that is part of the pleasure: the sky sets the schedule, and the trip learns to listen.
-
-Sources:
-
-- Saga International Balloon Fiesta (official site): https://www.sibf.jp/en/
-- Balloon Competition information, Saga International Balloon Fiesta: https://www.sibf.jp/en/balloon/
-- Access (JR Balloon Saga Station, venue details), Saga International Balloon Fiesta: https://www.sibf.jp/en/access/
-- SAGA Balloon Museum (opened 2016), Saga International Balloon Fiesta: https://www.sibf.jp/en/museum/

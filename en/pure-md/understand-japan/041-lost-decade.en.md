@@ -19,10 +19,3 @@ That is why the debate over the term matters. Some reject `lost decade` as too s
 Understanding the `Lost Decade` helps explain modern Japan's conservative mood in economics and everyday life. Wage caution, investment restraint, suspicion of inflation, and the emotional weight attached to stable employment all bear traces of that era. So does the wider sense that national prosperity can no longer be assumed to unfold automatically from one decade to the next.
 
 The years after the bubble were not lost in the sense of disappearing. They were absorbed into slower institutions, thinner hopes, and altered biographies. That may be why the name has endured: it captures a period in which time kept passing, but progress no longer felt like a natural companion. The era still shadows arguments about wages, inflation, productivity, and household risk today, because current policy keeps running into habits formed in the 1990s and early 2000s. Those habits remain politically and emotionally durable. They help explain why later recovery often felt provisional rather than secure, and why even modest gains can still be read through memories of fragility, caution, disappointment, delay, hesitation, social thinning, and generational doubt. The mood change was not temporary. It settled in deeply.
-
-Sources:
-- [Japan's Lost Decade: Policies for Economic Revival | IMF](https://www.imf.org/en/publications/books/issues/2016/12/30/japan-s-lost-decade-policies-for-economic-revival-16077)
-- [Monetary Policy and the Lost Decade: Lessons from Japan | IMF](https://www.imf.org/en/publications/wp/issues/2016/12/31/monetary-policy-and-the-lost-decade-lessons-from-japan-23365)
-- [平成12年度 企業行動に関するアンケート調査 | ESRI / Cabinet Office](https://www.esri.cao.go.jp/jp/stat/ank/ank_archive/h12ank/main.html)
-- [不良債権問題の基本的な考え方 | Bank of Japan](https://www.boj.or.jp/finsys/fs_policy/fss0210c.htm)
-- [OECD Economic Surveys: Japan 2005 | OECD](https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/03/oecd-economic-surveys-japan-2005_g1gh4953/eco_surveys-jpn-2005-en.pdf)

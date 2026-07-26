@@ -17,10 +17,3 @@ Hōryū-ji is an instructive case because it is so often treated as a single “
 The contemporary tension is visibility. Modern heritage regimes protect wooden structures through designation, documentation, and repair, but protection can also encourage a museum-like reading: “Look at the old hall, note the date, move on.” Temples resist that flattening because they are not only preserved; many remain used. Daily rites, memorial services, and sectarian events still require the compound to operate as an active system, not a frozen composition. The challenge is that the same pathways that make a temple legible to the public can also pressure it to behave like an exhibit—simplifying complex precincts into a few photogenic angles, while the actual religious choreography is built out of thresholds, limits, and repeated maintenance.
 
 `Temple Architecture（寺院建築）` helps you understand Japan because it captures a recurring cultural method: absorb an external system, keep its seriousness, and then rebuild it so it fits local materials, local institutions, and local time. It also shows how Japanese continuity works in practice. A temple can be repaired, rebuilt, or reconfigured, yet remain recognizable because what persists is not one façade but a spatial grammar—compound order, functional differentiation, and ritual approach. In temple architecture, Japan’s religious history is not only written. It is walked.
-
-Sources:
-- [garan 伽藍｜JAANUS](https://www.aisf.or.jp/~jaanus/deta/g/garan.htm)
-- [garan haichi 伽藍配置｜JAANUS](https://www.aisf.or.jp/~jaanus/deta/g/garanhaichi.htm)
-- [hondou 本堂｜JAANUS](https://www.aisf.or.jp/~jaanus/deta/h/hondou.htm)
-- [tahoutou 多宝塔｜JAANUS](https://www.aisf.or.jp/~jaanus/deta/t/tahoutou.htm)
-- [法隆寺｜文化遺產線上](https://online.bunka.go.jp/heritages/detail/210146)

@@ -17,10 +17,3 @@ That practicality has a travel consequence many people miss. The faster you clas
 Examples show the difference. A tax-free purchase that cannot be returned under store rules is not the same kind of issue as a package promised to a hotel that never arrives. A cosmetic treatment booking dispute is not the same as an online purchase from an overseas seller. One may start with the shop manager, another with the hotel and courier, another with `CCJ`. Some cases are essentially local service problems, while others belong to the slower world of documentation, cross-border follow-up, and consumer advice. In practice, the wiser traveler often solves the immediate part face to face and preserves the longer part for the proper channel later. Once you understand that Japan separates complaint channels by transaction type, the process feels less murky. The question becomes not "How do I complain?" but "Which category is this?"
 
 That shift in mindset is the real travel lesson. A consumer complaint in Japan is part of the same broader pattern as train refunds or disaster notices: a preference for orderly routes, named procedures, and evidence over improvisation. It may not produce a satisfying scene at the counter. It may, however, save the rest of the trip. The receipt in your wallet, the screenshot on your phone, the hotline number stored before departure: these are not exciting souvenirs, but when a purchase goes wrong, they are the things that turn frustration back into process.
-
-Sources:
-
-- Japan Visitor Hotline, Travel Japan / JNTO: https://www.japan.travel/en/plan/hotline/
-- Consumer Hotline 188, Consumer Affairs Agency of Japan: https://www.caa.go.jp/policies/policy/local_cooperation/local_consumer_administration/hotline/
-- Cross-border Consumer Center Japan: https://www.ccj.kokusen.go.jp/
-- CCJ Consultation Information: https://www.ccj.kokusen.go.jp/?wp_lp=5133

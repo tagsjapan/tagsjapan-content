@@ -19,11 +19,3 @@ The problem has also spilled beyond the classroom walls. `Netto ijime`, online b
 Understanding `ijime` helps explain a tension inside Japanese school culture. Schools are good at producing tight daily communities, shared routines, and a strong sense that everyone should move together. Those qualities can support belonging. They can also make exclusion particularly punishing. When social life depends heavily on group acceptance, being isolated inside the group carries a distinctive force. The public response to bullying in Japan, the legal definitions, the surveys, the investigation procedures, shows a country trying to make relational harm visible and administratively legible.
 
 That effort is unfinished, which is why the term remains so important. `Ijime` is not a sensational corner of school life. It is a test of whether institutions can hear distress before it becomes catastrophe. A phone screen lighting up after dark, an empty seat the next morning, a board of education report written too late: in Japan, those small signs belong to the same argument over what counts as harm and who is obliged to recognize it.
-
-Sources:
-- [Policies on the Bullying Issue | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302904.htm)
-- [Survey on Student Guidance Issues Including Bullying and Non-attendance | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302902.htm)
-- [FY 2024 Survey Results and Strengthened Responses | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422178_00006.htm)
-- [Glossary for the Survey on Student Guidance Issues | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/b_menu/toukei/chousa01/shidou/yougo/1267642.htm)
-- [Awareness Materials on Preventing Bullying | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1406070_00003.htm)
-- [Do You Know the Bullying Prevention Act? | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1337278.htm)

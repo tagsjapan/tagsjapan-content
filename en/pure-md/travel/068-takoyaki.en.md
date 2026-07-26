@@ -17,9 +17,3 @@ Takoyaki makes more sense when you place it next to okonomiyaki (お好み焼き
 The short warning is that takoyaki doesn’t travel well. Once it cools, the magic collapses into chewiness, and the sauce that looked so glossy at the counter turns into a sticky problem in a shopping bag. It also gets messy in a hurry, which is why the experience works best when you accept standing and eating like the locals rather than trying to turn it into a tidy, photographed ritual. In Japan the street isn’t always a picnic table; many stalls quietly encourage you to finish at a small standing counter or off to the side, not while walking through a crowded arcade. And if you carry it onto a train, you’ll discover a final friction point: takoyaki’s smell and drips have a way of announcing you to everyone else in the carriage.
 
 When you finish a tray, what you carry away is less the octopus than the heat. Your hands are warm, your mouth is a little sore in a good way, and the city feels louder because you’ve joined its rhythm. Takoyaki is not Osaka’s deepest story, but it is one of its most honest gestures: food that is hot, public, and meant to be eaten now.
-
-Sources:
-- [Osaka Food Guide, Travel Japan / JNTO](https://www.japan.travel/en/guide/osaka-food-guide/)
-- [Osaka, Travel Japan / JNTO](https://www.japan.travel/en/destinations/kansai/osaka/)
-- [Takoyaki, OSAKA-INFO](https://osaka-info.jp/en/page/takoyaki)
-- [Okonomiyaki, OSAKA-INFO](https://osaka-info.jp/en/page/okonomiyaki)

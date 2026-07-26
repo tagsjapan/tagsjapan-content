@@ -47,8 +47,3 @@ In recent years, loneliness and social isolation have pushed inclusion further b
 The tension is that inclusion can become a slogan if it is not backed by capacity. Local governments can be asked to coordinate across sectors without the staff to do it; support windows can exist without enough outreach to reach people who are ashamed to ask for help. Inclusion language also carries a moral risk: it can sound as if the excluded person simply needs to be “brought back” to a normal track, when the track itself—low wages, expensive housing, fragile care arrangements—may be part of the problem.
 
 Still, the rise of “inclusion” in Japan is a clue to how the country is changing. A society that once liked to imagine itself as broadly middle-class and uniformly connected now has to name its gaps. The most honest image is not a policy slogan but that municipal counter: a place designed for lives that do not fit the form. Social Inclusion is Japan’s attempt to make the form more elastic without letting people fall through it.
-- Ministry of Health, Labour and Welfare (MHLW), social inclusion / consultation support initiatives (社会的包摂)
-- MHLW, Self-Reliance Support System for People in Need (生活困窮者自立支援制度)
-- MHLW, Regional Symbiotic Society (地域共生社会) policy materials
-- Cabinet Secretariat, loneliness and isolation policy (孤独・孤立対策)
-- Cabinet Office (Japan), inclusive-society policy messaging and related materials

@@ -19,11 +19,3 @@ An ecosystem is a promise that failure is survivable.
 Japan’s startup ecosystem debate is full of tensions that reveal Japan’s broader economic psychology. Policymakers want more “exits,” larger rounds of growth capital, and more global scale. Critics worry that startup policy becomes a slogan that hides deeper issues: risk aversion in finance, gender barriers in entrepreneurship, and the gravitational pull of stable careers. There is also a persistent suspicion that Japan can build the buildings—incubators, hubs, programs—without fully building the culture of high failure rates. Still, the direction is clear. Japan has decided that “startup” is no longer a foreign word. It is something the state will try to grow on purpose.
 
 For understanding Japan, the ecosystem push matters because it shows how Japan reforms itself: not by breaking everything, but by constructing new layers. J-Startup, hub cities, and the Five-year Plan are layers added on top of an economy still dominated by incumbents. Japan is attempting to manufacture risk the way it once manufactured quality—through institutions, standards, and coordinated effort. Whether that produces world-scale companies is an open question. What it already produces is a new way of talking about the future.
-
-Sources:
-- [J-Startup (About) | METI-supported program](https://www.j-startup.go.jp/about/index.html)
-- [Startup Ecosystem Hub Cities (世界と伍するスタートアップ・エコシステム拠点都市) | Cabinet Office](https://www8.cao.go.jp/cstp/openinnovation/ecosystem/index.html)
-- [Startup Development Five-year Plan (Provisional Translation) | Cabinet Secretariat (PDF)](https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/sdfyplan2022en.pdf)
-- [NEDO Entrepreneurs Program (NEP) | NEDO](https://nep.nedo.go.jp/)
-- [Startup development in Japan | JETRO](https://www.jetro.go.jp/en/invest/attractive_sectors/startup_development.html)
-- [Startup and New Business Promotion | METI](https://www.meti.go.jp/english/policy/economy/startup_nbp/index.html)

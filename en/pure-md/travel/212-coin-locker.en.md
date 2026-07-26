@@ -15,10 +15,3 @@ The friction comes when people assume availability. At major nodes such as `Toky
 Japan's broader travel structure explains why the locker remains so central. Hotels are often efficient but firm about check-in. City movement rewards lightness. Regional itineraries may ask for one night here, one night there, with little patience for heavy bags between them. The locker fills the gap between those systems with very little drama. It is public enough to be common, private enough to feel secure, and ordinary enough that whole days quietly depend on it without ever mentioning its name in the trip summary later.
 
 The practical advice is to think about the locker before you need it. If you are arriving on a holiday weekend, assume the biggest boxes will go first. Keep valuables, passports, and anything irreplaceable with you. Be ready with cashless payment or coins, but do not assume every machine behaves the same way. If you are carrying an oversized suitcase, identify a staffed baggage counter before you start wandering the concourse. And if the station bank is full, move quickly to the next option: a staffed counter, an airport facility, or a service such as `ecbo cloak`. In Japan the coin locker is not just somewhere to put a bag. It is the point at which the traveler stops carrying the transfer and starts having the day. Few devices do more to improve a trip while asking so little attention in return.
-
-Sources:
-
-- Luggage & Storage, Travel Japan / JNTO: https://www.japan.travel/en/plan/getting-around/luggage-storage/
-- Before You Ride, Tokyo Metro: https://www.tokyometro.jp/en/tips/metro/before.html
-- Coin-operated Baggage Lockers, Narita International Airport: https://www.narita-airport.jp/en/service/delivery/locker/
-- ecbo cloak: https://cloak.ecbo.io/en

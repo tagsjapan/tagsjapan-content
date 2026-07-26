@@ -15,9 +15,3 @@ Two examples show the range. BORDERLESS HOUSE treats the house itself as an engi
 The category therefore works best for a very particular traveler. If you are staying a month, carrying a laptop, trying to understand a city beyond its landmarks, or balancing budget with privacy, shared accommodation can make more sense than a hotel and feel more stable than short-term tourist lodging. If you want room service, daily cleaning, total anonymity, and the freedom to come home loudly at 1 a.m., it will feel like a punishment disguised as authenticity. That expectation correction matters. Shared accommodation is not a better hostel. It is a small social contract.
 
 By the end of a good stay, the memorable detail may not be the house itself but the habits it taught you: rinsing the sink after cooking, lowering your voice in the corridor, remembering collection days, learning where the nearest discount grocer is, nodding to the person whose rice cooker you borrowed last night. Japan is full of famous public rituals, but the share house offers a less theatrical one. It lets a traveler practice the quiet mechanics by which Japanese urban life is shared, protected, and kept from fraying.
-
-Sources:
-- [Travel Japan / JNTO: Countryside Stays in Japan](https://www.japan.travel/en/guide/homestay-farmstay/)
-- [BORDERLESS HOUSE: Concept](https://www.borderless-house.com/jp/concept/)
-- [Oakhouse: What is a share house?](https://www.oakhouse.jp/eng/sharehouse/)
-- [Oakhouse: Share house - How to choose](https://www.oakhouse.jp/eng/sharehouse/howto)

@@ -17,11 +17,3 @@ Trade friction matters for understanding Japan well beyond economic history. It 
 The old fights also left an intellectual residue. Japan learned that export strength can invite political intervention, that industrial policy cannot be separated from diplomacy, and that supply chains are never only economic. Much of today's talk about `economic security`, resilient production, and strategic technology competition is easier to understand if the memory of the 1980s is kept in view. The goods have changed. The logic has not changed as much as people sometimes pretend. Inside Japanese business, that legacy showed up in boardroom maps, factory siting decisions, and a lasting instinct to spread risk across jurisdictions before a single market could turn commercial success into national vulnerability. That habit remains visible today.
 
 That is why a factory in Kentucky or Ohio can be read as part of this story as surely as a trade table in Washington. Japan-US trade friction did not end with a neat settlement. It changed the geography of Japanese business, the language of the alliance, and the way Japan thinks about success itself. Export prowess once looked like uncomplicated proof of national recovery. By the 1980s it had become something riskier: an achievement that had to be negotiated, managed, and sometimes physically relocated to survive. The era ended, but it left behind a Japanese habit of treating market access, political mood, and industrial strategy as parts of the same equation in every major export market.
-
-Sources:
-- [Trade White Paper 2025, Section 5 | METI](https://www.meti.go.jp/report/tsuhaku2025/2025honbun/i2150000.html)
-- [Trade White Paper 2019 (Full PDF) | METI](https://www.meti.go.jp/report/tsuhaku2019/pdf/2019_zentai.pdf)
-- [Diplomatic Bluebook 2008: United States | MOFA](https://www.mofa.go.jp/mofaj/gaiko/bluebook/2008/html/h2/h2_09.html)
-- [Diplomatic Bluebook 2010 | MOFA](https://www.mofa.go.jp/mofaj/gaiko/bluebook/2010/html/04.html)
-- [U.S.-Japan Trade Agreement Negotiations | USTR](https://ustr.gov/countries-regions/japan-korea-apec/japan/us-japan-trade-agreement-negotiations)
-- [U.S.-Japan Partnership on Trade | USTR](https://ustr.gov/about-us/policy-offices/press-office/press-releases/2021/november/united-states-and-japan-announce-formation-us-japan-partnership-trade-0)

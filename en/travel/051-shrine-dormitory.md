@@ -47,7 +47,3 @@ Seen that way, the rarity becomes part of the appeal. Shrine dormitory is not a 
 When the stay is right, the memory that lasts is rarely the bedding or the building. It is the brief walk before sunrise, the basin water on the hands, and the feeling that the trip was organized, for once, around reverence instead of opening hours.
 
 That makes shrine lodging less useful as a bucket-list category than as a travel correction. It asks the visitor to stop treating every sacred place as an interchangeable stop between lunch and the next train. In Ise especially, the experience works because the lodging supports the pilgrimage tempo rather than decorating it. You sleep close, rise early, and approach before the precinct fills with daytime energy. Even if the room itself is modest, that rearrangement of time is substantial. It can be the difference between having seen a shrine and having felt, however briefly, the order of life that grows around one. For such a small category, it offers an unusually sharp lesson in how Japanese travel can still be structured by ritual rather than convenience.
-- Jingukaikan official guide: https://www.jingukaikan.jp/kaikan/goannai/index.html
-- Ise-Shima Tourism Bureau, Jingukaikan: https://www.iseshima-kanko.jp/stay/1281
-- Travel Japan / JNTO, Shrine and Temple Traditions: https://www.japan.travel/en/guide/shrine-and-temple-traditions/
-- Travel Japan / JNTO, Shimogamo-jinja Shrine: https://www.japan.travel/en/spot/1160/

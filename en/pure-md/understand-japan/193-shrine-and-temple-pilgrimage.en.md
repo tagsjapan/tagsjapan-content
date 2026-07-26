@@ -19,12 +19,3 @@ Procedure also marks the boundary between shrine and temple. Both are “places 
 The contemporary tension is that the same repertoire is now mediated by visibility. Goshuin collecting can become a form of stamp-hunting; overnight temple stays can become a packaged “experience”; social media can turn torii gates and stone steps into image assets. The existence of repeated “best practices” guidance, and of official multilingual explanations of goshuin and pilgrimage manners, is not only educational. It is a response to pressure—more people using sacred sites in more varied ways. The question is not whether shrine and temple visits are “real religion.” The question is how a living practice keeps its dignity when it becomes more shareable and more consumable.
 
 `Shrine and Temple Pilgrimage（寺社参拝）` helps you understand Japan because it shows religion operating as everyday technology: a set of actions that can be done with or without deep theology, and yet still carries weight. It shows how traditions persist not by freezing themselves, but by offering repeatable forms that fit modern schedules. It also shows the cost of popularity. When a sacred practice becomes a cultural product, etiquette becomes more explicit, and the line between devotion and consumption becomes harder to keep clean. The water at the basin and the ink in a goshuin book are small things. They point to a larger system: Japan’s way of making the sacred usable in daily life.
-
-Sources:
-- [Shrine and Temple Traditions | Travel Japan (JNTO)](https://www.japan.travel/en/guide/shrine-and-temple-traditions/)
-- [Shrine & Temple Visits - Best Practices | Travel Japan (JNTO)](https://www.japan.travel/en/us/blog/shrine-temple-visits-best-practices/)
-- [参拝方法｜神社本庁](https://www.jinjahoncho.or.jp/omairi/sanpai/)
-- [おまいりする｜神社本庁](https://www.jinjahoncho.or.jp/omairi)
-- [御朱印｜地域観光資源多言語解説文データベース（MLIT）](https://www.mlit.go.jp/tagengo-db/zhTW/R2-01621.html)
-- [巡礼でのマナー（四国遍路）｜地域観光資源多言語解説文データベース（MLIT）](https://www.mlit.go.jp/tagengo-db/common/001558020.pdf)
-- [Overnight stay at a temple | Travel Japan (JNTO)](https://www.japan.travel/guide/temple-stays/)

@@ -15,10 +15,3 @@ For travelers, the itinerary consequence is that second-hand stores become excel
 The friction points are practical, and they’re worth knowing in advance. Sizes vary, especially in clothing. Return policies can be strict. Electronics come with voltage and compatibility questions, and “works in the store” isn’t the same as “works in your hotel with the right plug.” If you’re hunting for something bulky—a coat, a stack of books, a piece of audio gear—you have to think like a traveler again: luggage limits, shipping options, and what you can actually carry across platforms. Tax-free rules may apply in some stores, but not always in the way visitors assume; the safest approach is to look for clear signage and have your passport ready when a shop offers it. Second-hand shopping is satisfying partly because it’s real commerce, and real commerce has conditions.
 
 Still, there is something uniquely calming about browsing a Japanese reuse shop. The categories make sense. The condition notes reduce anxiety. The act of buying something that has already had a life can feel like a counterweight to the frantic “limited edition” energy of tourist shopping. You pay, slide your purchase into your bag, and step back out onto the street with a souvenir that is not a souvenir at all—just a useful object, acquired in a country that has learned how to keep useful things moving.
-
-Sources:
-
-- BOOKOFF, inbound information https://www.bookoff.co.jp/inbound/
-- BOOKOFF, tax-free shop information (inbound) https://www.bookoff.co.jp/inbound/taxfreeshop201712/en/index.html
-- 2nd STREET, official site https://www.2ndstreet.jp/
-- 2nd STREET, “リユースのレキシ” (reuse history) https://www.2ndstreet.jp/guide/about/reuse-history

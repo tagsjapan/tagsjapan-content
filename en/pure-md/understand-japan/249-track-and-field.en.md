@@ -17,11 +17,3 @@ In Japan, the stopwatch does not only record effort. It also disciplines it.
 That discipline now faces the pressures of a changing society. Fewer children means thinner teams and fewer specialized coaches; tighter labor conditions make it harder for teachers and employers to support the old training volumes; growing attention to sports science challenges the idea that suffering is the same as improvement. Long-distance running and relay events still dominate attention, which can distort funding and aspiration away from jumps, throws, and combined events. In recent years, the governing logic has also moved toward long-term athlete development—more stage-appropriate training, more emphasis on injury prevention, and a clearer vocabulary for how talent is grown rather than merely demanded.
 
 Track and field, then, is a sharp lens on how Japan builds competence: by turning a broad set of abilities into a system with stages, standards, and roles. It shows how a society can make something as basic as running into an institution—beautiful in its clarity, sometimes punishing in its expectations. When you understand why a `400`-meter oval feels so familiar in Japan, you begin to see how deeply the country relies on measured routines to make large systems work.
-
-Sources:
-- [Japan Association of Athletics Federations (JAAF) | About](https://www.jaaf.or.jp/about/)
-- [JAAF | 日本陸上競技連盟小史](https://www.jaaf.or.jp/history/syoushi/)
-- [JAAF | JAAF 競技者育成指針](https://www.jaaf.or.jp/development/model/)
-- [JAAF | JAAF 認定陸上トレーニングセンター](https://www.jaaf.or.jp/development/atc/)
-- [World Athletics](https://worldathletics.org/)
-- [track and field | Encyclopaedia Britannica](https://www.britannica.com/sports/track-and-field)

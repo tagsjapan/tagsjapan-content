@@ -19,10 +19,3 @@ The significance of local autonomy shows up most clearly where national uniformi
 The criticism is plain enough. Some observers argue that Japanese local governments remain too dependent to be truly autonomous. Others worry that local variation widens inequality by leaving weaker regions with fewer resources to solve harder problems. Population decline has made the issue sharper. As tax bases narrow and public burdens rise, autonomy can start to look like responsibility without adequate capacity. Yet the answer has not been to abolish the local level. If anything, aging, disaster risk, and regional decline have made local government more visible because these problems arrive in specific places before they become national abstractions.
 
 That is why local autonomy is worth treating as more than an administrative principle. It is the reason Japan can be a highly coordinated nation and still be governed through thousands of local decisions that carry real political weight. The different garbage calendar on a bulletin board, the ordinance passed in a city assembly, the hazard map mailed by a town office: those are not footnotes to the state. They are part of the constitutional bargain by which the state is supposed to work.
-
-Sources:
-- [地方自治制度概要 | 総務省](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/bunken/)
-- [地方公共団体制度 | 総務省](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [地方分権改革 | 内閣府](https://www.cao.go.jp/bunken-suishin/)
-- [Local government | Britannica](https://www.britannica.com/place/Japan/Local-government)

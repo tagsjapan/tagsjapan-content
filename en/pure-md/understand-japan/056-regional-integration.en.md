@@ -15,12 +15,3 @@ This helps explain a puzzle about Japanese foreign policy. Security dependence o
 The language has changed in recent years, but the instinct has not. `FOIP`, `Free and Open Indo-Pacific`, adds a harder strategic edge to the picture, with more emphasis on rule of law, maritime security, connectivity, and resilience. Some critics worry that this pushes Japan away from the inclusive regionalism it spent decades cultivating. Others think the older language of integration was too soft for an era of coercion, supply-chain risk, and sharper rivalry around Taiwan and the South China Sea. Japan's answer has been to say that the newer Indo-Pacific vocabulary should reinforce, not replace, the older architecture, and that `ASEAN` remains central even as the map widens. The effort is to keep markets open and sea lanes secure without letting regional politics harden into a single military bloc.
 
 That is why the thick bundle of acronyms matters. Each one marks a room in which Japan has tried to shape the region without pretending it can command it. Integration, in this sense, is not the disappearance of borders. It is the steady labor of keeping the region open enough for commerce, negotiation, and coexistence to continue. The meeting table with the tiny flags looks static from a distance. For Japan, it has been one of the main ways motion is preserved. The committees, communiques, and trade texts can seem dry, yet they are part of the region's circulation system, and Japan has spent decades trying to keep that system from seizing up.
-
-Sources:
-- [Diplomatic Bluebook 2016: Regional and Inter-regional Cooperation | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/gaiko/bluebook/2016/html/chapter2_01_06.html)
-- [Diplomatic Bluebook 2023: Regional and Inter-regional Cooperation | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/gaiko/bluebook/2023/html/chapter2_02_07.html)
-- [ASEAN | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/area/asean/index.html)
-- [East Asia Summit (EAS) | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/area/eas/)
-- [APEC | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/gaiko/apec/)
-- [CPTPP | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/gaiko/fta/j-eacepia/cptpp/)
-- [Regional Comprehensive Economic Partnership (RCEP) Agreement | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/press/release/press4e_003051.html)

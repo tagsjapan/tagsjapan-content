@@ -19,11 +19,3 @@ The tension is visible in ordinary life. A couple can hold a lavish ceremony and
 The system also shows how Japan blends bureaucracy with a faint trace of social witnessing. The witness signatures are not a dramatic oath, yet they preserve the idea that marriage is not purely private. Someone else signs their name to say, in effect, that this new household is not a fiction. It is a small reminder that the state’s administrative act is still embedded in a social world.
 
 When you watch the form being checked and stamped, it becomes easier to understand why marriage debates in Japan feel so structural. The argument is rarely about whether love is sincere. It is about what the state will record, under what rules, and how much of a person’s identity must be rearranged to fit the record. A single sheet of paper does not describe a relationship. In Japan, it makes one.
-
-Sources:
-- [婚姻届 | 法務省](https://www.moj.go.jp/ONLINE/FAMILYREGISTER/5-2.html)
-- [戸籍 | 法務省](https://www.moj.go.jp/MINJI/koseki)
-- [戸籍のABC（Q1-5） | 法務省](https://www.moj.go.jp/MINJI/minji04_00031)
-- [戸籍関係手続 | 法務省](https://www.moj.go.jp/tetsuduki_koseki.html)
-- [選択的夫婦別氏制度について | 法務省](https://www.moj.go.jp/MINJI/minji36)
-- [我が国における氏の制度の変遷 | 法務省](https://www.moj.go.jp/MINJI/minji36-02.html)

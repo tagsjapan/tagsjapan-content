@@ -17,10 +17,3 @@ It is also worth noticing how many parts of a contemporary Japan trip have quiet
 There is also an unglamorous financial angle. Travelers using app-based ticketing, digital wallets, or booking confirmations often discover that weak connectivity leads to duplicated effort and unnecessary spending. A missed bus because the platform changed, a second train fare because the wrong gate was entered, or a failed attempt to contact a host can all begin with a phone that is technically present but practically offline. Japan's travel systems are often generous to the informed user, but they are not always forgiving to the disconnected one. That is why many visitors decide, after a first trip, that connectivity is one of the few places where economizing too hard can cost more than it saves.
 
 By the second day, the SIM card itself has disappeared from notice, and that is exactly its job. You do not think about it when the route to a station appears instantly, when a ticket confirmation loads at the gate, or when a safety advisory can be checked rather than guessed at. You simply move. In Japan, that quiet disappearance is one of the clearest signs that a piece of travel infrastructure is doing its work well.
-
-Sources:
-
-- Travel Japan / JNTO, "Internet Access in Japan" — https://www.japan.travel/en/plan/internet-access/
-- Narita International Airport, "Communication Services" — https://www.narita-airport.jp/en/service/svc_19
-- Haneda Airport, "Mobile Wi-Fi / SIM" — https://tokyo-haneda.com/en/service/facilities/mobile.html
-- JNTO, "Japan Safe Travel Information / Safety Tips" — https://www.jnto.go.jp/safety-tips/eng/

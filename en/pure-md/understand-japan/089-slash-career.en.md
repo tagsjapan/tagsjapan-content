@@ -17,11 +17,3 @@ Examples on the ground show why the language of `Slash Career` caught on. A corp
 There is an obvious tension here. The rhetoric of the slash career can sound liberating, yet it also reflects a harsher truth: many workers no longer trust a single employer to guarantee durable security. A second income line can be self-realization, but it can also be insurance against stagnating wages or a shrinking company. The more Japan praises flexibility, the more it risks pushing responsibility for stability downward onto individuals. Highly educated professionals with portable skills may benefit first, while workers in lower-wage or physically demanding sectors have far less room to multiply themselves in attractive ways. The freedom is real, but it is unevenly distributed.
 
 That is why `Slash Career` matters as a lens on contemporary Japan. It reveals a society moving beyond the emotional monopoly of the firm without having fully built a new settlement around work. The company still matters, often enormously. Yet many people now keep another badge, another browser tab, another stream of income, another field in which they want to be known. The second laptop on the evening train is not only a symbol of ambition. It is a sign that the one-company life course has begun to lose its authority, even before a fully secure replacement has arrived.
-
-Sources:
-- [Side Jobs and Multiple Jobs | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000192188.html)
-- [Guidelines for the Promotion of Side Jobs and Multiple Jobs | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/content/11200000/001218037.pdf)
-- [Diverse and Flexible Working Styles | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/policy/economy/jinzai/tayou/tayou.html)
-- [Proposal Toward Parallel Career Japan | Ministry of Economy, Trade and Industry](https://www.meti.go.jp/press/2016/03/20170330007/20170330007.html)
-- [2024 White Paper on Small and Medium Enterprises, Section on Diverse Human Resources | Small and Medium Enterprise Agency](https://www.chusho.meti.go.jp/pamflet/hakusyo/2024/chusho/b2_1_2.html)
-- [Employment Status Survey 2022 | Statistics Bureau of Japan](https://www.stat.go.jp/data/shugyou/2022/index2.html)

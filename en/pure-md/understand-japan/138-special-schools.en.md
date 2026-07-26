@@ -19,11 +19,3 @@ The contemporary debate is no longer simply “should Japan have special schools
 You can see the logic in everyday examples. One student stays in a regular classroom but spends a few hours each week in `tsūkyū` instruction to work on communication and learning strategies. Another attends a special school where instruction is designed around daily living skills and transition planning, and where teachers routinely coordinate with welfare and employment services. A third case is invisible but common: a teacher at a special school supports a nearby ordinary school by sharing methods for assistive technology or behavioral support, spreading “special” capacity across the region rather than concentrating it inside one building.
 
 Japan’s special schools are therefore best understood not as relics of an older segregation model, and not as a universal solution. They are part of an architecture: a set of institutional choices about how a society treats difference, where it places responsibility, and how much support it is willing to build into everyday life. When the network works, a child’s needs do not automatically become a reason to leave school behind. When the network fails, “inclusion” becomes a slogan and special schools become overburdened. The real story is the design of the system in between.
-
-Sources:
-- [特別支援教育 | 文部科学省](https://www.mext.go.jp/a_menu/01_m.htm?category=teach)
-- [特別支援教育の制度改正 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/tokubetu/001.htm)
-- [特別支援教育体制整備の推進 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/tokubetu/main/006/1294930.htm)
-- [令和5・6年度 特別支援教育に関する調査結果 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/tokubetu/1402845_00013.htm)
-- [特別支援教育の学習指導要領等 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/tokubetu/005.htm)
-- [義務教育・特別支援学校の学級編制標準（条文） | 文部科学省](https://www.mext.go.jp/a_menu/shotou/tokubetu/material/07061116/003/005.htm)

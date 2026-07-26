@@ -20,10 +20,3 @@ The ecosystem is also bigger than major studios. MACC’s interviews on `indie a
 Anime has also become part of Japan’s outward cultural vocabulary. The Japan Foundation’s arts and cultural exchange materials show how anime-related music and performance can be treated as international cultural exchange content, not merely as commercial entertainment. That matters because it shifts anime’s role: it becomes a shared reference language through which non-Japanese audiences approach contemporary Japan. The risk is simplification. A global label compresses internal diversity. “Anime” becomes a few export-friendly expectations, while the actual field ranges from children’s programming to late-night niche series to theatrical auteur films, each with different audiences and production economics.
 
 `Anime（アニメ）` helps you understand Japan because it makes visible how the country organizes imagination. It turns stories into coordinated labor, coordinated labor into products, and products into long-lived worlds that can travel across platforms and borders. It also makes visible a contemporary Japanese dilemma: how to sustain creative work when success increases demand faster than the production floor can breathe. Anime is not only what Japan shows the world. It is a map of how Japan schedules, finances, and emotionally invests in narrative at industrial scale.
-
-Sources:
-- [Anime Industry Data | AJA](https://aja.gr.jp/english/japan-anime-data)
-- [Anime Industry Report 2025 market announcement | AJA](https://aja.gr.jp/info/2579)
-- [The Evolution of the Japanese Anime Industry | Nippon.com](https://www.nippon.com/en/features/h00043/the-evolution-of-the-japanese-anime-industry.html)
-- [Indie Anime interview | MACC](https://macc.bunka.go.jp/1899/)
-- [Arts and Cultural Exchange | The Japan Foundation](https://www.jpf.go.jp/e/project/culture/)

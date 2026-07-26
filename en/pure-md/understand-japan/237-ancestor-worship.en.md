@@ -19,10 +19,3 @@ None of this is static now. Japan’s demographic reality and family change pres
 Official statistics sit behind this shift like a quiet baseline. The Agency for Cultural Affairs publishes the annual `宗教年鑑` and related religious statistics, which treat shrines, temples, clergy, and adherents as countable social infrastructure. The numbers do not explain intimate grief, but they do show that religion in Japan remains institutional even as everyday practice changes shape. Ancestor worship is one of the places where that institutional reality meets the household’s changing ability to carry rituals forward.
 
 `Ancestor Worship（祖先崇拝）` helps you understand Japan because it reveals a distinctive way of linking family continuity to time and place. It shows how Japanese society uses ritual to keep loss socially legible, and how “family” can be imagined as a structure that extends across generations, not only across rooms. It also shows the pressure of the present: when households fragment, the relationship with the dead does not simply disappear. It has to be redesigned—often quietly, often without consensus. The schedule remains, but the question becomes who can still keep it.
-
-Sources:
-- [祖先崇拝 | 新纂浄土宗大辞典](https://jodoshuzensho.jp/daijiten/index.php/%E7%A5%96%E5%85%88%E5%B4%87%E6%8B%9D)
-- [宗教年鑑 | 文化庁](https://www.bunka.go.jp/tokei_hakusho_shuppan/hakusho_nenjihokokusho/shukyo_nenkan/index.html)
-- [盂蘭盆会 | 浄土宗〖公式サイト〗](https://jodo.or.jp/event/urabone/)
-- [春季彼岸会 | 浄土宗〖公式サイト〗](https://jodo.or.jp/event/spr-higane/)
-- [「お彼岸」とは | 浄土真宗本願寺派（西本願寺）](https://www.hongwanji.or.jp/faq/knowledge/001620.html)

@@ -17,10 +17,3 @@ There are also quieter eco-friendly restaurants that never use the word “eco.�
 The friction points are real, and travelers should plan for them. Eco-friendly restaurants are often reservation-first, and the reservation can come with conditions: set start times, limited substitutions, stricter cancellation policies. If you have allergies or dietary restrictions, you need to communicate early, not at the door, because the kitchen may have designed the evening around a fixed set of ingredients. Prices can also challenge expectations. A meal that pays producers fairly and wastes less may cost more, even when the dining room looks modest. The reward is that the value becomes legible in ways that a cheaper, more flexible restaurant rarely offers.
 
 An `Eco-friendly Restaurant` in Japan works best when you treat it as part of travel rather than an abstract virtue. Book it on a day when you can arrive on time. Pair it with a neighborhood walk so you come in with appetite, not stress. If you’re in the countryside, consider staying nearby so the meal doesn’t become an isolated splurge. And while you eat, notice what is actually being offered: not only flavors, but a way of making limits feel like craft. You leave with the rare sensation that dinner has told you something concrete about the place you’re visiting—and that it has done so without leaving a trail of waste behind it.
-
-Sources:
-
-- Travel Japan / JNTO, “Sustainable Eats” — https://www.japan.travel/en/sustainable/sustainable-eats/
-- MAFF, “みどりの食料システム戦略” — https://www.maff.go.jp/j/kanbo/kankyo/seisaku/midori/
-- NARISAWA (official) — https://www.narisawa-yoshihiro.com/
-- Satoyama Jujo (official) — https://www.satoyama-jujo.com/

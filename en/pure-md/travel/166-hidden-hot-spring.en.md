@@ -18,9 +18,3 @@ For travel in Japan, hidden hot springs matter because they show another face of
 When you step out after the bath and hear almost nothing except water, wind, or snow shifting off a roof, the idea of the hidden hot spring stops sounding like marketing language. It becomes literal enough. You are somewhere that demanded intention, and the bath feels different because of it.
 
 This is why hidden hot springs are best placed carefully within a route. They can follow several frenetic city nights, or mark the quiet center of a regional loop, but they rarely thrive when treated as one more attraction to be ticked off. You want enough time for the journey in and for the silence afterward. You want to notice what is absent: no shopping arcade, no bright station forecourt, fewer choices, fewer interruptions. In Japan that kind of subtraction can itself feel luxurious. The hidden hot spring reminds travelers that the country does not only excel at making movement efficient. It also knows how to make remoteness meaningful, and to let a bath carry the full weight of getting there.
-
-Sources:
-- Travel Japan / JNTO, Hot Springs in Japan: https://www.japan.travel/en/guide/hot-springs/
-- Travel Japan / JNTO, Nyuto Onsen: https://www.japan.travel/en/spot/2167/
-- Japan Association of Secluded Hot Spring Inns: https://www.hitou.or.jp/english/
-- Travel Japan / JNTO, Onsen etiquette: https://www.japan.travel/en/guide/onsen-etiquette/

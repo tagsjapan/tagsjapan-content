@@ -19,10 +19,3 @@ There is an obvious danger in that. Bushido was not only romanticized; it was al
 Yet the concept did not disappear after 1945. It survived in altered form. One sees it in martial arts language, in the heroic packaging of the 47 ronin story, in certain baseball and school-club narratives of endurance, and in the way Japanese culture is marketed abroad. None of these uses is identical to Edo-period samurai ethics. That is precisely the point. Bushido has become a reusable vocabulary. People invoke it when they want to give hardship dignity, obedience meaning, or perseverance historical depth.
 
 So the real question is not whether Bushido was "real" or "fake." It was historically real in some settings, idealized in others, and mythologized in many more. What matters is how stubbornly it has remained available. A code first associated with a warrior estate became a language for nation, morality, masculinity, discipline, and even brand identity. The swords are mostly gone. The word stayed. That, more than the legend of perfect samurai honor, is what makes Bushido worth understanding.
-
-Sources:
-- [Bushidō | Britannica](https://www.britannica.com/topic/Bushido)
-- [samurai | Britannica](https://www.britannica.com/topic/samurai)
-- [Nitobe Inazo | Britannica](https://www.britannica.com/biography/Nitobe-Inazo)
-- [国立国会図書館 | National Diet Library](https://www.ndl.go.jp/)
-- [武士道と日本人 | J-STAGE](https://www.jstage.jst.go.jp/)

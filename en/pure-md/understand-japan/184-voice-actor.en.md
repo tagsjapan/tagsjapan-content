@@ -19,11 +19,3 @@ The contemporary boom has also produced crowding. ORICON’s `2026` reporting on
 That growth also changes what the job demands. A modern seiyū is often expected to act, sing, host, improvise in talk segments, and maintain a public presence that can sustain fan attachment between releases. Nippon.com’s interview about *Seiyū Grand Prix* makes the shift visible: seiyū have moved from “voice workers” to figures who are watched, supported, and pursued. For fans, this widens the surface area of intimacy. For workers, it raises the bar. The job is no longer “perform well in the booth.” It is “remain legible as a personality.”
 
 `Voice Actor（声優）` helps you understand Japan because it shows how the country’s character-centered industries fuse craft and celebrity. It reveals a production system that depends on trained performance under tight direction, and a consumption system that extends beyond the work into magazines, awards, events, and fandom. It also reveals a modern Japanese labor pattern: the coexistence of institutional polish—schools, agencies, ceremonies—with an underlying market of unstable, audition-driven contracts. Seiyū look like stars. They are also highly skilled workers inside a system that keeps asking for more.
-
-Sources:
-- [Seiyū (job description) | job tag (MHLW)](https://shigoto.mhlw.go.jp/User/Occupation/Detail/582)
-- [Seiyu Awards (official site)](https://www.seiyuawards.jp/)
-- [Seiyū Meikan: total listings reach 1,837 in 2026 | ORICON NEWS](https://www.oricon.co.jp/news/2441186/full/)
-- [Seiyū Meikan: women listings reach 1,135 in 2026 | ORICON NEWS](https://www.oricon.co.jp/news/2435784/full/)
-- [What Seiyū Grand Prix has seen change | Nippon.com](https://www.nippon.com/ja/japan-topics/c07202/)
-- [Series: Becoming a voice actor in Japan | Nippon.com](https://www.nippon.com/ja/series/c072/)

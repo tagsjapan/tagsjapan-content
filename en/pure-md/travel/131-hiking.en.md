@@ -17,10 +17,3 @@ Mechanically, hiking in Japan is a conversation between your body and Japan’s 
 The friction point is the mismatch between Japan’s urban convenience and its mountain reality. Travelers underestimate how quickly conditions change, or they imagine that because trains are punctual the weather will be predictable too. On Fuji, crowds can create a false sense of safety; on less famous routes, the opposite is true. Hiking is one of the few Japan experiences where the right move is sometimes to turn around, and that can feel emotionally difficult on a tight itinerary. Building a spare day into a hiking-heavy trip is not wasteful. It’s how you avoid forcing a bad decision.
 
 When you ride the train back into the city after a hike, the transition can be abrupt: mud on shoes, a bag that smells faintly of rain, a body that feels pleasantly used. Japan’s mountains are not separate from the trip. They are threaded through it, often within reach of the same rail lines you use for everything else. The reward of hiking here is not just the view. It’s the sense that you stepped, briefly, into another scale of Japan—and made it back in time for dinner, quietly satisfied.
-
-Sources:
-- [Hiking in Japan, Travel Japan / JNTO](https://www.japan.travel/en/guide/hiking/)
-- [Official Mt. Fuji Climbing Guide, Fujisan-climb.jp](https://www.fujisan-climb.jp/en/index.html)
-- [2025 Climbing Season Information (Yoshida Trail), Fujisan-climb.jp](https://www.fujisan-climb.jp/en/news/20250509_yoshida_trail.html)
-- [富士山関連情報, 山梨県](https://www.pref.yamanashi.jp/fujisan/)
-- [Travel Japan Fuji Guide, Travel Japan / JNTO](https://www.japan.travel/en/fuji-guide/)

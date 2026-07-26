@@ -48,7 +48,3 @@ There is also a time-saving consequence that older travel writing rarely had to 
 The friction point is familiar to anyone who has trusted a phone too blindly. Maps can still mislead in multilevel station complexes, underground malls, and places where the true useful entrance is not the most obvious one. Search results can privilege the most famous label rather than the correct gate, annex, or ticketing side. In rural areas, an urban-style navigation app may make a road or trail look simpler than it is. The expectation to correct is the modern one: a digital map is powerful, but it is best treated as a layered reference, not an oracle.
 
 Handled that way, it becomes one of the great quiet aids of travel in Japan. Download the map before you disappear underground. Note the station number as well as the station name. Check the exit, not just the destination. Use terrain maps when the city falls away. The screen does not diminish the trip's texture. In Japan, more often than not, it gives you access to the texture by making the route manageable enough to notice everything else.
-- Travel Japan / JNTO, "Useful Apps" - https://www.japan.travel/en/plan/useful-apps/
-- Tokyo Metro, "Route / Station Information" - https://www.tokyometro.jp/lang_en/station/index.html
-- Tokyo Metro, "Fare / Transfer Search" - https://www.tokyometro.jp/lang_en/transit/index.php
-- Geospatial Information Authority of Japan, "GSI Maps Basemap" - https://maps.gsi.go.jp/help/intro/looklist/1-basemap.html

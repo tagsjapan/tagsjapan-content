@@ -19,12 +19,3 @@ Praise, repeated enough, can turn into pressure. Endurance can become a moral pe
 This is where the contemporary conversation changes tone. Japan has not abandoned the virtue of endurance; it has tried to build channels that make help easier to accept without shame. The Cabinet Office’s loneliness and isolation platform and its public-facing messages about available support represent one attempt to make assistance visible and legitimate, and to make “seeking help” sound less like failure and more like ordinary use of systems. Endurance is never only personal; it is a bargain between the self and the surrounding world: how much strain a person absorbs so that the shared surface stays smooth.
 
 Back on the platform, gaman can look impressive. The deeper question is what happens after the crowd disperses: whether the people who endured are able to rest, complain, seek support, and renegotiate expectations, or whether they are asked to perform endurance again the next day. Gaman explains a great deal about Japan, but it also points toward what Japan has had to rethink.
-
-Sources:
-- [我慢 | コトバンク](https://kotobank.jp/word/%E6%88%91%E6%85%A2-46595)
-- [文化的自己観と心理的プロセス | J-STAGE](https://www.jstage.jst.go.jp/article/jssp/10/3/10_KJ00003724647/_article/-char/ja/)
-- [相互協調性の自己維持メカニズム | J-STAGE](https://www.jstage.jst.go.jp/article/jjesp/50/2/50_2_182/_article/-char/ja)
-- [日本文化における幸福感―東日本大震災後の復興を支える心理と社会システム― | J-STAGE](https://www.jstage.jst.go.jp/article/jappm/36/1/36_28_2/_article/-char/ja/)
-- [Reconstruction: Young Power Supporting Tohoku | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201303/201303_04j.html)
-- [孤独・孤立対策官民連携プラットフォーム 2022年度第2回シンポジウム | 内閣府](https://www.cao.go.jp/kodoku_koritsu/torikumi/platform/katsudou/symposium/symposium2022_2/index.html)
-- [あなたのための支援があります | 内閣府](https://www.cao.go.jp/press/new_wave/20241122.html)

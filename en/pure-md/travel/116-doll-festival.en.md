@@ -17,10 +17,3 @@ The mechanics of visiting are part of the experience. These displays are often d
 If you want to use `Doll Festival` as a travel theme, the best approach is to treat it as a winter-to-spring thread rather than a single-day event. Pair it with a cold seaside town, a hot bath, a local sweets stop, or a quiet museum afternoon. It also fits neatly into the gap before peak blossom season when hotels are easier to book and trains feel a little less tight. The friction point is that it can feel “too gentle” if you come expecting spectacle. But that gentleness is exactly what makes it valuable. It shows you a Japan that doesn’t need to shout to change the mood of a street.
 
 When you step back outside, the air is still cold, and the calendar still says winter. But you’ve seen a country staging spring in miniature—wishes arranged on tiers, time marked with fabric and lacquered faces. A week later the cherry blossom forecasts will begin to dominate headlines. `Hina Matsuri` belongs to the moment just before that happens, when Japan is not yet in bloom, but already adjusting the light in the room.
-
-Sources:
-
-- Travel Japan / JNTO, “Send in the Dolls - Japan’s Girl’s Day Celebration”: https://www.japan.travel/en/us/news-jnto/send-in-the-dolls-japan-s-girl-s-day-celebration/
-- Kasuisai (可睡斎), “可睡斎ひなまつり”: https://www.kasuisai.or.jp/wp/p27
-- Aichi Now, “Hina Matsuri, the Doll’s Day Festival”: https://aichinow.pref.aichi.jp/en/features/detail/6/
-- Aichi Now, “Futagawa Shuku Honjin Museum’s Hina Doll Festival”: https://aichinow.pref.aichi.jp/en/spots/detail/2034/

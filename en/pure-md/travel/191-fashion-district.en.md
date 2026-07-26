@@ -17,10 +17,3 @@ The friction point is that fashion districts can be emotionally expensive even w
 One of the most Japanese details is how public and controlled these spaces can be at the same time. A crowded street can feel like an open-air stage, yet inside the shops the rules are often clear: no photography signs, polite reminders not to block narrow stairs with a suitcase-sized backpack, efficient fitting rooms that assume you will decide quickly. These neighborhoods reward light packing and a patient attitude. They also tend to wake late by museum standards—arrive too early and you may find shutters down and staff cleaning glass, as if you’ve turned up before the performance has begun.
 
 At the end of a fashion-district afternoon, you may carry shopping bags, but the deeper souvenir is less tangible: a memory of how Japanese cities let taste become visible. A temple district teaches you history; a food market teaches you appetite. A fashion district teaches you how a modern city rehearses identity in public, in real time, block by block. When the light changes and people start drifting toward stations, the runways dissolve back into sidewalks. But for a while, you have walked inside a neighborhood where looking is part of moving, and moving is part of being seen.
-
-Sources:
-
-- Harajuku (walk times, area framing), GoTokyo (official): https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/index.html
-- Shibuya (SHIBUYA SKY / 230m, district overview), GoTokyo (official): https://www.gotokyo.org/en/destinations/western-tokyo/shibuya/index.html
-- Shinsaibashi, OSAKA-INFO (official): https://www.osaka-info.jp/en/areas/shinsaibashi/
-- Amerikamura, OSAKA-INFO (official): https://www.osaka-info.jp/en/areas/amerikamura-horie/

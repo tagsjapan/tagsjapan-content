@@ -15,10 +15,3 @@ But matcha is not only Kyoto’s property, and Japan’s own agricultural docume
 The main friction point is that “matcha” in tourism often means “sweet.” Many travelers first fall for matcha through desserts, which is fine, but it can set expectations backwards. High-quality matcha doesn’t always taste friendly. It can be vegetal, astringent, and deeply savory in a way that reads as “too strong” if you expected candy. The other friction is logistical: tea experiences in production areas can be seasonal and sometimes require booking, and the most satisfying matcha moments tend to happen when you’re not rushing—when you have time to sit, to taste slowly, to let bitterness fade into aftertaste. There’s also a simple travel reality: “matcha” on a menu doesn’t guarantee much. Some drinks are mostly milk and sugar with a green tint. If you want the real thing, you sometimes have to choose the less photogenic option: a small bowl, unsweetened, served with nothing to hide behind.
 
 At the end of a good matcha day, the memory isn’t only of green. It’s of contrast: the quiet bowl and the loud souvenir shop, the serious drink and the playful dessert, the taste that hits hard and then lingers like a good story. Matcha is popular now, globally, but in Japan it remains something older and more grounded. It’s one of the country’s classic travel lessons: a single flavor can be a craft, a place, and a way of spending time—if you drink it, not just photograph it.
-
-Sources:
-
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), “Beverages | Traditional Foods in Japan” https://www.maff.go.jp/e/policies/market/dento_syoku/bunrui/inryou.html
-- MAFF, “Uji Tea | Traditional Foods in Japan” https://www.maff.go.jp/e/policies/market/dento_syoku/menu/uzi_tea.html
-- MAFF, GI registration, “Nishio Matcha” (Registration No.27) https://www.maff.go.jp/e/policies/intel/gi_act/register/s27.html
-- Travel Japan / JNTO, “Green Eight Cafe” https://www.japan.travel/en/japans-local-treasures/green-eight-cafe/

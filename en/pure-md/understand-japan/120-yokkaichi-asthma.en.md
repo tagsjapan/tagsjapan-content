@@ -19,11 +19,3 @@ Today, Yokkaichi’s memory is curated rather than hidden. The city operates the
 Yokkaichi Asthma still matters because modern economies keep producing versions of the same dilemma: how to expand energy and infrastructure without repeating the logic of “damage first, governance later.” Japan’s present debates—over industrial upgrading, ports and logistics, and the risks created by new facilities—do not map neatly onto the 1960s. Yet the underlying question remains: when prosperity and harm are produced by the same system, who has the authority to call the harm real?
 
 The enduring lesson is not that pollution can be fixed and then forgotten. It is that causality has to be fought for. Yokkaichi Asthma names a moment when residents insisted that the air they breathed was not a private matter, and Japan’s institutions were forced to respond. The clean, orderly surface often associated with contemporary Japan was not a natural inheritance. In places like Yokkaichi, it was built through injury, conflict, and the hard work of turning suffering into rules.
-
-Sources:
-- [四日市公害と環境未来館 | 四日市市](https://www.city.yokkaichi.lg.jp/yokkaichikougai-kankyoumiraikan/)
-- [知る 四日市公害 | 四日市市](https://www.city.yokkaichi.lg.jp/www/contents/1001000001783/index.html)
-- [四日市公害訴訟判決50年 関連展示 | 四日市市](https://www.city.yokkaichi.lg.jp/yokkaichikougai-kankyoumiraikan/kikaku/)
-- [四日市公害の経験と教訓 | J-STAGE](https://www.jstage.jst.go.jp/article/jjweh/12/1/12_3/_article/-char/ja/)
-- [日本の公害経験をどう継承するか | J-STAGE](https://www.jstage.jst.go.jp/article/kankyogijutsu/49/9/49_540/_article/-char/ja/)
-- [環境白書にみる公害対策の歩み | 環境省](https://www.env.go.jp/policy/hakusyo/)

@@ -19,11 +19,3 @@ The tension becomes clearer when equality is discussed mainly through support fo
 There have been real shifts. Gender equality is more measurable, more openly debated, and more deeply institutionalized than it once was. Public disclosure, basic plans, and official white papers have made it harder to treat the subject as secondary. The expansion of disclosure to midsize firms in `2026` will test whether reform can travel beyond ministries, major employers, and symbolic flagship cases. Yet the field remains defined by friction between policy momentum and everyday custom. The issue is not whether Japan has discovered gender equality as an ideal. It has. The issue is whether the ordinary organization of work, care, and authority is being remade at the same speed.
 
 That is what makes `Gender Equality` so important for understanding modern Japan. It is a social question that runs through the office, the household, the school, the voting booth, and the welfare system all at once. Where progress appears, it often appears first in the language of plans and disclosure. Where resistance appears, it often lives in expectations that still govern who can stay late, who pauses a career, who manages care, and who reaches power. The gap between those two worlds is where much of the real story is found.
-
-Sources:
-- [Basic Plans for Gender Equality | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/basic_plans/index.html)
-- [Sixth Basic Plan for Gender Equality | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/basic_plans/6th/index.html)
-- [White Paper on Gender Equality 2024 | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/whitepaper/r06/zentai/index.html)
-- [Visualization Site for the Act on Promotion of Women's Participation | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/policy/suishin_law/index.html)
-- [Closing the Gender Pay Gap | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku09/index.html)
-- [Information on the Act on Promotion of Women's Participation | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/law/index.html)

@@ -19,11 +19,3 @@ Inflation and labor shortages in the 2020s have pushed wages back to the center,
 Yet the contradictions in the system have become harder to hide. Non-regular employment has expanded over decades, and many workers are outside the dense web of enterprise unions and internal consultation. Even within the spring campaign, outcomes at large firms do not automatically translate into what small and medium-sized firms can afford. Some disputes that once would have been framed as “labor versus management” now look like tensions inside a fragmented labor market: regular and non-regular workers, prime contractors and suppliers, older cohorts with different employment histories, and new forms of work that do not fit neatly into postwar templates.
 
 To understand Japan, it helps to treat labor-management relations as social infrastructure rather than as a single law or a single organization. The system turns wage bargaining into a seasonal public fact, pushes much conflict into internal procedures, and makes coordination possible without constant confrontation. Its weakening coverage, meanwhile, shows where the postwar bargain no longer holds. When you watch the February meeting begin—documents on the table, phrases chosen carefully, a number slowly taking shape—you are watching Japan negotiate not only pay, but the boundaries of who still belongs inside the old promise of stable work.
-
-Sources:
-- [2024 Basic Survey on Labour Unions (R6) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/itiran/roudou/roushi/kiso/24/index.html)
-- [2024 Labour Dispute Statistics (R6) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/list/14-r06.html)
-- [2024 Survey on Labour-Management Communication (R6) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/list/18-r06gaiyou.html)
-- [Shuntō (Spring Wage Offensive) | Japanese Trade Union Confederation (RENGO)](https://www.jtuc-rengo.or.jp/activity/roudou/shuntou/)
-- [2024 Top Management Survey on Personnel and Labor Issues | Keidanren](https://www.keidanren.or.jp/policy/2025/007.pdf)
-- [Labor Situation in Japan and Its Analysis: 2024/2025 | JILPT](https://www.jil.go.jp/english/lsj/2024-2025/index.html)

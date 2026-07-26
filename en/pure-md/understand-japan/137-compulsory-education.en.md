@@ -19,11 +19,3 @@ Japan’s response has been to treat compulsory education less as a command and 
 Compulsory education therefore reveals a central contradiction in contemporary Japan. The country relies on standardized institutions to deliver equality—same years, same baseline, same promise. Yet those institutions can become brittle under social change: smaller families, rising mental health pressures, and the diversification of childhood experiences. The legal framework is stable, but the lived reality is more variable. When a child cannot go to school, the system has to decide whether it will treat that as a failure of the child, a failure of the family, or a failure of the institution.
 
 To understand Japan through `Compulsory Education（義務教育）` is to see both the strength and the new fragility of the country’s postwar social model. Nine years of schooling remains a national backbone: a shared pathway that helps produce literacy, social coordination, and a common civic baseline. The rising problem is no longer how to make children enter the system, but how to keep them inside learning when the system’s standard shape no longer fits everyone. The system is being asked to keep its universal promise while tolerating more ways of being a student than the old model assumed. That is a governance challenge as much as an educational one, because it forces Japan to redefine what “compulsory” guarantees.
-
-Sources:
-- [教育基本法 | 文部科学省](https://www.mext.go.jp/b_menu/kihon/about/mext_00003.html)
-- [第4条（義務教育） | 文部科学省](https://www.mext.go.jp/b_menu/kihon/about/004/a004_04.htm)
-- [義務教育諸学校の学級編制及び教職員定数の標準に関する法律案（資料） | 文部科学省](https://www.mext.go.jp/b_menu/houan/an/detail/mext_03426.html)
-- [少人数教育に関する基準・制度 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/hensei/003/index_00002.html)
-- [令和6年度 児童生徒の問題行動・不登校等に関する調査 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/seitoshidou/1422178_00006.htm)
-- [不登校対策 | 文部科学省](https://www.mext.go.jp/a_menu/shotou/futoukou/main.htm)

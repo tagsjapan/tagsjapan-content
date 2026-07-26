@@ -17,13 +17,3 @@ A manga page is also a contract about time: it teaches you how long to stay with
 The global dimension makes the stakes public. Japan’s Ministry of Foreign Affairs frames manga as a tool of cultural exchange through the Japan International MANGA Award, established in `2007`. Its `2025` announcement notes `738` submissions from `110` countries and regions. Those figures matter because they describe manga not only as something Japan exports, but as a language others use to speak back—artists abroad working inside a Japanese-invented industrial form. This turns a domestic medium into public diplomacy and, inevitably, into a site of simplification: “manga” becomes a single global style in the popular imagination, even as the medium inside Japan remains radically plural in theme and tone.
 
 `Manga（漫画）` helps you understand Japan because it compresses multiple Japanese strengths and tensions into one medium. It shows how the country industrializes storytelling without losing reader intimacy. It shows how markets are segmented with unusual precision, turning life stages into shelves. It shows how a commercial form can become a public cultural asset that requires archiving and governance. And it shows how cultural export changes the thing being exported: the more the world desires “manga,” the more Japan has to define what the word means beyond a look. Manga is a story form, but it is also a system—and Japan is a country that often thinks in systems.
-
-Sources:
-- [An introduction to Manga | British Museum](https://www.britishmuseum.org/blog/introduction-manga)
-- [Manga (exhibition / overview) | British Museum](https://www.britishmuseum.org/exhibitions/manga)
-- [Arts and Culture | The Japan Foundation (Doors to Arts of JAPAN)](https://www.daj.jpf.go.jp/en/arts-and-culture/)
-- [Promotion of Media Arts | Agency for Cultural Affairs](https://www.bunka.go.jp/seisaku/geijutsubunka/media_art/)
-- [MADB Lab | Agency for Cultural Affairs / MADB](https://mediag.bunka.go.jp/madb_lab/)
-- [MADB renewed as an official release | MACC](https://macc.bunka.go.jp/news/3667/)
-- [Annual Report FY2024 | AJPEA](https://www.ajpea.or.jp/wp/wp-content/uploads/2025/06/%E2%97%8F2024%E5%B9%B4%E5%BA%A6-%E5%85%A8%E5%8D%94%E4%BA%8B%E6%A5%AD%E5%A0%B1%E5%91%8A.pdf)
-- [Japan International MANGA Award (19th) | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/press/release/pressite_000001_01962.html)

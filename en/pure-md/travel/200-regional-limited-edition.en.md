@@ -17,9 +17,3 @@ Mechanically, smart omiyage shopping is a kind of logistics. You check shelf lif
 The short friction point is the one every traveler learns once: “I’ll buy it later” can be wrong here. Regional limited items really do disappear when you leave the node that sells them, and the regret can be strangely sharp for something as small as a box of sweets. If there’s something you genuinely want and you see it in the right place, the sensible move is to buy it when you can.
 
 Back home, people will ask how the trip was. You will show photos, maybe. And then you will put a box on someone’s desk, and the trip will become edible and shareable. Regional limited editions are not Japan’s deepest culture, but they are one of its most efficient: a retail system that turns geography into gifts, and turns the end of travel into one more place to visit.
-
-Sources:
-- [Guide to the Essential Japanese Souvenirs, Travel Japan / JNTO](https://www.japan.travel/en/guide/last-minute-souvenirs)
-- [じゃがポックル, Calbee](https://www.calbee.co.jp/jagapokkuru/)
-- [東京ばな奈 商品一覧, Tokyo Banana World](https://www.tokyobanana.jp/products/)
-- [Local Crafts, Travel Japan / JNTO](https://www.japan.travel/en/things-to-do/art-and-design/local-craft/)

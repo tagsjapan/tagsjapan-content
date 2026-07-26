@@ -19,12 +19,3 @@ Contemporary pressures are reshaping the season. Official festival pages increas
 A matsuri is joy, but it is also work, negotiation, and care.
 
 `Summer Festival（夏祭り）` helps you understand Japan because it reveals how “tradition” is maintained through organization. These festivals are not ancient leftovers surviving by inertia. They survive because local communities keep building them—each year negotiating religion and entertainment, safety and spontaneity, climate and crowd. Each summer, the festival asks whether a community can still assemble itself. Summer festivals show Japan’s local public sphere at full volume: a society capable of turning ritual into seasonal infrastructure, and capable of turning infrastructure back into shared emotion.
-
-Sources:
-- [Matsuri overview | JNTO](https://www.japan.travel/en/things-to-do/festivals-and-events/)
-- [Local festivals guide | JNTO](https://www.japan.travel/en/guide/get-involved-in-local-festivals/)
-- [Summer guide | JNTO](https://www.japan.travel/en/guide/summer-guide/)
-- [Gion Festival (origin 869) | JNTO](https://www.japan.travel/en/spot/83/)
-- [Tenjin Festival (origin 951) | JNTO](https://www.japan.travel/en/spot/30/)
-- [Akita Kantō Festival (46 lanterns) | JNTO](https://www.japan.travel/en/spot/1829/)
-- [Awa Odori Festival (August, 1M+ scale) | JNTO](https://www.japan.travel/en/spot/203)

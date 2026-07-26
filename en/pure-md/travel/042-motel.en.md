@@ -15,9 +15,3 @@ Consider two examples. The first is the newer road-trip pattern built around Mic
 There is also a quiet cultural point here. Japan's road travel is less standardized than its rail travel, but not less organized. The car opens regions the train only brushes, yet the support system is finely grained: roadside stations, local tourism maps, punctual check-in windows, and lodging that often expects you to understand your own route. That makes motel-style travel in Japan feel less like anonymous highway sprawl and more like a chain of carefully managed pauses. The romance, if there is any, comes from timing and landscape rather than from the building type itself.
 
 So the useful way to think about a motel in Japan is not as a nostalgic category but as a roadside function. Does the room come with a parking place? Can you arrive after dark without confusion? Is there food nearby, or only in the last town you passed? Will the property help a family, a pair of drivers, or a traveler carrying outdoor gear recover and leave efficiently the next morning? Ask those questions and the road begins to make sense. Fail to ask them, and Japan's motel-like lodging can become one more small misunderstanding between a rail country and the traveler who decided to see it by car.
-
-Sources:
-- [Travel Japan / JNTO: Michi-no-Eki - Japan's roadside stations](https://www.japan.travel/en/guide/michi-no-eki/)
-- [Travel Japan / JNTO: Driving in Japan](https://www.japan.travel/en/guide/driving-in-japan/)
-- [Fairfield by Marriott Michi-no-Eki Project](https://fairfield-michinoeki-japan.com/jaja/)
-- [Japan Romantic Road Association](https://www.japanromanticroad.com/)

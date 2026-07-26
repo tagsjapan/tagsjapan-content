@@ -20,11 +20,3 @@ Meanwhile, the scene has learned how to become memory. The `VISUAL JAPAN SUMMIT 
 The scene’s main argument today is definitional: is visual kei “a genre” or “a framework”? Many insiders resist reducing it to a sound, because the same label can cover very different music. That resistance is revealing. It implies that visual kei is a cultural interface: a way of organizing emotion and identity through performance, not a single musical formula. In practice, the most stable part of visual kei is not a chord progression. It is the agreement between performers and fans that appearance, voice, and stage story belong together.
 
 `Visual Kei（ヴィジュアル系）` helps you understand Japan because it shows how popular culture can build worlds that outlast their peak commercial moment. It shows how style can function as social language, how fan identification can be a sustaining force, and how a subculture can survive by turning itself into both a live scene and a remembered era. Visual kei is often described as flamboyant. Its deeper function is more disciplined: it makes feeling wearable, and then it teaches a community how to read it.
-
-Sources:
-- [VISUAL JAPAN SUMMIT 2016 report | ORICON NEWS](https://www.oricon.co.jp/news/2079834/full/)
-- [YOSHIKI and the future of “V-kei” | ORICON NEWS](https://www.oricon.co.jp/news/2080043/full/)
-- [1990s visual kei classic albums 100 (2026) | ORICON NEWS](https://www.oricon.co.jp/news/2426177/full/)
-- [TIMEZONE RECORDS and today’s visual kei scene | Musicman](https://www.musicman.co.jp/artist/559890)
-- [[ kei ] × Takeru on the word “visual kei” | Musicman](https://www.musicman.co.jp/artist/537365)
-- [Visual kei fan psychology study | J-STAGE](https://www.jstage.jst.go.jp/article/pacjpa/76/0/76_2AMB34/_article/-char/ja/)

@@ -17,10 +17,3 @@ What makes the service especially useful in Japan is that many travel disruption
 The best use of the hotline therefore begins before any crisis. Save the number before departure. Pair it with the `JNTO` safety site and, if possible, the relevant railway or airline apps. Know that a late-night problem in `Tokyo` is easier to untangle than the same problem in a mountain town after the buses stop, which is exactly why having one trusted official contact matters. If you are carrying prescription medicine, moving through typhoon season, or planning remote regional travel, the preparation matters even more. It is also wise to keep your accommodation names, reservation numbers, and basic route for the next day easy to retrieve, because these are often the facts that make help concrete. The number will not make the weather mild or the trains punctual. It will make the first five minutes of confusion shorter, and that can change the next five hours of a trip.
 
 That is why the tourism hotline deserves a place in the mental packing list alongside passport copies and hotel addresses. It is part of the modern travel kit for Japan: less visible than a rail pass, less romantic than an inn reservation, but just as revealing of how the country thinks. The system expects disruptions and builds a multilingual path back toward order. Somewhere between a station platform and a hotel lobby, that quiet preparedness becomes one of the most Japanese comforts a traveler can have.
-
-Sources:
-
-- Japan Visitor Hotline, Travel Japan / JNTO: https://www.japan.travel/en/plan/hotline/
-- Safety Tips App, JNTO: https://www.jnto.go.jp/safety-tips/eng/app.html
-- Emergency Guide, Travel Japan / JNTO: https://www.japan.travel/en/guide/emergency-guide/
-- Japan Safe Travel Information, JNTO: https://www.jnto.go.jp/safety-tips/eng/

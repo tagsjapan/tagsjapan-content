@@ -17,9 +17,3 @@ The drink also travels well across food situations. It can be a bridge for peopl
 The short friction point is that umeshu is a wide category hiding behind one word. Some versions are syrupy. Some are bright and tart. Some drink like juice until you stand up. If you’re buying a bottle as an omiyage (お土産 / 伴手禮), check the label and imagine the person who will drink it, not the person who wants to carry it. A glass bottle is heavy, and airport time has a way of squeezing out your best intentions; if you’re flying, think through where the bottle will live, how you’ll cushion it, and whether you’d rather buy a smaller, clearly labeled version at the end than babysit it across the whole route. Umeshu is forgiving in a bar, but it’s surprisingly unforgiving in a suitcase.
 
 When you leave Japan, umeshu is one of the easiest flavors to remember. Not because it’s rare, but because it is tied to so many kinds of Japanese life at once: farms and brands, home storage and bar menus, regional pride and airport shelves. A drink that feels simple at first sip turns out to be a map, and that is exactly why it belongs in travel.
-
-Sources:
-- [梅, 農林水産省](https://www.maff.go.jp/j/pr/aff/2007/spe1_02.html)
-- [Umeshu in Wakayama, Wakayama Tourism Federation](https://www.wakayama-kanko.or.jp/features/umeshu/)
-- [The Japanese apricot system in Minabe-Tanabe](https://www.giahs-umeboshi.jp/en/)
-- [CHOYA](https://www.choya.co.jp/en/)

@@ -19,10 +19,3 @@ They also reveal how Japan manages “night” as a public experience. Lantern f
 Light creates mood; crowds create real costs.
 
 `Lantern Festival（灯籠祭）` helps you understand Japan because it reveals how Japanese collective feeling is often organized through visible forms. The lantern is a material technology for making prayer, gratitude, and remembrance public without requiring people to speak those feelings aloud. It also reveals how contemporary Japan keeps older ritual grammars alive by translating them into managed public experiences—sometimes ancient, sometimes invented in 1999, but almost always dependent on the same modern question: how to keep a quiet ritual quiet when many people want to stand inside it at once. In lantern light, Japan’s sacred and Japan’s civic management overlap. The same flame can be a private wish and a public crowd-control problem, and Japan often tries to solve that by adding procedure without destroying the mood.
-
-Sources:
-- [Nara Tōkae: about | Official site](https://www.toukae.jp/about/index.html)
-- [Nara Tōkae | Official site](https://www.toukae.jp/)
-- [Nara Tōkae (Nara Park area) | Nara City Tourism Association](https://narashikanko.or.jp/event/naratokae/)
-- [Kasuga Taisha Mantōrō (reenactment / info) | Kasuga Taisha](https://www.kasugataisha.or.jp/guidance/index/modal-10/)
-- [Setsubun Mantōrō operations notice (2024) | Kasuga Taisha](https://www.kasugataisha.or.jp/news/2024/13499/)

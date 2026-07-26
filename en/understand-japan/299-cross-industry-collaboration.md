@@ -49,8 +49,3 @@ A Japanese collaboration often starts as a pilot precisely because pilots let pa
 Collaboration is not a vibe; it is a contract.
 
 As a lens for understanding Japan, Cross-Industry Collaboration reveals a country trying to update its strengths without abandoning them. Japan still values reliability, but it increasingly needs recombination—new services built by connecting old capabilities in new ways. The friction in that conference room is therefore not a sign of failure. It is the sound of Japan learning to share problems across institutions that were built to keep problems neatly separated.
-- Ministry of Economy, Trade and Industry (METI), open innovation policy materials
-- Small and Medium Enterprise Agency (Japan), cross-industry collaboration support information
-- JETRO, open innovation programs and guidance
-- NEDO, startup–corporate collaboration programs and materials
-- Cabinet Office (Japan), Society 5.0 policy messaging and background materials

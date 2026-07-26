@@ -17,10 +17,3 @@ The contrast between festival yukata and onsen-town yukata is part of the charm.
 The expectation correction is also useful: yukata is not “comfortable” in the modern athletic sense. You may get blisters if you insist on long distances in geta. You may feel overheated if you schedule it at noon. You may discover that the most photogenic street is also the most crowded. None of that means the experience failed. It means you met the garment on its own terms. Yukata asks you to travel at walking speed, with pauses.
 
 At the end of the night, you step back into your room or your hotel hallway and leave the sandals neatly by the door, as everyone else seems to do. The robe goes back on the hanger, still faintly warm from your body. For a few hours you were dressed for Japan’s summer, and the trip adjusted itself around you. That is the quiet value of yukata: it is not a costume you wear in Japan, but a rhythm you borrow.
-
-Sources:
-
-- Travel Japan / JNTO, “Himeji Yukata Festival”: https://www.japan.travel/en/spot/2354/
-- Travel Japan / JNTO, “Kurokawa Onsen”: https://www.japan.travel/en/spot/643/
-- Travel Japan / JNTO, “Shibu Onsen”: https://www.japan.travel/en/spot/1339/
-- Travel Japan / JNTO, “Japanese Ryokan Guide”: https://www.japan.travel/en/guide/japanese-ryokan/

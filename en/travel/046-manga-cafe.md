@@ -44,7 +44,3 @@ The friction points are just as important. A private booth is usually not a hote
 That is why the `Manga Café` matters as a travel subject. It reveals a layer of urban Japan that guidebooks often tidy away. The polished version of the city is all efficiency and punctuality. The manga café is what appears when that efficiency ends for the night and human schedules spill past it. Japan's answer is not to pretend the problem does not exist, nor to romanticize it. The answer is to build one more category of managed space: a booth, a blanket, a shower, a row of drinks, a quiet understanding that the traveler or commuter only needs to get to morning.
 
 By daylight the place can look almost ordinary. But sometime between the final departure board and the first train back into service, the manga café becomes one of the most practical institutions in the Japanese city. It shelters people from embarrassment as much as from fatigue. Miss the train, choose the wrong district, stay out later than intended, and there it is: not elegant, not entirely comfortable, but competent in exactly the way Japan often is when a system breaks down at the edges.
-- Kaikatsu CLUB, Kaikatsu Frontier: https://www.kaikatsu.jp/
-- DiCE, City Communications: https://www.diskcity.co.jp/
-- Manboo!, Manboo: https://www.manboo.co.jp/
-- Kabukicho, Travel Japan / JNTO: https://www.japan.travel/en/spot/2178/

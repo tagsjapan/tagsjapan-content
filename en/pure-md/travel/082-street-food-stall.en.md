@@ -17,9 +17,3 @@ The mechanics are simple but not always obvious. You line up, you sit where you�
 The friction points are also part of the deal. Rain and wind can cancel the evening; a stall is not obligated to open just because you showed up. Popular stalls can have lines, and once you’re seated you may have to accept sharing space and conversation at a level that feels too close for travelers used to personal distance. Big luggage doesn’t fit well, and the setup is not built for long, slow lingering. None of this is unfriendliness. It’s the price of a tiny dining room built on a sidewalk.
 
 Late at night, when the stools are stacked and the pot is finally taken off the flame, the street looks ordinary again. That’s the yatai’s quiet magic: it turns a stretch of pavement into a temporary neighborhood, then gives it back. If you want a taste of Japan that isn’t behind a door, this is one of the few places it still happens.
-
-Sources:
-- [Fukuoka Yatai Food Stalls, Travel Japan / JNTO](https://www.japan.travel/en/spot/273/)
-- [FUKUOKA HAKATA YATAI, Fukuoka City Official Tourist Guide](https://gofukuoka.jp/yatai/)
-- [Yatai: The Delights of Outdoor Dining, Fukuoka City Official Tourist Guide](https://gofukuoka.jp/en/articles/detail/141eca29-c0a0-4bc8-a0e5-8ef2f4cc87b1)
-- [Toast of the Town: Yatai Culture in Fukuoka, JETRO Japanese Cuisine Information Site](https://japan-food.jetro.go.jp/en/feature/detail/762.html)

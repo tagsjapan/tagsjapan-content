@@ -19,10 +19,3 @@ An otaku is a collector of details.
 Platforms have widened the field again. Social media and digital distribution allow otaku communities to form without a single neighborhood, and the label now covers people who may never set foot in the classic physical hubs. Algorithmic feeds make attention portable, and “community” can mean a timeline and a group chat rather than a district. Yet the physical hubs still matter as symbols. They are proof that the culture is not merely private obsession; it is a social form with rules, economies, and spaces. The most interesting tension in otaku culture today is not whether it is “good” or “bad,” but how a once-marginal identity keeps being rewritten as public culture while retaining its internal, often fiercely guarded, sense of difference.
 
 `Otaku Culture` helps you understand Japan because it shows how the country turns consumption into social structure. It reveals a society where taste can become expertise, expertise can become community, and community can become city branding—without fully erasing the old stigma that made the identity feel risky in the first place. The label continues to carry that double life: a punchline for outsiders, a toolkit for insiders, and a market category for institutions. Otaku is not a synonym for isolation. It is one of Japan’s most visible languages for belonging through attention.
-
-Sources:
-- [ポストモダンの消費社会とオタク文化 | J-STAGE](https://www.jstage.jst.go.jp/article/sjpr/40/0/40_185/_article/-char/ja/)
-- [オタク文化とジェンダー研究 | J-STAGE](https://www.jstage.jst.go.jp/article/nihonjoho/26/1/26_23/_article/-char/ja/)
-- [オタク文化の現在地を問う | J-STAGE](https://www.jstage.jst.go.jp/article/bunkakagaku/91/0/91_67/_article/-char/ja/)
-- [Akihabara: Japan's 'Otaku' Central | Nippon.com](https://www.nippon.com/en/guide-to-japan/gu0017/)
-- [Akihabara | Japan National Tourism Organization](https://www.japan.travel/en/spot/218/)

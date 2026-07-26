@@ -19,11 +19,3 @@ Recent shifts make the system’s double character more visible. Japan faces lab
 The deeper tension is about national self‑image. Japan often insists it is not an “immigration country,” even as its economy increasingly relies on foreign labor and foreign students. Residence status is how that contradiction is administered. The state can admit people for defined functions without fully embracing a broad narrative of permanent immigration. Stability is offered, but selectively, and often after years of proving good conduct, compliance, and usefulness within the classification system.
 
 Residence status matters for understanding Japan because it shows a broader pattern in Japanese governance: problems are managed by creating categories, writing procedures, and building institutions that can repeatedly check compliance. The category on a residence card looks like a small bureaucratic detail. In practice it is a social organizer. It shapes where foreign residents can work, how they can change direction, and how securely they can imagine a future. To read Japan’s approach to foreign residents, start with the classification table. It is a portrait of belonging written as administrative law.
-
-Sources:
-- [在留手続 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/)
-- [在留資格から探す | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/status/index.html)
-- [在留資格一覧表 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/status/qaq5.html)
-- [在留資格「留学」 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/status/student.html)
-- [在留資格「特定活動」 | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/status/designatedactivities.html)
-- [在留手続（索引） | 出入国在留管理庁](https://www.moj.go.jp/isa/applications/index.html)

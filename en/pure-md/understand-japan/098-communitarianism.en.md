@@ -17,10 +17,3 @@ The idea also moves through surprisingly practical domains. It appears in debate
 The tension remains unresolved, which is precisely why the term still matters. A language of community can sound healing when loneliness, local decline, and weakened social trust dominate the mood. The same language can sound threatening when minorities, dissenters, or people living outside conventional family patterns hear in it a demand to conform. `Communitarianism` therefore should not be mistaken for the secret essence of Japan. It is closer to a recurring argument Japan has with itself whenever public life seems too fragmented to endure and too coercive to idealize. The argument stays unfinished.
 
 By the time the chairs are stacked and the hall lights are switched off, the neighborhood meeting has solved only a few practical things. The larger question remains on the floor with the dust and the folded notices: how to belong without being absorbed. That question gives `Communitarianism` its staying power in Japan. It keeps reappearing wherever people feel the need for thicker ties and also remember the price communities can demand when they decide they know what everybody is for.
-
-Sources:
-- [A Critical Examination of Communitarianism | Satoshi Fujikawa, J-STAGE](https://www.jstage.jst.go.jp/article/jsr1950/47/3/47_3_320/_article/-char/ja/)
-- [Amitai Etzioni and New Communitarianism | Hirosuke Hatamoto, J-STAGE](https://www.jstage.jst.go.jp/article/kantoh1988/2001/14/2001_14_260/_article/-char/ja/)
-- [Institutional Theory of Communitarianism | Yukimasa Nagayasu, J-STAGE](https://www.jstage.jst.go.jp/article/jasess/24/0/24_KJ00004444850/_article/-char/ja/)
-- [Earthquake NPOs and a New Civil Society | Tada Imada, J-STAGE](https://www.jstage.jst.go.jp/article/janpora/5/2/5_2_73/_article/-char/ja/)
-- [Methodological Debates in Bioethics and Contemporary Japanese Society | Atsuki Kuga and Kenichi Maekawa, J-STAGE](https://www.jstage.jst.go.jp/article/jabedit/9/1/9_KJ00002059091/_article/-char/ja/)

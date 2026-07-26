@@ -17,10 +17,3 @@ You can see the BBS legacy across contemporary Japanese platforms. Comment secti
 The costs arrived early as well. Where speech becomes easy, defamation and rumor become easy. Where archives persist, harm can persist. Japan’s legal and institutional responses to online rights infringements have treated forums and platforms as more than neutral pipes, defining procedures for dealing with harmful content and, in some cases, seeking sender information disclosure. The `2001` act commonly known as the `Provider Liability Limitation Act` is one marker of that shift: it treats online posting as speech with real-world consequences, and it makes “who hosts a space” part of the accountability conversation. This is the hard underside of BBS culture. The same low barrier that makes participation possible also makes abuse scalable, and moderation becomes labor.
 
 A BBS, then, is not simply “old internet.” In Japan it is a foundational model of public speech built out of threads, timing, and collective text work. It taught people how to argue without faces, how to form communities without introductions, and how to turn writing into a shared performance. Even if today’s conversations happen elsewhere, Japan’s internet still carries the memory of the bulletin board in its sentence rhythms and its crowd instincts. Much of what seems new online is still threaded like that.
-
-Sources:
-- [WWW掲示板を用いた電子コミュニティ形成過程に関する研究 | J-STAGE](https://www.jstage.jst.go.jp/article/jssp/14/3/14_KJ00004622704/_article/-char/ja)
-- [インターネットの匿名性によるDeindividuationとオンライン・コミュニティの秩序 | J-STAGE](https://www.jstage.jst.go.jp/article/jasi/22/0/22_0_138/_article/-char/ja)
-- [特定電気通信による情報の流通によって発生する権利侵害等への対処に関する法律（平成十三年法律第百三十七号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/413AC0000000137)
-- [Bulletin board system | Encyclopaedia Britannica](https://www.britannica.com/technology/bulletin-board-system)
-- [5ch（5ちゃんねる）](https://www.5ch.net/)

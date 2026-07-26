@@ -19,10 +19,3 @@ That contradiction has become harder to ignore since the 1990s. Economic stagnat
 Recent policy language shows the direction of pressure. In 2024 the Cabinet Secretariat issued job-based human-resources guidelines arguing for a labor market in which careers are not simply bestowed by companies. That marks a real shift in official tone. Yet Japan has not become a pure external labor market, and it probably will not in one jump. The more likely outcome is a layered system in which long-term employment survives for some core workers while job-based pay, mid-career mobility, and specialist hiring expand around it.
 
 That is why lifetime employment still matters as a key to understanding Japan. It explains the power companies once held over biography itself, the emotional weight of job change, and the continuing tension between security and flexibility. The symbol still has force. Watch the new recruits line up in April and the old promise is still there, even if everyone in the room knows it no longer covers the whole workforce in the way it once seemed to.
-
-Sources:
-- [Changes in the Employment System Over the Course of History | JILPT Research Eye](https://www.jil.go.jp/english/researcheye/bn/RE028.html)
-- [The Future of the Japanese-Style Employment System | JILPT Research Eye](https://www.jil.go.jp/english/researcheye/bn/RE025.html)
-- [転職者が過去最多 | 総務省統計局](https://www.stat.go.jp/data/roudou/topics/topi1230.html)
-- [ジョブ型人事指針 | 内閣官房](https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/jobgatajinji.pdf)
-- [2025年3月卒業予定者の就職・採用活動に関する要請 | 内閣官房](https://www.cas.go.jp/jp/seisaku/shushoku_katsudou_yousei/2024nendosotu/betten4.pdf)

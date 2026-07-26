@@ -17,11 +17,3 @@ This helps explain why the term is so revealing for understanding Japan. The cou
 The field, however, is under strain. The cooperative style that gives Japanese civil society some of its practical reach can also make organizations dependent on subsidies and municipal contracts. Independence becomes harder to sustain when budgets are fragile. Many groups face aging staff, weak fundraising capacity, and heavy administrative burdens. There is also a recurring argument over whether Japanese civil society is too soft, too local, or too service-oriented to challenge power effectively. Yet its quieter forms may also be exactly what have allowed it to endure and to gain trust in places where overt confrontation has limits. The tension is not between presence and absence. It is between different models of what public action should look like.
 
 Go back to that school gym, once the emergency phase has started to settle. Someone is checking supplies. Someone is translating for a foreign resident family. Someone is lining up children's activities in a corner so parents can talk to officials. None of this abolishes the state. None of it is reducible to private charity either. It is the public work citizens do beside the state, sometimes with it, sometimes in front of it, sometimes because it has arrived too slowly. That is what `Civil Society` means in Japan: not a heroic slogan, but a durable and contested practice of citizens making public life possible.
-
-Sources:
-- [Trends in Certified and Approved NPO Corporations | NPO Homepage](https://www.npo-homepage.go.jp/about/toukei-info/ninshou-seni?theme=6)
-- [Basic Information on NPOs | NPO Homepage](https://www.npo-homepage.go.jp/about/)
-- [Public Interest Corporations and Specified Nonprofit Corporations | Cabinet Office](https://www.cao.go.jp/others/koeki_npo/index.html)
-- [NPOs as a Barometer of a Comfortable and Mature Civil Society | HIGHLIGHTING Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201901/201901_01_jp.html)
-- [Comparative Empirical Research on Three Levels of Civil Society Structures and Governance | Ministry of Education, Culture, Sports, Science and Technology](https://www.mext.go.jp/a_menu/shinkou/hojyo/1300571.htm)
-- [Earthquake NPOs and a New Civil Society | Tada Imada, J-STAGE](https://www.jstage.jst.go.jp/article/janpora/5/2/5_2_73/_article/-char/ja/)

@@ -15,11 +15,3 @@ Slow travel also comes in a city version, and Kyoto has been unusually direct ab
 The friction point is that slow travel is not the same as unplanned travel. In rural Japan, buses can be infrequent and last trains can be early. In historic towns, shops can close sooner than you expect. Staying longer means you have to learn a place’s timetable, not just its highlights, and that can require more preparation than a whirlwind trip. You also have to accept that the “right” thing to do may be nothing at all for an hour: sitting by a river, waiting for a local train, watching a market pack up. There is also the budget reality: extra nights cost money, and the trade-off has to feel worth it. The best slow itineraries make the savings elsewhere—fewer intercity tickets, fewer impulse admissions, fewer taxis taken in panic.
 
 When it works, slow tourism changes what you remember. You recall the morning you walked the same lane twice, once in daylight and once after dinner. You remember a shopkeeper who recognized you because you returned. You notice the way a town’s sounds change at different hours. Japan is famous for smooth movement. Slow tourism is a choice to spend that smoothness on staying, to let one place grow detailed instead of collecting many places as blur.
-
-Sources:
-
-- Travel Japan / JNTO, “The rise of ‘slow travel’ in Japan (and how to do it properly)” (2022-09-20) https://www.japan.travel/en/au/media-releases/the-rise-of-slow-travel-in-japan-and-how-to-do-it-properly/
-- Travel Japan / JNTO, “Traditional Town Stays” https://www.japan.travel/en/heritage-stays/traditional-town-stays/
-- Travel Japan / JNTO, “Countryside Stays in Japan (Homestay / Farmstay)” https://www.japan.travel/en/guide/homestay-farmstay/
-- JNTO, inbound visitor statistics press release (2026-01-21) https://www.jnto.go.jp/news/press/20260121_monthly.html
-- Kyoto Travel, “Sustainable Tourism” https://kyoto.travel/en/sustainable-tourism/

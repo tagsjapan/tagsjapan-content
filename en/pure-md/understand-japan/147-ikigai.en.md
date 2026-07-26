@@ -20,11 +20,3 @@ In contemporary Japanese life, `ikigai` remains a gentle word with sharp relevan
 
 That ordinariness is exactly what makes the concept politically important. Japan’s official frameworks for aging policy aim for a society where people can live with security and “with ikigai” across the life course. That aspiration is not sentimental. In a super-aging society, a large share of the population will spend many years outside full-time employment, and the difference between “living longer” and “living well” becomes a national issue. `Ikigai（生き甲斐）` is one of the words Japan uses to name the human side of that structural reality.
 If you return to the community center chairs and the potted plants, you can see what the concept is really pointing at. `Ikigai` is not a slogan about chasing your dream. It is the everyday practice of staying tethered—to people, to tasks, to roles, to routines—so that life continues to feel inhabitable. Japan talks about it so often because it needs that tether to hold.
-
-Sources:
-- [神谷美恵子の「生きがい」と人生の意味 | J-STAGE](https://www.jstage.jst.go.jp/article/jjprs/3/1/3_1/_article/-char/ja/)
-- [生き甲斐意識尺度（Ikigai-9）の信度・妥当性 | J-STAGE](https://www.jstage.jst.go.jp/article/jph/59/7/59_433/_article/-char/ja/)
-- [高齢社会白書（2022年）生きがいの程度 | 内閣府](https://www8.cao.go.jp/kourei/whitepaper/w-2022/html/gaiyou/s1_3.html)
-- [高齢社会白書（2010年）社会的孤立と生きがい | 内閣府](https://www8.cao.go.jp/kourei/whitepaper/w-2010/zenbun/html/s1-3-3-01.html)
-- [高齢社会対策の基本的枠組み | 内閣府](https://www8.cao.go.jp/kourei/measure/a_3.html)
-- [高齢社会対策大綱（2012年）分野別基本施策 | 内閣府](https://www8.cao.go.jp/kourei/measure/taikou/h24/2-3.html)

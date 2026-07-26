@@ -17,10 +17,3 @@ A slogan cannot train a hand.
 The contemporary argument begins here. Craft succession is difficult: young people face unstable incomes, long apprenticeships, and regional decline that shrinks local markets. Even in non-traditional settings, the “artisan” story can become an excuse for overwork—celebrating endurance while ignoring the conditions that make endurance necessary. Meanwhile, the word `shokunin` is applied ever more widely, sometimes to mass-produced goods or short-term training, which can dilute the meaning and reduce a complex training culture to a decorative label. The question is no longer whether artisan spirit exists. It is who can afford to live it, and what a society must pay to keep skill transmission real rather than theatrical: apprenticeships that do not collapse into exploitation, pricing that reflects labor, and institutional support that does not merely celebrate skill after it is already disappearing.
 
 Understanding `Artisan Spirit` helps explain a recurring Japanese tension: the country’s pride in disciplined quality versus the modern pressures that make disciplined work harder to sustain. The ideal remains persuasive because it captures something true about how skill is formed—slowly, socially, with care. But the ideal becomes dangerous when it hides costs. Japan’s public recognition systems, heritage protections, and industrial policies all try, in different ways, to keep skill from disappearing into private hardship. To read “artisan spirit” carefully is to see both the beauty of craft discipline and the institutional scaffolding it requires.
-
-Sources:
-- [「卓越した技能者（現代の名工）」表彰制度のコーナー | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/meikou/index.html)
-- [無形文化財（工芸技術）の保護 | 文化庁](https://www.bunka.go.jp/seisaku/bunkazai/kougei_hogo/index.html)
-- [伝統的工芸品 | 経済産業省](https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/index.html)
-- [伝統的工芸品について | 伝統的工芸品産業振興協会](https://kyokai.kougeihin.jp/traditional-crafts/)
-- [craftsmanship | Encyclopaedia Britannica](https://www.britannica.com/topic/craftsmanship)

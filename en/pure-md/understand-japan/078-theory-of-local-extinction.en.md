@@ -19,11 +19,3 @@ The updated discussion in `2024` showed both continuity and adjustment. The `Pop
 A concrete effect of the theory has been administrative. Municipalities across Japan have had to produce local population visions, economic strategies, relocation incentives, child-rearing support plans, and other documents meant to show that decline can be slowed or redirected. The phrase became a machine for governance as much as a diagnosis. It pressed local leaders to measure themselves against national expectations and pushed the central state to fund programs under the banner of saving local futures. The politics of the term lies partly in that pressure. It tells places they must prove they are still sustainable.
 
 `Theory of Local Extinction` endures because it names a fear Japan has not solved. The country knows how to count depopulation, rank municipalities, and launch strategies against decline. It is far less certain how to redistribute opportunity away from its strongest urban cores or how to imagine a smaller local Japan without treating smaller as lost. That unresolved tension keeps the phrase alive. It is more than a slogan about rural crisis. It is a window into how Japan thinks, worries, and governs when demography starts to look like destiny.
-
-Sources:
-- [Municipal Sustainability Analysis Release Page | HIT / Population Strategy Council](https://www.hit-north.or.jp/information/2024/04/24/2171/)
-- [2024 Municipal Sustainability Analysis Report | HIT / Population Strategy Council](https://www.hit-north.or.jp/cms/wp-content/uploads/2024/04/01_report-1.pdf)
-- [Regional Revitalization Long-term Vision and Comprehensive Strategy | Office for Regional Revitalization](https://www.chisou.go.jp/sousei/mahishi_index.html)
-- [Regional Revitalization Long-term Vision Revised Edition 2019 | Office for Regional Revitalization](https://www.chisou.go.jp/sousei/info/pdf/r1-12-20-vision.pdf)
-- [Regional Population Projections 2023 | National Institute of Population and Social Security Research](https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/t-page.asp)
-- [Second Phase Comprehensive Strategy Revised 2020 | Office for Regional Revitalization](https://www.chisou.go.jp/sousei/info/pdf/r02-12-21-senryaku2020.pdf)

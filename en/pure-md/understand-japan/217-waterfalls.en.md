@@ -20,10 +20,3 @@ With popularity comes administration. Waterfalls are high-risk spaces for very o
 There is also a translation problem. Practices that once belonged mainly to religious or local contexts are now often re-presented as “experiences,” with equipment, scheduling, and guided framing. This can be respectful, and it can also be flattening. A waterfall is increasingly expected to serve `3` publics at once: practitioners who treat it as discipline, locals who treat it as a place of memory, and outsiders who treat it as a shareable image. The tension is not solved by banning access or by selling access. It is solved, when it is solved, by keeping the waterfall’s seriousness intact even as the mode of approach changes.
 
 `Waterfalls（瀑布）` help you understand Japan because they show how the country repeatedly reads nature as active rather than decorative. A waterfall is water shaped by terrain, and terrain shaped by a restless archipelago; it is also a place shaped by practice, and practice shaped by social rules about how to approach shared space. When you take waterfalls seriously, they stop being “pretty spots” and start looking like a Japanese method: turn a force of nature into a structured relationship—ritualized, administered, and remembered—without pretending the force has been domesticated. That combination of raw power and careful framing is one of Japan’s recurring ways of living close to nature without pretending it has been made harmless.
-
-Sources:
-- [Japanese Archipelago | Ministry of the Environment (Wetland in Japan)](https://www.env.go.jp/en/nature/npr/wetland/archi.html)
-- [日本の気候 | 気象庁](https://www.jma.go.jp/jma/kishou/know/kisetsu_riyou/tenkou/Average_Climate_Japan.html)
-- [Misogi | Kokugakuin University (Encyclopedia of Shinto)](https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8723)
-- [National Parks of Japan | Ministry of the Environment](https://www.env.go.jp/en/np/index.html)
-- [List of National and Quasi-National Parks | Ministry of the Environment](https://www.env.go.jp/en/nature/nps/park/parks/index.html)

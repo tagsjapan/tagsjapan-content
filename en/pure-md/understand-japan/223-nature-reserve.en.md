@@ -21,10 +21,3 @@ Concrete examples show how the layers stack. `Shirakami-Sanchi（白神山地）
 If you want to understand Japan’s broader environmental governance style, the “nature reserve” system is a good lens. It shows a preference for layered categories, for negotiated coexistence, and for rules that can be adjusted over time rather than fixed forever. It also shows that conservation is not only a matter of values. It is a matter of sustained capacity: the ability to keep monitoring, to keep maintaining, and to keep enforcing boundaries in a society that is changing as fast as its climate and its demography.
 
 `Nature Reserve（自然保護區）` helps you understand Japan because it turns an abstract idea—protect nature—into an observable institutional practice. In Japan, protection is not a single fence around a single place. It is a set of overlapping systems that decide where nature can be used, where it must be left alone, and how those decisions are paid for and maintained. The landscape may look calm. The work that keeps it that way is continuous. It is also a social agreement: the state sets categories, local actors live with restrictions, and “reserve” stays meaningful through everyday compliance and periodic adjustment. When the agreement breaks—through overuse, neglect, or unmanaged conflict—protection becomes a word without operating power.
-
-Sources:
-- [Nature Conservation in Japan (Section 4) | Ministry of the Environment](https://www.env.go.jp/en/nature/npr/ncj/section4.html)
-- [Wilderness Areas and Nature Conservation Areas | Ministry of the Environment](https://www.env.go.jp/en/nature/nps/wanca.html)
-- [Biodiversity Center of Japan](https://www.biodic.go.jp/english/)
-- [List of National and Quasi-National Parks | Ministry of the Environment](https://www.env.go.jp/en/nature/nps/park/parks/index.html)
-- [Ogasawara Islands | UNESCO World Heritage](https://whc.unesco.org/en/list/1362/)

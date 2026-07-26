@@ -19,10 +19,3 @@ There is also a dividing line that matters: who gets DX and who does not. Large 
 That layered reality is why DX in Japan is always partly a story about inequality—between organizations, regions, and job categories.
 
 For understanding Japan, DX is valuable because it reveals how modernization happens here: through reports, codes, rankings, and new agencies that try to shift behavior without breaking continuity. Japan does not lack ambition; it often lacks bandwidth inside legacy structures. The future, in many cases, is not blocked by the absence of tools. It is blocked by yesterday’s workflows, embedded so deeply that they feel like common sense. DX is Japan’s effort to make that common sense negotiable.
-
-Sources:
-- [DX Report: Overcoming the “2025 cliff” (DXレポート) | METI](https://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/20180907_report.html)
-- [Digital Governance Code (デジタルガバナンス・コード) | METI](https://www.meti.go.jp/policy/it_policy/investment/dgc/dgc.html)
-- [Digital Transformation Stock (DX銘柄) | METI](https://www.meti.go.jp/policy/it_policy/investment/keiei_meigara/dx_meigara.html)
-- [Priority Policy Program for a Digital Society (デジタル社会の実現に向けた重点計画) | Digital Agency](https://www.digital.go.jp/policies/priority-policy-program)
-- [DX Trend 2025 (DX動向2025) | IPA](https://www.ipa.go.jp/digital/chousa/dx-trend/dx-trend-2025.html)

@@ -19,10 +19,3 @@ That concentration produces a domestic imbalance that is not incidental; it is s
 There is another tension, quieter but increasingly important: who the global city serves. Global-city policy is often written with high-end business in mind—finance, headquarters functions, global conferences, elite talent. But internationalization is also a matter of everyday life for foreign residents and for ordinary citizens who live inside the same housing market and the same public space. Immigration statistics show foreign residents as a visible part of Japan’s urban reality, and a global city that cannot offer multilingual administration, fair access, and social inclusion will struggle to convert “international” into long-term attractiveness. A city can look global on brochures and still feel closed at street level.
 
 Global City is useful for understanding Japan because it clarifies how the country practices internationalization: not as an even national diffusion, but as a concentrated node strategy. Japan builds a few high-density platforms and asks them to carry the weight of global connection. Tokyo is the largest of these platforms, and it reveals both the power and the costs of that approach. The city’s strength is not only that it shines; it is that it coordinates. The question that hangs over Japan is whether coordination can be made more distributive—whether the switchboard can send more current outward, rather than drawing it in and keeping it in the core.
-
-Sources:
-- Tokyo Metropolitan Government (TMG), “Tokyo: The World’s Most Brilliant City” strategy materials
-- Tokyo Metropolitan Government (TMG), “International Financial City Tokyo” initiative materials
-- Ministry of Land, Infrastructure, Transport and Tourism (MLIT), policies on strengthening international competitiveness of cities
-- Mori Memorial Foundation, Global Power City Index (GPCI) reports and methodology
-- Immigration Services Agency of Japan, statistics on foreign residents in Japan

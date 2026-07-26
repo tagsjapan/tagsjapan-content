@@ -17,11 +17,3 @@ The benchmark, however, has always been selective. Rapid growth brought environm
 That distinction matters today because nostalgia can flatten the period into a golden age. The institutions created during those years were real achievements, but many were built for a younger, expanding, industrializing society. Trying to recover the growth rate without asking whether the underlying demography, global economy, and domestic social structure still match that world is a category mistake. Japan continues to inherit the roads, factories, commuter lines, corporate habits, and middle-class ideals of the high-growth era. It cannot inherit the exact conditions that made them possible, and it cannot export the environmental and social costs that were hidden inside the old miracle.
 
 That is why the departing Shinkansen of 1964 still works as more than a souvenir image. It captures a country discovering how fast it could reorganize itself when finance, industry, labor, and state policy all pointed in the same direction. The trains still run, the expressways still carry traffic, and the apartment blocks still house families shaped by that earlier surge. The age itself is over. Its infrastructure, habits, and expectations are still very much alive, and so is the argument over what remains worth keeping from that fast, uneven transformation in daily Japanese life.
-
-Sources:
-- [Restructuring of the Japanese Economy | Bank of Japan](https://www2.boj.or.jp/archive/announcements/press/koen_2003/ko0310e.htm)
-- [From the High-Growth Period to the Stable-Growth Period | Bank of Japan](https://www.boj.or.jp/research/wps_rev/rev_2012/rev12j17.htm)
-- [OECD Economic Surveys: Japan 1970 | OECD](https://www.oecd.org/en/publications/oecd-economic-surveys-japan-1970_eco_surveys-jpn-1970-en.html)
-- [OECD Economic Surveys: Japan 1973 | OECD](https://www.oecd.org/en/publications/1973/07/oecd-economic-surveys-japan-1973_g1g16ec3.html)
-- [Labour Force by Industry | Statistics Bureau of Japan](https://www.stat.go.jp/data/roudou/sangyo.html)
-- [Manufacturing White Paper 2024 | METI](https://www.meti.go.jp/report/whitepaper/mono/2024/index.html)

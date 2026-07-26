@@ -15,10 +15,3 @@ There is, however, a useful expectation correction. "Women-only" can mean severa
 What this lodging type quietly demonstrates is how mature solo female travel has become in Japan. The infrastructure exists because the pattern of movement exists. Women travel alone for business, for performances and fan events, for hiking and pilgrimage, for weekend breaks, and because they want to. The accommodation sector has responded by translating that reality into rooms, policies, and circulation systems. The result feels very Japanese in the best sense: rather than announcing safety as an abstraction, it manages the hallway, the bath entrance, the mirror, the locker, and the late-night return.
 
 The practical advice is to look past the label and read the mechanics. Check whether the property is fully women-only or partly zoned. Confirm baggage rules, curfew or access hours, and bath arrangements if there is a public bath. Choose station convenience over a small rate difference if you will be returning alone late. Read recent reviews for how secure and well managed the access system actually feels after dark. And recognize what you are paying for. In Japan, women-only accommodation is not a novelty to collect. It is a piece of travel infrastructure, as ordinary and as consequential as the last train home.
-
-Sources:
-
-- Ladies Plan Guide, Rakuten Travel: https://travel.rakuten.co.jp/premium/ladies/
-- 5 Female-Friendly Tokyo Capsule Hotels, JNTO: https://www.japan.travel/en/uk/inspiration/5-female-friendly-tokyo-capsule-hotels/
-- A Capsule Hotel at the Mt. Fuji Trailhead, JNTO: https://www.japan.travel/en/experiences-in-japan/2843/
-- NADESHIKO HOTEL SHIBUYA: https://www.nadeshikohotel.jp/shibuya/

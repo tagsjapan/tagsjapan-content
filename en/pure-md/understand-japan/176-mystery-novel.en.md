@@ -19,10 +19,3 @@ A clue is a piece of social life turned into a fact.
 The genre’s contemporary life also shows how Japanese storytelling moves across media. Nippon.com’s `2024` interview profile of `Yuzuki Yuko（柚月裕子）` points to a world in which mystery fiction is routinely adapted into film and television, and in which genre boundaries are looser than the export stereotypes suggest. Outside Japan, “Japanese mystery” is often packaged as locked rooms and ornate logic. Inside Japan, the reading landscape is much wider: police procedurals, courtroom narratives, hardboiled crime, family-centered suspense, regional noir, and puzzle games that borrow social texture.
 
 `Mystery Novel（推理小説）` helps you understand Japan because it turns the country’s strongest cultural habits into narrative form. It takes procedure and makes it pleasurable. It takes social pressure and makes it legible. And it shows a characteristic Japanese way of sustaining an art: build institutions, build standards, build a community that keeps the craft alive through continuous argument. A Japanese mystery promises an answer, but the enduring fascination is the system it uses to get there—logic on one track, society on the other, both running at once.
-
-Sources:
-- [Edogawa Ranpo’s World of Mystery and Terror | Nippon.com](https://www.nippon.com/en/japan-topics/g01199/)
-- [The Edogawa Rampo Memorial Center for Popular Culture Studies | Rikkyo University](https://english.rikkyo.ac.jp/research/research_institutes/rampo.html)
-- [An Honest Look at Matsumoto Seicho, Japan’s Master of Detective Fiction | Nippon.com](https://www.nippon.com/en/japan-topics/g00678/an-honest-look-at-matsumoto-seicho-japan%E2%80%99s-master-of-detective-fiction.html)
-- [Matsumoto Seicho Memorial Museum (top) | Seicho-mm.jp](https://www.seicho-mm.jp/)
-- [A Life in Mystery: The Literary World of Japanese Author Yuzuki Yuko | Nippon.com](https://www.nippon.com/en/japan-topics/bg900524/)

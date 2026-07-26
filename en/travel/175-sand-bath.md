@@ -50,7 +50,3 @@ What stays in memory is the feeling of being held down gently by warmth and eart
 By the time you step back out and the sea air hits skin that has just been heated from all sides, the experience makes more sense than any explanation can. Japan did not invent the idea that earth can heal or soothe. It did, characteristically, turn that idea into a precise, repeatable piece of travel culture.
 
 That precision is a large part of the pleasure. A sand bath might sound primitive in the abstract, but in Japan it becomes carefully timed, cleaned, staffed, and folded into a wider bathing sequence. This matters for travelers, because it means the experience is not merely survivable but interpretable. You know what to do next, how long to stay, and why the rinse and soak afterward matter. The result is a rare combination: a genuinely odd sensation delivered through a system that keeps it from feeling chaotic. In a country full of beautiful baths, the sand bath remains memorable because it asks more of the body while still giving the traveler a structure sturdy enough to relax into.
-- Travel Japan / JNTO, Ibusuki Onsen: https://www.japan.travel/en/spot/606/
-- Ibusuki Sunamushi Kaikan Saraku, Sand Bath Experience Guide: https://www.ibusuki-saraku.jp/en/guide
-- Travel Japan / JNTO, Beppu Beach Sand Bath: https://www.japan.travel/en/spot/718
-- Travel Japan / JNTO, Beppu Onsen: https://www.japan.travel/en/spot/716/

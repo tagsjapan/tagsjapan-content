@@ -19,11 +19,3 @@ Modern momiji culture, however, sits inside commercial and administrative pressu
 Concrete examples show how flexible the tradition is. JNTO’s profile of Korankei frames a valley landscape turned into a national autumn event, illustrating how a place can become synonymous with a seasonal color. The same logic can operate in more sacred space. JNTO’s feature on autumn leaves at `Ise Jingū（伊勢神宮）` shows kōyō folded into shrine atmosphere, where the leaves do not replace ritual meaning but add another layer to it. In national parks, kōyō becomes yet another kind of public asset—linked to conservation rules, seasonal access, and the broader idea that landscapes are shared commons that require care.
 
 `Momiji（紅葉）` helps you understand Japan because it reveals a style of seasonal awareness that is inseparable from movement, cultural memory, and regional difference. It shows how nature becomes a sequence of emotion without needing to be a formal holiday, and how a country with strong geographic variation turns that variation into a shared conversation. It also trains attention to timing, because the season arrives in layers rather than as a single dramatic switch. Momiji is not only “beautiful leaves.” It is a social technology for noticing change—slowly, unevenly, and together.
-
-Sources:
-- [History & Culture of Koyo | JNTO](https://www.japan.travel/en/au/experience/autumn-leaves/history-culture-koyo/)
-- [Autumn Leaves | JNTO](https://www.japan.travel/en/things-to-do/nature/autumn-leaves/)
-- [Autumn in Japan's National Parks | National Parks of Japan](https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/autumn-in-japans-national-parks/)
-- [Kimono with Autumn Leaf Patterns | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202109/202109_06_en.html)
-- [Korankei Gorge Autumn Leaves | JNTO](https://www.japan.travel/en/spot/137/)
-- [The Autumn Leaves at Ise Jingu | JNTO](https://www.japan.travel/en/japans-local-treasures/autumn-leaves-ise-jingu-2020/)

@@ -17,11 +17,3 @@ No ministry can speak the memory away.
 Decommissioning and waste make the burden heavier still. Japan is not only deciding how many reactors should operate. It is also deciding how long the country must live with the afterlife of older reactors, contaminated facilities, spent fuel, and cleanup schedules measured in decades. Those issues rarely carry the symbolic drama of a restart vote, but they shape the field just as profoundly. Nuclear policy in Japan is therefore not a single choice between support and opposition. It is a continuing effort to rank difficult risks: import dependence against accident memory, carbon reduction against trust, industrial necessity against the knowledge that failure radiates outward far beyond the plant boundary. The issue endures because necessity and memory keep refusing to separate cleanly.
 
 That is why `Nuclear Energy Policy` remains so politically charged in modern Japan. It condenses the country's dependence on imported energy, its climate ambitions, its faith in engineering, its vulnerability to catastrophe, and its unresolved problem of trust. A reactor may be a machine, but in Japan it is also a social question. The country keeps operating inside the contradiction rather than escaping it, and that is precisely what makes the subject such a revealing guide to the way Japan governs under pressure. The policy survives, but only as a permanently argued compromise, revised every time the country tries to imagine its energy future.
-
-Sources:
-- [Strategic Energy Plan | Agency for Natural Resources and Energy](https://www.enecho.meti.go.jp/category/others/basic_plan/)
-- [Nuclear Power Policy | Agency for Natural Resources and Energy](https://www.enecho.meti.go.jp/category/electricity_and_gas/nuclear/)
-- [What is S+3E? | Agency for Natural Resources and Energy](https://www.enecho.meti.go.jp/en/category/special/article/detail_172.html)
-- [Nuclear Regulation Authority | NRA](https://www.nra.go.jp/english/)
-- [Information on the Fukushima Daiichi Nuclear Power Station Accident | TEPCO](https://www.tepco.co.jp/en/decommission/index-e.html)
-- [Current State of Reconstruction and Challenges | Reconstruction Agency](https://www.reconstruction.go.jp/english/)

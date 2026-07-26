@@ -17,11 +17,3 @@ The strengths of that design are obvious. Waste does not simply vanish into an a
 This is where the newer circular-economy language becomes important. Plastics policy, reusable design, and zero-waste experiments are attempts to push the logic further back toward production and consumption. Kamikatsu in Tokushima Prefecture became famous for precisely this reason. It was not simply sorting more finely than other places. It was treating disposal habits as a local social experiment and asking whether a community could reorganize daily life around a stronger anti-waste ethic. The point of such cases is not that all of Japan now lives like Kamikatsu. It is that the recycling society is no longer judged only by collection rates, but by whether it can reduce the need for disposal in the first place.
 
 `Recycling Society` therefore belongs at the center of any serious picture of contemporary Japan. It reveals a country trying to make dense consumption compatible with limited space, finite resources, and a desire for public order. It also reveals a characteristic Japanese compromise: rather than waiting for a single grand ecological conversion, the system distributes responsibility into schedules, categories, labels, municipal notices, and sector-specific laws. The result can feel burdensome. It can also feel remarkably effective. In Japan, throwing something away is never just an individual act. It is one of the places where the whole social machine quietly shows itself on the ground every week.
-
-Sources:
-- [Basic Act for Establishing a Sound Material-Cycle Society | Ministry of the Environment](https://www.env.go.jp/recycle/circul/kihonhou/)
-- [Fundamental Plan for Establishing a Sound Material-Cycle Society | Ministry of the Environment](https://www.env.go.jp/recycle/circul/keikaku.html)
-- [Home Appliance Recycling System | METI](https://www.meti.go.jp/policy/it_policy/kaden_recycle/)
-- [Plastic Resource Circulation | Ministry of the Environment](https://www.env.go.jp/recycle/plastic/)
-- [Circular Economy Policies | Ministry of the Environment](https://www.env.go.jp/recycle/)
-- [Zero Waste Town Kamikatsu](https://zwtk.jp/)

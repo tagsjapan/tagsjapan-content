@@ -17,10 +17,3 @@ Japan’s carbon-neutrality debate is also a debate about constraints. Energy se
 Net zero is a number. In Japan, it is also a negotiation over what kind of industrial country Japan wants to remain.
 
 For understanding Japan, carbon neutrality is useful because it shows the country’s governing instincts under pressure. Japan rarely treats a long-term challenge as a purely ideological fight; it tends to translate pressure into frameworks, plans, and staged targets that can be implemented through institutions. That habit can look slow, even evasive. It can also be a way of keeping multiple actors moving without pretending the trade-offs have disappeared. `2050` is a promise. The more interesting story is how Japan builds the machinery—laws, plans, subsidies, standards, inventories—that tries to make a promise behave like a schedule.
-
-Sources:
-- [2050 Green Growth Strategy (2050年カーボンニュートラルに伴うグリーン成長戦略) | METI](https://www.meti.go.jp/policy/energy_environment/global_warming/ggs/index.html)
-- [The Basic Policy for the Realization of GX (GX実現に向けた基本方針) | Cabinet Secretariat (PDF)](https://www.cas.go.jp/jp/seisaku/gx_jikkou_kaigi/pdf/kihon.pdf)
-- [Toward the realization of 2050 Carbon Neutrality (2050年カーボンニュートラルの実現に向けて) | Ministry of the Environment](https://www.env.go.jp/earth/2050carbon_neutral.html)
-- [Carbon Neutral Portal (脱炭素ポータル) | Ministry of the Environment](https://ondankataisaku.env.go.jp/carbon_neutral/index.html)
-- [Japan’s annual greenhouse gas emissions and removals (温室効果ガス排出量及び吸収量算定結果) | Ministry of the Environment](https://www.env.go.jp/earth/ondanka/ghg-mrv/emissions/index.html)

@@ -48,7 +48,3 @@ There is also a cultural detail hidden in the category. Japan's railway system a
 The category also teaches something useful about Japanese gradations of service. Public systems here often avoid the all-or-nothing split between standard and luxury. Instead they offer increments: a little more space, a little more quiet, a little less uncertainty. The `Green Car` fits that pattern exactly. It is why the product works not just for conspicuous spenders but for ordinary travelers making a case-by-case decision on a specific route. The benefit is measurable, yet the social drama around the purchase remains remarkably low.
 
 So the real question is not whether the `Green Car` is worth it in the abstract. It is whether this particular stretch of Japan would be better encountered with more room to breathe. For some journeys the answer is plainly yes. For others, the ordinary car is already one of the great bargains in modern transport. A good traveler learns to tell the difference. When you do, the `Green Car` stops looking like a perk and starts looking like what it really is: one of the railway's quieter ways of managing human fatigue.
-- About JAPAN RAIL PASS: https://japanrailpass.net/en/about_jrp/
-- Train accommodations, JAPAN RAIL PASS: https://japanrailpass.net/en/about_jrp/vehicle/
-- Types and prices, JAPAN RAIL PASS: https://japanrailpass.net/en/purchase/price/
-- How to book a reserved seat, JAPAN RAIL PASS: https://japanrailpass.net/en/use/reserved-seat-reservation/

@@ -19,11 +19,3 @@ This is where the term's main contradiction appears. `Multicultural Coexistence`
 The link to labor policy makes that tension even clearer. As more people arrive through shortage occupations, the boundary between labor intake and community support becomes impossible to ignore. A worker who cannot understand local notices, disaster warnings, school procedures, or medical systems is not merely a labor-policy concern. That person is part of a community whose institutions may or may not be ready to include them. For that reason, `Multicultural Coexistence` has become entangled with labor shortages, regional revitalization, education policy, and disaster governance all at once.
 
 The phrase may sound soft, but it points to a hard institutional question: can Japan make local life legible to people who were once treated as temporary outsiders? The answer is now being written in multilingual forms, consultation desks, school support rooms, evacuation manuals, and administrative websites. That is why the term matters. It tells us that contemporary Japan is no longer only debating whether diversity exists. It is debating how much of the state and the municipality must change once diversity becomes ordinary.
-
-Sources:
-- [Revision of the Plan for the Promotion of Multicultural Coexistence in Local Communities | Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/menu_news/s-news/01gyosei05_02000138.html)
-- [Plan for the Promotion of Multicultural Coexistence in Local Communities Revised Edition | Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/main_content/000706218.pdf)
-- [Study Group Report on the Promotion of Multicultural Coexistence | Ministry of Internal Affairs and Communications](https://www.soumu.go.jp/main_content/000706219.pdf)
-- [Residence Support | Immigration Services Agency](https://www.moj.go.jp/isa/support/index.html)
-- [Daily Life Support Portal for Foreign Nationals | Immigration Services Agency](https://www.moj.go.jp/isa/support/portal/index.html)
-- [Foreign Residents Support Center FRESC | Immigration Services Agency](https://www.moj.go.jp/isa/support/fresc/fresc01.html)

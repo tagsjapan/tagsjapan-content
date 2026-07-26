@@ -19,12 +19,3 @@ The usefulness of the system is part of its political defense. `Michibiki` impro
 There are pressures everywhere in the field. Launch services have become fiercely competitive. Commercial players abroad have changed the economics and tempo of the market. Japanese policymakers speak more openly than before about security, supply chains, and strategic autonomy, which complicates the older narrative of purely peaceful scientific activity. The standing question is familiar: how to turn excellent research and careful engineering into an ecosystem thick enough to sustain private industry, new entrants, and repeated missions without losing control of quality. Japan's answer is usually incremental rather than theatrical, but the pressures are no less serious for being managed that way.
 
 `Space Development` is such a good guide to contemporary Japan because it joins several national habits in a single frame: long planning cycles, close state-industry coordination, technical pride, and a preference for proving capability through reliability rather than noise. A rocket leaving Tanegashima lasts a few minutes in the sky. The real achievement lies in everything built underneath that ascent, from the legal framework of `2008` to the institutions of `JAXA` to the satellite signals that quietly steady life back on the ground. It is also proof that Japan prefers durable capability to flamboyant claims.
-
-Sources:
-- [Basic Space Plan | Cabinet Office](https://www8.cao.go.jp/space/plan/plan2.html)
-- [JAXA Mission | Japan Aerospace Exploration Agency](https://global.jaxa.jp/about/mission/index.html)
-- [Launch Result of the second H3 Launch Vehicle (H3TF2) | JAXA](https://global.jaxa.jp/press/2024/02/20240217-1_e.html)
-- [The results of the Moon Landing by the Smart Lander for Investigating Moon (SLIM) | JAXA](https://global.jaxa.jp/press/2024/01/20240120-1_e.html)
-- [Conclusion of Lunar Activities of the Smart Lander for Investigating Moon (SLIM) | JAXA](https://global.jaxa.jp/press/2024/08/20240826-1_e.html)
-- [Quasi-Zenith Satellite System "Michibiki" | Cabinet Office](https://qzss.go.jp/)
-- [Tanegashima Space Center | JAXA](https://global.jaxa.jp/about/centers/tnsc/)

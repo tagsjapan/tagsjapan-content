@@ -17,9 +17,3 @@ Used well, though, the eco lodge does something rare in Japan travel. It turns a
 By morning, the lesson may be as small as refilling a bottle, separating waste, or noticing where breakfast ingredients were grown. Those details are modest, but that is the point. In a strong Japanese eco lodge, sustainability is not an abstract lecture delivered in the lobby. It is the set of ordinary decisions that makes a beautiful place inhabitable for one more night, and perhaps for many years after that.
 
 The best reason to include an eco lodge in a Japan itinerary, then, is not virtue signaling but calibration. It recalibrates what comfort means. A room can still be beautiful without endless disposables. A meal can feel richer because it belongs to the district rather than because it has flown in prestige ingredients. A host can be generous while still asking guests to save water, respect wildlife, or carry waste out carefully. Japan is particularly strong at this calibrated comfort, where restraint and polish are allowed to coexist. When the formula works, the traveler leaves not feeling deprived, but feeling that the place was treated with a seriousness ordinary hotels often conceal.
-
-Sources:
-- Travel Japan / JNTO, Eco-friendly Accommodation: https://www.japan.travel/en/sustainable/eco-friendly-accommodation/
-- Travel Japan / JNTO, Eco Lodges Japan in YUKIGUNI: https://www.japan.travel/en/japans-local-treasures/eco-lodges-japan-yukiguni-2022/
-- Travel Japan / JNTO, Japan's First Zero-Energy Hotel: https://www.japan.travel/en/japans-local-treasures/japans-first-zero-energy-hotel-2025/
-- Travel Japan / JNTO, Treeful Treehouse Sustainable Resort: https://www.japan.travel/en/expo2025/sightseeing/area-10/spot-29/

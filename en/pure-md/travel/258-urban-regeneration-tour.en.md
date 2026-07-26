@@ -15,11 +15,3 @@ If Tokyo and Yokohama show big-city regeneration, `ONOMICHI U2` is a reminder th
 Urban regeneration travel also comes with an expectation correction that’s worth naming. “Regeneration” is not always romantic. Sometimes it means a district that is safer and easier to walk, but also more expensive and more controlled. Public space can come with private rules. A restored building can become a shopping center that sells the idea of history more than the substance. This is not a reason to avoid the genre. It is the reason the genre is interesting: Japan’s regenerated districts are where you can watch the negotiation between memory and commerce, preservation and convenience, local identity and outside money.
 
 The best way to do an urban regeneration tour, then, is to treat it like reading rather than sightseeing. Walk more than you ride. Visit once in the middle of the day, then again in the evening to see what the space does when it is “in use.” Don’t isolate a single building from its streets: Marunouchi is as much about the stroll as the skyline, Yokohama’s warehouses are as much about the plaza as the brick, Onomichi U2 is as much about the waterfront rhythm as the rooms. You leave Japan with plenty of images. A regeneration tour gives you something else—a sense of how the country keeps old districts working, and how that work quietly shapes the trips we take through them.
-
-Sources:
-
-- MLIT City Bureau (urban policy): https://www.mlit.go.jp/en/toshi/
-- WHY TOKYO MARUNOUCHI, DMO TOKYO/Marunouchi: https://tokyo-marunouchi.jp/en/why_en
-- Yokohama Red Brick Warehouse — About: https://www.yokohama-akarenga.jp/about/
-- Yokohama Red Brick Warehouse — History: https://www.yokohama-akarenga.jp/about/history
-- ONOMICHI U2 (Official): https://onomichi-u2.com/en/

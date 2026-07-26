@@ -20,12 +20,3 @@ Japan’s `Production Green Land（生産緑地）` system shows how concrete th
 The contemporary contradiction is that more counted green does not always mean better experienced green. Rooftops and walls can raise greening ratios without creating places people can use or habitats that function well. Maintenance costs are real and persistent: watering, pruning, replanting, pest management, and long-term budgeting. That is why planners keep returning to stewardship—who waters, who prunes, who replaces, and what happens when a rooftop garden fails in midsummer. A project can look successful in year `1` and become a burden by year `5` if nobody owns the maintenance work. In an aging society with tight municipal finances, the hardest question is often not “how to plant,” but “how to keep.” Urban greening succeeds only when it becomes ordinary maintenance, not occasional enthusiasm.
 
 `Urban Greening（都市綠化）` helps you understand Japan because it shows how Japan tries to repair the livability of dense cities through layered institutions. It turns a sensory desire—shade, comfort, seasonal change—into law, plans, obligations, and infrastructure language. It also reveals the limits of that approach: policy can count green, but it cannot automatically produce quality or care. Japan’s urban greening story is therefore not about ideal landscapes. It is about governance trying to make greenery behave like a city service, and the ongoing struggle to keep that service real.
-
-Sources:
-- [Urban Green Space Conservation Act（Act No. 72 of 1973） | Japanese Law Translation](https://www.japaneselawtranslation.go.jp/en/laws/view/1006)
-- [緑化地域制度｜名古屋市](https://www.city.nagoya.jp/jigyou/douro/1026345/1026353.html)
-- [緑地計画及び緑の基本計画 | 国土交通省](https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000075.html)
-- [公園とみどり：政策課題 | 国土交通省](https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000071.html)
-- [グリーンインフラポータルサイト | 国土交通省](https://www.mlit.go.jp/sogoseisaku/environment/sosei_environment_tk_000010.html)
-- [緑の基本計画データベース | 国土交通省](https://www.mlit.go.jp/crd/park/joho/database/toshiryokuchi/midori_kihon/index.html)
-- [生産緑地制度 | 国土交通省](https://www.mlit.go.jp/toshi/park/toshi_city_plan_tk_000041.html)

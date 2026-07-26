@@ -15,9 +15,3 @@ Two operator models show how this works. Sakura House leans heavily on foreign-r
 The common mistake is to assume that a short-term apartment is always the superior choice because it sounds more authentic. It is not. If you will be out from early morning until the last train, eating every meal outside and changing cities often, a business hotel may be more efficient. Apartment stays tend to reward steadier patterns: one week or more, repeated errands, some self-catering, and a willingness to trade daily service for autonomy. The other trap is failing to read the fine print on minimum stay, cleaning fees, included utilities, and what "private" actually covers. In Japan, where room types can be described with great precision, those distinctions matter.
 
 Still, when a trip begins to stretch past the ordinary tourist frame, few lodging types explain Japan more quietly. You buy salt because your kitchen has a stove. You fold dry laundry on the bed. You learn which day the neighborhood puts out recyclables. In that moment the city stops behaving like a backdrop. A short-term apartment does not promise deep local belonging, and it certainly does not make you a resident. But it does something almost as interesting: it gives travel enough weight to settle, for a while, into everyday life.
-
-Sources:
-- [SAKURA HOUSE](https://www.sakura-house.com/en)
-- [SAKURA HOUSE: Services](https://www.sakura-house.com/en/about/service)
-- [SAKURA HOUSE: Apartment](https://www.sakura-house.com/en/about/apartment)
-- [Oakhouse: Apartments](https://www.oakhouse.jp/eng/apartment)

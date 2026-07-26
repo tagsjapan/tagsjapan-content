@@ -50,7 +50,3 @@ For trip planning, wagashi-making is a high-density pause that pairs well with p
 The biggest expectation correction is that this is not baking. There is no slow rise, no oven smell, no long wait. The workshop’s pressure is the opposite: you work quickly enough to keep shape, but gently enough not to smear it. Your hands learn the difference between “soft” and “too warm.” And you leave with a new kind of travel souvenir—not a product, but a muscle memory that helps you read Japan’s sweets counters and tea menus with more intelligence.
 
 Later, when you buy a seasonal wagashi from a shop, you notice the design choices you used to overlook. The line that suggests a leaf vein. The color that implies early spring rather than late spring. The name that turns a simple sweet into a miniature poem. Japan’s seasons are often sold through scenery and festivals. In a wagashi-making class, you hold the season directly, and you learn why a country obsessed with time would bother to make time taste sweet.
-- Wagashi, Travel Japan / JNTO: https://www.japan.travel/en/guide/wagashi/
-- TORAYA (official): https://www.toraya-group.co.jp/en/
-- TORAYA Museum (official): https://www.toraya-group.co.jp/en/company/museum/
-- Tea Ceremony, Travel Japan / JNTO: https://www.japan.travel/en/guide/tea-ceremony/

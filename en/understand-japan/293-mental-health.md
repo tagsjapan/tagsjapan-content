@@ -49,8 +49,3 @@ There is also a debate about what mental health is for. In corporate settings, i
 Inequality appears in the background. Large firms in big cities can access professional resources more easily; smaller workplaces and rural areas often rely on thinner networks and informal coping. Schools and communities can provide early support, but they also vary widely in capacity. A country can be good at talking about mental health and still leave many people with no practical route beyond endurance.
 
 Mental Health is therefore a useful lens for understanding contemporary Japan because it shows values in motion. Japan is slowly reclassifying distress: not merely a private matter, but something institutions must respond to. The pace of that change is uneven, and the old habits of silence still shape who arrives at the counter and who stays home. Yet the very existence of those emails and those public information sites suggests a new baseline: in Japan today, the mind is part of the public system, even when the public system still struggles to meet it.
-- Ministry of Health, Labour and Welfare (MHLW), Kokoro no Mimi (こころの耳)
-- MHLW, guidelines for promoting workers’ mental health (労働者の心の健康の保持増進のための指針)
-- MHLW, Stress Check System (ストレスチェック制度)
-- National Center of Neurology and Psychiatry, Kokoro Information Site (こころの情報サイト)
-- NIPPON COCORO ACTION, mental-health awareness and support initiatives

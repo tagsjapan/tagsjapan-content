@@ -47,7 +47,3 @@ Sendai Tanabata is best understood as a route, not a point. Start with the most 
 The expectation correction is simple: this is not a “quick stop.” Many first-time visitors think they will see the decorations, buy a snack, and move on. What actually happens is that you keep slowing down. Crowds create bottlenecks under the most elaborate displays. The heat makes you search for shade, which the arcades provide, which keeps you there longer. If you want a calmer experience, go early in the day, keep a water bottle, and treat the festival like a walk you have scheduled—not like incidental street décor you happen to pass.
 
 Late at night, when the shops begin to close and the crowd thins, the streamers keep moving above you, restlessly. The paper makes a soft, restless sound against the bamboo. You can still see the cutwork if you look up, but now it feels less like spectacle and more like evidence: thousands of hours of local effort, hung for three days, turning an ordinary shopping street into something closer to a shared summer memory.
-- Sendai Tanabata Festival Support Association, “About”: https://www.sendaitanabata.com/about/
-- Sendai Tanabata Festival Support Association, “Outline”: https://www.sendaitanabata.com/about/outline/
-- Sendai Tanabata Festival Support Association, “Decoration”: https://www.sendaitanabata.com/about/decoration/
-- Sendai Tanabata Festival Support Association, “Guide”: https://www.sendaitanabata.com/guide/

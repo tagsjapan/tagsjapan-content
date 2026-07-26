@@ -19,10 +19,3 @@ Its constitutional leverage gives everyday parliamentary procedure unusually hig
 That is why so much Japanese political reporting focuses on the lower house even when the upper house is also sitting. Poll numbers matter because they hint at the next general election. A by-election matters because it may signal erosion in the ruling party's base. A prime minister's timing matters because the power to dissolve the chamber turns election scheduling into strategy. Committee assignments, party endorsements, and district arithmetic all matter because the lower house is where cabinet fate turns from mood into count. Even a rumor of early dissolution can freeze policy debate, sharpen factional bargaining, and reorder the behavior of lawmakers who suddenly have to think like candidates again. To follow the House of Representatives is to follow the pulse of national politics in Japan.
 
 The building itself can look grand and still slightly remote, but the chamber's role is plain enough. Cabinets rise there. Majorities harden there. Crises become national there. When the order of dissolution is read and lawmakers start running, the spectacle is not just theater. It is the constitutional heart of Japanese government beginning to beat faster.
-
-Sources:
-- [衆議院の地位と役割 | 衆議院](https://www.shugiin.go.jp/internet/itdb_guide.nsf/html/statics/guide/structure.htm)
-- [衆議院議員総選挙制度 | 総務省](https://www.soumu.go.jp/senkyo/senkyo_s/seido/shugiin/)
-- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [国会の地位と役割 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/riyou/1.htm)
-- [Japanese Diet | Britannica](https://www.britannica.com/topic/Diet-Japanese-government)

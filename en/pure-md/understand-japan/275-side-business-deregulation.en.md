@@ -17,10 +17,3 @@ Debate follows the same line. Supporters describe side work as a route to autono
 Japan’s version of `Side Business Deregulation` is therefore not a simple trend story about a gig economy arriving late. It is a story about the loosening of a social contract. For decades, Japanese firms offered training and stability in exchange for time and loyalty. Side work challenges that exchange by suggesting that a person’s skills can belong to more than one organization—and that a career may need multiple pillars.
 
 Look again at the form. Its boxes—hours, disclosure, conflicts, approval—are a map of what Japan is trying to protect while it changes. The country is making room for plural work lives, but it is doing so through rules that keep responsibility traceable. That tells you something durable about Japanese reform. It tends to happen not through radical permission, but through administrative design: opening, clarifying, revising, and opening again.
-
-Sources:
-- [副業・兼業 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000192188.html)
-- [「副業・兼業の促進に関するガイドライン」（令和4年7月8日改定版） | 厚生労働省（PDF）](https://www.mhlw.go.jp/content/11200000/000962665.pdf)
-- [モデル就業規則 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/model/index.html)
-- [副業・兼業時の労働時間の通算のポイント（リーフレット） | 厚生労働省（PDF）](https://www.mhlw.go.jp/content/11200000/001079956.pdf)
-- [労働基準法（昭和二十二年法律第四十九号） | e-Gov法令検索 API](https://laws.e-gov.go.jp/api/1/lawdata/322AC0000000049)

@@ -17,11 +17,3 @@ Recent policy language has become more careful about personal choice. The Childr
 So the declining birthrate remains difficult not because Japan lacks awareness, but because awareness points toward reforms that cut into some of the country's oldest arrangements. Work would need to change. Gender expectations would need to change. Housing, education, and the distribution of care would need to change. Those are exactly the areas where institutional inertia is strongest. A low birthrate is therefore never only a demographic event. It is a report on how much confidence the young can place in the future, and on whether adulthood still looks sturdy enough to support long commitments.
 
 The empty classroom is still a good way to begin. It is not just a symbol of fewer babies. It is the visible edge of a broader social judgment, accumulated over years, about what kind of life feels possible. Japan's declining birthrate matters because it tells us where family policy, labor policy, gender order, and economic uncertainty meet. The problem starts before the cradle because it starts in the conditions under which adults decide whether a cradle will ever be needed, or prudently postponed for years on end.
-
-Sources:
-- [White Paper on Children's Policy 2025 | Children and Families Agency](https://www.cfa.go.jp/resources/white-paper/r07)
-- [Kodomo Mirai Strategy | Children and Families Agency](https://www.cfa.go.jp/resources/strategy)
-- [Promotion of the Kodomo Taiko | Children and Families Agency](https://www.cfa.go.jp/policies/kodomo-taikou/)
-- [Regional Grants for Declining Birthrate Measures | Children and Families Agency](https://www.cfa.go.jp/policies/shoushika)
-- [Provisional Vital Statistics for 2024 | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/geppo/nengai24/index.html)
-- [Population Projections for Japan 2023 | IPSS](https://www.ipss.go.jp/pp-zenkoku/j/zenkoku2023/pp_zenkoku2023.asp)

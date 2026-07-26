@@ -52,8 +52,3 @@ This way of changing has clear advantages. Because reforms are incremental, the 
 But the costs are just as real. Layering can produce complexity that feels like a maze: a system that has been “fixed” many times but never redesigned for the people now living inside it. Incrementalism can also become a moral excuse—an assumption that Japan will “eventually” repair itself, which delays the moments when deeper structural problems need to be confronted directly. Continuous Evolution therefore contains a contradiction: it is both the method that makes Japan durable and the habit that can make it slow to reimagine the foundations.
 
 To think in terms of Continuous Evolution is to watch Japan at the level where it truly changes: not only in speeches, but in checklists, procedures, and the quiet rewriting of routine. The paper taped to the machine is a small image, but it scales up. Japan is a country that learns through revision, especially after it is forced to. Whether that approach can handle the next set of pressures—demographics, technology, climate, inequality—depends on a final question that *kaizen* always implies: when do small fixes stop being enough?
-- Ministry of Economy, Trade and Industry (METI), manufacturing white paper (*ものづくり白書*)
-- Cabinet Office (Japan), Disaster Management in Japan white papers (*防災白書*)
-- Cabinet Office (Japan), “Society 5.0” policy materials
-- Japan International Cooperation Agency (JICA), KAIZEN program materials
-- Ministry of Health, Labour and Welfare (MHLW), “all-generation social security” policy materials

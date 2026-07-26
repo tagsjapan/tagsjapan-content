@@ -19,10 +19,3 @@ The business model makes the contradictions sharper. Agencies build intellectual
 VTubers also expose the global side of Japan’s contemporary culture industries. `Nijisanji` and `hololive` have built international branches and multilingual content strategies, turning Japanese-origin character entertainment into a global product line. This export works because the medium is already digital and because fans participate in the work of distribution—clipping, translating, promoting. The same participatory energy that once powered domestic subcultures now powers international reach.
 
 To understand VTubers in Japan is to understand a 21st-century answer to an old Japanese question: how to make intimacy safe, manageable, and sellable. The avatar offers distance, yet the format demands closeness. The result is an entertainment form that looks weightless and is, in fact, heavy with human effort. VTubers reveal how Japan’s character culture, platform economy, and talent management systems have fused into a new kind of public life—one where a digital face can carry very real expectations.
-
-Sources:
-- [ANYCOLOR Inc. (Corporate)](https://www.anycolor.co.jp/)
-- [にじさんじ (Nijisanji)](https://www.nijisanji.jp/)
-- [COVER Corp. (Corporate)](https://cover-corp.com/)
-- [hololive production](https://hololivepro.com/)
-- [Search results: VTuber 市場 調査 2025 | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=VTuber+%E5%B8%82%E5%A0%B4+%E8%AA%BF%E6%9F%BB+2025)

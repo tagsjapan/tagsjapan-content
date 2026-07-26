@@ -17,11 +17,3 @@ Japan’s institutions try to bridge that gap. The state maintains an architectu
 Yet the category also hides diversity. Some SMEs are high-skill manufacturers with niche global customers. Others are family-run service businesses whose biggest challenge is succession. Some are innovative, others are stuck, and many are both at once—skilled at what they have always done, uncertain about what comes next. When policymakers use the term “SME,” they are compressing a sprawling reality into something that can be governed.
 
 If you want a quick way to see the shape of Japan’s economy, watch what happens when an SME can’t hire, can’t raise prices, and can’t find someone to take over the business. The problem is not a single firm’s mismanagement. It is the question of whether the country’s employment base—roughly 70% of it—can keep operating under new cost structures. Japan’s SMEs are often described as the economy’s “base,” but the better metaphor is infrastructure: quietly taken for granted, hard to rebuild once it cracks, and impossible to replace with slogans.
-
-Sources:
-- [中小企業・小規模企業者の定義 | 中小企業庁](https://www.chusho.meti.go.jp/soshiki/teigi.html)
-- [中小企業の定義に関するよくある質問 | 中小企業庁](https://www.chusho.meti.go.jp/faq/faq/faq01_teigi.html)
-- [2025年版 中小企業白書の概要 | 中小企業庁](https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/gaiyo.html)
-- [中小企業白書 | 中小企業庁](https://www.chusho.meti.go.jp/pamflet/hakusyo/index.html)
-- [中小企業の定義 | 中小機構](https://www.jasmec.go.jp/guide/sme_definition.html)
-- [中小企業・小規模事業者支援 | 日本政策金融公庫](https://www.jfc.go.jp/n/finance/search/sme.html)

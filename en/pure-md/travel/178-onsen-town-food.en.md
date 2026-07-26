@@ -18,9 +18,3 @@ A good onsen town therefore teaches appetite as pacing. You do not rush through 
 By nightfall the lesson is clear enough. Steam rises, shop lights thin out, someone in yukata is carrying a paper bag back toward the inn, and the town has fed you without ever insisting on a tablecloth. That is what Japanese onsen-town food does so well. It turns eating into circulation, and circulation into part of the bath.
 
 It also gives the independent traveler a foothold in places that might otherwise feel built around overnight guests only. If you are not staying at the grand ryokan, or if you arrived too late to book a formal dinner, the street can still take you in. A sweet, an egg, a skewer, a local drink: these are modest transactions, but they keep the town open to more than one budget and more than one style of travel. In that sense, onsen-town food is not just delicious background. It is a small public service performed through appetite.
-
-Sources:
-- [Kusatsu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1518)
-- [Healing Powers of Hot Springs, Travel Japan / JNTO](https://www.japan.travel/en/sustainable/healing-powers-hot-springs/)
-- [Hawai Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/2282/)
-- [Awara Onsen Tourism Association](https://awara.info/en/)

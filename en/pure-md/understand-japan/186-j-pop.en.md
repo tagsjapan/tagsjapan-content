@@ -19,11 +19,3 @@ The cultural impact reaches beyond consumption into instruction. J-STAGE work on
 The main contemporary tension is definitional. J-pop is so broad that it can flatten differences between subcultures. A scene like `Visual Kei（ヴィジュアル系）` has its own institutions and fan codes. Idol culture has its own labor and fandom structures. Band rock has its own histories. “J-pop” can sit above all of them and treat them as one shelf. That broadness is useful for circulation—it makes the market legible—but it can also blur the particularities that make Japanese music culture interesting. The label’s power is also its distortion.
 
 `J-Pop（J-POP）` helps you understand Japan because it shows how mainstream culture is manufactured and maintained. It is not only sound. It is an industry term, a broadcast habit, a karaoke repertoire, a tie-in machine, and now a platform-distribution pattern that still produces shared memory at scale. If older Japanese cultural forms show how Japan institutionalized taste, J-pop shows how Japan industrialized it—building a mainstream that can survive multiple technological eras while still sounding, to its listeners, like everyday life.
-
-Sources:
-- [RIAJ: 2025 domestic market estimate (398.8 billion yen) | RIAJ](https://www.riaj.or.jp/news/press/94d112e4-697a-4990-9f80-a721d1f5a921/)
-- [Industry publication: Japan’s record industry | RIAJ](https://www.riaj.or.jp/f/issue/industry/)
-- [Historical Data | RIAJ](https://www.riaj.or.jp/e/data/archive/)
-- [J-POP as an exclusive market | J-STAGE](https://www.jstage.jst.go.jp/article/jace1998/4/3/4_3_31/_article/-char/ja/)
-- [J-pop: changes in rhythm / lyric placement rules | J-STAGE](https://www.jstage.jst.go.jp/article/jjomep/5/1/5_25/_article/-char/ja/)
-- [J-POP as canon and music education | J-STAGE](https://www.jstage.jst.go.jp/article/jjomep/5/1/5_103/_article/-char/ja/)

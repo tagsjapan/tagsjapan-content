@@ -17,10 +17,3 @@ This brings us to the core debate: can a state convert soft power into results? 
 Measurement debates show the same problem. Rankings such as the Lowy Institute’s Global Soft Power Index try to compare countries, and Japan often performs strongly, reflecting not only pop culture but perceived stability and institutional trust. Yet an index cannot tell you which piece of the impression actually moved a decision, or how quickly the impression can change after a crisis. Soft power is both resilient and fragile: it builds slowly and can be dented quickly.
 
 For understanding Japan, soft power is a way of seeing how influence operates in a country that often prefers persuasion to commands. Japan’s attraction is not a single message; it is a bundle of experiences, institutions, and cultural signals that many actors contribute to. The strategic question Japan keeps returning to is simple: how to protect that bundle, and how to use it without trying to over-control it.
-
-Sources:
-- Ministry of Foreign Affairs of Japan (MOFA), cultural diplomacy materials
-- The Japan Foundation, program descriptions and annual information
-- Japan Tourism Agency (JTA), tourism nation-building policy materials
-- Joseph S. Nye, writings on Soft Power (early-1990s concept origins)
-- Lowy Institute, Global Soft Power Index methodology and Japan results

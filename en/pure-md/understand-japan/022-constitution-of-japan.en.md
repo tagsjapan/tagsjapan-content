@@ -19,11 +19,3 @@ This is also why the constitution matters far beyond courtrooms. It shapes the l
 Its durability is remarkable. Governments have changed, parties have risen and fractured, and the security environment around Japan has shifted dramatically. Yet the constitution has survived without formal amendment, which has given each new dispute additional symbolic charge. To defend the text is often to defend the moral core of postwar Japan. To revise it is often presented as a way to normalize the state for a different century. The legal debate is real, but the emotional debate is just as important. The constitution has become a site where history, identity, fear, and aspiration all gather.
 
 That is why the Constitution of Japan remains more than a legal artifact from 1947. It is the document through which postwar Japan continues to describe itself, question itself, and limit itself. The words on the page have lasted because they were attached to a larger settlement about war, authority, and citizenship. Whether that settlement endures forever is another question. The fact that the question never disappears is part of the constitution's power, and part of its unusual political life even now.
-
-Sources:
-- [The Birth of the Constitution of Japan | National Diet Library](https://www.ndl.go.jp/constitution/shiryo/outline.html)
-- [日本国憲法 | e-Gov法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
-- [The Japanese Constitution | Britannica](https://www.britannica.com/topic/Constitution-of-Japan)
-- [日本国憲法の誕生 資料一覧 | National Diet Library](https://www.ndl.go.jp/constitution/shiryo/index.html)
-- [The Constitution and Government of Japan | Prime Minister's Office of Japan](https://www.kantei.go.jp/jp/constitution_and_government_of_japan/constitution_e.html)
-- [国会の地位と役割 | House of Councillors](https://www.sangiin.go.jp/japanese/aramashi/riyou/1.htm)

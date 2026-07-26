@@ -19,11 +19,3 @@ Memory, however, has never been evenly distributed. Outside Japan, the atomic bo
 The Tokyo air raids also expose a broader truth about total war. They show how the boundary between military target and civilian space can collapse long before formal surrender arrives. The capital of an imperial state, full of offices, factories, and transport links, was also a city of shopkeepers, children, laundries, alleyways, and fragile homes. To describe the raid only in strategic terms would miss the point. The city burned because war had been scaled to the life of the metropolis.
 
 Modern Tokyo does not advertise that history at every corner. Much of the city seems to float free of the past, absorbed in movement and commerce. Yet the memory remains wherever testimony is preserved, where memorial stones gather the names of the dead, and where older districts remember that they were rebuilt from ash rather than merely updated. The Tokyo air raids matter because they force the capital's modern image to answer to the night when ordinary streets became a battlefield, and because they make civilian vulnerability central to the story of wartime Japan and to the moral history of the city itself, permanently and unavoidably, for later generations as well.
-
-Sources:
-- [東京大空襲・戦災資料センター](https://tokyo-sensai.net/)
-- [東京大空襲体験画と証言 | Tokyo Raid and War Damage Center](https://tokyo-sensai.net/about-center/)
-- [Yokoamicho Park | Tokyo Metropolitan Park Association](https://www.tokyo-park.or.jp/park/yokoamicho/)
-- [The bombing of Tokyo | Britannica](https://www.britannica.com/event/bombing-of-Tokyo)
-- [空襲・戦災 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002664533)
-- [戦争遺跡と東京大空襲 | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000010644222)

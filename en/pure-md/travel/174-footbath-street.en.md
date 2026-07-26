@@ -18,9 +18,3 @@ That sensitivity to shared settings is part of why footbath streets feel so loca
 It is also one of the rare thermal experiences that works while a traveler is still fully in motion. You can arrive with shopping bags, a camera, a child or a train deadline and still participate meaningfully for ten minutes.
 
 By the time you pull your shoes back on, the town has done its work quietly. You have not checked into a ryokan or spent the afternoon in the baths, but you have taken local heat into the body and paused long enough for the street to register. Japan has many such modest inventions. This is one of the best: a place that asks for little and leaves you traveling differently afterward.
-
-Sources:
-- [Kamisuwa Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/1363)
-- [Hawai Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/2282/)
-- [Awara Tourism Association](https://awara.info/en/)
-- [Kusatsu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/japans-local-treasures/kusatsu-onsen/)

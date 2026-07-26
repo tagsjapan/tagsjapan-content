@@ -19,11 +19,3 @@ In the 2020s, the vocabulary tightened further. After the SDGs were adopted in 2
 And yet the central criticism remains: Japan is good at demonstration, less good at durable adoption. When the subsidy period ends, who owns the service? When the charismatic project leader leaves, who holds the relationships together? Measuring impact is also hard. The most valuable outcomes—trust, reduced isolation, smoother cooperation across institutions—do not always show up as clean numbers, and if you force them into KPIs too quickly you risk optimizing for what can be counted rather than what matters. Social Innovation therefore lives in a permanent tension between two needs: the need to experiment, and the need to institutionalize.
 
 The term is useful for understanding Japan because it reveals how the country is trying to modernize without breaking itself. Social Innovation is not a revolution. It is a series of negotiated changes—new partnerships, new platforms, new service designs—built on top of a state that still prefers order, accountability, and careful rollout. The whiteboard in that community center is a small scene, but it holds a national dilemma: in an aging, unevenly populated Japan, the future often arrives as a pilot project first. The hard part is making it ordinary.
-
-Sources:
-- Cabinet Office (Japan), NPO制度 and legal framework materials
-- Japan Science and Technology Agency (JST), RISTEX (Research Institute of Science and Technology for Society) program materials
-- Japan Science and Technology Agency (JST), RISTEX R&D methods and guidance on implementation
-- Japan Science and Technology Agency (JST), “STI for SDGs” award materials and case descriptions
-- Cabinet Office (Japan), Local SDGs public-private partnership platform materials
-- Ministry of Economy, Trade and Industry (METI), “J-Startup Impact” program information

@@ -15,10 +15,3 @@ There are frictions, of course, and they are instructive too. Not every hotel ro
 The contrast with the convenience store is worth keeping in mind. The convenience store is built for interruption: a quick need, a narrow time slot, a standardized rescue. The supermarket belongs to a broader domestic rhythm. It assumes planning, comparison and appetite with some horizon beyond the next ten minutes. That is why it can teach more about Japan's daily food life. It is also why supermarkets are especially rich in regional travel. In Hokkaido, Kyushu, Kansai or a smaller coastal city, differences emerge not through grand signage but through stock, scale and what the prepared-food counter treats as normal. Regional Japan is often easiest to read from a shopping basket.
 
 By the time you leave carrying fruit, tea, breakfast rolls or a discounted dinner, the store may not feel memorable in the glamorous travel sense. Yet many travelers later realize it was one of the places that corrected their view of Japan most effectively. The supermarket does not ask to be admired. It asks to be used. In return it offers something better than a curated image: a working picture of how people shop, eat and measure a day. On a trip full of temples, trains and spectacular meals, that can be the detail that brings the country closer to hand. Daily Japan is often clearest under fluorescent light, beside the produce baskets and the discount stickers. The lesson is plain, domestic and unexpectedly durable.
-
-Sources:
-
-- Statistics Bureau of Japan, "Family Income and Expenditure Survey" https://www.stat.go.jp/english/data/kakei/index.html
-- AEON Retail, official site https://www.aeonretail.jp/
-- LIFE Corporation, official site https://www.lifecorp.jp/
-- Seiyu, official site https://www.seiyu.co.jp/

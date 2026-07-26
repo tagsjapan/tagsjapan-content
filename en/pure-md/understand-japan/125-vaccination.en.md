@@ -19,12 +19,3 @@ The design also shows how much Japan relies on municipalities as the “last mil
 Japan’s vaccination system therefore offers a concentrated view of the country’s modern policymaking style: procedural, data-heavy, and deeply dependent on trust. Scientific evidence matters, but so does the story people believe about institutions. When the story breaks—as it did in the HPV episode—repair takes years. When the story holds—strong enough to carry a mass program in a pandemic—the system looks almost effortless, even though it is doing complicated work in the background.
 
 Vaccination is a medical act, but in Japan it is also a social mirror. It reflects how a society weighs individual autonomy against collective risk, how it builds legitimacy through rules and review committees, and how quickly confidence can evaporate when uncertainty is handled poorly. A shot lasts seconds. The system that makes it routine has to last decades.
-
-Sources:
-- [予防接種情報 | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/index_00018.html)
-- [予防接種健康被害救済制度について | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_kenkouhigaikyuusai.html)
-- [新型コロナワクチンQ&A | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_qa.html)
-- [新型コロナワクチンについて | 厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html)
-- [ヒトパピローマウイルス感染症に係る定期接種の今後の対応について | 厚生労働省](https://www.mhlw.go.jp/stf/newpage_22419.html)
-- [ヒトパピローマウイルス感染症の定期接種の対応について（勧告） | 厚生労働省](https://www.mhlw.go.jp/stf/shingi2/0000091963.html)
-- [予防接種法第5条第1項の規定による予防接種の実施についての改正通知（令和7年3月31日） | 厚生労働省](https://www.mhlw.go.jp/web/t_doc?dataId=00tc9060&dataType=1&pageNo=1)

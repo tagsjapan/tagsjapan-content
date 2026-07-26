@@ -19,10 +19,3 @@ Moe is not just cuteness. It is commitment.
 In the background is a very Japanese kind of cultural engineering: the conversion of affection into a repeatable form. Moe culture sits beside other character-centered systems—merchandising, fan discussion, voice-actor celebrity, themed consumption—and supplies a vocabulary for why the attachment feels personal even when it is mass-produced. It also explains why debates about “too much” moe can feel oddly technical: people are arguing about design parameters for intimacy, not only about taste. Digital platforms intensify this by making characters present in small daily fragments: short clips, voice lines, limited-time collaborations, and algorithmic recommendations that keep a fictional person within reach.
 
 `Moe Culture` helps you understand Japan because it reveals how feelings are built into media ecosystems, and how those ecosystems negotiate their boundary with ordinary public life. It shows a society that can treat intimacy as both private emotion and shared code, and then—sometimes successfully, sometimes clumsily—turn that code into spaces, products, and civic branding. It also shows how a subculture word can become a shared public tool: something you can study, design for, argue about, and institutionalize without fully draining it of heat. If you want to understand contemporary Japan’s character economy, moe is a key: not a single taste, but a method for making fictional people matter.
-
-Sources:
-- [オタク分析の方向性 | J-STAGE](https://www.jstage.jst.go.jp/article/nbukiyou/9/0/9_KJ00006081539/_article/-char/ja/)
-- [萌えアニメ作品における「声」とは何か | J-STAGE](https://www.jstage.jst.go.jp/article/seia/51/0/51_15/_article/-char/ja/)
-- [秋葉原VR特集 | Nippon.com](https://www.nippon.com/ja/japan-video/j90105/)
-- [「ご当地萌えキャラ」の印象分析 | J-STAGE](https://www.jstage.jst.go.jp/article/artsci/20/2/20_120/_article/-char/ja/)
-- [「ご当地萌えキャラ」デザイン調査 | J-STAGE](https://www.jstage.jst.go.jp/article/jssd/71/0/71_194/_article/-char/ja/)

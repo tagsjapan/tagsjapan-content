@@ -17,10 +17,3 @@ The social friction that pushed Japan toward regulation has not disappeared. Res
 That is why minpaku is revealing as a lens on Japan. It shows a characteristic governing style: allow a new practice to exist, then reshape it into a form that can be inspected, counted, and held accountable. It also shows how “housing” in Japan is not only a market object. It is a social environment with shared infrastructure—trash rules, quiet hours, fire exits, building associations—that gives neighbors a stake in how a unit is used.
 
 `Minpaku（民泊）` is often described as “sharing economy,” but Japan’s version is closer to “sharing under supervision.” The 2018 law created a third space between hotels and ordinary homes, and it filled that space with paperwork, caps, and delegated management. If you want to understand how Japan negotiates openness and order—how it absorbs platform capitalism without surrendering neighborhood governance—minpaku is a clean case. It looks like lodging. It behaves like regulation.
-
-Sources:
-- [民泊制度ポータルサイト | 観光庁](https://www.mlit.go.jp/kankocho/minpaku/)
-- [住宅宿泊事業法 施行状況 | 観光庁](https://www.mlit.go.jp/kankocho/minpaku/business/host/construction_situation.html)
-- [住宅宿泊事業法とは | 観光庁](https://www.mlit.go.jp/kankocho/minpaku/overview/minpaku/law1.html)
-- [住宅宿泊事業者の届出手続 | 観光庁](https://www.mlit.go.jp/kankocho/minpaku/business/host/procedure.html)
-- [住宅宿泊事業法 | e-Gov法令検索](https://laws.e-gov.go.jp/law/429AC0000000065)

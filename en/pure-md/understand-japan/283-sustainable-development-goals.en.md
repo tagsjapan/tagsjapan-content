@@ -15,10 +15,3 @@ The Japanese speed of diffusion created its own backlash, and it produced a deba
 That is the paradox: the SDGs became popular in Japan because they are flexible, and they are controversial for the same reason.
 
 If you want to understand contemporary Japan, the SDGs are less important as a list of goals than as a case study in translation. Japan is not unique in adopting global norms, but it is particularly skilled at turning them into domestically usable interfaces: polite, modular, and compatible with existing institutions. The SDGs show a country trying to reorganize itself around long-term pressures—climate, demographics, inequality, regional decline—without the drama of constant ideological confrontation. When the sticker sits on the counter, it can feel like branding. When the same goals sit inside cabinet guidelines and local policy packages, it is also governance. The wheel is not the change. It is the sign that Japan has found a way to talk about change.
-
-Sources:
-- [SDGs Promotion Headquarters (SDGs推進本部) | Prime Minister's Office of Japan](https://www.kantei.go.jp/jp/singi/sdgs/index.html)
-- [Japan SDGs Action Platform | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/policy/oda/sdgs/index.html)
-- [SDGs Future City / Regional Revitalization SDGs Platform (地方創生SDGs) | Cabinet Office](https://future-city.go.jp/)
-- [Voluntary National Review (VNR) 2025 | Ministry of Foreign Affairs of Japan](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/vnr/index2025.html)
-- [Sustainable Development Goals | United Nations](https://sdgs.un.org/goals)

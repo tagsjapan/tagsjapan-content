@@ -17,10 +17,3 @@ Travelers also get a friction point here that is worth stating plainly: the plac
 Another reason Hakone functions so well as a beginner's onsen destination is that the support structure is unusually forgiving. The area has multilingual maps, a well-known `Hakone Freepass`, and enough accommodation types that travelers can choose between a full `ryokan` stay, a day-use bath, or a more practical base with selected indulgences. That flexibility matters. It means Hakone can absorb different budgets and levels of confidence without losing its basic identity. A couple making their first hot-spring trip, a family trying to keep luggage management sane, and a rail enthusiast who mainly wants the transport loop can all use the same destination for different ends.
 
 In the end, Hakone's talent is not mystery but sequencing. It knows how to take a traveler from ticket gate to mountain air, from sulfur vent to inn corridor, from a crowded station approach to the hush of a bath after dark. That arc, more than any single view of `Mount Fuji`, explains why Hakone remains one of the country's great travel structures. It is where many people first learn that an `onsen` trip in Japan is not just about water. It is about when you arrive, how you move, and whether you allow the day to loosen its grip before you step into the tub.
-
-Sources:
-
-- Hakone Navi, Odakyu: https://www.hakonenavi.jp/international/en/
-- Onsen, Hakone Navi: https://www.hakonenavi.jp/international/en/interest/onsen
-- Visitor statistics, Hakone Town: https://www.town.hakone.kanagawa.jp/www/contents/1100000001464/index.html
-- Hakone Tourism digital map expansion notice, Hakone Tourism Association: https://www.hakone.or.jp/8441

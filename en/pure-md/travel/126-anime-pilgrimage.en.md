@@ -15,10 +15,3 @@ Local governments and tourism groups have become increasingly skilled at channel
 As an itinerary tool, anime pilgrimage is remarkably effective. It can justify overnighting in a smaller city, adding a rail detour, or spending a day in a district that guidebooks would summarize in one paragraph. It can also make a city feel newly navigable. A station exit, pedestrian bridge, or riverside path becomes easier to remember once it has been attached to a scene you know. Travelers who might otherwise skim the surface of a place often move more carefully when fiction has given them a visual vocabulary, and they often spend more money locally because the route leads them into cafes, souvenir shops, shrine counters, and minor museums they would otherwise miss. That is one reason anime tourism has proven durable: it changes attention, not only destination choice.
 
 The most interesting anime pilgrimages end with a slight disappointment, and that is not a failure. The hill is less dramatic than the drawing. The weather is wrong. The store has changed hands. The shrine is smaller than it looked onscreen. Yet the trip succeeds because the mismatch itself becomes part of the pleasure. Japan's anime pilgrimages are not about finding fiction made real. They are about finding the real place that fiction borrowed, then seeing how much life was always there beyond the frame.
-
-Sources:
-
-- Anime Tourism Association, "Anime Spot 88" — https://animetourism88.com/en/
-- Travel Japan / JNTO, "Anime Tourism" — https://www.japan.travel/en/guide/japanese-anime-and-comics/
-- CHOCOTABI SAITAMA — https://chocotabi-saitama.jp/
-- GO TOKYO — https://www.gotokyo.org/en/

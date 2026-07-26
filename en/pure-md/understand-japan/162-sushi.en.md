@@ -20,12 +20,3 @@ Globalization has amplified that emblematic role. MAFF’s `2025` survey on over
 Japan’s cultural policy is increasingly aware of that gap. The Agency for Cultural Affairs and MAFF frame `Washoku（和食）` not only as a cuisine to be enjoyed but as a tradition under pressure, because household structures and daily routines have changed and local food knowledge does not automatically pass to the next generation. Sushi sits inside that broader concern. It is famous enough to survive as a name, yet diverse enough to be endangered in its local forms. A world that recognizes “sushi” may never encounter the regional and historical thickness that the word contains.
 
 To understand `Sushi（壽司）` is therefore to practice a small correction. Begin with rice, not fish. Then follow the dish backward into fermentation and preservation, sideways into regional forms, and forward into a global market that keeps rewarding simplified images. Sushi is not just something Japan sells to the world. It is a record of how Japan turned an old technique for making food last into a versatile cultural form that can inhabit both the street and the ceremony—and still, quietly, insists on rice.
-
-Sources:
-- [Sushi in Japan | JNTO](https://www.japan.travel/en/guide/sushi-in-japan/)
-- [和食の次の未来 | 文化庁](https://www.bunka.go.jp/washoku_future/)
-- [和食文化継承プロジェクト（背景） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/project_background.html)
-- [鮒寿司（熟鮓）滋賀県 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/funa_zushi_shiga.html)
-- [鱒寿司 富山県 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_20_toyama.html)
-- [稲荷寿司（江戸の人気快食） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2301/spe13_03.html)
-- [海外における日本食レストラン数調査（令和7年） | 農林水産省](https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/251128.html)

@@ -19,10 +19,3 @@ Two examples show the split between what 5G looks like and what it is meant to d
 The tension is hard to avoid. The costs arrive up front, while returns arrive unevenly. Marketing turns a long build into a short slogan, which makes disappointment almost inevitable when the icon appears but the experience does not change much. Policy turns the same build into a national modernization narrative, which makes uneven coverage feel politically visible. Japan’s 5G push therefore reveals a characteristic pattern: the country tries to socialize the meaning of a technology early, then spends years negotiating the gap between the story and the ground.
 
 In the end, 5G in Japan is less a single achievement than a continuing test of governance. Can a high-spec network become routine enough that people stop noticing it, while also becoming flexible enough that industries and local institutions can treat it as dependable infrastructure? The answer will not be written by the icon in the corner of a phone. It will be written by where the network is actually built, what kinds of sites can afford to use it, and how patiently Japan is willing to pay for a future that arrives base station by base station.
-
-Sources:
-- [情報通信白書（ポータル） | 総務省](https://www.soumu.go.jp/johotsusintokei/whitepaper/)
-- [IMT-2020 (5G) | International Telecommunication Union](https://www.itu.int/en/mediacentre/backgrounders/Pages/imt-2020.aspx)
-- [5G | ソフトバンク](https://www.softbank.jp/mobile/network/service/5g/)
-- [5Gエリア | 楽天モバイル](https://network.mobile.rakuten.co.jp/area/5g/)
-- [iPhone（5G）通信・エリア | NTTドコモ](https://www.docomo.ne.jp/iphone/area-5g/)

@@ -19,10 +19,3 @@ This is where “media versus reality” becomes a Japanese cultural issue rathe
 Continuity is therefore less about a single lineage and more about repeated repackaging. Japan Heritage materials, municipal narratives, and museum exhibits translate older “shinobi work” into present-day public knowledge. They also translate it into local identity: a way for a region to claim a distinctive past in a national history dominated by larger warlords and capital cities. The ninja survives as a symbol because it can function as both local heritage and global icon. It can be taught as history and used as entertainment without requiring the audience to resolve the contradiction.
 
 `Ninja（忍者）` helps you understand Japan because it reveals Japan’s relationship to secrecy and to the management of uncertainty. It shows a society that recognizes information as power, that built techniques for moving through hostile environments, and that later turned those techniques into image and brand. It also shows a contemporary pattern: Japan often preserves difficult histories by turning them into curated public forms—museums, heritage stories, official narratives—where myth can be enjoyed while the underlying social logic is still visible for anyone willing to look past the costume.
-
-Sources:
-- [忍術、忍者とは | 伊賀流忍者屋敷と忍者博物館](https://www.iganinja.jp/ninja/ninja/index.html)
-- [忍者資料館 | 伊賀流忍者屋敷と忍者博物館](https://www.iganinja.jp/about/museum/index.html)
-- [忍びの里　甲賀へようこそ | 甲賀市](https://www.city.koka.lg.jp/10977.htm)
-- [忍びの里　伊賀・甲賀─リアル忍者を求めて─ | 日本遺産ポータルサイト](https://japan-heritage.bunka.go.jp/ja/stories/story042/)
-- [Ninjutsu | Britannica](https://www.britannica.com/sports/ninjutsu)

@@ -15,11 +15,3 @@ And yet the impact of these cases reaches beyond individual outcomes. Japan’s 
 The argument has not ended, because modern environmental harm does not always fit neatly into a legal box. Some exposures are low-dose and long-term; some are transboundary; some sit in scientific uncertainty for years. Japan’s experience after Fukushima, and debates over substances such as asbestos and PFAS, keep renewing the same question: when damage unfolds slowly and causation is disputed, can law still function as a tool for recognition and prevention, not only for compensation after the fact?
 
 To understand Japan through pollution litigation is to see how “clean” is not just a cultural preference but a hard-won political result. A lawsuit does not clean a river or clear the air by itself. What it can do is alter the moral accounting of growth—making it harder to treat suffering as invisible, and easier to demand that someone, somewhere, be responsible for the conditions under which people live.
-
-Sources:
-- [環境白書・循環型社会白書・生物多様性白書 | 環境省](https://www.env.go.jp/policy/hakusyo/)
-- [水俣病対策 | 環境省](https://www.env.go.jp/chemi/minamata.html)
-- [認識四日市公害 | 四日市市](https://www.city.yokkaichi.lg.jp/www/contents/1001000001783/index.html)
-- [四日市公害と環境未来館 | 四日市市](https://www.city.yokkaichi.lg.jp/yokkaichikougai-kankyoumiraikan/)
-- [公害訴訟と日本環境法形成 | J-STAGE](https://www.jstage.jst.go.jp/article/jjwel/13/0/13_45/_article/-char/ja/)
-- [四大公害訴訟の歴史的意義 | J-STAGE](https://www.jstage.jst.go.jp/article/kankyogijutsu/49/9/49_540/_article/-char/ja/)

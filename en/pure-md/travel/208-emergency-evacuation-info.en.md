@@ -18,9 +18,3 @@ There is reassurance in this too. Japan's evacuation systems can seem intimidati
 When the phone vibrates and the room changes temperature in your mind, the useful move is not to become a disaster expert in thirty seconds. It is to recognize the warning, obey the first clear instruction, and keep moving until you are where the warning wants you to be. Japan offers a great deal of information. The skill is to treat it as a route, not as reading material.
 
 Prepared travelers often do one more thing that pays off later: they notice the physical signs before anything happens. Evacuation maps in hotel corridors, arrows near beach access roads, higher-ground markers in coastal towns, multilingual notices at ropeway stations or ferry terminals all become easier to trust when you have already seen them in calm weather. Japan's emergency information system works best when digital and physical cues reinforce each other. A trip through hazard-prone landscapes becomes safer not because risk disappears, but because the path away from risk no longer has to be invented under pressure.
-
-Sources:
-- [Useful Apps, Travel Japan / JNTO](https://www.japan.travel/en/plan/useful-apps/)
-- [Multilingual Emergency Information for Natural Disasters, JNTO](https://www.jnto.go.jp/projects/visitor-support/safetravelinfo.html)
-- [Multilingual Information on Disaster Risk Reduction, Japan Meteorological Agency](https://www.jma.go.jp/jma/kokusai/multi.html)
-- [Tsunami Flags, Japan Meteorological Agency](https://www.data.jma.go.jp/eqev/data/en/tsunami/tsunami_flag.html)

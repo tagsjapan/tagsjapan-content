@@ -19,10 +19,3 @@ These annual events also explain how religion stays public without demanding con
 The contemporary tension is that the same rhythm can be used for multiple purposes. Annual rites can function as faith practice and as public event, as local identity and as economic activity. That dual use is not new, but modern media and commodification make it sharper. When a rite is broadcast as spectacle, the ritual can be mistaken for performance. When a festival becomes a brand, the religious logic can be reduced to aesthetics. Yet institutions continue to insist on the operational core: preparation, offerings, purification, and repetition. A calendar still has to be kept, even when the outside world reads the day differently.
 
 `Annual Shrine & Temple Events（社寺年中行事）` help you understand Japan because they show Japan’s religion as a time system. They reveal how shrines and temples survive by making the year repeat in meaningful cuts, how local communities are organized by recurring obligations, and how religion can remain socially present even when personal belief is inconsistent. In Japan, the calendar is not just a record of days. It is a machinery for continuity—one that keeps making space for the sacred by insisting that certain days arrive again.
-
-Sources:
-- [恒例祭 | 神社本庁](https://www.jinjahoncho.or.jp/omatsuri/koureisai/)
-- [おまつりする | 神社本庁](https://www.jinjahoncho.or.jp/omatsuri/)
-- [年中行事 | 浅草寺](https://www.senso-ji.jp/annual_event)
-- [年中行事（浅草神社年間祭典） | 浅草神社](https://www.asakusajinja.jp/asakusajinja/yearly/index.html)
-- [盂蘭盆会 | 浄土宗〖公式サイト〗](https://jodo.or.jp/event/urabone/)

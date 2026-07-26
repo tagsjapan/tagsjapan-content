@@ -19,10 +19,3 @@ The Cabinet Office’s educational framing of earthquakes reinforces a key cultu
 The contemporary tension is fatigue. A society that constantly prepares is also a society that constantly spends attention and money. Batteries expire, water stockpiles need rotation, hazard information changes, and each new forecast or guideline asks people to do one more small thing in advance. When earthquakes do not happen for a while, preparedness can look like waste; when earthquakes do happen, under-preparedness becomes obvious cruelty. Japan’s seismic governance tries to manage that contradiction by keeping preparedness ordinary—quietly present in building codes, schools, and household habits—rather than relying on rare bursts of panic. The goal is not permanent fear. It is permanent readiness without psychological collapse.
 
 `Seismic Zone（地震帶）` helps you understand Japan because it shows how modern Japan is built on a wager: invest in rules and routines that allow complex urban life to exist on unstable ground. The wager is technical and also moral. It sits in permit files, retrofit subsidy forms, and the small stairwell signage that points people toward assembly areas and emergency shutoffs. It asks who gets retrofitted first, who can afford safety, and how much disruption a society will accept to reduce preventable loss. In Japan, the ground moves. The question is how much of society is designed to move with it.
-
-Sources:
-- [板塊関連政策報告 | 地震調査研究推進本部](https://www.jishin.go.jp/reports/policy_report/suihon_plate/)
-- [我が国で発生した地震 (PDF) | 内閣府 (防災)](https://www.bousai.go.jp/jishin/pdf/hassei-jishin.pdf)
-- [震度について | 気象庁](https://www.jma.go.jp/jma/kishou/know/shindo/index.html)
-- [防災情報のページ | 内閣府 (防災)](https://www.bousai.go.jp/)
-- [住宅・建築物の耐震化 | 国土交通省](https://www.mlit.go.jp/jutakukentiku/build/taishin.html)

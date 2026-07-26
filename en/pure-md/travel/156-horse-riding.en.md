@@ -17,10 +17,3 @@ The mechanics are straightforward, but the traveler has to accept the terms. Beg
 That rhythm is the travel value. Japan is often experienced at high speed—express trains, tight connections, the urgency of popular sights. Horseback travel is the opposite. It forces you into a pace where details return: the smell of grass, the sound of wind, the way a small hill changes the view. In Hokkaido, where space is part of the appeal, that pace feels like the most honest way to see.
 
 When you get down, your legs remember the horse for a while. You brush dust off your jacket, thank the animal the way the staff does, and walk back toward the parking lot or the shuttle. The day hasn’t produced a shopping bag. It has produced a different internal map of a place—measured not in stops, but in steps. In Hokkaido, that can be the difference between “I went north” and “I was there.”
-
-Sources:
-
-- HOKKAIDO LOVE!, “Niikappu Horoshiri Horse Riding Club”: https://www.visit-hokkaido.jp/en/spot/detail_10438.html
-- HOKKAIDO LOVE!, “Riding Hills Shizunai”: https://www.visit-hokkaido.jp/en/spot/detail_13046.html
-- HOKKAIDO LOVE!, “Urakawa Yushun Village AERU”: https://www.visit-hokkaido.jp/en/spot/detail_11440.html
-- HOKKAIDO LOVE!, “Northern Horse Park”: https://www.visit-hokkaido.jp/en/spot/detail_10047.html

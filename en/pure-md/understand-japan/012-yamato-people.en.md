@@ -19,11 +19,3 @@ That does not mean the category should simply be thrown away. It still describes
 There is also a colonial and assimilative dimension that cannot be ignored. The older habit of presenting Yamato identity as the natural center of Japan helped justify the sidelining of peripheral peoples and regional histories. Once a majority identity is treated as identical with the nation, difference can be recast as delay, deficiency, or deviation. That logic is not unique to Japan, but it has operated there with particular power because of how successful the homogeneity myth became in the postwar imagination, when the phrase "Japan is a homogeneous nation" could circulate with remarkably little resistance in public life.
 
 So the point of studying the Yamato people is not to revive ethnic essentialism or to argue over purity. It is to understand how a majority becomes invisible to itself while remaining highly visible to everyone it excludes or absorbs. Japan's modern self-image was built in part on that invisibility for generations. To name it is already to make the national story less smooth, less comforting, and more historically accurate.
-
-Sources:
-- [People of Japan | Britannica](https://www.britannica.com/place/Japan/People)
-- [Japanese people | Britannica](https://www.britannica.com/topic/Japanese-people)
-- [Rise and expansion of Yamato | Britannica](https://www.britannica.com/place/Japan/Rise-and-expansion-of-Yamato)
-- [アイヌ政策 | 內閣府](https://www8.cao.go.jp/ainu/index.html)
-- [國立愛努民族博物館 | UPOPOY](https://ainu-upopoy.jp/tw/facility/museum/)
-- [民族共生象徵空間 | UPOPOY](https://ainu-upopoy.jp/facility/upopoy/)

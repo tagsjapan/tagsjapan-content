@@ -48,8 +48,3 @@ There is also a cultural consequence that is easy to miss. Because Japan has inv
 There are frictions all the same. Machine translation can flatten nuance. Place names can be romanized in ways that still puzzle the unprepared. Some local operators keep English webpages thinner than their Japanese versions. And the traveler who assumes multilingual support means effortless chatter with every taxi driver, pharmacist, or innkeeper is likely to feel disappointed. Japan's strength is not complete linguistic ease. It is operational guidance delivered at the moments where confusion is most damaging.
 
 That may be why the system feels so effective when it works. A hotline operator confirms what has happened to a delayed train. A bilingual sign at a metro gate keeps a transfer from going wrong. A service-center clerk explains how to exchange or reserve a pass. The visitor does not always remember those moments afterward, but the trip depends on them. In Japan, multilingual support is one of the quiet structures that turns a potentially intimidating level of complexity into something manageable, and often, unexpectedly smooth.
-- Japan Tourism Agency, "Use of the Texts" — https://www.mlit.go.jp/tagengo-db/en/attention.html
-- Travel Japan / JNTO, "Japan Visitor Hotline" — https://www.japan.travel/en/plan/hotline/
-- JNTO, "Announcement of JNTO TIC Call Center" — https://www.jnto.go.jp/news/press/20260313.html
-- JR East, "Travel Service Centers & Accessibility" — https://www.jreast.co.jp/multi/en/customer_support/
-- Tokyo Metro, "Tips for Using Tokyo Metro" — https://www.tokyometro.jp/en/tips/index.html

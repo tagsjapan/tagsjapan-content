@@ -17,10 +17,3 @@ Then there’s the onsen-town version, where snow light becomes a reason to stay
 The friction points are the ones winter always brings, and in Japan they become more consequential because transit schedules are strict. Warmth and traction matter more than your camera. A good pair of boots, gloves that let you handle a phone without freezing your fingers, and a plan for ice are not optional accessories; they’re what makes the walk enjoyable. Check the last train or bus, because many winter destinations go quiet early once transport ends. And accept weather as part of the design. Snow, wind, and visibility don’t only affect photos—they affect whether an outdoor route stays pleasant at all.
 
 Done well, a snow light festival changes what you think winter travel is for. It isn’t only skiing or “surviving the cold.” It’s a way of seeing how Japanese towns use winter’s materials to create an evening you can inhabit. You leave with the memory of warmth that came from something small—a candle in snow, a lantern drifting on water—and the sense that winter, in Japan, can be gentle if the town knows how to light it.
-
-Sources:
-
-- JNTO / Travel Japan, “Otaru Snow Light Path”: https://www.japan.travel/en/spot/1853/
-- JNTO / Japan’s Local Treasures, “Otaru Snow Light Path in Hokkaido”: https://www.japan.travel/en/japans-local-treasures/otaru-snow-light-path-hokkaido-2020/
-- Sapporo Snow Festival (official), “The History”: https://www.snowfes.com/en/about/history/
-- JNTO / Travel Japan, “Illuminated Igloos in a Winter Wonderland” (Yunishigawa): https://www.japan.travel/en/experiences-in-japan/3287/

@@ -19,10 +19,3 @@ The modern era adds another layer: national narrative. Rice is still asked to st
 Policy has responded by widening what “rice culture” can include. Terraces are framed as multi-function landscapes; water management is framed as resilience; heritage labels are framed as economic oxygen for rural areas. Japan’s engagement with `GIAHS（Globally Important Agricultural Heritage Systems）` fits that turn, treating certain farming systems as heritage not because they are old, but because they are living and socially organized. The message is implicit but strong: rice culture survives when it remains a working system, not when it becomes a frozen image.
 
 `Rice Culture（稻作文化）` helps you understand Japan because it shows how deeply daily life can be organized by a crop. Rice is a meal anchor, a ritual material, a landscape, and a coordination problem. It teaches a pattern that repeats across Japanese society: comfort built through routines, routines sustained through maintenance, and maintenance depending on social cooperation that has to be renewed every year. The grain looks simple. The system behind it is not. It persists because it is still practiced, repaired, and shared.
-
-Sources:
-- [和食としての米 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2306/spe6_01.html)
-- [棚田百選の認定（平成11年7月） | 関東農政局](https://www.maff.go.jp/kanto/nouson/chiiki/tanada/index.html)
-- [重要文化的景観「蕨野の棚田」 | 農林水産省](https://www.maff.go.jp/j/nousin/sekkei/museum/m_kakuti/55_warabi/index.html)
-- [Globally Important Agricultural Heritage Systems (GIAHS) | MAFF](https://www.maff.go.jp/e/policies/other/giahs/)
-- [令和6年度 食料・農業・農村白書 | 農林水産省](https://www.maff.go.jp/j/wpaper/w_maff/r6/index.html)

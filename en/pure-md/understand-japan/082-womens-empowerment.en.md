@@ -19,10 +19,3 @@ Yet the same language carries a built-in limit. `Women's Empowerment` can reduce
 For that reason, the term tells us so much about Japan. It shows a state trying to reform social structure through managerial instruments rather than through dramatic ideological confrontation. It also shows why progress can be real and partial at the same time. Data becomes public. Certifications spread. Action plans multiply. More employers are drawn into the framework, including midsize firms now pulled into disclosure duties in `2026`. Even so, the older architecture of work and care does not disappear on command. The administrative program moves faster than custom, and the two remain in tension.
 
 `Women's Empowerment` matters in contemporary Japan because it captures both ambition and compromise. It marks a society that no longer wants women's exclusion from leadership and employment to be treated as natural, yet often chooses to address the problem through reporting systems, incentives, and organizational reform instead of a direct attack on every social assumption underneath it. The result is revealing. Equality becomes legible through tables, badges, and public targets. Whether it becomes fully lived depends on what happens after the spreadsheet is published.
-
-Sources:
-- [Visualization Site for the Act on Promotion of Women's Participation | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/policy/suishin_law/index.html)
-- [Special Feature on the Act on Promotion of Women's Participation | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000091025.html)
-- [Basic Plans for Gender Equality | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/basic_plans/index.html)
-- [White Paper on Gender Equality 2024 | Gender Equality Bureau Cabinet Office](https://www.gender.go.jp/about_danjo/whitepaper/r06/zentai/index.html)
-- [Closing the Gender Pay Gap | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyoukintou/seisaku09/index.html)

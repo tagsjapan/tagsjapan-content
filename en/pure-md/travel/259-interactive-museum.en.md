@@ -15,10 +15,3 @@ An interactive museum can also be grounded in something as everyday as lunch. At
 Then there are places like `Miraikan` (the National Museum of Emerging Science and Innovation), which blend interactive exhibits with the contemporary Japanese habit of turning public education into an outing. A science museum sounds dutiful until you see how it functions on a real trip: it gives you an indoor, time-rich alternative to shopping streets; it lets a multigenerational group share a space without negotiating taste; it makes Tokyo feel less like a postcard city and more like a working laboratory. For travelers, that matters. It is one of the few museum types that can reset a long itinerary—not by being quiet, but by being absorbing. Miraikan lists its address in Aomi, Koto-ku, on Tokyo’s waterfront, and that geography matters: it pairs naturally with a slower afternoon—waterfront walks, indoor exhibits, then back to the bright crush of the city.
 
 By the end of an interactive museum visit, you often walk out holding something small: a custom cup, a stamped ticket, a photo you weren’t sure you’d be allowed to take, a faint dampness on your ankles from an exhibit that insisted on being physical. These are not souvenirs of “learning” in the abstract. They are souvenirs of participation. Japan’s interactive museums matter because they turn culture and education into itinerary events—things you book, time, queue for, and remember with your body—then send you back into the city moving a little differently.
-
-Sources:
-
-- teamLab Planets TOKYO (Official): https://www.teamlab.art/e/planets/
-- CUPNOODLES MUSEUM Yokohama (Official): https://www.cupnoodles-museum.jp/en/yokohama/
-- Ghibli Museum, Mitaka — Tickets (Official): https://www.ghibli-museum.jp/en/tickets/
-- Miraikan (National Museum of Emerging Science and Innovation): https://www.miraikan.jst.go.jp/en/

@@ -15,9 +15,3 @@ Examples make the point clearer. In Higashiyama and Gion, the issue is not wheth
 Kyoto is therefore not only important because it explains the past. It also teaches a specific mode of travel in Japan: one based on timing, tact, and atmosphere rather than accumulation. You learn to go early, to leave room between destinations, to pay attention to paving stones, shadows, incense, signage, and the change in air at dusk. You learn that a city can be saturated with global fame and still insist that some parts of it are not for spectacle. In that insistence Kyoto becomes more than a symbol. It becomes a kind of education in how to look.
 
 The practical advice follows naturally. Stay at least two nights if you can. Build days by area rather than by prestige. Visit famous places early or late, and resist the urge to turn every encounter into a photo opportunity. Travel light, because crowded buses, narrow lanes, and temple stairs do not reward luggage. Most of all, understand that Kyoto is not withholding itself when it imposes limits. The limits are part of the city. In Japan there are many beautiful places. Kyoto is the one that most clearly teaches that beauty survives only when people agree not to overrun it.
-
-Sources:
-- [Discover Kyoto, Kyoto Travel / Kyoto City Tourism Association](https://kyoto.travel/en/discover/)
-- [Responsible Travel, Kyoto Travel / Kyoto City Tourism Association](https://kyoto.travel/en/responsible-travel/)
-- [Sustainable Tourism, Kyoto Travel / Kyoto City Tourism Association](https://kyoto.travel/en/sustainable-tourism/)
-- [Kyoto Tourism Annual Report 2024, DMO Kyoto](https://www.kyokanko.or.jp/report/hotel2024/)

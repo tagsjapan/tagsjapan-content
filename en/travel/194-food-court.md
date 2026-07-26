@@ -47,7 +47,3 @@ Then there are the destination shopping facilities, where the food court becomes
 In recent years, the food court has also been quietly modernized. Some newer complexes lean into cashless payment, digital ordering screens, and a more curated look that flirts with the word “food hall.” Others expand takeout zones for people who want to eat on a bench outside or back at a hotel desk. But the Japanese logic stays stubbornly practical: a shared space that tolerates different appetites and different tempos. If you are trying to travel well—meaning you want to stay curious without exhausting yourself—the food court is not a secret trick. It is infrastructure, as useful as an escalator or a coin locker.
 
 You notice this most clearly on the way out. You scrape chopsticks into a tray, slide your trash into the right slot, and watch someone wipe a spill without fuss. A moment ago your group was arguing about lunch; now you are walking again, lighter in mood if not in bags. Outside, the rain may still be falling, but inside the mall the day has been put back on its rails. That, more than any specific dish, is what Japan’s food court actually sells.
-- AEON MALL (Official site): https://www.aeonmall.com/en/
-- Mitsui Shopping Park (Official site): https://mitsui-shopping-park.com/en/
-- LaLaport (Mitsui Shopping Park): https://mitsui-shopping-park.com/en/lalaport/
-- Premium Outlets Japan (Official site): https://www.premiumoutlets.co.jp/en/

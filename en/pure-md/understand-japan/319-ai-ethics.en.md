@@ -19,11 +19,3 @@ Japan is also navigating a global rule environment. The Hiroshima AI Process and
 Privacy law and personal data governance sit underneath the ethics debate. Japan’s Act on the Protection of Personal Information and the work of the Personal Information Protection Commission shape what organizations can collect, how they can reuse data, and what counts as legitimate purpose. That baseline matters in an AI era because many AI harms are data harms in disguise: consent without understanding, reuse without permission, aggregation that changes the meaning of information, or “anonymized” datasets that stop feeling anonymous once they are linked and inferred upon. When Japanese organizations write internal AI rules, the first practical question is often not model architecture but whether the inputs and outputs violate the social expectations embedded in privacy law.
 
 AI Ethics helps explain contemporary Japan because it reveals a country trying to regulate without choking. Japan wants AI to support an aging society and a labor-constrained economy, and it wants to protect trust in institutions that already face skepticism. Guidelines are Japan’s preferred bridge between those goals. Whether the bridge holds depends on enforcement culture: whether “ethics” becomes a real responsibility chain inside organizations, not just a document on a website. If a teacher, a municipal clerk, or a bank employee cannot tell where the boundary is—and what happens when the boundary is crossed—then the principle remains ornamental. If they can, Japan’s soft-law approach starts to look less like avoidance and more like a working method for keeping fast technology inside slow-moving institutions.
-
-Sources:
-- Cabinet Office (Japan), Human-centric AI Social Principles (人間中心のAI社会原則)
-- MIC (Japan), AI Network Society Promotion Council (AIネットワーク社会推進会議) materials
-- METI, AI Business Guidelines Version 1.1 (AI事業者ガイドライン 1.1版)
-- METI, AI Business Guidelines review committee materials (検討会)
-- Ministry of Foreign Affairs (Japan), Hiroshima AI Process Friends Group Action Plan 2026
-- Personal Information Protection Commission (Japan), Act on the Protection of Personal Information and related guidance

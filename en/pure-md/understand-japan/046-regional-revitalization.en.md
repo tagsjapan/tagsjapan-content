@@ -17,11 +17,3 @@ The trouble is that the policy carries a promise it cannot always keep. Regional
 Yet the policy remains revealing precisely because it sits in that uncomfortable space between necessity and insufficiency. Japan cannot ignore rural shrinkage, the over-concentration of opportunity in the capital region, or the administrative strain of an aging, thinning countryside. But it also cannot easily reverse those trends. Regional revitalization is the language Japan uses when it tries to negotiate with those facts rather than deny them. The negotiation runs through grants, spreadsheets, renovated station buildings, startup support desks, local university plans, and a great many municipal meetings. It is a national attempt to buy time, preserve options, and keep local decline from turning into administrative surrender.
 
 So the interest of regional revitalization lies less in any single success story than in the national mood behind it. A country that once organized itself around growth now spends part of its political imagination asking how smaller places can remain livable while getting smaller still. The reused school, the digital service counter, the community bus that still makes its rounds: these are not side notes. They are the front line of Japan's attempt to keep geography from hardening into abandonment and silence everywhere else.
-
-Sources:
-- [Regional Revitalization Measures | Headquarters for Digital Garden City Nation Concept](https://www.chisou.go.jp/sousei/about/index.html)
-- [Digital Talent Regional Circulation Strategy Package | Headquarters for Digital Garden City Nation Concept](https://www.chisou.go.jp/sousei/about/digital-jinzai/index.html)
-- [Digital Garden City Nation Concept Grant | Headquarters for Digital Garden City Nation Concept](https://www.chisou.go.jp/sousei/about/mirai/policy/policy1.html)
-- [Local Revitalization Hub Development Type | Headquarters for Digital Garden City Nation Concept](https://www.chisou.go.jp/sousei/about/kouhukin/kyotenseibi/index.html)
-- [Regional Population Projections 2023 | IPSS](https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/t-page.asp)
-- [Population Estimates as of October 1, 2024 | Statistics Bureau of Japan](https://www.stat.go.jp/english/data/jinsui/2024np/index.html)
