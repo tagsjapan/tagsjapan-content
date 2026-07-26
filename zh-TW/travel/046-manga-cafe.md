@@ -1,6 +1,6 @@
 ---
 title: "漫畫咖啡館"
-slug: travel-manga-café
+slug: travel-manga-cafe
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

@@ -1,6 +1,6 @@
 ---
 title: "Mt. Fuji Climbing"
-slug: travel-mt.-fuji-climbing
+slug: travel-mt-fuji-climbing
 wp_status: draft
 wp_blog_id: 1
 

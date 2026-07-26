@@ -1,6 +1,6 @@
 ---
 title: "Bushidō"
-slug: understand-japan-bushidō
+slug: understand-japan-bushido
 wp_status: draft
 wp_blog_id: 1
 

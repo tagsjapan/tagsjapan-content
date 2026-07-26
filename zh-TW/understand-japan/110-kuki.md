@@ -1,6 +1,6 @@
 ---
 title: "空氣"
-slug: understand-japan-kūki
+slug: understand-japan-kuki
 wp_status: draft
 wp_blog_id: 2
 

@@ -1,6 +1,6 @@
 ---
 title: "動物咖啡館"
-slug: travel-animal-café
+slug: travel-animal-cafe
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

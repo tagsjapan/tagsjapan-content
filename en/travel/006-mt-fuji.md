@@ -1,6 +1,6 @@
 ---
 title: "Mt. Fuji"
-slug: travel-mt.-fuji
+slug: travel-mt-fuji
 wp_status: draft
 wp_blog_id: 1
 

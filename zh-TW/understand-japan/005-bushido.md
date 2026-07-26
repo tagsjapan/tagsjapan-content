@@ -1,6 +1,6 @@
 ---
 title: "武士道"
-slug: understand-japan-bushidō
+slug: understand-japan-bushido
 wp_status: draft
 wp_blog_id: 2
 

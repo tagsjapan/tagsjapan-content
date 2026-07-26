@@ -1,6 +1,6 @@
 ---
 title: "甘味處"
-slug: travel-japanese-sweets-café
+slug: travel-japanese-sweets-cafe
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

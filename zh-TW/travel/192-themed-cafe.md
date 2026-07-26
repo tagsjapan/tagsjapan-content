@@ -1,6 +1,6 @@
 ---
 title: "主題咖啡館"
-slug: travel-themed-café
+slug: travel-themed-cafe
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

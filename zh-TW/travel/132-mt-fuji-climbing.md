@@ -1,6 +1,6 @@
 ---
 title: "富士山登頂"
-slug: travel-mt.-fuji-climbing
+slug: travel-mt-fuji-climbing
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

@@ -1,6 +1,6 @@
 ---
 title: "富士山"
-slug: travel-mt.-fuji
+slug: travel-mt-fuji
 wp_status: draft
 wp_blog_id: 2           # /zh/ 讀記日本
 

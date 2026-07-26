@@ -1,6 +1,6 @@
 ---
 title: "Society 5.0"
-slug: understand-japan-society-5.0
+slug: understand-japan-society-5-0
 wp_status: draft
 wp_blog_id: 1
 
