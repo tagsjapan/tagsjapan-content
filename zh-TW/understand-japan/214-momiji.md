@@ -1,0 +1,81 @@
+---
+title: "楓葉"
+slug: understand-japan-momiji
+wp_date: 2025-12-31 09:00:00
+wp_status: draft
+wp_blog_id: 2
+
+keyword_en: Momiji
+keyword_type: aesthetic_thought
+category_name: 美學／思想型
+category_slug: aesthetic_thought
+
+tags:
+  - 楓葉
+  - Momiji
+  - 紅葉
+  - 日本美學
+  - 傳統藝術
+  - 文化遺產
+  - 藝術表現
+  - 審美思想
+
+excerpt: "秋季賞楓，季節感與自然美學。Momiji（楓葉／紅葉） 在日本並不只是秋天變紅的葉子，而是一整套圍繞秋色展開的文化行動。如果說 Sakura（櫻花） 是春天的公共節奏，那 Momiji（楓葉） 更像秋天的漫遊文化。JNTO 的 History & Culture of Koyo 指出，Momijigari（紅葉狩） 至少可以追到 8 世紀的平安時代。這個習俗後來逐步擴大，相關描寫進入《古今和歌集》與《源氏物語》，再到 18 世紀中葉已廣泛傳入民間。紅葉之所以值得寫，第一是因為它把日本人對四季的敏感，從居家審美推向移動中的審美。"
+
+genesis_title: ""
+genesis_description: "秋季賞楓，季節感與自然美學。Momiji（楓葉／紅葉） 在日本並不只是秋天變紅的葉子，而是一整套圍繞秋色展開的文化行動。如果說 Sakura（櫻花） 是春天的公共節奏，那 Momiji（楓葉） 更像秋天的漫遊文化。JNTO 的 History & Culture of Koyo 指出，Momijigari（紅葉狩..."
+open_graph_title: "楓葉"
+open_graph_description: "秋季賞楓，季節感與自然美學。Momiji（楓葉／紅葉） 在日本並不只是秋天變紅的葉子，而是一整套圍繞秋色展開的文化行動。如果說 Sakura（櫻花） 是春天的公共節奏，那 Momiji（楓葉） 更像秋天的漫遊文化。JNTO 的 History & Culture of Koyo 指出，Momijigari（紅葉狩..."
+twitter_title: "楓葉"
+twitter_description: "秋季賞楓，季節感與自然美學。Momiji（楓葉／紅葉） 在日本並不只是秋天變紅的葉子，而是一整套圍繞秋色展開的文化行動。如果說 Sakura（櫻花） 是春天的公共節奏，那 Momiji（楓葉） 更像秋天的漫遊文化。JNTO 的 History & Culture of Koyo 指出，Momijigari（紅葉狩..."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# 楓葉
+
+## 核心定義
+
+`Momiji（楓葉／紅葉）` 在日本並不只是秋天變紅的葉子，而是一整套圍繞秋色展開的文化行動。日本人常說的 `Momijigari（紅葉狩）`，字面上像是「去獵紅葉」，實際上指的是專程外出欣賞秋色。這裡最重要的不是葉片本身，而是人如何為了它而移動、等待、停留與記憶。
+
+如果說 `Sakura（櫻花）` 是春天的公共節奏，那 `Momiji（楓葉）` 更像秋天的漫遊文化。它沒有那麼單一，也沒有一個全國同時爆發的固定時刻，反而更強調地域差、路線規劃與「現在去哪裡最好看」的追逐感。
+
+## 形成與演變
+
+JNTO 的 `History & Culture of Koyo` 指出，`Momijigari（紅葉狩）` 至少可以追到 8 世紀的平安時代。最早主要是京都貴族的秋季活動。因為他們春天已能在自家庭院欣賞花木，到了秋天則必須離開居所，往山中與郊外去找尋紅葉。於是，賞紅葉從一開始就帶著「出門」的性質。
+
+這個習俗後來逐步擴大，相關描寫進入《古今和歌集》與《源氏物語》，再到 18 世紀中葉已廣泛傳入民間。也就是說，紅葉文化不是現代觀光業發明的，而是很早就和日本人的文學、遊歷與季節感結在一起。
+
+## 為什麼它是理解日本的關鍵
+
+紅葉之所以值得寫，第一是因為它把日本人對四季的敏感，從居家審美推向移動中的審美。春天看櫻花，很多時候是去公園或河岸；秋天看紅葉，常常要往寺院、山谷、高原或神社深處走。這讓紅葉文化天然地帶著地理感與旅行感。
+
+第二，紅葉讓人看見日本如何把自然現象轉成文化語言。JNTO 直接指出，楓葉意象不只出現在景點，也出現在和歌、和服圖樣、和菓子與日常譬喻裡。也就是說，紅葉不是單純被觀看，而是被編進生活物件與說話方式之中。
+
+紅葉還有一個容易被忽略的面向，就是它非常善於被做成圖樣與味道。從和服上的楓葉紋、秋季和菓子的造型，到寺院夜間點燈的宣傳視覺，紅葉總在提醒人們：秋天不是抽象季節，而是可以被穿在身上、吃進嘴裡、帶回家的文化經驗。
+
+第三，紅葉文化也比櫻花更能顯示日本列島的地域差。National Parks of Japan 說明，秋色從北海道高山開始，隨著海拔與緯度一路往南移動，整個觀賞期可延續約三個月。日本的秋天因此不是同時發生，而是分批展開，這種節奏本身就很能說明日本地理與季節文化的關係。
+
+## 結構、爭議與當代變化
+
+今天的 `Momijigari（紅葉狩）` 已經高度觀光化。纜車、點燈、夜楓、步道導覽、地方祭典與網路照片，把紅葉季變成一張大型季節移動網絡。但和櫻花相比，它又沒有那麼單一集中。不同山區、寺院、溪谷與公園各有自己的最佳時間，於是紅葉文化既商業化，卻也保留了相對分散的地方性。
+
+這裡也有一個很有意思的張力。紅葉常被看成安靜、內省、偏成熟的秋日審美，可一旦進入熱門景區，現場其實可能非常熱鬧。也就是說，紅葉在文化想像中是靜的，在公共現實裡卻常常很動。這種落差正好提醒我們，日本的季節美學從來不只存在於詩裡，也存在於人潮、交通與地方行銷裡。也正因如此，紅葉比櫻花更常帶出沿路尋景的移動型態。人不一定只去一個公園拍完就走，而是會跟著山路、寺町、溪谷與鐵道路線，慢慢把秋色看成一段移動中的敘事。紅葉因此特別像一種會走路、會轉場的季節美學。
+
+## 例子與場景
+
+第一個例子，是 `Korankei（香嵐渓）`。它顯示地方如何把一處自然溪谷，經營成全國知名的秋季紅葉景點與節慶空間。
+
+第二個例子，是 `Ise Jingu（伊勢神宮）` 的秋色。這讓人看到紅葉不一定只是山林野趣，它也能與神社的儀式感、森林氛圍與參拜路線緊密結合。
+
+第三個例子，是各地國立公園的高山紅葉。從北海道開始一路往南推移的秋色前線，說明紅葉文化本質上就是一種跟著地形與時間移動的文化。
+
+## 參考資料
+
+- [History & Culture of Koyo | JNTO](https://www.japan.travel/en/au/experience/autumn-leaves/history-culture-koyo/)
+- [Autumn Leaves | JNTO](https://www.japan.travel/en/things-to-do/nature/autumn-leaves/)
+- [Autumn in Japan's National Parks | National Parks of Japan](https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/autumn-in-japans-national-parks/)
+- [Kimono with Autumn Leaf Patterns | Highlighting Japan](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202109/202109_06_en.html)
+- [Korankei Gorge Autumn Leaves | JNTO](https://www.japan.travel/en/spot/137/)
+- [The Autumn Leaves at Ise Jingu | JNTO](https://www.japan.travel/en/japans-local-treasures/autumn-leaves-ise-jingu-2020/)

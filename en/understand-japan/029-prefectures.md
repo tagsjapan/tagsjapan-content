@@ -1,0 +1,58 @@
+---
+title: "Prefectures"
+slug: understand-japan-prefectures
+wp_date: 2025-02-27 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Institutions & Systems
+category_slug: institution_system
+
+tags:
+  - Prefectures
+  - Japanese Culture
+  - Understand Japan
+  - Administrative Division
+  - Regional Government
+
+excerpt: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are administrative at one level and emotional at another."
+
+genesis_title: ""
+genesis_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
+open_graph_title: "Prefectures"
+open_graph_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
+twitter_title: "Prefectures"
+twitter_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Prefectures: The Map on Which Japan Learns to Know Itself
+
+Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are administrative at one level and emotional at another. News, school tournaments, police notices, public-health alerts, and election returns are all arranged on the same grid. The `Prefecture` in Japan is never just a bureaucratic unit. It is one of the country's basic ways of imagining territory, difference, and belonging.
+
+Japan has 47 prefectures: 1 `to` for Tokyo, 1 `do` for Hokkaido, 2 `fu` for Osaka and Kyoto, and 43 `ken`. They form the first layer of local public government between the national state and municipalities. Governors and prefectural assemblies are elected. Prefectural governments handle broad-area administration, coordinate across cities, towns, and villages, and take major responsibility for fields such as public health, education, policing, and regional planning. When Japanese people speak of `Aomori`, `Fukuoka`, or `Nagano`, they are usually naming both a place and a governing unit at once.
+
+The system is modern, even when the names feel old. In the early Meiji years the state dismantled the old domain order through the 1871 abolition of domains and establishment of prefectures. What followed was not a single clean map made in one stroke but a period of consolidation and redesign. Over time the state reduced the number of units and fixed the framework that later settled into today's 47 prefectures. That history matters because it shows how regional Japan was reassembled: not by erasing local difference, but by reorganizing it under a centralized national state.
+
+A prefecture is an administrative unit, but it is also a habit of feeling.
+
+The reach of prefectural government is easy to miss because its work is so dispersed. Prefectures run police forces and high schools, coordinate hospitals, maintain major roads and rivers, and mediate between national ministries and municipalities below. During the COVID years, governors became nationally visible because prefectures were often the level that translated central policy into regional requests and public guidance. Yet the prefecture is never only an office stack. It is also the scale at which dialect, food, school rivalry, labor markets, and hometown pride are publicly sorted and compared. A person may feel attached to a city ward or a fishing town more intensely than to a prefecture, but prefectural identity still supplies the broad frame through which those smaller loyalties become legible to the rest of the country.
+
+That double character helps explain why prefectures remain so durable. Administratively, they stand at the middle level of Japanese governance. They are large enough to manage matters too broad for a single municipality and close enough to the ground to understand regional conditions. Symbolically, they are the scale at which many Japanese people first learn regional identity. Schoolchildren memorize the map. Companies arrange sales territories by prefecture. Statistics are published by prefecture. Sports teams, hometown products, and local pride often travel under prefectural labels even when the lived identity underneath is more local or more historical.
+
+The differences among the 47 are not merely decorative. Tokyo is a special metropolis with an unusual ward structure and a concentration of national power unmatched elsewhere. Hokkaido is a vast northern territory whose size alone makes governance feel different. Kyoto and Osaka retain the older `fu` label, a reminder that political importance can remain embedded in nomenclature. Beyond those special cases, prefectural governments mediate very real inequalities in population, tax base, economic opportunity, and infrastructure. A growing metropolitan prefecture and a depopulating rural one may share the same formal status while living under sharply different social conditions.
+
+Those differences fuel periodic debate about reform. For years there have been arguments over `doshusei`, a possible larger regional system that would replace or reduce the current prefectural order. Supporters claim Japan's demographic and fiscal pressures call for broader units and fewer layers. Skeptics note that the 47-prefecture system is already deeply woven into law, institutions, political careers, and public identity. The result has been discussion without replacement. The old map bends under pressure, but it has not broken.
+
+Understanding prefectures therefore opens a path into Japanese governance and Japanese self-description at the same time. Prefectures are how budgets are administered, how epidemics are tracked, how police jurisdictions are organized, and how governors become regional power brokers. They are also how difference is narrated in ordinary life, from food and dialect to labor markets and school rivalry. They are the units through which school tournaments are ranked, disaster warnings are compared, and regional economies are measured against one another. Modern Japan did not abolish the region. It standardized the region into a form the state could govern and the public could recognize.
+
+That is why the prefectural map on the television screen matters. It is not only a convenience for meteorologists and election analysts. It is also a daily reminder that national life in Japan is repeatedly sorted through 47 recognizable frames, over and over, every day. It is one of the templates by which Japan sees itself as both one country and many distinct places at once.
+
+Sources:
+- [地方公共団体制度 | 総務省](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/c-gyousei/)
+- [都道府県と市町村の数 | 総務省](https://www.soumu.go.jp/kouiki/kouiki.html)
+- [Prefectures and Municipalities | JapanGov](https://www.japan.go.jp/tomodachi/2018/winter2018/prefectures_and_municipalities.html)
+- [Local government | Britannica](https://www.britannica.com/place/Japan/Local-government)
+- [The modern municipality system | National Diet Library Search](https://ndlsearch.ndl.go.jp/books/R100000002-I000002801961)

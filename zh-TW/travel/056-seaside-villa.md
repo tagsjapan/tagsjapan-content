@@ -1,0 +1,78 @@
+---
+title: "濱海別墅"
+slug: travel-seaside-villa
+wp_date: 2026-01-02 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 56
+keyword_en: Seaside Villa
+keyword_ja: 海辺のヴィラ
+keyword_type: experience
+module_code: C
+category_name: 住宿
+category_slug: accommodation
+editorial_focus: "住宿文化、空間感、生活進入方式"
+
+tags:
+  - Seaside Villa
+  - 濱海別墅
+  - 海辺のヴィラ
+  - Hïsom
+  - Uza Terrace Beach Club Villas
+  - 日本旅遊
+  - 日式旅館
+  - 琉球風格
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Seaside Villa（濱海別墅） 在日本旅遊語境裡，通常不是法律上的正式住宿分類，而是一種強調海景、私密感、獨立空間與慢節奏停留的住宿商品。它可能是沖繩海邊的獨棟 villa、瀨戶內海沿岸的設計型水岸別墅，或靠近海岸聚落、適於家人朋友同住的整棟型旅宿。和 Ryokan（日式旅館） 或大型度假飯店相比，濱海別墅更重視「把海放進生活動線」這件事，例如從客廳直接看到海、戶外泳池或露台和海風連成一體、早餐或晚餐可以按自己的節奏安排。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Seaside Villa（濱海別墅） 在日本旅遊語境裡，通常不是法律上的正式住宿分類，而是一種強調海景、私密感、獨立空間與慢節奏停留的住宿商品。它可能是沖繩海邊的獨棟 villa、瀨戶內海沿岸的設計型水岸別墅，或靠近海岸聚落、適於家人朋友同住的整棟型旅宿。"
+open_graph_title: "濱海別墅"
+open_graph_description: "Seaside Villa（濱海別墅） 在日本旅遊語境裡，通常不是法律上的正式住宿分類，而是一種強調海景、私密感、獨立空間與慢節奏停留的住宿商品。它可能是沖繩海邊的獨棟 villa、瀨戶內海沿岸的設計型水岸別墅，或靠近海岸聚落、適於家人朋友同住的整棟型旅宿。"
+twitter_title: "濱海別墅"
+twitter_description: "Seaside Villa（濱海別墅） 在日本旅遊語境裡，通常不是法律上的正式住宿分類，而是一種強調海景、私密感、獨立空間與慢節奏停留的住宿商品。它可能是沖繩海邊的獨棟 villa、瀨戶內海沿岸的設計型水岸別墅，或靠近海岸聚落、適於家人朋友同住的整棟型旅宿。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 濱海別墅
+
+## 這是什麼
+
+`Seaside Villa（濱海別墅）` 在日本旅遊語境裡，通常不是法律上的正式住宿分類，而是一種強調海景、私密感、獨立空間與慢節奏停留的住宿商品。它可能是沖繩海邊的獨棟 villa、瀨戶內海沿岸的設計型水岸別墅，或靠近海岸聚落、適於家人朋友同住的整棟型旅宿。和 `Ryokan（日式旅館）` 或大型度假飯店相比，濱海別墅更重視「把海放進生活動線」這件事，例如從客廳直接看到海、戶外泳池或露台和海風連成一體、早餐或晚餐可以按自己的節奏安排。
+
+所以它賣的不是只有房間升級，而是一種把海邊停留拉長、把團體旅行或雙人旅行變得更私密的住宿方式。旅人住進去之後，真正被購買的常是獨處感、可自己安排時間的自由，和從早到晚都維持在海邊節奏裡的感受。
+
+## 為什麼它在日本特別
+
+日本的濱海別墅特別，在於它往往不是把地中海或熱帶度假村原封不動搬過來，而是把日本不同海岸的地方性格放進住宿裡。像沖繩讀谷村的 `Uza Terrace Beach Club Villas`，官方就強調 `Ryukyu-style（琉球風格）` 與私人泳池、島嶼節奏的結合；宮古島的 `The Shigira` 則把私人泳池、海景、潛水與高端餐飲放在同一個海灣度假脈絡裡。也就是說，濱海別墅在日本並不只追求奢華，而是把每個海岸地帶的風土轉成停留方式。
+
+另一個特別之處，是日本常把別墅住宿做成「半自宅、半旅館」的狀態。像島根 `Hïsom` 這種靠海的改造民居，重點不是完整飯店服務，而是讓住客自己煮食、燒烤、在海和森林之間切換。瀨戶內海沿岸的別墅則常加入建築、美術館或地方食材體驗。這代表日本的濱海別墅不是只有度假感，也常和建築、地方文化與長時間相處有關。
+
+## 為什麼它是日本旅遊的重要結構
+
+對 `Japan Travel（日本旅遊）` 來說，濱海別墅很重要，因為它改變了旅人和海邊目的地的關係。傳統海邊旅行常是白天去海灘、傍晚回飯店，但別墅型住宿讓海景不只是白天行程，而是整段停留的背景。你可能在露台吃早餐、午後回房沖澡、傍晚再看海，整個旅程因此從「去海邊玩」變成「住在海邊一段時間」。
+
+它也很適合日本近年增加的多世代旅行、小團體旅行與長住需求。相較於房間被切得較細的都會型飯店，別墅更容易容納朋友、伴侶或家庭共用客廳與戶外空間，同時保留各自的節奏。對旅人來說，這種住宿不是配角，而是海島、半島與沿岸城市旅行能否成立的核心之一。
+
+## 例子與場景
+
+第一個例子是沖繩。像 `Uza Terrace` 這種別墅，把私人泳池、海風與琉球感空間做成放鬆型度假，適合把整天節奏放慢。第二個例子是宮古島 `The Shigira`，更強調高端海灣度假與水上活動，適合把住宿、餐飲和浮潛安排成一整套。第三個例子是瀨戶內或山陰沿岸的小型別墅，像 `Hïsom` 這種靠海民居改造住宿，則比較像把海邊生活借住幾天，重點在安靜、共處與地方感。
+
+## 旅行提示
+
+訂濱海別墅時，先確認它到底比較接近飯店、整棟民宿，還是附服務的 villa resort。這會直接影響你是否需要自行開車、採買食材、處理垃圾或提前預約餐食。第二，海景房不一定等於海邊可下水，若你想安排游泳、浮潛或沙灘散步，要分開確認海岸條件。第三，濱海別墅通常比都會飯店更依賴天氣與交通，若遇到颱風季、船班異動或夜間移動不便，行程要留更多彈性。
+
+## 參考資料
+
+- [A luxury beachfront stay in an ocean paradise, Travel Japan / JNTO](https://www.japan.travel/en/experiences-in-japan/1753/)
+- [The Shigira, JNTO Luxury Travel](https://www.japan.travel/en/luxury/detail/the-shigira/)
+- [A Beach and Forest Stay Offering the Best of Both Worlds, Travel Japan / JNTO](https://www.japan.travel/en/experiences-in-japan/4716/)
+- [Setouchi Featured Destinations, JNTO Luxury Travel](https://www.japan.travel/en/luxury/featured-destinations/setouchi/)

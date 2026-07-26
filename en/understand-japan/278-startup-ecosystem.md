@@ -1,0 +1,61 @@
+---
+title: "Startup Ecosystem"
+slug: understand-japan-startup-ecosystem
+wp_date: 2026-06-22 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Policy & Strategy
+category_slug: policy_strategy
+
+tags:
+  - Startup Ecosystem
+  - government policy
+  - public policy
+  - strategy
+  - Japanese society
+  - everyday life
+  - cultural heritage
+
+excerpt: "On a weekday evening in Tokyo, you can watch the new Japanese startup scene rehearse itself: a pitch deck on a projector, a room full of hoodies and suits, a handful of venture capitalists taking notes, and a founder trying to sound both ambitious and respectable."
+
+genesis_title: ""
+genesis_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
+open_graph_title: "Startup Ecosystem"
+open_graph_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
+twitter_title: "Startup Ecosystem"
+twitter_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Startup Ecosystem: Japan Tries to Manufacture Risk
+
+On a weekday evening in Tokyo, you can watch the new Japanese startup scene rehearse itself: a pitch deck on a projector, a room full of hoodies and suits, a handful of venture capitalists taking notes, and a founder trying to sound both ambitious and respectable. Japan has always been good at manufacturing—at building systems that turn knowledge into reliable production. The harder question has been whether it can build a system that turns uncertainty into repeated creation. That is what people mean, in Japan, when they talk about a `Startup Ecosystem（スタートアップ生態系）`.
+
+A startup ecosystem is not just “more startups.” It is the network that lets high-risk innovation survive long enough to become scale: founders, talent pipelines, universities and labs, investors, accelerators, corporate partners, procurement channels, regulation, and a city environment that can absorb failure without treating it as moral disgrace. In Japan, the ecosystem idea matters because the country’s traditional strengths—large firms, stable employment, bank-centered finance, and incremental improvement—do not automatically produce venture-style experimentation. Japan is not trying to copy Silicon Valley in aesthetics. It is trying to copy an economic metabolism.
+
+For a long time, startups were not central to Japan’s self-image. Postwar Japan built global champions through corporate R&D and disciplined production. That model still exists, but it is no longer sufficient in domains where speed, software, and platform dynamics matter. The policy turn became explicit in `2018` with `J-Startup`, a program that selects promising firms for concentrated public-private support. In `2020`, the government began selecting “startup ecosystem hub cities,” encouraging consortia of local governments, universities, and private support organizations to design regional ecosystems rather than isolated projects. In late `2022`, the Cabinet Secretariat consolidated this shift in the `Startup Development Five-year Plan（スタートアップ育成5か年計画）`, an agenda that treats startup growth as a national competitiveness project, not a niche hobby.
+
+The plan did not hide behind vague encouragement. It set headline ambitions—raising annual startup investment toward `¥10 trillion` over the plan period, aiming for `100` unicorns, and imagining a future with `100,000` startups—then grouped policies into a package: entrepreneurship talent and networks, financing and exit options, and collaboration between startups and incumbents. Even if the targets are aspirational, the framing is revealing. Japan is trying to turn “startup” from an individual gamble into a system with visible rails.
+
+Japan’s ecosystem-building is therefore unusually “designed.” It relies on selection programs, designated hubs, and the creation of official interfaces. Being chosen can open doors: introductions to ministries, corporate partners, overseas networks, and events that function as legitimacy machines. That approach has strengths. It reduces search costs in a market that historically lacked dense startup networks. It also matches Japan’s institutional instincts: prefer structured channels to chaotic discovery. Yet it carries a risk of its own. If the ecosystem is too dependent on official selection, then startups can become performers for programs rather than builders for markets.
+
+Deep-tech entrepreneurship shows how Japan tries to solve this. A country with strong universities and research institutes should be able to produce science-based companies, but the path from lab to market is notoriously hard. That is why agencies like `NEDO` run programs such as the `NEDO Entrepreneurs Program（NEP）`, combining mentoring, commercialization support, and R&D funding aimed at research-based startups. The logic is straightforward: if Japan’s comparative advantage includes technology seeds, the ecosystem must supply the human and financial bridge that turns seeds into firms. In practice, the bridge is made of people—supervisors, catalysts, corporate partners—because money alone rarely fixes the “valley of death.”
+
+The ecosystem also depends on big companies, and that is another Japanese twist. Corporate venture capital, pilot projects, and “open innovation” initiatives can give startups customers and credibility. They can also trap them in long procurement cycles and risk-averse decision-making. Many founders in Japan learn to translate a startup’s speed into a form that fits corporate governance: security reviews, compliance explanations, and “proof” that looks like a traditional vendor relationship. The ecosystem, then, is partly a translation layer between two time scales.
+
+An ecosystem is a promise that failure is survivable.
+
+Japan’s startup ecosystem debate is full of tensions that reveal Japan’s broader economic psychology. Policymakers want more “exits,” larger rounds of growth capital, and more global scale. Critics worry that startup policy becomes a slogan that hides deeper issues: risk aversion in finance, gender barriers in entrepreneurship, and the gravitational pull of stable careers. There is also a persistent suspicion that Japan can build the buildings—incubators, hubs, programs—without fully building the culture of high failure rates. Still, the direction is clear. Japan has decided that “startup” is no longer a foreign word. It is something the state will try to grow on purpose.
+
+For understanding Japan, the ecosystem push matters because it shows how Japan reforms itself: not by breaking everything, but by constructing new layers. J-Startup, hub cities, and the Five-year Plan are layers added on top of an economy still dominated by incumbents. Japan is attempting to manufacture risk the way it once manufactured quality—through institutions, standards, and coordinated effort. Whether that produces world-scale companies is an open question. What it already produces is a new way of talking about the future.
+
+Sources:
+- [J-Startup (About) | METI-supported program](https://www.j-startup.go.jp/about/index.html)
+- [Startup Ecosystem Hub Cities (世界と伍するスタートアップ・エコシステム拠点都市) | Cabinet Office](https://www8.cao.go.jp/cstp/openinnovation/ecosystem/index.html)
+- [Startup Development Five-year Plan (Provisional Translation) | Cabinet Secretariat (PDF)](https://www.cas.go.jp/jp/seisaku/atarashii_sihonsyugi/pdf/sdfyplan2022en.pdf)
+- [NEDO Entrepreneurs Program (NEP) | NEDO](https://nep.nedo.go.jp/)
+- [Startup development in Japan | JETRO](https://www.jetro.go.jp/en/invest/attractive_sectors/startup_development.html)
+- [Startup and New Business Promotion | METI](https://www.meti.go.jp/english/policy/economy/startup_nbp/index.html)

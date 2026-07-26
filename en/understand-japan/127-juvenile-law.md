@@ -1,0 +1,58 @@
+---
+title: "Juvenile Law"
+slug: understand-japan-juvenile-law
+wp_date: 2025-09-11 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Institutions & Systems
+category_slug: institution_system
+
+tags:
+  - Juvenile Law
+  - Japanese Culture
+  - Understand Japan
+  - Youth Justice
+  - Legal System
+
+excerpt: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court.” A teenager in a hoodie sits beside a parent, both staring at the same paper cup of vending‑machine coffee."
+
+genesis_title: ""
+genesis_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
+open_graph_title: "Juvenile Law"
+open_graph_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
+twitter_title: "Juvenile Law"
+twitter_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Juvenile Law: Protection, Punishment, and the Family Court
+
+On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court.” A teenager in a hoodie sits beside a parent, both staring at the same paper cup of vending‑machine coffee. A clerk calls a case number, not a name. Down the hall, someone is doing the quiet work of turning a messy episode—an assault after class, a shoplifting spree, a night that went too far—into a file that the state can handle.
+
+`Juvenile Law（少年法）` is Japan’s legal framework for dealing with young people who offend or seem at high risk of offending. The center of gravity is not sentencing, but the `Family Court（家庭裁判所）`, which investigates circumstances and decides on protective measures meant to steer a young person back toward ordinary life.
+
+That choice reflects a stubborn premise: adolescence is not simply a smaller version of adulthood. Japanese juvenile procedure is built on the idea that a young person’s actions cannot be understood without looking at the family, school, peers, and living environment around them, and that the state’s response should aim at rehabilitation as a form of public safety. In practice, this pulls judges into a world of interviews, background reports, and educational plans—tools that look more like social work than like punishment.
+
+Procedurally, the family court is designed to make that context legible. Proceedings are not staged as a public contest between prosecution and defense; they are closer to an administrative inquiry. `Family Court Investigators（家庭裁判所調査官）` interview the young person and relevant adults, compile reports on schooling, home life, and risk of reoffending, and help the judge decide what kind of intervention has a realistic chance of working. Even the vocabulary points in this direction: outcomes are framed as `protective dispositions（保護処分）` rather than “sentences,” because the system wants to describe its response as correction and reintegration, not revenge.
+
+The official materials of the courts make the system’s categories unusually explicit. Family courts handle cases involving `criminal juveniles（犯罪少年）`, `lawbreaking juveniles（触法少年）`, and even `pre‑delinquent juveniles（ぐ犯少年）`—young people who may not have committed a crime but are judged to be on a path toward serious trouble. The process is designed to be fact‑finding and future‑oriented. A judge does not simply ask what happened; the court’s investigators examine how the young person lives, who influences them, what school attendance looks like, whether there is violence at home, and what kind of supervision or treatment might actually change behavior. Dispositions include forms of supervision, “trial observation,” and placement in a juvenile training school; in the most serious cases, the family court can `send the case to prosecutors（逆送）`, moving it closer to adult criminal procedure. Over the last decade, the system has also been pushed to account for victims: the courts’ own Q&A describes mechanisms for victims to receive information, express views, and access parts of the record. The juvenile case is no longer imagined as a sealed conversation between the state and the child.
+
+This is where Japan’s argument about juvenile justice usually lives: not in whether young people should face consequences, but in what sort of consequences are legitimate. When a serious case shocks the public, the demand for harsher treatment rises quickly, and the criticism is often emotional and concrete—why should someone who caused irreversible harm be protected from exposure, or from the full force of punishment? The counter‑argument is also concrete: if the response becomes purely punitive, the state may create a young repeat offender rather than preventing one. Japan’s juvenile law endures because it absorbs this argument rather than resolving it once and for all.
+
+The most visible recent pivot came on `April 1, 2022`, when Japan lowered the civil age of adulthood from `20` to `18` and amended the juvenile law accordingly. Instead of ejecting `18`‑ and `19`‑year‑olds from juvenile procedure entirely, the system created a category of `specified juveniles（特定少年）`. The Ministry of Justice explains the compromise in plain terms: these young people are now expected to bear greater responsibility, yet they are still considered to be in a developmental stage with “malleability.” The law therefore keeps them within the family court framework but applies different rules in sensitive areas such as transfer to prosecutors and limits on name disclosure.
+
+One way to see the logic is to watch how the system treats risk. A `ぐ犯少年` case can begin not with a police report but with a pattern—running away, associating with older offenders, repeated violence at school—that convinces adults that waiting for a felony is the most dangerous option. The court’s involvement is a kind of preemptive governance: not a declaration of guilt, but an attempt to use investigation and supervision to change the trajectory while there is still time.
+
+In other words, `Juvenile Law（少年法）` is a portrait of how Japan tries to manage social damage without giving up on the possibility of change. It is cautious, procedural, and sometimes infuriatingly slow. It is also a system that asks the state to do more than punish—to examine, to document, to intervene, and to take responsibility for the long tail of what happens after a young person’s worst day becomes a public problem.
+
+Sources:
+- [少年事件とは | 裁判所](https://www.courts.go.jp/saiban/syurui/syurui_syonen/syonen_jiken/index.html)
+- [少年事件 | 裁判所](https://www.courts.go.jp/saiban/syurui/syurui_syonen/index.html)
+- [裁判手続 少年事件Q&A | 裁判所](https://www.courts.go.jp/saiban/qa/qa_syonen/index.html)
+- [被害者保護制度に関する少年事件Q&A | 裁判所](https://www.courts.go.jp/about/hogosisaku/qa/index.html)
+- [少年法が変わります！ | 法務省](https://www.moj.go.jp/keiji1/keiji14_00015.html)
+- [少年法改正 Q&A | 法務省](https://www.moj.go.jp/keiji1/keiji14_00017)
+- [改正少年法下における若年者に対する矯正教育等について | 法務省](https://www.moj.go.jp/kyousei1/kyousei08_00103.html)

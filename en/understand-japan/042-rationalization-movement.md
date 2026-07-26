@@ -1,0 +1,58 @@
+---
+title: "Rationalization Movement"
+slug: understand-japan-rationalization-movement
+wp_date: 2025-03-25 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Policy & Strategy
+category_slug: policy_strategy
+
+tags:
+  - Rationalization Movement
+  - Japanese Culture
+  - Understand Japan
+  - Business Reform
+  - Restructuring
+
+excerpt: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
+
+genesis_title: ""
+genesis_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
+open_graph_title: "Rationalization Movement"
+open_graph_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
+twitter_title: "Rationalization Movement"
+twitter_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Rationalization Movement: Efficiency as a Postwar Social Bargain
+
+In many countries, the word `rationalization` has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain. Postwar Japan knew that danger well, which is why its own `Rationalization Movement` developed with an unusual amount of moral explanation around it. The project was not sold simply as cost cutting. It was presented as a national route to higher productivity, higher living standards, and social cooperation after the devastation of war.
+
+The decisive institutional moment came in 1955 with the creation of the Japan Productivity Center and the articulation of the famous `Three Principles of Productivity`: maintain and expand employment, secure cooperation and consultation between labor and management, and distribute the fruits of productivity fairly. Those principles mattered because they tried to make efficiency politically acceptable. Rationalization in Japan would not be defended as management's unilateral right to squeeze more output. It would be justified as a shared social project with obligations attached.
+
+That framework emerged in a very specific historical setting. Japan was rebuilding, seeking industrial competitiveness, and looking closely at American methods of production, management, and marketing. Study missions went abroad. Techniques such as industrial engineering, quality control, suggestion systems, and small-group activity were carried back into factories and offices. But the imported methods were not simply copied. They were embedded in a postwar Japanese compromise that stressed consultation and continuity strongly enough to keep labor conflict from destroying the productivity project at birth.
+
+Efficiency had to be made socially legitimate before it could become ordinary.
+
+That legitimacy was built through institutions and repetition. The Japan Productivity Center did not simply publish principles in 1955 and disappear. It organized committees, training, study groups, and overseas missions that brought techniques such as `IE`, quality control, and proposal systems into ordinary corporate life. Factory rationalization therefore became more than a one-off reform campaign. It turned into a language through which managers and workers could argue about standards, workflow, and fairness inside the same frame. The famous three principles mattered here because they gave labor a vocabulary for asking what productivity gains were for. Were they meant to preserve jobs, raise wages, shorten work, or simply intensify labor? The question never went away, and the movement's importance lies partly in the fact that postwar Japan kept asking it.
+
+That is why the movement matters far beyond the 1950s. Rationalization became the upstream source of later Japanese workplace habits that would sound more familiar under other names: `kaizen`, standardization, quality circles, proposal systems, and site-level problem solving. What began as a national productivity campaign seeped into daily work culture. Factory floors learned to treat wasted motion as a visible enemy. Offices learned to value procedural streamlining. Workers were asked not only to obey systems but to help improve them.
+
+The arrangement contained a tension that never vanished. Rationalization could preserve employment in principle while intensifying labor in practice. It could invite worker participation while tightening managerial control. It could promise fair distribution while leaving wide room for inequality in who benefited most. The Japanese response was not to deny the tension, but to keep returning to the productivity principles as a legitimating language. Efficiency would be accepted only if it could be linked to dignity, consultation, and some recognizable social payoff.
+
+That tension still echoes today. Whenever Japanese institutions talk about productivity reform, digital transformation, or process improvement, they are operating in a landscape partly shaped by the old rationalization movement. The old terms may sound dated, but the basic question remains familiar: how do you demand greater efficiency without turning the workplace into a site of pure extraction? Japan's historical answer has been to insist, again and again, that improvement must be accompanied by some account of employment stability, skill formation, and fairness.
+
+Understanding the rationalization movement helps explain why Japanese management culture often looks both demanding and participatory, both procedural and moralized. Efficiency in Japan was not merely a technical matter. It was built into a national narrative about reconstruction, cooperation, and modernity. That narrative has worn thin in places, but it has not disappeared.
+
+So the history of rationalization is not a footnote to postwar industry. It is part of the deeper story of how Japan turned productivity from a managerial technique into a social bargain, and how that bargain still shapes the language of work long after the original campaign posters came down. The legacy is easiest to spot when modern managers ask workers to join improvement teams, share suggestions, and accept continuous change as part of ordinary employment. That posture did not appear from nowhere. It was built through decades of productivity education, labor-management bargaining, and the repeated 1955 claim that efficiency should serve a broader social good, not only a narrower managerial demand. Modern debates over digital reform and staff shortages still borrow that older expectation. The old demand for consultation still shadows productivity talk in boardrooms and ministries, and in public policy language today, and beyond, as well, still. Even where workers doubt the bargain, the language of the bargain remains. The social memory of that bargain persists strongly.
+
+Sources:
+- [生産性運動とは | 日本生産性本部](https://www.jpc-net.jp/movement/movement.html)
+- [日本生産性本部とは | 日本生産性本部](https://www.jpc-net.jp/about/history.html)
+- [生産性運動三原則 | 日本生産性本部](https://www.jpc-net.jp/column/detail/70th_chronicle4.html)
+- [全労生 | 日本生産性本部](https://www.jpc-net.jp/movement/committee/zenrousei.html)
+- [公正と効率を両立させる真の生産性運動 | JILPT](https://www.jil.go.jp/kokunai/topics/mm/20090610c.html)

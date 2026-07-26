@@ -1,0 +1,58 @@
+---
+title: "Kendo"
+slug: understand-japan-kendo
+wp_date: 2026-04-29 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Core Concepts
+category_slug: core_concept
+
+tags:
+  - Kendo
+  - Japanese culture
+  - cultural concept
+  - lifestyle philosophy
+  - samurai
+
+excerpt: "Kendo（剣道） is a modern Japanese martial art of sword fencing using shinai（竹刀） and protective bōgu（防具）, descended from earlier swordsmanship traditions but reshaped into a contemporary budō（武道） system."
+
+genesis_title: ""
+genesis_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
+open_graph_title: "Kendo"
+open_graph_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
+twitter_title: "Kendo"
+twitter_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Kendo: Fencing as Character Education
+
+Walk past a kendo dōjō and you can often identify it before you see it. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration. The motions look formal and almost severe—bows at the beginning, bows at the end, the careful way equipment is handled. Even when two people are moving fast, the room feels governed by rules that are older than the match.
+
+`Kendo（剣道）` is a modern Japanese martial art of sword fencing using `shinai（竹刀）` and protective `bōgu（防具）`, descended from earlier swordsmanship traditions but reshaped into a contemporary `budō（武道）` system. Encyclopaedia Britannica describes it as a traditional style of fencing derived from samurai methods, and it emphasizes the modern turn: the sword becomes a way of cultivating discipline and character when actual sword combat is no longer the social environment. The All Japan Kendo Federation (AJKF) makes the same claim as an explicit institutional mission. Its “concept of kendo,” quoted on its official site, defines kendo as disciplining human character through the principles of the `katana（刀）`.
+
+Kendo is sport, but it refuses to be only sport.
+
+That refusal is built into how the practice is organized. Kendo is not just “a competition with points.” It is a repeated training culture: `keiko（稽古）` as daily rehearsal, `reiho（礼法）` as the etiquette that frames violence, and a grading system that treats progress as long-term cultivation rather than short-term performance. The emphasis on posture, timing, and correct striking is not separated from emphasis on demeanor—how you enter the floor, how you treat an opponent, how you accept a call you disagree with. The rules are not only about safety and fairness; they are also about producing a certain kind of person.
+
+Institutions did the historical work that makes this possible. Japan always had diverse `kenjutsu（剣術）` lineages, and those lineages were not automatically compatible. “Kendo” is what happens when technique is standardized into a public system with shared equipment, shared rules, and shared credentials. That standardization became especially consequential after the war. As Britannica notes, kendo’s status shifted over time; the postwar period required reframing martial practice away from militarist association and toward physical education and cultural practice. The AJKF, formed in the early postwar era, became the stabilizing node that could define rules, manage ranks, and present kendo as legitimate civil society rather than state training.
+
+The system’s mechanics show how moral language becomes operational. Matches (`shiai（試合）`) award points only for specific targets and correct form. Grading examinations measure not only hitting but overall quality—presence, control, correctness, composure. Even the shouted strike call is a kind of discipline: you must name what you are doing at the moment you do it. This is part of why people describe kendo as “simple to understand, hard to do.” The simplicity is the surface. The difficulty is that the rules demand visible technique and visible self-management at the same time.
+
+Schools are where the social meaning becomes national. Japan’s Ministry of Education, Culture, Sports, Science and Technology (MEXT) explains that the middle-school curriculum revision was announced in March `2008`, and that the new curriculum makes budō and dance compulsory in junior-high physical education. MEXT frames budō as Japan’s indigenous culture and emphasizes respect for the opponent and learning through structured practice. Kendo’s long presence in school clubs and teacher training fits that framing. It also brings modern governance questions into the dōjō: safety, supervision, and what it means to teach a high-intensity contact practice inside an education system responsible for minors.
+
+Nippon Budokan offers another window into institutionalization: a public-interest foundation that frames budō as personal development and peace-oriented human formation, running a “Budō School” that includes kendo among `7` disciplines. That kind of programming shows how budō is defended not only as tradition but as social utility—health, discipline, community, and a language of restraint that can be taught across age groups. Kendo becomes a public good claim.
+
+Internationalization sharpens the internal contradiction. The International Kendo Federation (FIK), established in `1970`, positions itself as a non-political body that propagates and develops kendo internationally and sets standards for competition and grading guidelines. World championships and global affiliation expand kendo’s reach, but they also force the Japanese institutions to keep explaining what is “essential”: is it the scoring system, the etiquette, the language of character, or some combination? A practice that markets itself as moral discipline has to keep that discipline legible when the match becomes an international sport.
+
+`Kendo（剣道）` helps you understand Japan because it shows how Japan turns inherited violence into public pedagogy. It takes sword technique, removes the sword, adds protective gear, adds rules, adds ritual framing, and then tells a society: this is not just how you win; this is how you train a self. The sound in the dōjō—the stamp, the strike, the shout—is therefore not only athletic. It is Japan’s old question, remade for modern institutions: how do you cultivate restraint and intensity at the same time, and convince the public that the result is education rather than aggression?
+
+Sources:
+- [About AJKF | All Japan Kendo Federation](https://www.kendo.or.jp/en/organization/)
+- [Kendo | Britannica](https://www.britannica.com/sports/kendo)
+- [Organization | International Kendo Federation (FIK)](https://www.kendo-fik.org/organization)
+- [武道・ダンス必修化 | 文部科学省](https://www.mext.go.jp/a_menu/sports/jyujitsu/1330882.htm)
+- [日本武道館 武道学園 | 公益財団法人日本武道館](https://www.nipponbudokan.or.jp/shinkoujigyou/gakuen/about)

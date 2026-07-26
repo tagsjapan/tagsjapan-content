@@ -1,0 +1,58 @@
+---
+title: "House of Councillors"
+slug: understand-japan-house-of-councillors
+wp_date: 2025-02-21 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Institutions & Systems
+category_slug: institution_system
+
+tags:
+  - House of Councillors
+  - Japanese Culture
+  - Understand Japan
+  - Upper House
+  - Diet
+
+excerpt: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer. Only half the seats are at stake. No prime minister can dissolve the chamber to reset the calendar."
+
+genesis_title: ""
+genesis_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
+open_graph_title: "House of Councillors"
+open_graph_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
+twitter_title: "House of Councillors"
+twitter_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# House of Councillors: The Chamber That Slows the Temperature
+
+Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer. Only half the seats are at stake. No prime minister can dissolve the chamber to reset the calendar. The result may not overturn a government overnight, but it can chill an administration, delay a bill, or turn a comfortable majority into a strained one. That quieter election belongs to the `House of Councillors`.
+
+The House of Councillors, or `Sangiin`, is the upper house of the National Diet. Under the postwar constitution its members serve six-year terms, with half elected every three years. Unlike the House of Representatives, it cannot be dissolved. Those design choices were deliberate. When the Constitution of Japan took effect in 1947, the old House of Peers disappeared and a new democratic upper chamber took its place. The aim was not to recreate aristocratic privilege. It was to create a chamber less exposed to sudden political swings and better suited to review, delay, and reconsider.
+
+That makes the upper house important in a way that is easy to underestimate. On paper it is weaker than the lower house. It cannot ultimately block the designation of a prime minister if the lower house insists. It cannot match the lower house on budgets or treaties. In legislation, the lower house may prevail with the proper procedures and numbers. Yet the House of Councillors still has real force because politics is not only about formal last words. It is also about time, embarrassment, scrutiny, and the cost of getting from proposal to law.
+
+It delays more often than it decides.
+
+The chamber's tempo is written into numbers. Members sit for 6 years, and half the house goes before voters every 3 years. Because the body cannot be swept away by a single dissolution, upper-house elections often expose public irritation that the lower-house majority has not yet had to confront. That difference has mattered repeatedly in the postwar era. A cabinet can win a commanding general election and still find itself checked later by a more hostile upper house, especially when turnout, local grievances, or national fatigue cut in a different direction. The House of Councillors does not usually choose the government, but it constantly tests whether the government can keep moving without assuming that one earlier victory settled every question.
+
+The chamber works through a mixed electoral system of district seats and proportional representation, giving it a national and regional character at once. Because only half the members face election at any one time, results can register public dissatisfaction without producing the full reset that a general election brings. For that reason upper-house elections often function as a stern report card on a cabinet midway through its life. A ruling bloc can survive a poor result, but it may lose the ease with which it had been governing.
+
+This is where the phrase `twisted Diet` enters the story. Japan can end up with one political majority in the lower house and another in the upper house because the chambers are elected on different cycles and under different pressures. When that happens, the government still exists, but governing becomes harder. Bills stall. Amendments multiply. Opposition parties gain a larger stage. The cabinet begins spending more energy on negotiation and damage control. The upper house may not be able to bring down a government directly, but it can force that government to feel the limits of its mandate.
+
+Critics have long said the House of Councillors duplicates work and encourages delay. Supporters answer that delay is sometimes the point. A system centered only on the lower house could become too quick, too partisan, or too vulnerable to short bursts of public mood. The upper house provides resistance, and resistance in democratic politics is not always a defect. In Japan's case it also reflects a durable preference for layered decision-making rather than a single all-powerful electoral moment. Committee scrutiny in the upper house can expose weaknesses that a government hoped to hurry past in the lower chamber. Ministers who survive a vote still have to endure questioning, delay, and revision, and that slower procedure can reshape the public mood outside parliament. For governments already slipping in popularity, the chamber becomes a running warning signal rather than a mere second desk.
+
+Understanding the upper house helps explain an otherwise puzzling feature of Japanese politics: a government can look secure and still struggle to move. Cabinet support may be intact, the prime minister may still command the lower house, and yet legislation drags, committee battles intensify, and headlines turn sour. Often the answer lies across the corridor, in a chamber whose slower rhythm was built into the constitution from the start.
+
+So when the summer campaign posters go up and only half the chamber is on the ballot, the contest should not be mistaken for a minor sequel. The House of Councillors is Japan's institutional cooling system. It cannot usually determine who governs, but it can decide how hot the government will find the ground beneath its feet.
+
+Sources:
+- [参議院の組織と役割 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/riyou/1.htm)
+- [参議院の役割 | 参議院](https://www.sangiin.go.jp/japanese/aramashi/yakuwari/index.html)
+- [参議院議員通常選挙制度 | 総務省](https://www.soumu.go.jp/senkyo/senkyo_s/seido/sangiin/)
+- [日本国憲法 | e-Gov 法令検索](https://elaws.e-gov.go.jp/document?lawid=321CONSTITUTION)
+- [Japanese Diet | Britannica](https://www.britannica.com/topic/Diet-Japanese-government)

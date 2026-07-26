@@ -1,0 +1,60 @@
+---
+title: "Community Economy"
+slug: understand-japan-community-economy
+wp_date: 2026-06-13 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Contemporary Issues
+category_slug: contemporary_issue
+
+tags:
+  - Community Economy
+  - contemporary Japan
+  - social issue
+  - modern challenges
+  - Japanese society
+  - everyday life
+  - cultural heritage
+
+excerpt: "Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point. Outside Japan, many people hear “community economy” and picture digital fandom: subscribers, creators, platform memberships, and interest-based groups turned into revenue."
+
+genesis_title: ""
+genesis_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
+open_graph_title: "Community Economy"
+open_graph_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
+twitter_title: "Community Economy"
+twitter_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Community Economy: Japan’s Business of Relationships
+
+On a quiet street where the shopping arcade has more shutters than signs, a small “community cafe” stays open on a thin margin. It sells coffee, but it also sells something harder to price: a place for older residents to talk, a bulletin board of local services, a human check-in for people who might otherwise disappear from daily view. The cash register is only one part of the story. The real asset is trust.
+
+`Community Economy（コミュニティ経済）` is a slippery term in Japan, and the slipperiness is the point. Outside Japan, many people hear “community economy” and picture digital fandom: subscribers, creators, platform memberships, and interest-based groups turned into revenue. In Japanese policy and local practice, the phrase more often sits closer to `community business（コミュニティビジネス）` and `social business（ソーシャルビジネス）`—economic activity built to solve local life problems through relationships, not to maximize scale. The “community” is not just a social network. It is the infrastructure that keeps a town livable.
+
+The historical backdrop is post-bubble Japan and the long reality of local decline: shrinking populations, hollowed-out shopping streets, gaps in public services, and everyday needs too small or too unprofitable for conventional markets to handle well. In that environment, residents, nonprofits, small merchants, and local governments began building hybrid organizations—part business, part mutual aid, part public-service supplement. The state eventually acknowledged the field as a policy domain. By `2009`, the Ministry of Economy, Trade and Industry (METI) was publishing collections such as `ソーシャルビジネス55選`, trying to make scattered practices visible as an intelligible landscape.
+
+For that reason, “community economy” in Japan is not mainly about venture capital. It is about a different operating logic. Revenue often comes from multiple thin streams: small sales, membership fees, donations, subsidies, local government contracts, and occasional crowdfunding. Labor is also mixed: paid staff, volunteers, retired professionals, and overworked coordinators who do the invisible work of keeping relationships from fraying. The accounting is messy by design: a grant covers rent, sales cover materials, membership fees cover staff hours, and unpaid time fills the gaps that nobody wants to see. Financing and evaluation become part of the work, not an afterthought, which is why policy agencies and public lenders pay attention to the field. Success is measured less in growth curves than in continuity: whether a service still exists next year, whether a lonely person has someone to call, whether a local skill still has an apprentice.
+
+Scale is not the point. Continuity is. That emphasis shapes what gets funded and what survives locally.
+
+In the `2010` era and especially in the `2020` era, a digital layer made the concept even more ambiguous. Crowdfunding, subscription models, and online “supporter” communities allowed local projects—craft workshops, small breweries, community spaces, social services—to draw resources from outside the immediate neighborhood. Policy language such as the Cabinet Secretariat’s `Digital Garden City Nation` concept also pushed local revitalization into a digital framework, encouraging towns to connect services, residents, and outside supporters through platforms. The result is a double meaning: “community economy” as place-based mutual support, and “community economy” as network-based support that travels across distance.
+
+The examples look mundane, which is part of their importance. A community cafe or shared space can function as a social hub and a revenue point, helping older residents stay connected while keeping a minimal business model alive. A local craft producer can use memberships and crowdfunding to stabilize income, turning customers into patrons who stay for the story and the relationship, not only the product. A municipality can partner with civic groups to run small-scale mobility support, childcare assistance, or vacant-house reuse projects that would not survive as pure profit-seeking businesses.
+
+The tensions are equally mundane and therefore dangerous. When “community” becomes an economic resource, relationship labor can be treated as free fuel. The same people are asked to organize events, care for others, write grant applications, run social media, and keep the atmosphere warm—until they burn out. Japan’s community economy is often fragile because it depends on a small number of coordinators with rare social skills. Digital platforms add another tension: online support can broaden the base, but platform fees, data ownership, and algorithmic visibility can shift power away from the community and toward the intermediary.
+
+Japan’s community economy therefore sits in a familiar Japanese gray zone between state and market. It is neither pure charity nor pure business. It survives through negotiated mixtures: policy support without full state control, entrepreneurship without full market discipline, intimacy without full privacy. The concept keeps returning because Japan keeps returning to the same practical question: what do you do when the market will not provide a service, the state cannot provide it flexibly enough, and the only remaining resource is human relationship?
+
+To understand “community economy” in Japan is to understand that relationships are not merely cultural decoration. They are treated as a form of capital, a form of infrastructure, and sometimes a form of exploitation. The term’s ambiguity is not a vocabulary failure. It is a map of a society trying to keep everyday life running in places where the old growth model no longer applies.
+
+Sources:
+- [ソーシャルビジネス／コミュニティビジネス（SB/CB） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/index.html)
+- [ソーシャルビジネス55選（平成21年2月） | 経済産業省](https://www.meti.go.jp/policy/local_economy/sbcb/sb55sen.html)
+- [ソーシャルビジネス支援 | 日本政策金融公庫](https://www.jfc.go.jp/n/finance/social/index.html)
+- [デジタル田園都市国家構想 | 内閣官房](https://www.cas.go.jp/jp/seisaku/digital_denen/index.html)
+- [Search results: ローカル10000プロジェクト | National Diet Library Search](https://ndlsearch.ndl.go.jp/search?cs=bib&from=0&size=20&q=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB10000%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)

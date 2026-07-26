@@ -1,0 +1,58 @@
+---
+title: "Sento"
+slug: understand-japan-sento
+wp_date: 2026-01-18 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Social Structures
+category_slug: social_structure
+
+tags:
+  - Sento
+  - social structure
+  - everyday life
+  - community
+  - aging society
+  - onsen
+
+excerpt: "At the end of a workday in a dense Japanese neighborhood, a small building with a noren curtain and a faint smell of soap can still gather people who share almost nothing else."
+
+genesis_title: ""
+genesis_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
+open_graph_title: "Sento"
+open_graph_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
+twitter_title: "Sento"
+twitter_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Sento: Public Baths as Everyday Infrastructure
+
+At the end of a workday in a dense Japanese neighborhood, a small building with a noren curtain and a faint smell of soap can still gather people who share almost nothing else. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing professionalism anymore. The place is `Sento（銭湯）`: a public bathhouse that looks, from the outside, like old-fashioned leisure. Historically, it has been closer to a piece of urban infrastructure.
+
+The basic distinction is simple and important. `Sento（銭湯）` is a paid public bath for everyday bathing; `Onsen（温泉）` is defined by natural hot spring water and its geology. Japan’s Ministry of Health, Labour and Welfare (MHLW) describes “general public bathhouses” as facilities that are “necessary for public health” in residents’ daily lives. That sentence frames sento not as a hobby, but as a social solution to a practical problem: how to keep bodies clean in cities where private space and private bathrooms were once limited.
+
+Sento’s roots reach back before modern cities. Tokyo’s bathhouse association traces Japanese bathing culture to temple practices after Buddhism’s arrival around the `6th` century, and it notes records of paid bathhouses in Edo by `1591`. By the early Edo period, public baths were woven into town life. Over time, the bath changed shape: modernization and shifting social norms pushed against older practices such as mixed bathing, and facilities evolved from cramped steam-style spaces toward the familiar layout of washing area and shared tub.
+
+The postwar period is where the “infrastructure” character becomes explicit. The `1948` `Public Bathhouse Act（公衆浴場法）` placed bathhouses into a permit and oversight system. MHLW materials describe how public bathhouses are categorized and supervised, and the ordinary sento—what the ministry calls a “general” public bathhouse—sits on the side of daily necessity rather than luxury. That administrative frame still shows up in practice. In Tokyo, the bathhouse association lists an adult entrance fee of `550` yen from July `2024`, a reminder that the sento’s publicness is not only emotional; it is partly engineered through affordability.
+
+If you want to see the long arc in numbers, MHLW’s recent overview is blunt. It reports `23,673` licensed public bathhouse facilities nationwide, but only `2,847` remain in the “general public bathhouse” category, and the trend continues downward. The share tells the deeper story: general bathhouses made up `87%` of the sector in `1970`, but only `12.0%` by fiscal year `2023`. The household bathroom did not simply “replace” sento; it changed the ecosystem. As private baths became standard, the sento lost its monopoly on necessity. What remained had to justify itself as something else: a neighborhood social room, a form of nostalgia, a place for solitary decompression, or a small business that survives through regulars.
+
+A sento is a room where bodies learn public order.
+
+That order is built through ritualized practice. The rules are not abstract morality; they are the choreography that makes shared water workable. Wash before entering the tub. Keep the washing area clean. Avoid soaking towels in the bath. Keep voices and behavior within a range that allows strangers to coexist without friction. The rules are learned by watching: a child copying a parent, a newcomer adjusting after a glance from a regular, a quiet reminder from staff. This is socialization at the scale of the wash stool. Tokyo’s sento association explains these norms as everyday etiquette, but they also function as a social technology: a way of turning naked proximity into something ordinary. You can read this as “Japanese politeness,” but it is more precise to call it maintenance—an agreement, renewed each evening, that a shared facility will remain usable.
+
+The contradiction is that sento survives as both necessity and choice. Many bathhouses face business succession problems, aging buildings, and the pressure of valuable urban land. Yet there is also reinvention. For people living alone, the bathhouse can function as a low-stakes social encounter: familiar faces, brief greetings, a sense that the neighborhood still has a common room. The National Diet Library’s case note on a `2016` “sento × library” collaboration is a small example of a broader pattern: bathhouses becoming sites for community programming, local curation, and cultural memory. Meanwhile, larger “super sento” facilities and leisure complexes borrow some of the bathhouse grammar while changing the scale and economics. The old neighborhood bathhouse does not vanish so much as get re-labeled, competing with its own descendants.
+
+Understanding `Sento（銭湯）` helps you understand Japan because it makes urban life visible at the level of the body. It shows how public health, housing conditions, and community interaction once met in a single room. It shows how governance can live in ordinary routines—permits, price setting, hygiene standards—without announcing itself as ideology. And it shows how a society handles the afterlife of infrastructure: when a facility is no longer strictly necessary, it can decline, or it can become a cultural object that people keep alive because it still does something the private home cannot. The bath is water and tile. The deeper story is how a city teaches strangers to share.
+
+Sources:
+- [公衆浴場業概要｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/seikatsu-eisei03/04.html)
+- [公衆浴場法概要｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/seikatsu-eisei04/04.html)
+- [公衆浴場のページ｜厚生労働省](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000123862.html)
+- [銭湯の歴史｜東京銭湯／東京都浴場組合](https://www.1010.or.jp/guide/history/)
+- [How to enjoy Sento｜東京銭湯／東京都浴場組合](https://www.1010.or.jp/english/how-to-enjoy-sento/)
+- [「銭湯×図書館」が生み出す新たな可能性｜国立国会図書館](https://current.ndl.go.jp/e1854)

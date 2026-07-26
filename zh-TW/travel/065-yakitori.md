@@ -1,0 +1,86 @@
+---
+title: "燒鳥"
+slug: travel-yakitori
+wp_date: 2026-01-11 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 65
+keyword_en: Yakitori
+keyword_ja: 焼き鳥
+keyword_type: food
+module_code: D
+category_name: 飲食
+category_slug: food-drink
+editorial_focus: "飲食文化、地方差異、旅行情境"
+
+tags:
+  - Yakitori
+  - 焼き鳥
+  - 燒鳥
+  - sasami
+  - shio
+  - 醬燒
+  - sunagimo
+  - negima
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Yakitori（燒鳥） 是把雞肉或雞的不同部位串在竹籤上炭烤的日本常見料理，但它的意義不只是一種串燒。對日本旅遊來說，燒鳥是一個非常典型的晚間外食入口。你可以在站著吃的小店、熱鬧居酒屋、巷弄中的專門店，甚至比較講究的餐廳裡遇到它。它既能是下酒菜，也能是一頓簡單晚餐。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Yakitori（燒鳥） 是把雞肉或雞的不同部位串在竹籤上炭烤的日本常見料理，但它的意義不只是一種串燒。對日本旅遊來說，燒鳥是一個非常典型的晚間外食入口。你可以在站著吃的小店、熱鬧居酒屋、巷弄中的專門店，甚至比較講究的餐廳裡遇到它。它既能是下酒菜，也能是一頓簡單晚餐。"
+open_graph_title: "燒鳥"
+open_graph_description: "Yakitori（燒鳥） 是把雞肉或雞的不同部位串在竹籤上炭烤的日本常見料理，但它的意義不只是一種串燒。對日本旅遊來說，燒鳥是一個非常典型的晚間外食入口。你可以在站著吃的小店、熱鬧居酒屋、巷弄中的專門店，甚至比較講究的餐廳裡遇到它。它既能是下酒菜，也能是一頓簡單晚餐。"
+twitter_title: "燒鳥"
+twitter_description: "Yakitori（燒鳥） 是把雞肉或雞的不同部位串在竹籤上炭烤的日本常見料理，但它的意義不只是一種串燒。對日本旅遊來說，燒鳥是一個非常典型的晚間外食入口。你可以在站著吃的小店、熱鬧居酒屋、巷弄中的專門店，甚至比較講究的餐廳裡遇到它。它既能是下酒菜，也能是一頓簡單晚餐。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 燒鳥
+
+## 這是什麼
+
+`Yakitori（燒鳥）` 是把雞肉或雞的不同部位串在竹籤上炭烤的日本常見料理，但它的意義不只是一種串燒。對日本旅遊來說，燒鳥是一個非常典型的晚間外食入口。你可以在站著吃的小店、熱鬧居酒屋、巷弄中的專門店，甚至比較講究的餐廳裡遇到它。它既能是下酒菜，也能是一頓簡單晚餐。
+
+很多旅人第一次吃燒鳥，會以為就是雞肉串而已。其實燒鳥真正有趣的地方，在於日本把一隻雞拆解成很多不同部位，並讓每個部位都保有自己的口感、烤法和調味邏輯。這種細分能力，很能代表日本飲食文化的性格。
+
+## 為什麼它在日本特別
+
+燒鳥在日本特別，首先是因為它把「雞肉」做得非常細。`JNTO（日本政府觀光局）` 直接列出像 `negima（雞肉蔥串）`、`sasami（雞柳）`、`sunagimo（砂肝）`、雞心等不同部位。這表示燒鳥不是單一品項，而是一整套對部位口感的辨識方法。你吃的不是「雞肉總和」，而是不同部位的個性。
+
+第二個特別之處是調味邏輯很清楚。燒鳥最典型的是 `shio（鹽味）` 和 `tare（醬燒）` 兩種路線。看似簡單，卻很能反映日本料理喜歡把差異講清楚的習慣。鹽味比較直接，讓肉本身說話；醬燒則把甜鹹與炭火香推得更明顯。旅人很快就能從這個選擇裡，讀出日本飲食對細節的重視。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，燒鳥很重要，因為它幾乎是日本城市夜晚最容易進入的一種食物。你不一定要訂高級壽司，也不一定每晚都吃拉麵；燒鳥則剛好落在一個很日常的位置。它既能代表下班後小酌文化，也能讓旅人用不高的門檻接觸部位文化、炭火香與街區晚間氣氛。
+
+它也把庶民版和講究版放在同一個食物裡。你可以在站飲店快速吃幾串，也可以在專門店慢慢按部位順序品嚐。這讓燒鳥很能代表日本外食的一個核心特質：同一種食物，可以同時非常日常，也非常認真。
+
+而且燒鳥很少脫離空間單獨存在。它幾乎總是和巷弄、煙霧、吧檯、小桌、啤酒或 highball 一起出現。對旅人來說，吃燒鳥其實也是在讀日本城市晚上的社交方式，這讓它比一般「串燒料理」更有文化密度。
+
+## 例子與場景
+
+第一個例子是東京的巷弄燒鳥區。像 `Omoide Yokocho（思い出橫丁）`、新橋或高圓寺一帶，燒鳥常和窄巷、下班族、煙火味和短時間停留連在一起。這種場景會讓旅人立刻理解，燒鳥不只是菜，而是城市夜生活的一部分。
+
+第二個例子是福岡中洲屋台。當燒鳥出現在屋台文化裡，它又多了街頭感與觀光感。這說明燒鳥雖然很日常，但也能成為旅人進入地方夜晚節奏的入口。
+
+第三個例子是部位差異。第一次吃的人通常先從雞腿肉或蔥串開始，但慢慢會發現砂肝、雞心、雞皮等部位讓整體經驗更完整。這種從安全選項一路吃到比較有個性的部位，就是燒鳥最有趣的學習曲線。
+
+第四個例子是調味選擇。若同樣的部位分別用鹽味和醬燒處理，你會明顯感覺到完全不同的性格。這也是燒鳥很能幫旅人理解日本飲食細節的一點，因為它把微小差異放得非常清楚。
+
+## 旅行提示
+
+如果不熟菜單，先點基本部位和 `shio`、`tare` 各一兩串，比較容易建立感覺。第二，燒鳥不一定很正式，很多店翻桌快、空間小，適合放鬆但不適合久坐大聊。第三，如果你不吃內臟，可以先確認部位名稱，不要等上桌才緊張。最後，燒鳥很適合安排在晚間散步或小酌前後，因為它本來就是日本城市夜晚節奏的一部分。
+
+## 參考資料
+
+- [Yakitori—Your Guide to Chicken Skewers, Travel Japan / JNTO](https://www.japan.travel/en/guide/yakitori-a-guide-to-chicken-skewers/)
+- [Yakitori—Your Guide to Chicken Skewers, Travel Japan / JNTO](https://www.japan.travel/en/guide/yakitori-a-guide-to-chicken-skewers/)
+- [Yakitori—Your Guide to Chicken Skewers, Travel Japan / JNTO](https://www.japan.travel/en/guide/yakitori-a-guide-to-chicken-skewers/)
+- [Yakitori—Your Guide to Chicken Skewers, Travel Japan / JNTO](https://www.japan.travel/en/guide/yakitori-a-guide-to-chicken-skewers/)

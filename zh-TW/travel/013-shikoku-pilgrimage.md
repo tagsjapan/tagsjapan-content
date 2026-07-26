@@ -1,0 +1,82 @@
+---
+title: "四國遍路"
+slug: travel-shikoku-pilgrimage
+wp_date: 2025-11-20 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 13
+keyword_en: Shikoku Pilgrimage
+keyword_ja: 四国遍路
+keyword_type: experience
+module_code: E
+category_name: 節慶／體驗
+category_slug: festivals-experiences
+editorial_focus: "季節感、儀式性、地方參與"
+
+tags:
+  - 四國遍路
+  - 四国遍路
+  - Shikoku Pilgrimage
+  - 日本旅遊
+  - 接待
+  - Kukai / Kobo Daishi
+  - JNTO
+  - Japan Travel
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Shikoku Pilgrimage（四國遍路） 是日本最具代表性的巡禮體驗之一。它以與 Kukai / Kobo Daishi（空海／弘法大師） 相關的 88 座寺院為軸線，跨越德島、高知、愛媛、香川四縣，形成一條圍繞四國島的長距離巡禮路徑。對第一次接觸的人來說，遍路看起來像宗教活動；但真正走進去之後會發現，它同時也是步行文化、地方社會、住宿補給、身體節奏與季節風景交織而成的長路體驗。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Shikoku Pilgrimage（四國遍路） 是日本最具代表性的巡禮體驗之一。它以與 Kukai / Kobo Daishi（空海／弘法大師） 相關的 88 座寺院為軸線，跨越德島、高知、愛媛、香川四縣，形成一條圍繞四國島的長距離巡禮路徑。"
+open_graph_title: "四國遍路"
+open_graph_description: "Shikoku Pilgrimage（四國遍路） 是日本最具代表性的巡禮體驗之一。它以與 Kukai / Kobo Daishi（空海／弘法大師） 相關的 88 座寺院為軸線，跨越德島、高知、愛媛、香川四縣，形成一條圍繞四國島的長距離巡禮路徑。"
+twitter_title: "四國遍路"
+twitter_description: "Shikoku Pilgrimage（四國遍路） 是日本最具代表性的巡禮體驗之一。它以與 Kukai / Kobo Daishi（空海／弘法大師） 相關的 88 座寺院為軸線，跨越德島、高知、愛媛、香川四縣，形成一條圍繞四國島的長距離巡禮路徑。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 四國遍路
+
+## 這是什麼
+
+`Shikoku Pilgrimage（四國遍路）` 是日本最具代表性的巡禮體驗之一。它以與 `Kukai / Kobo Daishi（空海／弘法大師）` 相關的 `88` 座寺院為軸線，跨越德島、高知、愛媛、香川四縣，形成一條圍繞四國島的長距離巡禮路徑。對第一次接觸的人來說，遍路看起來像宗教活動；但真正走進去之後會發現，它同時也是步行文化、地方社會、住宿補給、身體節奏與季節風景交織而成的長路體驗。
+
+也因此，四國遍路不是只有「朝聖者」才懂。今天它仍然吸引尋求靜下來的人、健行者、對日本地方文化有興趣的旅人，甚至只是想用不同節奏理解日本的人。它最珍貴的地方，正是在於這條路容納了不同動機。
+
+## 為什麼它在日本特別
+
+四國遍路在日本特別，是因為它不是單一寺廟的參拜，而是一整套長距離、跨地域、需要持續投入的文化實踐。`JNTO` 與官方遍路協會都強調，這條路以 88 寺為核心，總長約 `1,200` 公里。若全程徒步，通常需要 `40` 天以上；如果搭配交通工具，也仍要數日到十餘日。這個尺度讓遍路和一般「去神社寺院打卡」完全不同，它要求的不是一時感動，而是連續行走、反覆調整與持續自我對話。
+
+另一個很日本的地方，是遍路不只靠信仰維持，也靠地方社會支撐。沿路的 `Osettai（接待）` 文化，指的是居民對遍路者提供茶水、食物、指路或一句關心。這種不是商業交易、卻又深深嵌在地方日常裡的支持，使遍路成為一種「社會還在一起維持的傳統」。也因此，遍路的特別之處不只是古老，而是它到現在仍然活著。
+
+## 為什麼它是日本旅遊的重要結構
+
+四國遍路在 `Japan Travel（日本旅遊）` 裡的重要性，在於它提供了一種和主流城市旅行完全不同的日本。多數旅遊是靠高效率移動、密集景點與短時間濃縮體驗成立；遍路則反過來，要求你放慢、重複、走遠，讓同樣的動作在很多天裡累積意義。這不只是節奏不同，而是看待旅行的方式不同。
+
+它也讓旅人理解日本地方社會的另一面。當你沿著四國不同地區走，會看見不是為了觀光表演而存在的山路、聚落、寺院宿坊與日常風景。你在這裡得到的，不是「這裡很有名」的滿足，而是「這條路真的有人走了很久」的厚度。這種厚度使四國遍路成為日本旅遊裡非常重要的深度體驗結構。
+
+## 例子與場景
+
+第一個例子是初段遍路。`JNTO` 的兩日示範行程把德島前幾座寺院串起來，這很能說明現代遍路不必從第一天就把自己想成苦行者。對多數旅人來說，先用兩天感受寺院之間的距離、步行與參拜節奏，反而更容易理解遍路真正的魅力。
+
+第二個例子是全程尺度本身。官方介紹指出，整條路約 1,200 公里，徒步通常要 40 天以上。這個數字很重要，因為它告訴旅人：遍路不是「一天很多寺」的效率競賽，而是一條會改變身體感的路。你走得越久，越能感覺到天氣、地形、腳程、疲勞與情緒如何變成體驗的一部分。
+
+第三個例子是地方接待。很多遍路者記得的，不只是哪一座寺特別壯觀，而是途中遇到的善意。這些小小的互動讓遍路不只是自我修行，也是一條被地方共同維持的文化路徑。若只把它當觀光產品，就會錯過它最核心的人情結構。
+
+## 旅行提示
+
+若你是第一次接觸四國遍路，最好的方式通常不是硬撐全程，而是先做分段體驗。先走一小段，感受步行、參拜與回程交通怎麼配合，再決定是否延長。第二，遍路不是一般健行路線，寺院是宗教空間，服裝、音量與拍攝都應該收斂。第三，補水、鞋子、天氣與住宿安排都比一般城市旅行重要得多。最後，不要急著追求完成數量。四國遍路最有價值的，不是你勾掉幾座寺，而是你是否真的進入了那條路的節奏。
+
+## 參考資料
+
+- [Shikoku 88 Temple Pilgrimage, Association of the Shikoku Pilgrimage Temples](https://88shikokuhenro.jp/en/)
+- [The Whole of the Henro: Circle Shikoku Like a Pilgrim, JNTO](https://www.japan.travel/en/experiences-in-japan/583/)
+- [A 2-Day Pilgrimage in Shikoku, JNTO](https://www.japan.travel/en/itineraries/a-pilgrimage-in-shikoku/)
+- [Hiking in Japan, JNTO](https://www.japan.travel/en/guide/hiking/)

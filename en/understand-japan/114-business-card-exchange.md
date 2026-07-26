@@ -1,0 +1,58 @@
+---
+title: "Business Card Exchange"
+slug: understand-japan-business-card-exchange
+wp_date: 2025-08-15 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Social Structures
+category_slug: social_structure
+
+tags:
+  - Business Card Exchange
+  - Japanese Culture
+  - Understand Japan
+  - Meishi
+  - Business Etiquette
+
+excerpt: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read. The card is not stuffed away quickly; it is held at eye level for a moment, as if the information needs to settle into the room."
+
+genesis_title: ""
+genesis_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
+open_graph_title: "Business Card Exchange"
+open_graph_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
+twitter_title: "Business Card Exchange"
+twitter_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Business Card Exchange: How Japan Starts a Relationship with Paper
+
+Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read. The card is not stuffed away quickly; it is held at eye level for a moment, as if the information needs to settle into the room. In many countries, business cards are optional. In Japan, `business card exchange`—名刺交換—often functions as the opening protocol for strangers who will now have to cooperate. It looks like etiquette, but it is also infrastructure.
+
+On the surface, a business card is contact information. In the Japanese workplace, it is also an identity document. A name card confirms your company, department, and title, and it tells the other side what role you claim to represent today. That is why the ritual matters: it sets the coordinate system for the conversation that follows. Who speaks first, who sits where, who is the main point of contact, and how follow-up should happen are often inferred from the cards.
+
+This makes the ritual a compact lesson in Japanese organizational life. In many settings, people appear first as representatives of an institution. The card expresses that priority: not only “me,” but “me-as-company,” with the authority and limits that implies.
+
+It also solves a linguistic problem. Japanese workplace conversation is full of status-sensitive choices—how formal to be, which honorifics to use, how directly to make a request. The system of `keigo（敬語, honorific speech）` does not require a business card, but the card makes the social grammar easier to apply. When a title and affiliation are visible, it becomes simpler to choose the appropriate register and to avoid the kind of casualness that can feel like disrespect in a first encounter.
+
+The choreography is widely shared. Exchange often happens at the doorway or just before everyone sits. Cards are offered with both hands, received carefully, and read immediately so names and titles can be used correctly. In meetings with multiple participants, the exchange can quietly communicate rank and responsibility: who represents decision authority, who is the working contact, who is accompanying whom. The card may be placed on the table during the meeting, sometimes arranged to match the seating order, so roles stay visible while people speak. People often delay putting the card away until the conversation has settled, as if the “introduction phase” is still active while the card remains in view. Small gestures—turning the card toward yourself, repeating the name, aligning it with others—work like a low-cost calibration of respect. Even the pace of the ritual matters. Taking time to read the card signals that the other person’s organizational identity has been registered. The point is not sentimental respect for paper. It is a way to reduce early-stage ambiguity. If everyone agrees on the “who is who” map, the first interaction is less likely to produce missteps.
+
+Because the ritual is so condensed, it becomes a stage for judgment. A J-STAGE study that analyzes first impressions in the business-card exchange scene suggests that people use the brief interaction to infer traits such as steadiness, friendliness, and reliability. In other words, the exchange is not only data transfer; it is a performance that creates social information. The hands, the timing, the eye contact, the phrasing of self-introduction—these become a rapid test of whether the other person understands the shared code.
+
+The ritual has also been forced to adapt. During and after `2020`, online meetings expanded rapidly, making it impossible to rely on paper as the only carrier. Yet Japanese business training did not simply delete the step. A JETRO training page in `2021` still places business-card exchange and self-introduction at the front of the negotiation flow, while also teaching the realities of online business meetings. The implication is clear: what must be preserved is the order of identity confirmation, not necessarily the cardboard itself.
+
+Digital tools now serve the same function in new forms: a profile slide at the start of a call, a chat introduction, a QR code, a digital business card service, an email signature that functions as a portable affiliation statement. In many offices, the “exchange” continues after the meeting, when cards are scanned, stored, and shared so colleagues can see who was met and who should follow up. Services such as Sansan market exactly this shift: turning a personal wallet habit into a searchable organizational database. As soon as that information becomes searchable and shareable, a new Japanese concern appears: `personal information` management. The Personal Information Protection Commission’s FAQ reminds companies that business-card data is still personal data in many contexts, which raises practical questions about consent, retention, and sharing when cards are scanned into CRM systems or internal databases. That is where the contemporary tension sits. Supporters of the ritual argue that it makes first meetings safer: fewer accidental slights, fewer role confusions, smoother coordination. Critics argue that it overemphasizes form, raises the cognitive burden for newcomers, and can make remote or cross-cultural interactions feel stiff. Both are partly right because the exchange is doing two jobs at once. It is a courtesy ritual, and it is a system for placing people into an organizational map.
+
+If you want a small but revealing entry point into Japanese work culture, watch what happens in those first twenty seconds. Japanese companies keep teaching the ritual because it compresses affiliation, hierarchy, and follow-up expectations into a repeatable start. The meeting begins with a card because Japan often begins relationships by making roles legible. The paper is only the surface.
+
+The deeper act is the shared agreement about who each person is allowed to be in the room.
+
+Sources:
+- [Business Meeting Flow: Business Card Exchange and Self-Introduction | JETRO (2021)](https://www.jetro.go.jp/agriportal/online/2021/096ba96d58210329.html)
+- [First Impression Judgments in a Business Card Exchange Scene (Japanese) | J-STAGE](https://www.jstage.jst.go.jp/article/pacjpa/82/0/82_3PM-008/_article/-char/ja/)
+- [Personal Information Protection Act FAQ | Personal Information Protection Commission (PPC)](https://www.ppc.go.jp/personalinfo/faq/)
+- [Meishi (名刺) | Kotobank](https://kotobank.jp/word/%E5%90%8D%E5%88%BA-642808)
+- [Basics of Online Business Card Exchange | Sansan](https://jp.sansan.com/media/online-meishi/)

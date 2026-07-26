@@ -1,0 +1,82 @@
+---
+title: "周遊券"
+slug: travel-rail-pass
+wp_date: 2025-11-26 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 19
+keyword_en: Rail Pass
+keyword_ja: 周遊きっぷ
+keyword_type: system
+module_code: B
+category_name: 交通
+category_slug: transportation
+editorial_focus: "交通系統、旅程節奏、旅人體驗"
+
+tags:
+  - Rail Pass
+  - 周遊きっぷ
+  - 周遊券
+  - 普通車
+  - 瑞穗號
+  - 日本旅遊
+  - 綠色車廂
+  - JR Pass
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Rail Pass（周遊券） 在日本旅遊裡，通常指的是讓旅客在一定期間內，可以不限次數搭乘特定鐵道路網的通票制度。對外國旅客最常見的，是 JAPAN RAIL PASS（JR Pass） 與各 JR 公司推出的區域型 pass。它的本質不是單純折價，而是一種把複雜交通網變得更容易操作的制度工具。你買到的不是「一張便宜車票」，而是一段時間內的移動權限與決策簡化。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Rail Pass（周遊券） 在日本旅遊裡，通常指的是讓旅客在一定期間內，可以不限次數搭乘特定鐵道路網的通票制度。對外國旅客最常見的，是 JAPAN RAIL PASS（JR Pass） 與各 JR 公司推出的區域型 pass。它的本質不是單純折價，而是一種把複雜交通網變得更容易操作的制度工具。"
+open_graph_title: "周遊券"
+open_graph_description: "Rail Pass（周遊券） 在日本旅遊裡，通常指的是讓旅客在一定期間內，可以不限次數搭乘特定鐵道路網的通票制度。對外國旅客最常見的，是 JAPAN RAIL PASS（JR Pass） 與各 JR 公司推出的區域型 pass。它的本質不是單純折價，而是一種把複雜交通網變得更容易操作的制度工具。"
+twitter_title: "周遊券"
+twitter_description: "Rail Pass（周遊券） 在日本旅遊裡，通常指的是讓旅客在一定期間內，可以不限次數搭乘特定鐵道路網的通票制度。對外國旅客最常見的，是 JAPAN RAIL PASS（JR Pass） 與各 JR 公司推出的區域型 pass。它的本質不是單純折價，而是一種把複雜交通網變得更容易操作的制度工具。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 周遊券
+
+## 這是什麼
+
+`Rail Pass（周遊券）` 在日本旅遊裡，通常指的是讓旅客在一定期間內，可以不限次數搭乘特定鐵道路網的通票制度。對外國旅客最常見的，是 `JAPAN RAIL PASS（JR Pass）` 與各 JR 公司推出的區域型 pass。它的本質不是單純折價，而是一種把複雜交通網變得更容易操作的制度工具。你買到的不是「一張便宜車票」，而是一段時間內的移動權限與決策簡化。
+
+這個詞條最容易被寫成省錢攻略，但真正重要的是理解範圍、限制與使用方式。因為周遊券不是每個人都適合，也不是買了就可以不再思考交通。適用對象、可搭範圍、指定席規則、是否涵蓋最快車種，這些都會直接改變旅行的流暢度。
+
+## 為什麼它在日本特別
+
+周遊券在日本特別，是因為日本的鐵道網本來就高度發達、公司分工又細。對一般旅人來說，如果每一段都單買車票，理論上可行，但認知成本很高；而 pass 的存在，等於把一部分複雜性收束成一個比較容易理解的制度入口。這種把龐大交通系統包裝成旅客可操作產品的能力，本身就是日本旅遊基礎設施的一部分。
+
+另一個特別之處是它不是單一產品。`JNTO（日本政府觀光局）` 明確區分全國版與區域版 pass，這很重要。日本不是所有旅程都適合全國通票，如果你只是專注在東北、關西或九州，區域型 pass 往往更貼近實際需求。也因此，周遊券在日本不是越大越好，而是越貼近行程越好。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，周遊券的重要性在於它會直接塑造旅人的移動策略。只要你打算跨城市、跨區域，pass 幾乎就不只是票券選擇，而是會反過來影響你怎麼排天數、住哪裡、要不要臨時改行程、需不需要先搶指定席。它其實是在幫旅人決定「這趟日本到底要怎麼跑」。
+
+此外，周遊券也讓日本的長距離旅行變得更可預測。官方價格頁面顯示，全國版有 `7`、`14`、`21` 日，以及 `Ordinary（普通車）` 和 `Green（綠色車廂）` 版本。當旅人知道自己在一段時間內的鐵道成本與權限，大多會更願意安排跨城市旅行。這就是它的結構性力量。
+
+## 例子與場景
+
+第一個例子是東京進、大阪出，中間跑京都與廣島的旅程。這種跨多個大區的移動，使用全國版 `JR Pass` 會比較容易整合新幹線與 JR 長距離列車。但如果你只是住東京，安排河口湖、輕井澤、日光等短中距離移動，官方也提示區域型 pass 可能更划算、更準確。
+
+第二個例子是指定席。官方說明指出，從官方網站購買的 `JAPAN RAIL PASS` 可以線上預約指定席，而且多數指定席本身不另收費。這會實質影響旅行品質，因為旺季、熱門時段或全車指定席列車，沒有事先處理座位，體驗差很多。
+
+第三個例子是 `Nozomi（希望號）` 與 `Mizuho（瑞穗號）`。許多旅人以為 pass 代表所有新幹線都能直接搭，但官方價格頁面明確指出，這兩種最快列車需要額外專用票。這就是周遊券最典型的制度邊界：它很好用，但不是沒有條件。
+
+## 旅行提示
+
+規劃 pass 時，先把城市順序與主要長距離移動畫出來，再反推要不要買，不要先買通票再硬塞景點。第二，如果你的旅行其實集中在一個區域，先看 regional pass，常常比全國版更合理。第三，熱門路線與旺季座位最好提早預約，尤其是你需要大行李空間或多人同行時。最後，把周遊券當成「降低交通決策成本的工具」會比把它當成「一定省錢的神卡」更接近真相。
+
+## 參考資料
+
+- [Japan Rail Pass, Travel Japan / JNTO](https://www.japan.travel/en/guide/jr-rail-pass/)
+- [Regional JR Rail Passes, Travel Japan / JNTO](https://www.japan.travel/en/plan/jr-rail-passes)
+- [Types and prices, JAPAN RAIL PASS](https://japanrailpass.net/en/purchase/price/)
+- [How to book a reserved seat, JAPAN RAIL PASS](https://japanrailpass.net/en/use/reserved-seat-reservation/index.html)

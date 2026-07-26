@@ -1,0 +1,85 @@
+---
+title: "城市再生體驗"
+slug: travel-urban-regeneration-tour
+wp_date: 2026-07-23 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 258
+keyword_en: Urban Regeneration Tour
+keyword_ja: 都市再生体験
+keyword_type: concept
+module_code: J
+category_name: 永續／特色體驗
+category_slug: sustainable-special
+editorial_focus: "價值觀、旅遊方式、地方案例"
+
+tags:
+  - 都市再生体験
+  - Urban Regeneration Tour
+  - 城市再生體驗
+  - 日本旅遊
+  - compact cities
+  - DMO TOKYO/Marunouchi
+  - urban renovation
+  - Japan Travel
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Urban Regeneration Tour（城市再生體驗） 指的不是去看一個全新的商場，而是透過被重新整理、保存、再利用的街區與建築，理解一座日本城市怎麼把舊產業、舊港口、舊辦公區或舊倉庫重新接回今天的生活與觀光。對旅人來說，這種體驗最有意思的地方，在於你看到的不只是漂亮空間，而是城市如何處理自己的過去。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Urban Regeneration Tour（城市再生體驗） 指的不是去看一個全新的商場，而是透過被重新整理、保存、再利用的街區與建築，理解一座日本城市怎麼把舊產業、舊港口、舊辦公區或舊倉庫重新接回今天的生活與觀光。對旅人來說，這種體驗最有意思的地方，在於你看到的不只是漂亮空間，而是城市如何處理自己的過去。"
+open_graph_title: "城市再生體驗"
+open_graph_description: "Urban Regeneration Tour（城市再生體驗） 指的不是去看一個全新的商場，而是透過被重新整理、保存、再利用的街區與建築，理解一座日本城市怎麼把舊產業、舊港口、舊辦公區或舊倉庫重新接回今天的生活與觀光。對旅人來說，這種體驗最有意思的地方，在於你看到的不只是漂亮空間，而是城市如何處理自己的過去。"
+twitter_title: "城市再生體驗"
+twitter_description: "Urban Regeneration Tour（城市再生體驗） 指的不是去看一個全新的商場，而是透過被重新整理、保存、再利用的街區與建築，理解一座日本城市怎麼把舊產業、舊港口、舊辦公區或舊倉庫重新接回今天的生活與觀光。對旅人來說，這種體驗最有意思的地方，在於你看到的不只是漂亮空間，而是城市如何處理自己的過去。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 城市再生體驗
+
+## 這是什麼
+
+`Urban Regeneration Tour（城市再生體驗）` 指的不是去看一個全新的商場，而是透過被重新整理、保存、再利用的街區與建築，理解一座日本城市怎麼把舊產業、舊港口、舊辦公區或舊倉庫重新接回今天的生活與觀光。對旅人來說，這種體驗最有意思的地方，在於你看到的不只是漂亮空間，而是城市如何處理自己的過去。
+
+這也是為什麼城市再生在日本很適合寫成旅行詞條。日本很多地方不是把舊東西全部拆掉，而是選擇保留部分歷史質感，再加入新的商業、文化或步行空間。旅人走在其中，會同時感受到時間層次和當代使用方式。
+
+## 為什麼它在日本特別
+
+它在日本特別，第一是因為有明確的政策背景。`MLIT（國土交通省）` 的城市政策就把 `urban renovation`、`compact cities`、`historical urban development` 列為重要方向，表示再生不是零散個案，而是日本城市治理長期關心的主題。這使很多旅遊上看起來「很會改造」的地方，其實背後都有制度與長期規劃支撐。
+
+第二，日本的城市再生常常不是炫技式重建，而是保存與再利用並行。像橫濱紅磚倉庫不是把歷史建物當背景板而已，而是在保存修復後，於 `2002 年` 轉成文化商業設施。這種做法讓旅人看到的不是被複製的懷舊，而是舊港口設施如何繼續活在今天的城市節奏裡。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，城市再生體驗重要，是因為很多人到日本城市時，容易只看名店與地標，忽略街區本身怎麼被重新編排。其實一座城市是否好逛、好走、願意停留，往往就取決於再生是否成功：有沒有步行空間、有沒有公共座椅、有沒有把舊建築轉成可以進入的文化商業場所。
+
+它也很適合永續旅行的視角。再生不是永遠都比新建便宜或簡單，但它常代表一種較少浪費既有空間、較能保留地方記憶的城市方法。對旅人來說，這會直接反映在你能不能用步行讀懂一座城市，而不是只能在景點之間快速移動。
+
+## 例子與場景
+
+第一個例子是東京丸之內。`DMO TOKYO/Marunouchi` 的歷史頁面清楚說明，丸之內從江戶城周邊空間、明治後的官地出售，到後來被打造為現代商務街區，經歷了長時間轉型。今天旅人走在丸之內仲通、東京站前與行幸通一帶，感受到的不只是高級，而是一個老商務區如何透過步行空間、活動場地與綠化重新變得可停留。
+
+第二個例子是橫濱紅磚倉庫。它原本是港灣保稅倉庫，後來停用、修復，再成為今日的文化商業設施。這個案例很適合旅行書寫，因為你可以一邊看到港口歷史，一邊實際使用裡面的店鋪、展演與廣場空間，保存和消費不是互相排斥，而是被重新編排。
+
+第三個例子是 `ONOMICHI U2`。這座舊港灣倉庫沒有被做成豪華地標，而是轉成結合旅館、自行車友善服務、餐飲與小型商店的複合空間。對旅人來說，它代表城市再生不一定只發生在大都市，也可以是中小城市用比較溫和的方式，把舊產業空間接回新的旅行節奏。
+
+## 旅行提示
+
+如果你想真正理解城市再生，最好的方式通常不是搭車掃點，而是留一段步行時間。第二，白天看空間尺度、建物材質與街道關係，晚上再看它如何被餐飲、活動與人流重新啟動，感受會很不一樣。第三，不要只衝單一建築；丸之內要連街道一起看，橫濱紅磚要連港區一起看，尾道 U2 則要連水岸與周邊小店一起看。
+
+最後要避免一個常見誤解：城市再生不是把舊地方變潮而已。它真正值得旅行者注意的，是一座城市如何決定什麼要保留、什麼要更新、什麼要讓人重新使用。當你開始用這個角度走日本城市，很多原本只是「好看」的地方，會突然變得更有內容。
+
+## 參考資料
+
+- [City Bureau, MLIT](https://www.mlit.go.jp/en/toshi/)
+- [WHY TOKYO MARUNOUCHI, DMO TOKYO/Marunouchi](https://tokyo-marunouchi.jp/en/why_en)
+- [About Yokohama Red Brick Warehouse, Yokohama Red Brick Warehouse](https://www.yokohama-akarenga.jp/about/)
+- [History of Yokohama Red Brick Warehouse, Yokohama Red Brick Warehouse](https://www.yokohama-akarenga.jp/about/history)
+- [ONOMICHI U2](https://onomichi-u2.com/en/)

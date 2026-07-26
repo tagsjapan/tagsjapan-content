@@ -1,0 +1,60 @@
+---
+title: "Labor Dispatch"
+slug: understand-japan-labor-dispatch
+wp_date: 2025-04-25 09:00:00
+wp_status: draft
+wp_blog_id: 1
+
+category_name: Institutions & Systems
+category_slug: institution_system
+
+tags:
+  - Labor Dispatch
+  - Japanese Culture
+  - Understand Japan
+  - Temporary Worker
+  - Haken
+
+excerpt: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by someone else altogether. The desk belongs to the client company. The shift schedule is set by the client company."
+
+genesis_title: ""
+genesis_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
+open_graph_title: "Labor Dispatch"
+open_graph_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
+twitter_title: "Labor Dispatch"
+twitter_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+---
+
+# Labor Dispatch: The Three-Sided Labor Market
+
+Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by someone else altogether. The desk belongs to the client company. The shift schedule is set by the client company. The paycheck, contract, and formal employment responsibility belong to the dispatching agency. That split is the essence of `Labor Dispatch` in Japan. It is not just another name for part-time work. It is a distinct institutional arrangement in which employment and day-to-day command are deliberately separated.
+
+The separation is what makes the system useful and controversial at the same time. Under the `Worker Dispatching Act`, a dispatching agency hires a worker and sends that person to a client company, where the work is performed under the client's direction. Japanese official guidance treats the distinction with real seriousness because once the employer and the workplace supervisor are no longer the same party, responsibility can blur very quickly. Who trains the worker. Who bears long-term employment responsibility. Who answers when conditions deteriorate. The legal system is built around those questions because the market pressure to blur them is constant.
+
+The system runs on split responsibility.
+
+Japan first legislated dispatch work in `1985`, and the original logic was narrow. Dispatch was treated as an exception permitted mainly for specialized tasks. In other words, the state did not initially imagine dispatch as a broad labor-market norm. The decisive change came with the `1999` revision, which shifted the system from a mostly prohibited model with limited exceptions toward a model in which dispatch was broadly allowed except in certain prohibited areas. Through the `2000s`, companies facing volatile demand, cost pressure, and shorter project cycles began to treat dispatch as a routine personnel tool rather than an unusual legal device. The social cost became especially visible after the global financial crisis of `2008`, when the phrase `haken-giri`, the cutting off of dispatched workers, entered public discussion because dispatch employees often felt the shock before regular staff did.
+
+That expansion made dispatch central to understanding the architecture of the Japanese labor market. Japan is often described through the language of long-term employment and regular staff, and that is part of the story. Yet a great deal of flexibility has been created around that stable core by moving risk to more peripheral forms of employment. Dispatch is one of the clearest examples. It allows firms to preserve a protected center of regular employees while adjusting the outer ring more quickly. The result is a labor market in which stability for some workers is partly financed by instability for others. A system famous for loyalty and continuity therefore depends, in practice, on a carefully managed zone of replaceability.
+
+How it works on the ground is more technical than the public image suggests. Dispatch agencies need licenses. Client firms have reporting and compliance duties. The law distinguishes dispatch from subcontracting because `giso ukeoi`, disguised subcontracting, lets firms direct workers in practice while trying to avoid the obligations attached to dispatch. The `2015` revision was especially important because it imposed, in principle, a `3`-year limit on dispatch to the same organizational unit and required employment-stabilization measures. More recent policy has added heavy emphasis on `equal pay for equal work`, meaning that flexibility can no longer be defended without some account of treatment, wage comparison, and transparency.
+
+You can see the system most clearly in workplaces that look perfectly ordinary. A warehouse sorting line, a factory shift, or an office help desk may depend every day on dispatched staff whose work is essential to the client firm's routine yet whose future inside that organization remains thin or nonexistent. That is why Japanese regulators are so fixated on the boundary between lawful dispatch and disguised subcontracting. They are trying to decide when a company is truly buying a service and when it is quietly depending on labor it should have to recognize much more directly.
+
+The contradiction has not disappeared. Supporters say dispatch broadens choice, allows specialist skills to move where they are needed, and gives firms a way to respond to economic uncertainty without freezing all hiring. Critics answer that the system too often produces weak career accumulation, uncertain conversion to regular employment, and a workplace in which the person doing the same task may stand on an entirely different rung of security. Tight regulation can push firms toward other forms of externalized labor that are harder to monitor. Loose regulation can turn dispatch into a cheap pipeline for inequality. Japan has spent decades adjusting the rules because dispatch sits exactly where business efficiency and social protection grind most sharply against each other.
+
+You can see that tension most clearly in the ordinary places where dispatch has become normal: reception counters, logistics centers, clerical sections, call centers, and factory floors. A dispatched worker may join the same morning meeting as direct hires and be evaluated informally by the same supervisor, yet the route for a grievance, a raise, or a transfer still runs through another firm. That is why the distinction from disguised subcontracting matters so much. If the client company is effectively directing the labor minute by minute, legal responsibility cannot remain politely offstage. What looks like a technical classification is actually a decision about where accountability sits when work becomes unstable.
+
+That is why `Labor Dispatch` matters far beyond employment law. It reveals how Japanese firms distribute risk, how the state tries to police blurred responsibility, and how an economy famous for core employment stability also depends on managed insecurity around the edges. A labor market always says something larger about a society by showing who belongs fully to the institution and who is treated as temporary even while doing necessary work. In Japan, dispatch makes that hierarchy visible with unusual clarity, right down to the worker's badge clipped to the same jacket everyone else is wearing.
+
+Sources:
+- [About Worker Dispatching Business | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/roudoushahakennjigyou.html)
+- [About the Worker Dispatching Act | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386.html)
+- [Guide for Proper Worker Dispatching and Contracting | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077386_00020.html)
+- [Operational Guidelines for Worker Dispatching Business (from June 1, 2025) | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/haken-shoukai/hakenyouryou_00003.html)
+- [Outline of the 2015 Revision to the Worker Dispatching Act | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/file/06-Seisakujouhou-11600000-Shokugyouanteikyoku/0000131302.pdf)
+- [Worker Dispatching Act | e-Gov Law Search](https://elaws.e-gov.go.jp/document?lawid=360AC0000000088)
+- [Equal Pay for Equal Work for Dispatched Workers | Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000190591.html)

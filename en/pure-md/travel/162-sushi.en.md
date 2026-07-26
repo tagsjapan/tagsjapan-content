@@ -1,0 +1,31 @@
+# Sushi: Vinegared Rice and the Many Histories It Carries
+
+At a sushi counter, the most important ingredient is often the one people talk about the least. A slice of fish can be named, priced, even photographed. Rice is quieter. It is warmed, seasoned, pressed, shaped, and timed. It has to be firm enough to hold and loose enough to break apart cleanly. It has to carry sourness without tasting like pickling. When it works, the rice disappears into the overall bite, and that invisibility is part of the craft. Yet if you want to understand `Sushi（壽司）` as Japan understands it, the rice is the starting point.
+
+Official explanations insist on the etymology because it corrects a global misunderstanding. “Sushi” is tied to `su（vinegar）` and `meshi（rice）`: vinegared rice paired with toppings that can be raw or cooked, seafood or vegetables, egg or tofu skin. Outside Japan, sushi is often flattened into “raw fish,” which turns the dish into a single idea and erases the technical core. Within Japan, sushi is a family of methods built around acidified rice—an old food technology that moved from preservation into cuisine.
+
+That older technology shows up in sushi’s earliest forms. MAFF’s local-cuisine materials describe `narezushi（熟鮓）`, where fish and rice are fermented to extend shelf life, and later developments such as `namanare`, where fermentation is shorter and the rice is eaten along with the fish. The point is not nostalgia. It is that sushi began as a way to manage time: preserve fish, control flavor, make protein storable in a pre-refrigeration world. Over centuries, the balance shifted. The rice stopped being a fermentation medium and became food in its own right.
+
+By the Edo period, sushi was already splitting into multiple social lives. Some forms were quick and cheap. MAFF’s writing on `Inari-zushi（稲荷寿司）` frames it as a popular, convenient fast food, which matters because it breaks the global association between sushi and luxury. Other forms became deeply regional. Toyama’s `Masu-zushi（鱒寿司）` is a pressed style tied to local identity and transport culture; Shiga’s `Funa-zushi（鮒寿司）` preserves the older fermented lineage in a way that still polarizes taste; Kochi’s rural-style sushi and other local variants show that “sushi” is not one city’s invention but a spectrum of local solutions.
+
+The rice is the clue.
+
+Vinegar is not decoration. In an older food economy, acidified rice helped manage spoilage risk, and the shift from long fermentation to vinegar seasoning made sushi faster and more compatible with city life. Speed mattered in Edo, where quick, portable food fit the tempo of a dense commercial city. Even today, sushi cooks talk about `shari（酢飯）`, the rice base, as something with its own discipline: temperature, grain texture, and seasoning balance shape how toppings taste. Modern cold chains and global seafood logistics make it easy to treat “raw fish” as sushi’s defining feature, but historically the rice is what made the form flexible. It allowed sushi to move from preservation technique to street food to ceremony without losing its identity. That is the hidden engine of sushi’s mobility.
+
+Modern sushi continues to move across class and space. JNTO points out that sushi can be found in many settings and price points, from casual places and izakaya to high-end counters. That spread is part of sushi’s cultural power. It can serve as a weekday meal, a celebration food, a business dinner, or a boxed lunch. It can also act as a portable emblem: something that signals “Japan” even when removed from its local context.
+The same word covers conveyor-belt chains, supermarket trays, and formal counter service.
+
+Globalization has amplified that emblematic role. MAFF’s `2025` survey on overseas Japanese restaurants reports roughly `181,000` such establishments worldwide. Sushi is a major driver of that visibility, which is both a success and a distortion. The world learns the word, then compresses the object. Sushi becomes “raw fish,” or “premium,” or a fixed set of toppings, while the deeper story—vinegared rice, fermentation history, regional diversity, and the long negotiation between everyday food and formal craft—becomes harder to see.
+
+Japan’s cultural policy is increasingly aware of that gap. The Agency for Cultural Affairs and MAFF frame `Washoku（和食）` not only as a cuisine to be enjoyed but as a tradition under pressure, because household structures and daily routines have changed and local food knowledge does not automatically pass to the next generation. Sushi sits inside that broader concern. It is famous enough to survive as a name, yet diverse enough to be endangered in its local forms. A world that recognizes “sushi” may never encounter the regional and historical thickness that the word contains.
+
+To understand `Sushi（壽司）` is therefore to practice a small correction. Begin with rice, not fish. Then follow the dish backward into fermentation and preservation, sideways into regional forms, and forward into a global market that keeps rewarding simplified images. Sushi is not just something Japan sells to the world. It is a record of how Japan turned an old technique for making food last into a versatile cultural form that can inhabit both the street and the ceremony—and still, quietly, insists on rice.
+
+Sources:
+- [Sushi in Japan | JNTO](https://www.japan.travel/en/guide/sushi-in-japan/)
+- [和食の次の未来 | 文化庁](https://www.bunka.go.jp/washoku_future/)
+- [和食文化継承プロジェクト（背景） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/project_background.html)
+- [鮒寿司（熟鮓）滋賀県 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/funa_zushi_shiga.html)
+- [鱒寿司 富山県 | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/37_20_toyama.html)
+- [稲荷寿司（江戸の人気快食） | 農林水産省](https://www.maff.go.jp/j/keikaku/syokubunka/culture/wagohan/articles/2301/spe13_03.html)
+- [海外における日本食レストラン数調査（令和7年） | 農林水産省](https://www.maff.go.jp/j/press/yusyutu_kokusai/kaitaku/251128.html)

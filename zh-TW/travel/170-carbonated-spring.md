@@ -1,0 +1,81 @@
+---
+title: "炭酸泉"
+slug: travel-carbonated-spring
+wp_date: 2026-04-26 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 170
+keyword_en: Carbonated Spring
+keyword_ja: 炭酸泉
+keyword_type: experience
+module_code: G
+category_name: 溫泉
+category_slug: hot-springs
+editorial_focus: "身體感受、地方溫泉文化、住宿連動"
+
+tags:
+  - Carbonated Spring
+  - 炭酸泉
+  - 日本旅遊
+  - 長湯溫泉
+  - Onsen
+  - Nagayu Onsen
+  - 溫泉
+  - Japan Travel
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Carbonated Spring（炭酸泉） 是旅人一泡進去就很容易有感的 Onsen（溫泉） 類型。它最常見的描述，是細小氣泡附在皮膚表面，讓人覺得像在溫熱的礦泉裡慢慢起泡。正因為身體感很直接，炭酸泉在日本溫泉旅行裡一直很受歡迎。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Carbonated Spring（炭酸泉） 是旅人一泡進去就很容易有感的 Onsen（溫泉） 類型。它最常見的描述，是細小氣泡附在皮膚表面，讓人覺得像在溫熱的礦泉裡慢慢起泡。正因為身體感很直接，炭酸泉在日本溫泉旅行裡一直很受歡迎。"
+open_graph_title: "炭酸泉"
+open_graph_description: "Carbonated Spring（炭酸泉） 是旅人一泡進去就很容易有感的 Onsen（溫泉） 類型。它最常見的描述，是細小氣泡附在皮膚表面，讓人覺得像在溫熱的礦泉裡慢慢起泡。正因為身體感很直接，炭酸泉在日本溫泉旅行裡一直很受歡迎。"
+twitter_title: "炭酸泉"
+twitter_description: "Carbonated Spring（炭酸泉） 是旅人一泡進去就很容易有感的 Onsen（溫泉） 類型。它最常見的描述，是細小氣泡附在皮膚表面，讓人覺得像在溫熱的礦泉裡慢慢起泡。正因為身體感很直接，炭酸泉在日本溫泉旅行裡一直很受歡迎。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 炭酸泉
+
+## 這是什麼
+
+`Carbonated Spring（炭酸泉）` 是旅人一泡進去就很容易有感的 `Onsen（溫泉）` 類型。它最常見的描述，是細小氣泡附在皮膚表面，讓人覺得像在溫熱的礦泉裡慢慢起泡。正因為身體感很直接，炭酸泉在日本溫泉旅行裡一直很受歡迎。
+
+不過日本談炭酸泉時，常常同時存在旅遊說法與專業分類。Japan Onsen Association 也提到日本泉質名稱曾經有舊制與新制，因此旅人會看到「炭酸泉」被廣泛使用，但正式化學分類未必完全照這個名字呈現。對一般旅人來說，最重要的是理解它描述的是一種可感的泡湯特徵，而不是背泉質條目。
+
+## 為什麼它在日本特別
+
+它在日本特別，是因為日本不只是把炭酸泉當成舒適浴感，而是把它放進療養地文化與地方品牌裡。像 `Nagayu Onsen（長湯溫泉）` 就不是靠大型娛樂設施取勝，而是靠泉質本身、小鎮節奏與長期泡湯文化建立名聲。
+
+第二，日本的溫泉文化很講究「泉種差異」。很多國家的溫泉旅遊只強調景色或飯店設備，但在日本，旅人真的會為了某種泉質特地去某個地方。炭酸泉因此不只是附加說明，而是會影響目的地選擇、住宿安排與停留方式的核心資訊。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，炭酸泉的重要性在於它讓人看到，日本旅行中的放鬆不一定要靠高強度景點。像長湯這類地方，本身節奏就比較慢，溫泉、散步、河岸景觀與小鎮住宿可以組成一種很典型的日本療養型旅行。
+
+它也提醒旅人，日本溫泉旅行有時候重點不在「泡一次最有名的」，而在「依照自己想要的身體感去選泉質」。如果你偏好的是細緻、緩慢、能感覺水本身特色的體驗，炭酸泉常常比熱鬧的大型溫泉街更適合。
+
+## 例子與場景
+
+最代表性的例子是大分竹田的長湯溫泉。Travel Japan 直接把它描述為日本代表性的炭酸泉之一，並提到與療養文化的連結。竹田整個區域也把自然水源、山區風景與溫泉一起包進旅遊敘事。另一種常見場景，是旅人特地在地方小鎮住一晚，不是為了多跑景點，而是想把泡湯、散步與早晚不同時段的水感都體會過一次。
+
+炭酸泉也特別適合拿來理解日本的慢旅行。它不像主打震撼景觀的目的地那麼高聲量，但很適合住下來，把泡湯、散步、地方食物與夜晚安靜感一起收進行程。對不追求打卡密度、反而想要身體真的慢下來的旅人來說，炭酸泉代表的是日本旅行中比較內斂、但非常有層次的一面。
+這也是為什麼炭酸泉特別適合排在地方小鎮，而不是大型都市商圈。它需要一點慢、一點留白，讓旅人從氣泡、溫度與街區安靜感中，慢慢讀懂日本療養旅行為什麼能成為長久存在的文化。
+這樣的旅行方式，往往會比追景點更讓人記得久。
+## 旅行提示
+
+安排炭酸泉行程時，最好先確認設施是天然炭酸泉，還是一般浴場用設備製造氣泡。兩者都可能舒服，但旅行意義不同。第二，若官方頁面提到可飲泉，不要自行判斷，應以現場標示與衛生指引為準。第三，炭酸泉很適合排進節奏較慢的區域旅行，比起趕點，更適合住一晚、留一個清晨或傍晚慢慢泡。
+
+## 參考資料
+
+- [Qualities of various types of spring water, Japan Onsen Association](https://www.spa.or.jp/en/spring-quality/)
+- [Nagayu Onsen, Travel Japan / JNTO](https://www.japan.travel/en/spot/706/)
+- [Taketa, Travel Japan / JNTO](https://www.japan.travel/en/spot/1961/)
+- [Hot Springs: What Are They?, National Parks of Japan / JNTO](https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/hot-springs-what-are-they/)

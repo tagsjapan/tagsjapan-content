@@ -1,0 +1,84 @@
+---
+title: "二手市場"
+slug: travel-second-hand-shop
+wp_date: 2026-05-11 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 185
+keyword_en: Second-hand Shop
+keyword_ja: リサイクルショップ
+keyword_type: culture
+module_code: H
+category_name: 購物／流行文化
+category_slug: shopping-pop-culture
+editorial_focus: "消費文化、次文化、城市節奏"
+
+tags:
+  - 二手市場
+  - Second-hand Shop
+  - リサイクルショップ
+  - 日本旅遊
+  - recycle shop
+  - Japan Travel
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Second-hand Shop（二手市場） 在日本更常以 recycle shop（リサイクルショップ） 或 reuse shop 的形式出現。它不只是賣便宜東西的地方，而是一種把書、衣服、家電、品牌物、玩具、音樂軟體和各種生活用品重新整理、重新定價、重新流通的消費系統。對旅人來說，日本二手店最有意思的地方，不只是挖寶，而是它把「別人用過的東西」做得非常有秩序、非常可被信任。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Second-hand Shop（二手市場） 在日本更常以 recycle shop（リサイクルショップ） 或 reuse shop 的形式出現。它不只是賣便宜東西的地方，而是一種把書、衣服、家電、品牌物、玩具、音樂軟體和各種生活用品重新整理、重新定價、重新流通的消費系統。"
+open_graph_title: "二手市場"
+open_graph_description: "Second-hand Shop（二手市場） 在日本更常以 recycle shop（リサイクルショップ） 或 reuse shop 的形式出現。它不只是賣便宜東西的地方，而是一種把書、衣服、家電、品牌物、玩具、音樂軟體和各種生活用品重新整理、重新定價、重新流通的消費系統。"
+twitter_title: "二手市場"
+twitter_description: "Second-hand Shop（二手市場） 在日本更常以 recycle shop（リサイクルショップ） 或 reuse shop 的形式出現。它不只是賣便宜東西的地方，而是一種把書、衣服、家電、品牌物、玩具、音樂軟體和各種生活用品重新整理、重新定價、重新流通的消費系統。"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 二手市場
+
+## 這是什麼
+
+`Second-hand Shop（二手市場）` 在日本更常以 `recycle shop（リサイクルショップ）` 或 reuse shop 的形式出現。它不只是賣便宜東西的地方，而是一種把書、衣服、家電、品牌物、玩具、音樂軟體和各種生活用品重新整理、重新定價、重新流通的消費系統。對旅人來說，日本二手店最有意思的地方，不只是挖寶，而是它把「別人用過的東西」做得非常有秩序、非常可被信任。
+
+這種店在日本已經不是邊緣市場，而是日常消費的一部分。從 BOOKOFF 到 2nd STREET，你會發現日本的二手零售早就發展成非常成熟的商業和文化場景。
+
+## 為什麼它在日本特別
+
+日本二手市場特別，首先因為它很重視品質與信任。BOOKOFF 面向外國旅客的頁面直接強調，品牌商品會經驗證、商品會清潔後再上架。這種把真偽和整潔放在前面的做法，很能代表日本二手市場不是「湊合著用」，而是把再利用做成一套可安心購買的系統。
+
+第二個特別之處是規模。2nd STREET 官方顯示，日本全國已有 `900` 多間店，並細分成多種類型。這意味著二手零售在日本不是零散小店而已，而是非常成熟的全國性流通網絡。這種成熟度，會直接影響旅人逛店時的安心感和選擇密度。
+
+另外，日本二手市場還特別重視整理感。很多東西即使不是新品，也會被分門別類、清楚定價、保持乾淨。這讓「二手」在日本常常不是將就，而是另一種理性選擇。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，二手市場重要，因為它讓旅人看到日本消費文化的另一面。很多人來日本會注意新品、限定品和百貨，但二手店能讓你看見這個社會如何對待物件的第二次生命。這不只是省錢，也是一種很有日本特色的整理與再分配邏輯。
+
+它也和次文化、古著、書店文化與永續旅遊連在一起。當你逛二手店時，你其實在看一座城市的品味如何流動，哪些東西被留下、哪些東西被轉賣、哪些品牌在不同街區有不同命運。這讓二手店變成一種很好讀城市的方法。
+
+## 例子與場景
+
+第一個例子是 BOOKOFF。它很能代表日本把書籍、遊戲、影音和部分品牌商品做成高效率二手流通的方式。對旅人來說，這種店很容易進入，也很容易理解。
+
+第二個例子是 2nd STREET。它不只賣衣服，還可能涵蓋傢俱、家電、包袋與多種生活用品。這說明日本二手市場不是只屬於古著愛好者，而是廣泛嵌進日常生活。
+
+第三個例子是 reuse 的永續面向。2nd STREET 的再利用說明指出，衣物再利用能減少廢棄與碳排放。這提醒我們，日本二手市場的價值不只是價格，而是它也回應了現代消費社會的浪費問題。
+
+第四個例子是街區差異。大型連鎖店比較穩定，年輕街區的小型古著店則更有選品感。旅人如果願意多走幾種店型，會更容易看出一座城市的趣味。
+
+## 旅行提示
+
+逛二手店前，先想清楚你要找的是古著、品牌包、漫畫、遊戲還是家電，因為不同連鎖和不同門市強項差很多。第二，熱門觀光區和住宅區的二手店庫存風格常不同，值得比較。第三，如果你在意真偽與狀態，連鎖大型店通常比無名小店更容易放心。最後，把日本二手店當成觀察城市品味和再利用文化的窗口，會比只想撿便宜更有趣。
+
+## 參考資料
+
+- [BOOKOFF Tax free shop, BOOKOFF](https://www.bookoff.co.jp/inbound/)
+- [BOOKOFF, BOOKOFF](https://www.bookoff.co.jp/inbound/taxfreeshop201712/en/index.html)
+- [2nd STREET, 2nd STREET](https://www.2ndstreet.jp/)
+- [リユースのレキシ, 2nd STREET](https://www.2ndstreet.jp/guide/about/reuse-history)

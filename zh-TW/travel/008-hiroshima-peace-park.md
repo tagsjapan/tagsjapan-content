@@ -1,0 +1,82 @@
+---
+title: "廣島和平紀念公園"
+slug: travel-hiroshima-peace-park
+wp_date: 2025-11-15 09:00:00
+wp_status: draft
+wp_blog_id: 2           # /zh/ 讀記日本
+
+entry_id: 8
+keyword_en: Hiroshima Peace Park
+keyword_ja: 平和記念公園
+keyword_type: place
+module_code: A
+category_name: 目的地／地區
+category_slug: destinations
+editorial_focus: "地方個性、歷史層次、旅遊結構角色"
+
+tags:
+  - 平和記念公園
+  - 廣島和平紀念公園
+  - Hiroshima Peace Park
+  - Atomic Bomb Dome
+  - 日本旅遊
+  - 原爆圓頂館
+  - JNTO
+  - 8 月 6 日
+
+# Excerpt (reader-facing, full paragraph)
+excerpt: "Hiroshima Peace Park（廣島和平紀念公園） 不是一般意義上的城市公園，而是一個把戰爭記憶、城市重建與和平祈願整合在一起的公共空間。它位在廣島市中心兩條河流之間，面積超過 120,000 平方公尺，串連了 Atomic Bomb Dome（原爆圓頂館）、慰靈碑、兒童和平紀念碑、廣島和平紀念資料館等多個場域。對旅人來說，這裡不是用來「放鬆散步」的綠地，而是一個會重新定義你怎麼看城市與歷史的地方。"
+
+# SEO (The SEO Framework)
+genesis_title: ""
+genesis_description: "Hiroshima Peace Park（廣島和平紀念公園） 不是一般意義上的城市公園，而是一個把戰爭記憶、城市重建與和平祈願整合在一起的公共空間。它位在廣島市中心兩條河流之間，面積超過 120,000 平方公尺，串連了 Atomic Bomb Dome（原爆圓頂館）、慰靈碑、兒童和平紀念碑、廣島和平紀念資料…"
+open_graph_title: "廣島和平紀念公園"
+open_graph_description: "Hiroshima Peace Park（廣島和平紀念公園） 不是一般意義上的城市公園，而是一個把戰爭記憶、城市重建與和平祈願整合在一起的公共空間。它位在廣島市中心兩條河流之間，面積超過 120,000 平方公尺，串連了 Atomic Bomb Dome（原爆圓頂館）、慰靈碑、兒童和平紀念碑、廣島和平紀念資料…"
+twitter_title: "廣島和平紀念公園"
+twitter_description: "Hiroshima Peace Park（廣島和平紀念公園） 不是一般意義上的城市公園，而是一個把戰爭記憶、城市重建與和平祈願整合在一起的公共空間。它位在廣島市中心兩條河流之間，面積超過 120,000 平方公尺，串連了 Atomic Bomb Dome（原爆圓頂館）、慰靈碑、兒童和平紀念碑、廣島和平紀念資料…"
+genesis_noindex: 0
+genesis_nofollow: 0
+genesis_noarchive: 0
+
+social_image_url: ""
+social_image_id: 0
+---
+
+# 廣島和平紀念公園
+
+## 這是什麼
+
+`Hiroshima Peace Park（廣島和平紀念公園）` 不是一般意義上的城市公園，而是一個把戰爭記憶、城市重建與和平祈願整合在一起的公共空間。它位在廣島市中心兩條河流之間，面積超過 `120,000` 平方公尺，串連了 `Atomic Bomb Dome（原爆圓頂館）`、慰靈碑、兒童和平紀念碑、廣島和平紀念資料館等多個場域。對旅人來說，這裡不是用來「放鬆散步」的綠地，而是一個會重新定義你怎麼看城市與歷史的地方。
+
+很多地方有戰爭博物館，但廣島和平紀念公園的不同之處在於，這段歷史不是被關進單一建築，而是被放進整個城市空間裡。你走在樹蔭、河道與紀念碑之間，會很明顯感覺到這裡不是普通觀光地，而是一座城市選擇如何記住災難的方式。
+
+## 為什麼它在日本特別
+
+這座公園在日本特別，首先因為它把「和平」做成了具體可步行的空間。`JNTO（日本政府觀光局）` 指出，廣島在 1949 年決定，不把這塊原本的行政與商業中心直接重建，而是改成一個用來紀念與沉思的地方。這個決定非常重要，因為它說明廣島不是想把傷痕藏起來，而是選擇讓它成為城市中心的一部分。
+
+第二個特別之處是象徵性很強。原爆圓頂館保留了戰後殘存結構，資料館則把歷史、遺物與個人生命故事帶入參觀者面前。這讓廣島和平紀念公園不只是抽象的「和平教育」，而是能讓人同時看到破壞痕跡與重建意志的地方。
+
+## 為什麼它是日本旅遊的重要結構
+
+在 `Japan Travel（日本旅遊）` 裡，廣島和平紀念公園的重要性在於它提醒旅人，日本旅行不只有美景、飲食與古蹟，也包含對近現代歷史的理解。很多人透過這裡第一次真正面對日本作為戰爭受害者與戰後重建社會的一面。這種理解，會讓之後看到的日本變得更立體。
+
+它也改變了廣島旅行的節奏。廣島當然有美食、路面電車和宮島，但只要走進和平公園，整趟旅行就會突然多出一層重量。旅人通常不再只是「收集景點」，而會被迫停下來思考城市、國家與個人記憶怎麼互相連結。這種從觀光轉向反思的力量，就是它作為 place 詞條最核心的地方。
+
+## 例子與場景
+
+第一個例子是從原爆圓頂館一路走到慰靈碑。這條動線非常重要，因為它把歷史遺構、追悼與和平願景排成一條清楚的閱讀軸線。你不是在看零散景點，而是在走一段有敘事的城市空間。
+
+第二個例子是和平紀念資料館。只有看外部紀念碑，旅人可能只感受到莊嚴；走進資料館後，透過遺留物、照片與說明，才會真正理解這場災難對個人生命的影響。這讓公園的情緒不會停在抽象層面。
+
+第三個例子是每年 `8 月 6 日` 的和平紀念式典。這不是歷史已經結束的地方，而是至今仍持續被使用、被紀念、被重新解釋的公共空間。也因此，這座公園並不是過去式，而是現在式的和平場域。
+
+## 旅行提示
+
+來這裡時，建議至少預留半天，把原爆圓頂館、公園步行和資料館一起看完，否則很容易只剩表面印象。第二，這裡適合放慢速度，也適合保留一些安靜時間，不必急著拍很多照片。第三，如果和孩子或第一次接觸這段歷史的人同行，可以先做一點背景準備，參觀感受會更完整。最後，參觀完和平公園再去看今天的廣島市區，會更能理解這座城市的恢復與選擇。
+
+## 參考資料
+
+- [Hiroshima Peace Memorial Park, Travel Japan / JNTO](https://www.japan.travel/en/japans-local-treasures/hiroshima-peace-memorial-park/)
+- [Hiroshima Peace Memorial (UNESCO), Travel Japan / JNTO](https://www.japan.travel/en/world-heritage/hiroshima-peace-memorial/)
+- [Hiroshima Atomic Bomb Dome, Travel Japan / JNTO](https://www.japan.travel/en/spot/2202/)
+- [Hiroshima Peace Memorial Museum, Travel Japan / JNTO](https://www.japan.travel/en/spot/893)
