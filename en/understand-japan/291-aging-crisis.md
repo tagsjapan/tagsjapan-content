@@ -1,5 +1,5 @@
 ---
-title: "Aging Crisis"
+title: "Aging Crisis: When Demography Hits Every System at Once"
 slug: understand-japan-aging-crisis
 wp_date: 2026-07-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a long-term care facility on the edge of a Japanese city, the shift
 
 genesis_title: ""
 genesis_description: "Learn about Aging Crisis in Japan. When the staffing is thin, everything slows: a bath is postponed, a conversation becomes a checklist, the smallest..."
-open_graph_title: "Aging Crisis"
+open_graph_title: "Aging Crisis: When Demography Hits Every System at Once"
 open_graph_description: "Learn about Aging Crisis in Japan. When the staffing is thin, everything slows: a bath is postponed, a conversation becomes a checklist, the smallest..."
-twitter_title: "Aging Crisis"
+twitter_title: "Aging Crisis: When Demography Hits Every System at Once"
 twitter_description: "Learn about Aging Crisis in Japan. When the staffing is thin, everything slows: a bath is postponed, a conversation becomes a checklist, the smallest..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Outdoor BBQ"
+title: "Outdoor BBQ: Japan’s “Empty-Handed” Day Out, by Reservation"
 slug: travel-outdoor-bbq
 wp_date: 2025-10-15 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The surprise is not the smoke. It’s the clipboard. You arrive at wha
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Outdoor BBQ in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Outdoor BBQ"
+open_graph_title: "Outdoor BBQ: Japan’s “Empty-Handed” Day Out, by Reservation"
 open_graph_description: "A comprehensive guide to Outdoor BBQ in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Outdoor BBQ"
+twitter_title: "Outdoor BBQ: Japan’s “Empty-Handed” Day Out, by Reservation"
 twitter_description: "A comprehensive guide to Outdoor BBQ in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

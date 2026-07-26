@@ -1,5 +1,5 @@
 ---
-title: "Local Government Bonds"
+title: "Local Government Bonds: Borrowing Against Tomorrow to Keep the Town Running"
 slug: understand-japan-local-government-bonds
 wp_date: 2025-05-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a Japanese city budget meeting, the argument over a school rebuild 
 
 genesis_title: ""
 genesis_description: "In a Japanese city budget meeting, the argument over a school rebuild or a flood-control wall is never only about this year's money."
-open_graph_title: "Local Government Bonds"
+open_graph_title: "Local Government Bonds: Borrowing Against Tomorrow to Keep the Town Running"
 open_graph_description: "In a Japanese city budget meeting, the argument over a school rebuild or a flood-control wall is never only about this year's money."
-twitter_title: "Local Government Bonds"
+twitter_title: "Local Government Bonds: Borrowing Against Tomorrow to Keep the Town Running"
 twitter_description: "In a Japanese city budget meeting, the argument over a school rebuild or a flood-control wall is never only about this year's money."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Animal Café"
+title: "Animal Café: A Timed Break in the Middle of the City"
 slug: travel-animal-cafe
 wp_date: 2025-07-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In , the street can feel like a moving crowd experiment—shopping bag
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Animal Café in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Animal Café"
+open_graph_title: "Animal Café: A Timed Break in the Middle of the City"
 open_graph_description: "A comprehensive guide to Animal Café in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Animal Café"
+twitter_title: "Animal Café: A Timed Break in the Middle of the City"
 twitter_description: "A comprehensive guide to Animal Café in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

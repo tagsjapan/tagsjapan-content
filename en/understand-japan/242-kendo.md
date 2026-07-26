@@ -1,5 +1,5 @@
 ---
-title: "Kendo"
+title: "Kendo: Fencing as Character Education"
 slug: understand-japan-kendo
 wp_date: 2026-04-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Kendo（剣道） is a modern Japanese martial art of sword fencing us
 
 genesis_title: ""
 genesis_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
-open_graph_title: "Kendo"
+open_graph_title: "Kendo: Fencing as Character Education"
 open_graph_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
-twitter_title: "Kendo"
+twitter_title: "Kendo: Fencing as Character Education"
 twitter_description: "Learn about Kendo in Japan. The sound is distinctive: bamboo striking armor, bare feet stamping wood, a sharp shout that is both breath and declaration."
 genesis_noindex: 0
 genesis_nofollow: 0

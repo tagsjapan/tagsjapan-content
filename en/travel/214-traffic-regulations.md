@@ -1,5 +1,5 @@
 ---
-title: "Traffic Regulations"
+title: "Traffic Regulations: Learning the Road Anew"
 slug: travel-traffic-regulations
 wp_date: 2026-03-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first disorienting moment usually comes at a turn. A rental car ea
 
 genesis_title: ""
 genesis_description: "The first disorienting moment usually comes at a turn. A rental car eases out of a Hokkaido lot, the steering wheel is on the right, the lane you need is on ..."
-open_graph_title: "Traffic Regulations"
+open_graph_title: "Traffic Regulations: Learning the Road Anew"
 open_graph_description: "The first disorienting moment usually comes at a turn. A rental car eases out of a Hokkaido lot, the steering wheel is on the right, the lane you need is on ..."
-twitter_title: "Traffic Regulations"
+twitter_title: "Traffic Regulations: Learning the Road Anew"
 twitter_description: "The first disorienting moment usually comes at a turn. A rental car eases out of a Hokkaido lot, the steering wheel is on the right, the lane you need is on ..."
 genesis_noindex: 0
 genesis_nofollow: 0

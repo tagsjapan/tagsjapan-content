@@ -1,5 +1,5 @@
 ---
-title: "Asia-Pacific Strategy"
+title: "Asia-Pacific Strategy: How Japan Learned to Think in Sea Lanes"
 slug: understand-japan-asia-pacific-strategy
 wp_date: 2025-04-17 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Spread a Japanese policy map across a table and the eye is pulled seaw
 
 genesis_title: ""
 genesis_description: "Spread a Japanese policy map across a table and the eye is pulled seaward almost at once. The arcs run from the home islands through the South China Sea, acr..."
-open_graph_title: "Asia-Pacific Strategy"
+open_graph_title: "Asia-Pacific Strategy: How Japan Learned to Think in Sea Lanes"
 open_graph_description: "Spread a Japanese policy map across a table and the eye is pulled seaward almost at once. The arcs run from the home islands through the South China Sea, acr..."
-twitter_title: "Asia-Pacific Strategy"
+twitter_title: "Asia-Pacific Strategy: How Japan Learned to Think in Sea Lanes"
 twitter_description: "Spread a Japanese policy map across a table and the eye is pulled seaward almost at once. The arcs run from the home islands through the South China Sea, acr..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Onsen Etiquette"
+title: "Onsen Etiquette: The Rules That Make a Shared Bath Feel Easy"
 slug: travel-onsen-etiquette
 wp_date: 2025-12-20 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The most awkward moment in a Japanese usually comes before anyone has 
 
 genesis_title: ""
 genesis_description: "Guide to Onsen Etiquette in Japan. The most awkward moment in a Japanese usually comes before anyone has touched the water. It is a user manual for sha"
-open_graph_title: "Onsen Etiquette"
+open_graph_title: "Onsen Etiquette: The Rules That Make a Shared Bath Feel Easy"
 open_graph_description: "Guide to Onsen Etiquette in Japan. The most awkward moment in a Japanese usually comes before anyone has touched the water. It is a user manual for sha"
-twitter_title: "Onsen Etiquette"
+twitter_title: "Onsen Etiquette: The Rules That Make a Shared Bath Feel Easy"
 twitter_description: "Guide to Onsen Etiquette in Japan. The most awkward moment in a Japanese usually comes before anyone has touched the water. It is a user manual for sha"
 genesis_noindex: 0
 genesis_nofollow: 0

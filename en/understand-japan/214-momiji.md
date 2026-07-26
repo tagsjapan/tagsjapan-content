@@ -1,5 +1,5 @@
 ---
-title: "Momiji"
+title: "Momiji: Autumn Leaves as a Moving Season"
 slug: understand-japan-momiji
 wp_date: 2026-03-03 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "Spring in Japan can feel like a single nationwide flare, but autumn ar
 
 genesis_title: ""
 genesis_description: "Learn about Momiji in Japan. Momijigari is the tradition of hunting autumn colors, turning seasonal change into shared cultural practice."
-open_graph_title: "Momiji"
+open_graph_title: "Momiji: Autumn Leaves as a Moving Season"
 open_graph_description: "Learn about Momiji in Japan. Momijigari is the tradition of hunting autumn colors, turning seasonal change into shared cultural practice."
-twitter_title: "Momiji"
+twitter_title: "Momiji: Autumn Leaves as a Moving Season"
 twitter_description: "Learn about Momiji in Japan. Momijigari is the tradition of hunting autumn colors, turning seasonal change into shared cultural practice."
 genesis_noindex: 0
 genesis_nofollow: 0

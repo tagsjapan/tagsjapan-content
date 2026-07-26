@@ -1,5 +1,5 @@
 ---
-title: "Theater Watching"
+title: "Theater Watching: When a City’s Night Goes Formal"
 slug: travel-theater-watching
 wp_date: 2025-09-06 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "There is a particular quiet that arrives when you step from a Tokyo si
 
 genesis_title: ""
 genesis_description: "Experience Theater Watching in Japan. There is a particular quiet that arrives when you step from a Tokyo sidewalk into a theater lobby."
-open_graph_title: "Theater Watching"
+open_graph_title: "Theater Watching: When a City’s Night Goes Formal"
 open_graph_description: "Experience Theater Watching in Japan. There is a particular quiet that arrives when you step from a Tokyo sidewalk into a theater lobby."
-twitter_title: "Theater Watching"
+twitter_title: "Theater Watching: When a City’s Night Goes Formal"
 twitter_description: "Experience Theater Watching in Japan. There is a particular quiet that arrives when you step from a Tokyo sidewalk into a theater lobby."
 genesis_noindex: 0
 genesis_nofollow: 0

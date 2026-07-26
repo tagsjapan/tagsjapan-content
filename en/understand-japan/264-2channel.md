@@ -1,5 +1,5 @@
 ---
-title: "2channel"
+title: "2channel: The Anonymous Forum That Gave Japan an Internet Voice"
 slug: understand-japan-2channel
 wp_date: 2026-06-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "2ch mattered because it leaked into the wider culture. The most famous
 
 genesis_title: ""
 genesis_description: "Learn about 2channel in Japan. Most posts appear under a default no‑name setting, and the unit of attention is not a person but a thread that can surge,..."
-open_graph_title: "2channel"
+open_graph_title: "2channel: The Anonymous Forum That Gave Japan an Internet Voice"
 open_graph_description: "Learn about 2channel in Japan. Most posts appear under a default no‑name setting, and the unit of attention is not a person but a thread that can surge,..."
-twitter_title: "2channel"
+twitter_title: "2channel: The Anonymous Forum That Gave Japan an Internet Voice"
 twitter_description: "Learn about 2channel in Japan. Most posts appear under a default no‑name setting, and the unit of attention is not a person but a thread that can surge,..."
 genesis_noindex: 0
 genesis_nofollow: 0

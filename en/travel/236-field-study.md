@@ -1,5 +1,5 @@
 ---
-title: "Field Study"
+title: "Field Study: Traveling With a Question, Not a Checklist"
 slug: travel-field-study
 wp_date: 2026-04-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a local train that empties out a few stops after the tourists get o
 
 genesis_title: ""
 genesis_description: "On a local train that empties out a few stops after the tourists get off, you begin to notice the difference between sightseeing and field study."
-open_graph_title: "Field Study"
+open_graph_title: "Field Study: Traveling With a Question, Not a Checklist"
 open_graph_description: "On a local train that empties out a few stops after the tourists get off, you begin to notice the difference between sightseeing and field study."
-twitter_title: "Field Study"
+twitter_title: "Field Study: Traveling With a Question, Not a Checklist"
 twitter_description: "On a local train that empties out a few stops after the tourists get off, you begin to notice the difference between sightseeing and field study."
 genesis_noindex: 0
 genesis_nofollow: 0

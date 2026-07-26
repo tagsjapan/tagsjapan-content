@@ -1,5 +1,5 @@
 ---
-title: "Gion Festival"
+title: "Gion Festival: Kyoto’s July, Not Just a Parade"
 slug: travel-gion-festival
 wp_date: 2025-07-20 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Late in the afternoon, Shijo-dori feels like it has been tightened a n
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Gion Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Gion Festival"
+open_graph_title: "Gion Festival: Kyoto’s July, Not Just a Parade"
 open_graph_description: "A comprehensive guide to Gion Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Gion Festival"
+twitter_title: "Gion Festival: Kyoto’s July, Not Just a Parade"
 twitter_description: "A comprehensive guide to Gion Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

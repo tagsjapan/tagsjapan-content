@@ -1,5 +1,5 @@
 ---
-title: "#MeToo Movement"
+title: "#MeToo Movement: A Quiet Revolt Against the Cost of Speaking"
 slug: understand-japan-#metoo-movement
 wp_status: draft
 wp_blog_id: 1
@@ -20,9 +20,9 @@ excerpt: "On some evenings in Tokyo, a small crowd gathers with flowers rather t
 
 genesis_title: ""
 genesis_description: "Learn about #MeToo Movement in Japan. The #MeToo Movement in Japan is not simply a global hashtag imported into Japanese social media."
-open_graph_title: "#MeToo Movement"
+open_graph_title: "#MeToo Movement: A Quiet Revolt Against the Cost of Speaking"
 open_graph_description: "Learn about #MeToo Movement in Japan. The #MeToo Movement in Japan is not simply a global hashtag imported into Japanese social media."
-twitter_title: "#MeToo Movement"
+twitter_title: "#MeToo Movement: A Quiet Revolt Against the Cost of Speaking"
 twitter_description: "Learn about #MeToo Movement in Japan. The #MeToo Movement in Japan is not simply a global hashtag imported into Japanese social media."
 genesis_noindex: 0
 genesis_nofollow: 0

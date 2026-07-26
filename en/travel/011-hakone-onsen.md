@@ -1,5 +1,5 @@
 ---
-title: "Hakone Onsen"
+title: "Hakone Onsen: The Near-Mountain Escape That Teaches Tokyo How to Exhale"
 slug: travel-hakone-onsen
 wp_date: 2025-01-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The trip often turns somewhere after Odawara. Commuter urgency gives w
 
 genesis_title: ""
 genesis_description: "Guide to Hakone Onsen in Japan. The trip often turns somewhere after Odawara. It is a place built around the idea that urban people can step out of the ca"
-open_graph_title: "Hakone Onsen"
+open_graph_title: "Hakone Onsen: The Near-Mountain Escape That Teaches Tokyo How to Exhale"
 open_graph_description: "Guide to Hakone Onsen in Japan. The trip often turns somewhere after Odawara. It is a place built around the idea that urban people can step out of the ca"
-twitter_title: "Hakone Onsen"
+twitter_title: "Hakone Onsen: The Near-Mountain Escape That Teaches Tokyo How to Exhale"
 twitter_description: "Guide to Hakone Onsen in Japan. The trip often turns somewhere after Odawara. It is a place built around the idea that urban people can step out of the ca"
 genesis_noindex: 0
 genesis_nofollow: 0

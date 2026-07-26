@@ -1,5 +1,5 @@
 ---
-title: "Zen Meditation"
+title: "Zen Meditation: A Quiet Rulebook Inside a Temple"
 slug: travel-zen-meditation
 wp_date: 2025-08-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The room is clean in the way temples often are: not decorative, just p
 
 genesis_title: ""
 genesis_description: "Experience Zen Meditation in Japan. The room is clean in the way temples often are: not decorative, just precise. Shoes are lined at the threshold."
-open_graph_title: "Zen Meditation"
+open_graph_title: "Zen Meditation: A Quiet Rulebook Inside a Temple"
 open_graph_description: "Experience Zen Meditation in Japan. The room is clean in the way temples often are: not decorative, just precise. Shoes are lined at the threshold."
-twitter_title: "Zen Meditation"
+twitter_title: "Zen Meditation: A Quiet Rulebook Inside a Temple"
 twitter_description: "Experience Zen Meditation in Japan. The room is clean in the way temples often are: not decorative, just precise. Shoes are lined at the threshold."
 genesis_noindex: 0
 genesis_nofollow: 0

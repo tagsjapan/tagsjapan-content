@@ -1,5 +1,5 @@
 ---
-title: "Soy Sauce"
+title: "Soy Sauce: The Seasoning That Turns Regional Japan into Taste"
 slug: travel-soy-sauce
 wp_date: 2025-06-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At a sushi counter, the most important condiment is usually the one th
 
 genesis_title: ""
 genesis_description: "Guide to Soy Sauce in Japan. At a sushi counter, the most important condiment is usually the one the customer touches least."
-open_graph_title: "Soy Sauce"
+open_graph_title: "Soy Sauce: The Seasoning That Turns Regional Japan into Taste"
 open_graph_description: "Guide to Soy Sauce in Japan. At a sushi counter, the most important condiment is usually the one the customer touches least."
-twitter_title: "Soy Sauce"
+twitter_title: "Soy Sauce: The Seasoning That Turns Regional Japan into Taste"
 twitter_description: "Guide to Soy Sauce in Japan. At a sushi counter, the most important condiment is usually the one the customer touches least."
 genesis_noindex: 0
 genesis_nofollow: 0

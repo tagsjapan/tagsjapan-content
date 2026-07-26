@@ -1,5 +1,5 @@
 ---
-title: "Sumo"
+title: "Sumo: Wrestling as a Public Hierarchy"
 slug: understand-japan-sumo
 wp_date: 2026-05-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Sumo（相撲） is a style of Japanese wrestling whose basic objectiv
 
 genesis_title: ""
 genesis_description: "Learn about Sumo in Japan. Encyclopaedia Britannica even gives the ring a measurement—about 15 feet (4.6 metres) in diameter—which is a useful reminder of..."
-open_graph_title: "Sumo"
+open_graph_title: "Sumo: Wrestling as a Public Hierarchy"
 open_graph_description: "Learn about Sumo in Japan. Encyclopaedia Britannica even gives the ring a measurement—about 15 feet (4.6 metres) in diameter—which is a useful reminder of..."
-twitter_title: "Sumo"
+twitter_title: "Sumo: Wrestling as a Public Hierarchy"
 twitter_description: "Learn about Sumo in Japan. Encyclopaedia Britannica even gives the ring a measurement—about 15 feet (4.6 metres) in diameter—which is a useful reminder of..."
 genesis_noindex: 0
 genesis_nofollow: 0

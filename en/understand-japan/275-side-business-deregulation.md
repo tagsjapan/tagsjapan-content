@@ -1,5 +1,5 @@
 ---
-title: "Side Business Deregulation"
+title: "Side Business Deregulation: Japan’s Careful Opening for Second Jobs"
 slug: understand-japan-side-business-deregulation
 wp_date: 2026-06-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The scene is not a startup loft. It is a form. In many Japanese compan
 
 genesis_title: ""
 genesis_description: "Learn about Side Business Deregulation in Japan. What changed is not that the law suddenly allowed moonlighting; Japan has long had space for it."
-open_graph_title: "Side Business Deregulation"
+open_graph_title: "Side Business Deregulation: Japan’s Careful Opening for Second Jobs"
 open_graph_description: "Learn about Side Business Deregulation in Japan. What changed is not that the law suddenly allowed moonlighting; Japan has long had space for it."
-twitter_title: "Side Business Deregulation"
+twitter_title: "Side Business Deregulation: Japan’s Careful Opening for Second Jobs"
 twitter_description: "Learn about Side Business Deregulation in Japan. What changed is not that the law suddenly allowed moonlighting; Japan has long had space for it."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Wagyu"
+title: "Wagyu: A Breed Name, a Grading System, and a National Brand"
 slug: understand-japan-wagyu
 wp_date: 2025-11-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A piece of wagyu often arrives with more than a price. A label can inc
 
 genesis_title: ""
 genesis_description: "Learn about Wagyu in Japan. In Japan, Wagyu（和牛） is also a boundary—an attempt to keep a word from becoming a vague compliment."
-open_graph_title: "Wagyu"
+open_graph_title: "Wagyu: A Breed Name, a Grading System, and a National Brand"
 open_graph_description: "Learn about Wagyu in Japan. In Japan, Wagyu（和牛） is also a boundary—an attempt to keep a word from becoming a vague compliment."
-twitter_title: "Wagyu"
+twitter_title: "Wagyu: A Breed Name, a Grading System, and a National Brand"
 twitter_description: "Learn about Wagyu in Japan. In Japan, Wagyu（和牛） is also a boundary—an attempt to keep a word from becoming a vague compliment."
 genesis_noindex: 0
 genesis_nofollow: 0

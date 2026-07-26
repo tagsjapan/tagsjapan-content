@@ -1,5 +1,5 @@
 ---
-title: "Lake Biwa"
+title: "Lake Biwa: A Body of Water That Behaves Like Infrastructure"
 slug: understand-japan-lake-biwa
 wp_date: 2026-03-07 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In the Kansai region, water is often experienced as a fact of the fauc
 
 genesis_title: ""
 genesis_description: "Learn about Lake Biwa in Japan. In the Kansai region, water is often experienced as a fact of the faucet. It is easy, in a cit"
-open_graph_title: "Lake Biwa"
+open_graph_title: "Lake Biwa: A Body of Water That Behaves Like Infrastructure"
 open_graph_description: "Learn about Lake Biwa in Japan. In the Kansai region, water is often experienced as a fact of the faucet. It is easy, in a cit"
-twitter_title: "Lake Biwa"
+twitter_title: "Lake Biwa: A Body of Water That Behaves Like Infrastructure"
 twitter_description: "Learn about Lake Biwa in Japan. In the Kansai region, water is often experienced as a fact of the faucet. It is easy, in a cit"
 genesis_noindex: 0
 genesis_nofollow: 0

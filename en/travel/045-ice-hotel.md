@@ -1,5 +1,5 @@
 ---
-title: "Ice Hotel"
+title: "Ice Hotel: Winter Lodging Built to Melt"
 slug: travel-ice-hotel
 wp_date: 2025-03-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The cold arrives before the room does. You feel it in the gloves, in t
 
 genesis_title: ""
 genesis_description: "Your guide to Ice Hotel in Japan. The cold arrives before the room does. A Japanese is not just a novelty suite maintained at a low temperature."
-open_graph_title: "Ice Hotel"
+open_graph_title: "Ice Hotel: Winter Lodging Built to Melt"
 open_graph_description: "Your guide to Ice Hotel in Japan. The cold arrives before the room does. A Japanese is not just a novelty suite maintained at a low temperature."
-twitter_title: "Ice Hotel"
+twitter_title: "Ice Hotel: Winter Lodging Built to Melt"
 twitter_description: "Your guide to Ice Hotel in Japan. The cold arrives before the room does. A Japanese is not just a novelty suite maintained at a low temperature."
 genesis_noindex: 0
 genesis_nofollow: 0

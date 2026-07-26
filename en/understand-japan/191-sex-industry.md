@@ -1,5 +1,5 @@
 ---
-title: "Sex Industry"
+title: "Sex Industry: How Japan Regulates a Market It Won’t Fully Legitimize"
 slug: understand-japan-sex-industry
 wp_date: 2026-01-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Walk through a major Japanese entertainment district at night and you 
 
 genesis_title: ""
 genesis_description: "Learn about Sex Industry in Japan. Japan has a common umbrella term for this regulated world: Sex Industry（風俗業）, often discussed in Japanese as fūzoku..."
-open_graph_title: "Sex Industry"
+open_graph_title: "Sex Industry: How Japan Regulates a Market It Won’t Fully Legitimize"
 open_graph_description: "Learn about Sex Industry in Japan. Japan has a common umbrella term for this regulated world: Sex Industry（風俗業）, often discussed in Japanese as fūzoku..."
-twitter_title: "Sex Industry"
+twitter_title: "Sex Industry: How Japan Regulates a Market It Won’t Fully Legitimize"
 twitter_description: "Learn about Sex Industry in Japan. Japan has a common umbrella term for this regulated world: Sex Industry（風俗業）, often discussed in Japanese as fūzoku..."
 genesis_noindex: 0
 genesis_nofollow: 0

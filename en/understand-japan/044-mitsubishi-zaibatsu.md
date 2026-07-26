@@ -1,5 +1,5 @@
 ---
-title: "Mitsubishi Zaibatsu"
+title: "Mitsubishi Zaibatsu: The Corporate Empire That Outlived Its Own Form"
 slug: understand-japan-mitsubishi-zaibatsu
 wp_date: 2025-03-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The three red diamonds appear everywhere in Japan, but never quite in 
 
 genesis_title: ""
 genesis_description: "The three red diamonds appear everywhere in Japan, but never quite in the same place. They sit on an office tower in Marunouchi, a heavy-industry gate, a tra..."
-open_graph_title: "Mitsubishi Zaibatsu"
+open_graph_title: "Mitsubishi Zaibatsu: The Corporate Empire That Outlived Its Own Form"
 open_graph_description: "The three red diamonds appear everywhere in Japan, but never quite in the same place. They sit on an office tower in Marunouchi, a heavy-industry gate, a tra..."
-twitter_title: "Mitsubishi Zaibatsu"
+twitter_title: "Mitsubishi Zaibatsu: The Corporate Empire That Outlived Its Own Form"
 twitter_description: "The three red diamonds appear everywhere in Japan, but never quite in the same place. They sit on an office tower in Marunouchi, a heavy-industry gate, a tra..."
 genesis_noindex: 0
 genesis_nofollow: 0

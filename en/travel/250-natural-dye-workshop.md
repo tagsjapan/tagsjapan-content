@@ -1,5 +1,5 @@
 ---
-title: "Natural Dye Workshop"
+title: "Natural Dye Workshop: When a Place Becomes a Color"
 slug: travel-natural-dye-workshop
 wp_date: 2026-05-15 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "The first surprise is how slowly the color arrives. Cloth goes into a 
 
 genesis_title: ""
 genesis_description: "The first surprise is how slowly the color arrives. Cloth goes into a pot that looks like tea until you remember it isn’t tea, and then—after stirring, after..."
-open_graph_title: "Natural Dye Workshop"
+open_graph_title: "Natural Dye Workshop: When a Place Becomes a Color"
 open_graph_description: "The first surprise is how slowly the color arrives. Cloth goes into a pot that looks like tea until you remember it isn’t tea, and then—after stirring, after..."
-twitter_title: "Natural Dye Workshop"
+twitter_title: "Natural Dye Workshop: When a Place Becomes a Color"
 twitter_description: "The first surprise is how slowly the color arrives. Cloth goes into a pot that looks like tea until you remember it isn’t tea, and then—after stirring, after..."
 genesis_noindex: 0
 genesis_nofollow: 0

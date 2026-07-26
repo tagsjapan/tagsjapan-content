@@ -1,5 +1,5 @@
 ---
-title: "E-scooter"
+title: "E-scooter: Freedom Inside the Rules"
 slug: travel-e-scooter
 wp_date: 2025-02-24 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The modern Japanese version of spontaneity often begins with a phone s
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to E-scooter in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "E-scooter"
+open_graph_title: "E-scooter: Freedom Inside the Rules"
 open_graph_description: "A comprehensive guide to E-scooter in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "E-scooter"
+twitter_title: "E-scooter: Freedom Inside the Rules"
 twitter_description: "A comprehensive guide to E-scooter in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

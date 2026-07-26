@@ -1,5 +1,5 @@
 ---
-title: "Mystery Novel"
+title: "Mystery Novel: Japan’s Two-Track Machine for Logic and Social Pressure"
 slug: understand-japan-mystery-novel
 wp_date: 2025-12-17 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A Japanese mystery can begin with something as dry as a timetable. In 
 
 genesis_title: ""
 genesis_description: "Learn about Mystery Novel in Japan. In a social mystery（社会派推理） like Matsumoto Seichō（松本清張）’s *Points and Lines（点と線）*, the pleasure is not only in catching..."
-open_graph_title: "Mystery Novel"
+open_graph_title: "Mystery Novel: Japan’s Two-Track Machine for Logic and Social Pressure"
 open_graph_description: "Learn about Mystery Novel in Japan. In a social mystery（社会派推理） like Matsumoto Seichō（松本清張）’s *Points and Lines（点と線）*, the pleasure is not only in catching..."
-twitter_title: "Mystery Novel"
+twitter_title: "Mystery Novel: Japan’s Two-Track Machine for Logic and Social Pressure"
 twitter_description: "Learn about Mystery Novel in Japan. In a social mystery（社会派推理） like Matsumoto Seichō（松本清張）’s *Points and Lines（点と線）*, the pleasure is not only in catching..."
 genesis_noindex: 0
 genesis_nofollow: 0

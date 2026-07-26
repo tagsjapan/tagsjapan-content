@@ -1,5 +1,5 @@
 ---
-title: "Local Toys"
+title: "Local Toys: Small Objects That Carry Local Wishes"
 slug: understand-japan-local-toys
 wp_date: 2026-04-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Local Toys（鄉土玩具） in Japan refers to a loose but recognizab
 
 genesis_title: ""
 genesis_description: "Learn about Local Toys in Japan. In Japan, the line between toy and talisman is often thin enough to be crossed by a single object."
-open_graph_title: "Local Toys"
+open_graph_title: "Local Toys: Small Objects That Carry Local Wishes"
 open_graph_description: "Learn about Local Toys in Japan. In Japan, the line between toy and talisman is often thin enough to be crossed by a single object."
-twitter_title: "Local Toys"
+twitter_title: "Local Toys: Small Objects That Carry Local Wishes"
 twitter_description: "Learn about Local Toys in Japan. In Japan, the line between toy and talisman is often thin enough to be crossed by a single object."
 genesis_noindex: 0
 genesis_nofollow: 0

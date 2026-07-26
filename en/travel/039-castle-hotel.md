@@ -1,5 +1,5 @@
 ---
-title: "Castle Hotel"
+title: "Castle Hotel: Sleeping Inside the Argument for Preservation"
 slug: travel-castle-hotel
 wp_date: 2025-03-18 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The key is handed over late, after the day visitors have gone and the 
 
 genesis_title: ""
 genesis_description: "Your guide to Castle Hotel in Japan. A castle hotel in Japan usually does not begin with a lobby pianist or a row of bell carts."
-open_graph_title: "Castle Hotel"
+open_graph_title: "Castle Hotel: Sleeping Inside the Argument for Preservation"
 open_graph_description: "Your guide to Castle Hotel in Japan. A castle hotel in Japan usually does not begin with a lobby pianist or a row of bell carts."
-twitter_title: "Castle Hotel"
+twitter_title: "Castle Hotel: Sleeping Inside the Argument for Preservation"
 twitter_description: "Your guide to Castle Hotel in Japan. A castle hotel in Japan usually does not begin with a lobby pianist or a row of bell carts."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Yokkaichi Asthma"
+title: "Yokkaichi Asthma: When Prosperity Turned into Smoke"
 slug: understand-japan-yokkaichi-asthma
 wp_date: 2025-08-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On the waterfront in Yokkaichi, the industrial skyline can look like a
 
 genesis_title: ""
 genesis_description: "On the waterfront in Yokkaichi, the industrial skyline can look like a promise: towers, pipes, flame stacks, the glow of a complex that signals jobs and output."
-open_graph_title: "Yokkaichi Asthma"
+open_graph_title: "Yokkaichi Asthma: When Prosperity Turned into Smoke"
 open_graph_description: "On the waterfront in Yokkaichi, the industrial skyline can look like a promise: towers, pipes, flame stacks, the glow of a complex that signals jobs and output."
-twitter_title: "Yokkaichi Asthma"
+twitter_title: "Yokkaichi Asthma: When Prosperity Turned into Smoke"
 twitter_description: "On the waterfront in Yokkaichi, the industrial skyline can look like a promise: towers, pipes, flame stacks, the glow of a complex that signals jobs and output."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "SIM Card"
+title: "SIM Card: The Trip Starts When the Phone Connects"
 slug: travel-sim-card
 wp_date: 2026-03-22 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first few minutes after landing in Japan have an odd density. You 
 
 genesis_title: ""
 genesis_description: "The first few minutes after landing in Japan have an odd density. You are reading signs, checking which train company serves the airport, perhaps trying to m..."
-open_graph_title: "SIM Card"
+open_graph_title: "SIM Card: The Trip Starts When the Phone Connects"
 open_graph_description: "The first few minutes after landing in Japan have an odd density. You are reading signs, checking which train company serves the airport, perhaps trying to m..."
-twitter_title: "SIM Card"
+twitter_title: "SIM Card: The Trip Starts When the Phone Connects"
 twitter_description: "The first few minutes after landing in Japan have an odd density. You are reading signs, checking which train company serves the airport, perhaps trying to m..."
 genesis_noindex: 0
 genesis_nofollow: 0

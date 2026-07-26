@@ -1,5 +1,5 @@
 ---
-title: "Environmental Impact Assessment"
+title: "Environmental Impact Assessment: Japan’s Way of Turning Development into Paper"
 slug: understand-japan-environmental-impact-assessment
 wp_date: 2025-08-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A large project in Japan often becomes visible long before ground is b
 
 genesis_title: ""
 genesis_description: "A large project in Japan often becomes visible long before ground is broken. A notice appears, a thick document is made available for public viewing, and loc..."
-open_graph_title: "Environmental Impact Assessment"
+open_graph_title: "Environmental Impact Assessment: Japan’s Way of Turning Development into Paper"
 open_graph_description: "A large project in Japan often becomes visible long before ground is broken. A notice appears, a thick document is made available for public viewing, and loc..."
-twitter_title: "Environmental Impact Assessment"
+twitter_title: "Environmental Impact Assessment: Japan’s Way of Turning Development into Paper"
 twitter_description: "A large project in Japan often becomes visible long before ground is broken. A notice appears, a thick document is made available for public viewing, and loc..."
 genesis_noindex: 0
 genesis_nofollow: 0

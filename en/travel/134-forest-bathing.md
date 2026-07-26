@@ -1,5 +1,5 @@
 ---
-title: "Forest Bathing"
+title: "Forest Bathing: Japan’s Slow Way Into the Trees"
 slug: travel-forest-bathing
 wp_date: 2025-09-24 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The first instruction is unspoken: stop trying to get somewhere. You s
 
 genesis_title: ""
 genesis_description: "Explore Forest Bathing in Japan. The first instruction is unspoken: stop trying to get somewhere. Even the objects feel quieter: a wooden rail poli"
-open_graph_title: "Forest Bathing"
+open_graph_title: "Forest Bathing: Japan’s Slow Way Into the Trees"
 open_graph_description: "Explore Forest Bathing in Japan. The first instruction is unspoken: stop trying to get somewhere. Even the objects feel quieter: a wooden rail poli"
-twitter_title: "Forest Bathing"
+twitter_title: "Forest Bathing: Japan’s Slow Way Into the Trees"
 twitter_description: "Explore Forest Bathing in Japan. The first instruction is unspoken: stop trying to get somewhere. Even the objects feel quieter: a wooden rail poli"
 genesis_noindex: 0
 genesis_nofollow: 0

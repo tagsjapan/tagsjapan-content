@@ -1,5 +1,5 @@
 ---
-title: "Snowboarding"
+title: "Snowboarding: Chasing Japow, Respecting the Boundary"
 slug: travel-snowboarding
 wp_date: 2025-10-19 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "On the chairlift your board hangs like an extra limb, and your boots f
 
 genesis_title: ""
 genesis_description: "Explore Snowboarding in Japan. On the chairlift your board hangs like an extra limb, and your boots feel both absurd and oddly secure."
-open_graph_title: "Snowboarding"
+open_graph_title: "Snowboarding: Chasing Japow, Respecting the Boundary"
 open_graph_description: "Explore Snowboarding in Japan. On the chairlift your board hangs like an extra limb, and your boots feel both absurd and oddly secure."
-twitter_title: "Snowboarding"
+twitter_title: "Snowboarding: Chasing Japow, Respecting the Boundary"
 twitter_description: "Explore Snowboarding in Japan. On the chairlift your board hangs like an extra limb, and your boots feel both absurd and oddly secure."
 genesis_noindex: 0
 genesis_nofollow: 0

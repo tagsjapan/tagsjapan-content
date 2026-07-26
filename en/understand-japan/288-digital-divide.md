@@ -1,5 +1,5 @@
 ---
-title: "Digital Divide"
+title: "Digital Divide: When Convenience Becomes a Gate"
 slug: understand-japan-digital-divide
 wp_date: 2026-07-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At a municipal office counter, the new queue is often invisible. A sta
 
 genesis_title: ""
 genesis_description: "Learn about Digital Divide in Japan. At a municipal office counter, the new queue is often invisible. A staff member point"
-open_graph_title: "Digital Divide"
+open_graph_title: "Digital Divide: When Convenience Becomes a Gate"
 open_graph_description: "Learn about Digital Divide in Japan. At a municipal office counter, the new queue is often invisible. A staff member point"
-twitter_title: "Digital Divide"
+twitter_title: "Digital Divide: When Convenience Becomes a Gate"
 twitter_description: "Learn about Digital Divide in Japan. At a municipal office counter, the new queue is often invisible. A staff member point"
 genesis_noindex: 0
 genesis_nofollow: 0

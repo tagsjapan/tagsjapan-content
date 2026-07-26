@@ -1,5 +1,5 @@
 ---
-title: "Coin Locker"
+title: "Coin Locker: The Small Metal Device That Gives a Day Back"
 slug: travel-coin-locker
 wp_date: 2026-02-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The suitcase is rarely the largest thing in the station, but it can ma
 
 genesis_title: ""
 genesis_description: "The suitcase is rarely the largest thing in the station, but it can make the traveler feel as though it is. A Coin Locker in Japan solves that feeling with r..."
-open_graph_title: "Coin Locker"
+open_graph_title: "Coin Locker: The Small Metal Device That Gives a Day Back"
 open_graph_description: "The suitcase is rarely the largest thing in the station, but it can make the traveler feel as though it is. A Coin Locker in Japan solves that feeling with r..."
-twitter_title: "Coin Locker"
+twitter_title: "Coin Locker: The Small Metal Device That Gives a Day Back"
 twitter_description: "The suitcase is rarely the largest thing in the station, but it can make the traveler feel as though it is. A Coin Locker in Japan solves that feeling with r..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Inclusive Tourism"
+title: "Inclusive Tourism: The Details That Decide Who Gets to Travel"
 slug: travel-inclusive-tourism
 wp_date: 2026-05-22 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At a station platform, a traveler waits not for a train but for a staf
 
 genesis_title: ""
 genesis_description: "At a station platform, a traveler waits not for a train but for a staff member. When the doors open, a small portable ramp appears, bridging the gap with a p..."
-open_graph_title: "Inclusive Tourism"
+open_graph_title: "Inclusive Tourism: The Details That Decide Who Gets to Travel"
 open_graph_description: "At a station platform, a traveler waits not for a train but for a staff member. When the doors open, a small portable ramp appears, bridging the gap with a p..."
-twitter_title: "Inclusive Tourism"
+twitter_title: "Inclusive Tourism: The Details That Decide Who Gets to Travel"
 twitter_description: "At a station platform, a traveler waits not for a train but for a staff member. When the doors open, a small portable ramp appears, bridging the gap with a p..."
 genesis_noindex: 0
 genesis_nofollow: 0

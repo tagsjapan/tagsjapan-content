@@ -1,5 +1,5 @@
 ---
-title: "Industrial Upgrading"
+title: "Industrial Upgrading: Japan’s Habit of Rebuilding While Working"
 slug: understand-japan-industrial-upgrading
 wp_date: 2026-06-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On the floor of a small factory, the most expensive thing in the room 
 
 genesis_title: ""
 genesis_description: "Learn about Industrial Upgrading in Japan. In Japan, this is where Industrial Upgrading（産業高度化） becomes visible. On the floor of a sm"
-open_graph_title: "Industrial Upgrading"
+open_graph_title: "Industrial Upgrading: Japan’s Habit of Rebuilding While Working"
 open_graph_description: "Learn about Industrial Upgrading in Japan. In Japan, this is where Industrial Upgrading（産業高度化） becomes visible. On the floor of a sm"
-twitter_title: "Industrial Upgrading"
+twitter_title: "Industrial Upgrading: Japan’s Habit of Rebuilding While Working"
 twitter_description: "Learn about Industrial Upgrading in Japan. In Japan, this is where Industrial Upgrading（産業高度化） becomes visible. On the floor of a sm"
 genesis_noindex: 0
 genesis_nofollow: 0

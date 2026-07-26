@@ -1,5 +1,5 @@
 ---
-title: "Nursery School"
+title: "Nursery School: Japan’s Hoikusho as Welfare Infrastructure for Working Life"
 slug: understand-japan-nursery-school
 wp_date: 2025-10-13 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Nursery School（保育所） in Japan is a formal child welfare facil
 
 genesis_title: ""
 genesis_description: "Learn about Nursery School in Japan. For many households, this is the hinge that makes the rest of the day possible. In the morning outsi"
-open_graph_title: "Nursery School"
+open_graph_title: "Nursery School: Japan’s Hoikusho as Welfare Infrastructure for Working Life"
 open_graph_description: "Learn about Nursery School in Japan. For many households, this is the hinge that makes the rest of the day possible. In the morning outsi"
-twitter_title: "Nursery School"
+twitter_title: "Nursery School: Japan’s Hoikusho as Welfare Infrastructure for Working Life"
 twitter_description: "Learn about Nursery School in Japan. For many households, this is the hinge that makes the rest of the day possible. In the morning outsi"
 genesis_noindex: 0
 genesis_nofollow: 0

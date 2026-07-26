@@ -1,5 +1,5 @@
 ---
-title: "J-Pop"
+title: "J-Pop: The Market Label That Rebuilt Japanese Listening"
 slug: understand-japan-j-pop
 wp_date: 2026-01-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "J-pop can be heard in places where “genre” is not the point. A dra
 
 genesis_title: ""
 genesis_description: "Learn about J-Pop in Japan. J-pop can be heard in places where “genre” is not the point. A drama theme song that turns into a karaoke staple."
-open_graph_title: "J-Pop"
+open_graph_title: "J-Pop: The Market Label That Rebuilt Japanese Listening"
 open_graph_description: "Learn about J-Pop in Japan. J-pop can be heard in places where “genre” is not the point. A drama theme song that turns into a karaoke staple."
-twitter_title: "J-Pop"
+twitter_title: "J-Pop: The Market Label That Rebuilt Japanese Listening"
 twitter_description: "Learn about J-Pop in Japan. J-pop can be heard in places where “genre” is not the point. A drama theme song that turns into a karaoke staple."
 genesis_noindex: 0
 genesis_nofollow: 0

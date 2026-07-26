@@ -1,5 +1,5 @@
 ---
-title: "Ancestor Worship"
+title: "Ancestor Worship: The Dead as Part of the Household Schedule"
 slug: understand-japan-ancestor-worship
 wp_date: 2026-04-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Ancestor Worship（祖先崇拝） in Japan is not simply reverence fo
 
 genesis_title: ""
 genesis_description: "Learn about Ancestor Worship in Japan. It is imagined as a continuity that includes those who have left. In a Japanese home,"
-open_graph_title: "Ancestor Worship"
+open_graph_title: "Ancestor Worship: The Dead as Part of the Household Schedule"
 open_graph_description: "Learn about Ancestor Worship in Japan. It is imagined as a continuity that includes those who have left. In a Japanese home,"
-twitter_title: "Ancestor Worship"
+twitter_title: "Ancestor Worship: The Dead as Part of the Household Schedule"
 twitter_description: "Learn about Ancestor Worship in Japan. It is imagined as a continuity that includes those who have left. In a Japanese home,"
 genesis_noindex: 0
 genesis_nofollow: 0

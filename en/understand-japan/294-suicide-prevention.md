@@ -1,5 +1,5 @@
 ---
-title: "Suicide Prevention"
+title: "Suicide Prevention: A Policy Built for the Worst Day"
 slug: understand-japan-suicide-prevention
 wp_date: 2026-07-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Late at night, in an office that looks more like a call center than a 
 
 genesis_title: ""
 genesis_description: "Learn about Suicide Prevention in Japan. Late at night, in an office that looks more like a call center than a clinic, the most important sound is a ring..."
-open_graph_title: "Suicide Prevention"
+open_graph_title: "Suicide Prevention: A Policy Built for the Worst Day"
 open_graph_description: "Learn about Suicide Prevention in Japan. Late at night, in an office that looks more like a call center than a clinic, the most important sound is a ring..."
-twitter_title: "Suicide Prevention"
+twitter_title: "Suicide Prevention: A Policy Built for the Worst Day"
 twitter_description: "Learn about Suicide Prevention in Japan. Late at night, in an office that looks more like a call center than a clinic, the most important sound is a ring..."
 genesis_noindex: 0
 genesis_nofollow: 0

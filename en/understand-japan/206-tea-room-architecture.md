@@ -1,5 +1,5 @@
 ---
-title: "Tea Room Architecture"
+title: "Tea Room Architecture: How a Small Room Trains the Body"
 slug: understand-japan-tea-room-architecture
 wp_date: 2026-02-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Tea Room Architecture（茶室建築） is the built form of Chashitsu
 
 genesis_title: ""
 genesis_description: "Learn about Tea Room Architecture in Japan. The entrance is low enough that even a confident adult has to fold at the waist, hands briefly occupied,..."
-open_graph_title: "Tea Room Architecture"
+open_graph_title: "Tea Room Architecture: How a Small Room Trains the Body"
 open_graph_description: "Learn about Tea Room Architecture in Japan. The entrance is low enough that even a confident adult has to fold at the waist, hands briefly occupied,..."
-twitter_title: "Tea Room Architecture"
+twitter_title: "Tea Room Architecture: How a Small Room Trains the Body"
 twitter_description: "Learn about Tea Room Architecture in Japan. The entrance is low enough that even a confident adult has to fold at the waist, hands briefly occupied,..."
 genesis_noindex: 0
 genesis_nofollow: 0

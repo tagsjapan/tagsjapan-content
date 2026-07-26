@@ -1,5 +1,5 @@
 ---
-title: "Recycling Society"
+title: "Recycling Society: Sorting Waste, Redistributing Responsibility"
 slug: understand-japan-recycling-society
 wp_date: 2025-05-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Open a Japanese kitchen drawer and you may find the real constitution 
 
 genesis_title: ""
 genesis_description: "Open a Japanese kitchen drawer and you may find the real constitution of daily environmental policy. There is the calendar telling residents which bag goes o..."
-open_graph_title: "Recycling Society"
+open_graph_title: "Recycling Society: Sorting Waste, Redistributing Responsibility"
 open_graph_description: "Open a Japanese kitchen drawer and you may find the real constitution of daily environmental policy. There is the calendar telling residents which bag goes o..."
-twitter_title: "Recycling Society"
+twitter_title: "Recycling Society: Sorting Waste, Redistributing Responsibility"
 twitter_description: "Open a Japanese kitchen drawer and you may find the real constitution of daily environmental policy. There is the calendar telling residents which bag goes o..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Open-air Bath"
+title: "Open-air Bath: Where Japanese Hot Water Meets the Weather Head-On"
 slug: travel-open-air-bath
 wp_date: 2025-11-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At an , the first sensation is often not heat but contrast. A traveler
 
 genesis_title: ""
 genesis_description: "Guide to Open-air Bath in Japan. At an , the first sensation is often not heat but contrast. It is not simply a bath outdoors. I"
-open_graph_title: "Open-air Bath"
+open_graph_title: "Open-air Bath: Where Japanese Hot Water Meets the Weather Head-On"
 open_graph_description: "Guide to Open-air Bath in Japan. At an , the first sensation is often not heat but contrast. It is not simply a bath outdoors. I"
-twitter_title: "Open-air Bath"
+twitter_title: "Open-air Bath: Where Japanese Hot Water Meets the Weather Head-On"
 twitter_description: "Guide to Open-air Bath in Japan. At an , the first sensation is often not heat but contrast. It is not simply a bath outdoors. I"
 genesis_noindex: 0
 genesis_nofollow: 0

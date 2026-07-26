@@ -1,5 +1,5 @@
 ---
-title: "New Media"
+title: "New Media: Japan’s Hybrid Public Square"
 slug: understand-japan-new-media
 wp_date: 2026-06-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In the evening, a living room in Japan can hold two screens that behav
 
 genesis_title: ""
 genesis_description: "Learn about New Media in Japan. The phone in someone’s hand speaks in fragments—short clips, reposts, group messages, a live stream that feels as if it is..."
-open_graph_title: "New Media"
+open_graph_title: "New Media: Japan’s Hybrid Public Square"
 open_graph_description: "Learn about New Media in Japan. The phone in someone’s hand speaks in fragments—short clips, reposts, group messages, a live stream that feels as if it is..."
-twitter_title: "New Media"
+twitter_title: "New Media: Japan’s Hybrid Public Square"
 twitter_description: "Learn about New Media in Japan. The phone in someone’s hand speaks in fragments—short clips, reposts, group messages, a live stream that feels as if it is..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Community-based Tour"
+title: "Community-based Tour: Letting the Town Tell the Story"
 slug: travel-community-based-tour
 wp_date: 2026-04-12 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "You meet your guide where the town actually begins: not at the station
 
 genesis_title: ""
 genesis_description: "You meet your guide where the town actually begins: not at the station’s tourist counter, but at a small café near the river, or outside a neighborhood shrin..."
-open_graph_title: "Community-based Tour"
+open_graph_title: "Community-based Tour: Letting the Town Tell the Story"
 open_graph_description: "You meet your guide where the town actually begins: not at the station’s tourist counter, but at a small café near the river, or outside a neighborhood shrin..."
-twitter_title: "Community-based Tour"
+twitter_title: "Community-based Tour: Letting the Town Tell the Story"
 twitter_description: "You meet your guide where the town actually begins: not at the station’s tourist counter, but at a small café near the river, or outside a neighborhood shrin..."
 genesis_noindex: 0
 genesis_nofollow: 0

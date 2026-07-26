@@ -1,5 +1,5 @@
 ---
-title: "Snowshoeing"
+title: "Snowshoeing: Entering Japan’s Winter Forest at Walking Speed"
 slug: travel-snowshoeing
 wp_date: 2025-10-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The straps click shut, and suddenly your boots look comically wide. Yo
 
 genesis_title: ""
 genesis_description: "Explore Snowshoeing in Japan. The straps click shut, and suddenly your boots look comically wide. It’s a way of entering the season"
-open_graph_title: "Snowshoeing"
+open_graph_title: "Snowshoeing: Entering Japan’s Winter Forest at Walking Speed"
 open_graph_description: "Explore Snowshoeing in Japan. The straps click shut, and suddenly your boots look comically wide. It’s a way of entering the season"
-twitter_title: "Snowshoeing"
+twitter_title: "Snowshoeing: Entering Japan’s Winter Forest at Walking Speed"
 twitter_description: "Explore Snowshoeing in Japan. The straps click shut, and suddenly your boots look comically wide. It’s a way of entering the season"
 genesis_noindex: 0
 genesis_nofollow: 0

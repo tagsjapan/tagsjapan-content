@@ -1,5 +1,5 @@
 ---
-title: "Canoeing"
+title: "Canoeing: The Quiet Shortcut into Japan’s Water Landscapes"
 slug: travel-canoeing
 wp_date: 2025-10-10 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The paddle enters the water with a sound so small you almost miss it. 
 
 genesis_title: ""
 genesis_description: "Explore Canoeing in Japan. The paddle enters the water with a sound so small you almost miss it. Then the boat glides, and the world rearranges itself."
-open_graph_title: "Canoeing"
+open_graph_title: "Canoeing: The Quiet Shortcut into Japan’s Water Landscapes"
 open_graph_description: "Explore Canoeing in Japan. The paddle enters the water with a sound so small you almost miss it. Then the boat glides, and the world rearranges itself."
-twitter_title: "Canoeing"
+twitter_title: "Canoeing: The Quiet Shortcut into Japan’s Water Landscapes"
 twitter_description: "Explore Canoeing in Japan. The paddle enters the water with a sound so small you almost miss it. Then the boat glides, and the world rearranges itself."
 genesis_noindex: 0
 genesis_nofollow: 0

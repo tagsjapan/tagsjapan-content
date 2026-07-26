@@ -1,5 +1,5 @@
 ---
-title: "Japan Highway Public Corporation"
+title: "Japan Highway Public Corporation: The State That Built the Fast Lane"
 slug: understand-japan-japan-highway-public-corporation
 wp_date: 2025-05-03 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "An expressway in Japan can feel almost frictionless now. The ETC gate 
 
 genesis_title: ""
 genesis_description: "An expressway in Japan can feel almost frictionless now. The ETC gate reads the car, the pavement markings are precise, the service area appears exactly when..."
-open_graph_title: "Japan Highway Public Corporation"
+open_graph_title: "Japan Highway Public Corporation: The State That Built the Fast Lane"
 open_graph_description: "An expressway in Japan can feel almost frictionless now. The ETC gate reads the car, the pavement markings are precise, the service area appears exactly when..."
-twitter_title: "Japan Highway Public Corporation"
+twitter_title: "Japan Highway Public Corporation: The State That Built the Fast Lane"
 twitter_description: "An expressway in Japan can feel almost frictionless now. The ETC gate reads the car, the pavement markings are precise, the service area appears exactly when..."
 genesis_noindex: 0
 genesis_nofollow: 0

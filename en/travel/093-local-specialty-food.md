@@ -1,5 +1,5 @@
 ---
-title: "Local Specialty Food"
+title: "Local Specialty Food: How Japan Turns Appetite into a Map"
 slug: travel-local-specialty-food
 wp_date: 2025-07-05 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The first hint is usually a poster, not a plate. You step off a local 
 
 genesis_title: ""
 genesis_description: "Guide to Local Specialty Food in Japan. The first hint is usually a poster, not a plate. Sometimes you don’t even stop to eat it. In Japan, that"
-open_graph_title: "Local Specialty Food"
+open_graph_title: "Local Specialty Food: How Japan Turns Appetite into a Map"
 open_graph_description: "Guide to Local Specialty Food in Japan. The first hint is usually a poster, not a plate. Sometimes you don’t even stop to eat it. In Japan, that"
-twitter_title: "Local Specialty Food"
+twitter_title: "Local Specialty Food: How Japan Turns Appetite into a Map"
 twitter_description: "Guide to Local Specialty Food in Japan. The first hint is usually a poster, not a plate. Sometimes you don’t even stop to eat it. In Japan, that"
 genesis_noindex: 0
 genesis_nofollow: 0

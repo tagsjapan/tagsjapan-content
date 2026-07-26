@@ -1,5 +1,5 @@
 ---
-title: "Lost Decade"
+title: "Lost Decade: The Slow Repair That Changed a Generation"
 slug: understand-japan-lost-decade
 wp_date: 2025-03-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The phrase Lost Decade sounds as if a country misplaced ten years and 
 
 genesis_title: ""
 genesis_description: "The phrase Lost Decade sounds as if a country misplaced ten years and then one day found them again. Japan's experience was harsher and slower than that."
-open_graph_title: "Lost Decade"
+open_graph_title: "Lost Decade: The Slow Repair That Changed a Generation"
 open_graph_description: "The phrase Lost Decade sounds as if a country misplaced ten years and then one day found them again. Japan's experience was harsher and slower than that."
-twitter_title: "Lost Decade"
+twitter_title: "Lost Decade: The Slow Repair That Changed a Generation"
 twitter_description: "The phrase Lost Decade sounds as if a country misplaced ten years and then one day found them again. Japan's experience was harsher and slower than that."
 genesis_noindex: 0
 genesis_nofollow: 0

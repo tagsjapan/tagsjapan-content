@@ -1,5 +1,5 @@
 ---
-title: "Ie System"
+title: "Ie System: When the Family Was Built to Outlast the People in It"
 slug: understand-japan-ie-system
 wp_date: 2025-01-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Imagine a household in which the central question is not who feels clo
 
 genesis_title: ""
 genesis_description: "Imagine a household in which the central question is not who feels close to whom, or even who happens to live together, but who will carry the family name fo..."
-open_graph_title: "Ie System"
+open_graph_title: "Ie System: When the Family Was Built to Outlast the People in It"
 open_graph_description: "Imagine a household in which the central question is not who feels close to whom, or even who happens to live together, but who will carry the family name fo..."
-twitter_title: "Ie System"
+twitter_title: "Ie System: When the Family Was Built to Outlast the People in It"
 twitter_description: "Imagine a household in which the central question is not who feels close to whom, or even who happens to live together, but who will carry the family name fo..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Onsen Ryokan"
+title: "Onsen Ryokan: One Night Lived on Local Time"
 slug: travel-onsen-ryokan
 wp_date: 2025-12-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The shoes come off at the entrance, but the real crossing happens a li
 
 genesis_title: ""
 genesis_description: "Guide to Onsen Ryokan in Japan. In an , you are not just checking in to a room. You are stepping into a timetable. For one night, som"
-open_graph_title: "Onsen Ryokan"
+open_graph_title: "Onsen Ryokan: One Night Lived on Local Time"
 open_graph_description: "Guide to Onsen Ryokan in Japan. In an , you are not just checking in to a room. You are stepping into a timetable. For one night, som"
-twitter_title: "Onsen Ryokan"
+twitter_title: "Onsen Ryokan: One Night Lived on Local Time"
 twitter_description: "Guide to Onsen Ryokan in Japan. In an , you are not just checking in to a room. You are stepping into a timetable. For one night, som"
 genesis_noindex: 0
 genesis_nofollow: 0

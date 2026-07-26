@@ -1,5 +1,5 @@
 ---
-title: "AI Ethics"
+title: "AI Ethics: Japan’s Preference for Guidelines Over Laws"
 slug: understand-japan-ai-ethics
 wp_date: 2026-08-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a Japanese office, an employee opens a generative AI tool and hesit
 
 genesis_title: ""
 genesis_description: "Learn about AI Ethics in Japan. AI ethics has become a formal government concern through principles and guidelines balancing innovation with fundamental rights."
-open_graph_title: "AI Ethics"
+open_graph_title: "AI Ethics: Japan’s Preference for Guidelines Over Laws"
 open_graph_description: "Learn about AI Ethics in Japan. AI ethics has become a formal government concern through principles and guidelines balancing innovation with fundamental rights."
-twitter_title: "AI Ethics"
+twitter_title: "AI Ethics: Japan’s Preference for Guidelines Over Laws"
 twitter_description: "Learn about AI Ethics in Japan. AI ethics has become a formal government concern through principles and guidelines balancing innovation with fundamental rights."
 genesis_noindex: 0
 genesis_nofollow: 0

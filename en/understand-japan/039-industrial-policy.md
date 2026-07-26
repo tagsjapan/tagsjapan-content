@@ -1,5 +1,5 @@
 ---
-title: "Industrial Policy"
+title: "Industrial Policy: How Japan Learned to Plan Through Markets"
 slug: understand-japan-industrial-policy
 wp_date: 2025-03-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "There is a familiar story in modern capitalism that says governments s
 
 genesis_title: ""
 genesis_description: "There is a familiar story in modern capitalism that says governments should set the rules, companies should compete, and the market should decide which indus..."
-open_graph_title: "Industrial Policy"
+open_graph_title: "Industrial Policy: How Japan Learned to Plan Through Markets"
 open_graph_description: "There is a familiar story in modern capitalism that says governments should set the rules, companies should compete, and the market should decide which indus..."
-twitter_title: "Industrial Policy"
+twitter_title: "Industrial Policy: How Japan Learned to Plan Through Markets"
 twitter_description: "There is a familiar story in modern capitalism that says governments should set the rules, companies should compete, and the market should decide which indus..."
 genesis_noindex: 0
 genesis_nofollow: 0

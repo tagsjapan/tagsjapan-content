@@ -1,5 +1,5 @@
 ---
-title: "Mono no aware"
+title: "Mono no aware: The Feeling That Beauty Is Leaving Even as You See It"
 slug: understand-japan-mono-no-aware
 wp_date: 2025-01-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "There is a familiar Japanese scene that almost explains itself: cherry
 
 genesis_title: ""
 genesis_description: "There is a familiar Japanese scene that almost explains itself: cherry blossoms at full height, the air bright for a few days, petals beginning to move in th..."
-open_graph_title: "Mono no aware"
+open_graph_title: "Mono no aware: The Feeling That Beauty Is Leaving Even as You See It"
 open_graph_description: "There is a familiar Japanese scene that almost explains itself: cherry blossoms at full height, the air bright for a few days, petals beginning to move in th..."
-twitter_title: "Mono no aware"
+twitter_title: "Mono no aware: The Feeling That Beauty Is Leaving Even as You See It"
 twitter_description: "There is a familiar Japanese scene that almost explains itself: cherry blossoms at full height, the air bright for a few days, petals beginning to move in th..."
 genesis_noindex: 0
 genesis_nofollow: 0

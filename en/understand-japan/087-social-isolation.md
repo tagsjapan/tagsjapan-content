@@ -1,5 +1,5 @@
 ---
-title: "Social Isolation"
+title: "Social Isolation: When Help Exists but the Connection Does Not"
 slug: understand-japan-social-isolation
 wp_date: 2025-06-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A doorbell rings in a municipal apartment corridor and nobody answers.
 
 genesis_title: ""
 genesis_description: "A doorbell rings in a municipal apartment corridor and nobody answers. A letter from city hall stays in the mailbox. A phone that used to light up for work, ..."
-open_graph_title: "Social Isolation"
+open_graph_title: "Social Isolation: When Help Exists but the Connection Does Not"
 open_graph_description: "A doorbell rings in a municipal apartment corridor and nobody answers. A letter from city hall stays in the mailbox. A phone that used to light up for work, ..."
-twitter_title: "Social Isolation"
+twitter_title: "Social Isolation: When Help Exists but the Connection Does Not"
 twitter_description: "A doorbell rings in a municipal apartment corridor and nobody answers. A letter from city hall stays in the mailbox. A phone that used to light up for work, ..."
 genesis_noindex: 0
 genesis_nofollow: 0

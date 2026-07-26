@@ -1,5 +1,5 @@
 ---
-title: "Bunraku"
+title: "Bunraku: When Voice, Strings, and Hands Become One Drama"
 slug: understand-japan-bunraku
 wp_date: 2025-12-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first surprise of bunraku is that the puppeteers are not hidden. T
 
 genesis_title: ""
 genesis_description: "Learn about Bunraku in Japan. Bunraku is a composite theater art binding narrative chanting, shamisen, and puppet manipulation into one dramatic form."
-open_graph_title: "Bunraku"
+open_graph_title: "Bunraku: When Voice, Strings, and Hands Become One Drama"
 open_graph_description: "Learn about Bunraku in Japan. Bunraku is a composite theater art binding narrative chanting, shamisen, and puppet manipulation into one dramatic form."
-twitter_title: "Bunraku"
+twitter_title: "Bunraku: When Voice, Strings, and Hands Become One Drama"
 twitter_description: "Learn about Bunraku in Japan. Bunraku is a composite theater art binding narrative chanting, shamisen, and puppet manipulation into one dramatic form."
 genesis_noindex: 0
 genesis_nofollow: 0

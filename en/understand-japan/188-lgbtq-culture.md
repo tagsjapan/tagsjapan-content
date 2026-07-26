@@ -1,5 +1,5 @@
 ---
-title: "LGBTQ+ Culture"
+title: "LGBTQ+ Culture: Everyday Life Built Across Uneven Institutions"
 slug: understand-japan-lgbtq+-culture
 wp_status: draft
 wp_blog_id: 1
@@ -18,9 +18,9 @@ excerpt: "Sometimes the change is visible in a single sheet of paper at a munici
 
 genesis_title: ""
 genesis_description: "Learn about LGBTQ+ Culture in Japan. Sometimes the change is visible in a single sheet of paper at a municipal counter. A staff member check"
-open_graph_title: "LGBTQ+ Culture"
+open_graph_title: "LGBTQ+ Culture: Everyday Life Built Across Uneven Institutions"
 open_graph_description: "Learn about LGBTQ+ Culture in Japan. Sometimes the change is visible in a single sheet of paper at a municipal counter. A staff member check"
-twitter_title: "LGBTQ+ Culture"
+twitter_title: "LGBTQ+ Culture: Everyday Life Built Across Uneven Institutions"
 twitter_description: "Learn about LGBTQ+ Culture in Japan. Sometimes the change is visible in a single sheet of paper at a municipal counter. A staff member check"
 genesis_noindex: 0
 genesis_nofollow: 0

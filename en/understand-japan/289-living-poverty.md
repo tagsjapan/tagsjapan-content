@@ -1,5 +1,5 @@
 ---
-title: "Living Poverty"
+title: "Living Poverty: When Life Stays Upright by Leaning"
 slug: understand-japan-living-poverty
 wp_date: 2026-07-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a small kitchen table, the arithmetic of stability is visible: a re
 
 genesis_title: ""
 genesis_description: "Learn about Living Poverty in Japan. On a small kitchen table, the arithmetic of stability is visible: a rent notice, a utility bill, a pharmacy receipt,..."
-open_graph_title: "Living Poverty"
+open_graph_title: "Living Poverty: When Life Stays Upright by Leaning"
 open_graph_description: "Learn about Living Poverty in Japan. On a small kitchen table, the arithmetic of stability is visible: a rent notice, a utility bill, a pharmacy receipt,..."
-twitter_title: "Living Poverty"
+twitter_title: "Living Poverty: When Life Stays Upright by Leaning"
 twitter_description: "Learn about Living Poverty in Japan. On a small kitchen table, the arithmetic of stability is visible: a rent notice, a utility bill, a pharmacy receipt,..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Niche Tour"
+title: "Niche Tour: The Trip That Starts When You Stop “Doing Japan”"
 slug: travel-niche-tour
 wp_date: 2026-06-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Somewhere between the third shrine gate and the fifth convenience-stor
 
 genesis_title: ""
 genesis_description: "Somewhere between the third shrine gate and the fifth convenience-store lunch, a familiar Japan itinerary begins to feel like a set of chores you are perform..."
-open_graph_title: "Niche Tour"
+open_graph_title: "Niche Tour: The Trip That Starts When You Stop “Doing Japan”"
 open_graph_description: "Somewhere between the third shrine gate and the fifth convenience-store lunch, a familiar Japan itinerary begins to feel like a set of chores you are perform..."
-twitter_title: "Niche Tour"
+twitter_title: "Niche Tour: The Trip That Starts When You Stop “Doing Japan”"
 twitter_description: "Somewhere between the third shrine gate and the fifth convenience-store lunch, a familiar Japan itinerary begins to feel like a set of chores you are perform..."
 genesis_noindex: 0
 genesis_nofollow: 0

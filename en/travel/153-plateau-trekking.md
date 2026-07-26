@@ -1,5 +1,5 @@
 ---
-title: "Plateau Trekking"
+title: "Plateau Trekking: High Country Without the Summit Drama"
 slug: travel-plateau-trekking
 wp_date: 2025-11-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You step out into wind first, then into view. A plateau in Japan often
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Plateau Trekking in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Plateau Trekking"
+open_graph_title: "Plateau Trekking: High Country Without the Summit Drama"
 open_graph_description: "A comprehensive guide to Plateau Trekking in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Plateau Trekking"
+twitter_title: "Plateau Trekking: High Country Without the Summit Drama"
 twitter_description: "A comprehensive guide to Plateau Trekking in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

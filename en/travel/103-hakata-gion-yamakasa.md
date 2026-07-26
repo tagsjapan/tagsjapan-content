@@ -1,5 +1,5 @@
 ---
-title: "Hakata Gion Yamakasa"
+title: "Hakata Gion Yamakasa: A City That Wakes at 4:59 a.m."
 slug: travel-hakata-gion-yamakasa
 wp_date: 2025-07-24 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The street feels wrong for the hour. It’s still dark in Hakata, but 
 
 genesis_title: ""
 genesis_description: "Experience Hakata Gion Yamakasa in Japan. The street feels wrong for the hour. Then the sound arrives: voices, feet, wood, water."
-open_graph_title: "Hakata Gion Yamakasa"
+open_graph_title: "Hakata Gion Yamakasa: A City That Wakes at 4:59 a.m."
 open_graph_description: "Experience Hakata Gion Yamakasa in Japan. The street feels wrong for the hour. Then the sound arrives: voices, feet, wood, water."
-twitter_title: "Hakata Gion Yamakasa"
+twitter_title: "Hakata Gion Yamakasa: A City That Wakes at 4:59 a.m."
 twitter_description: "Experience Hakata Gion Yamakasa in Japan. The street feels wrong for the hour. Then the sound arrives: voices, feet, wood, water."
 genesis_noindex: 0
 genesis_nofollow: 0

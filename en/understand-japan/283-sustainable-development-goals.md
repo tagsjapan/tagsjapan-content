@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Development Goals"
+title: "Sustainable Development Goals: Japan’s Favorite Set of Icons"
 slug: understand-japan-sustainable-development-goals
 wp_date: 2026-06-27 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, the SDGs often arrive as a color wheel before they arrive as
 
 genesis_title: ""
 genesis_description: "Learn about Sustainable Development Goals in Japan. It is the kind of symbol that can sit quietly next to a recycling bin without demanding an argument."
-open_graph_title: "Sustainable Development Goals"
+open_graph_title: "Sustainable Development Goals: Japan’s Favorite Set of Icons"
 open_graph_description: "Learn about Sustainable Development Goals in Japan. It is the kind of symbol that can sit quietly next to a recycling bin without demanding an argument."
-twitter_title: "Sustainable Development Goals"
+twitter_title: "Sustainable Development Goals: Japan’s Favorite Set of Icons"
 twitter_description: "Learn about Sustainable Development Goals in Japan. It is the kind of symbol that can sit quietly next to a recycling bin without demanding an argument."
 genesis_noindex: 0
 genesis_nofollow: 0

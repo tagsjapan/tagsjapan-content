@@ -1,5 +1,5 @@
 ---
-title: "Theory of Local Extinction"
+title: "Theory of Local Extinction: The Alarm Bell That Reframed Rural Japan"
 slug: understand-japan-theory-of-local-extinction
 wp_date: 2025-06-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In 2014, mayors across Japan opened newspapers and found their towns d
 
 genesis_title: ""
 genesis_description: "In 2014, mayors across Japan opened newspapers and found their towns described in language closer to a death notice than a planning memo."
-open_graph_title: "Theory of Local Extinction"
+open_graph_title: "Theory of Local Extinction: The Alarm Bell That Reframed Rural Japan"
 open_graph_description: "In 2014, mayors across Japan opened newspapers and found their towns described in language closer to a death notice than a planning memo."
-twitter_title: "Theory of Local Extinction"
+twitter_title: "Theory of Local Extinction: The Alarm Bell That Reframed Rural Japan"
 twitter_description: "In 2014, mayors across Japan opened newspapers and found their towns described in language closer to a death notice than a planning memo."
 genesis_noindex: 0
 genesis_nofollow: 0

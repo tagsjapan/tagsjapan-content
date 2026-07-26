@@ -1,5 +1,5 @@
 ---
-title: "Mountain Camping"
+title: "Mountain Camping: Sleeping Where the Forecast Matters More"
 slug: travel-mountain-camping
 wp_date: 2025-09-22 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "By late afternoon the mountain air has already started making promises
 
 genesis_title: ""
 genesis_description: "Explore Mountain Camping in Japan. By late afternoon the mountain air has already started making promises the city cannot keep."
-open_graph_title: "Mountain Camping"
+open_graph_title: "Mountain Camping: Sleeping Where the Forecast Matters More"
 open_graph_description: "Explore Mountain Camping in Japan. By late afternoon the mountain air has already started making promises the city cannot keep."
-twitter_title: "Mountain Camping"
+twitter_title: "Mountain Camping: Sleeping Where the Forecast Matters More"
 twitter_description: "Explore Mountain Camping in Japan. By late afternoon the mountain air has already started making promises the city cannot keep."
 genesis_noindex: 0
 genesis_nofollow: 0

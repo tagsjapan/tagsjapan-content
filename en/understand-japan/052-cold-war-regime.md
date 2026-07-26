@@ -1,5 +1,5 @@
 ---
-title: "Cold War Regime"
+title: "Cold War Regime: The Postwar Order That Never Fully Left"
 slug: understand-japan-cold-war-regime
 wp_date: 2025-04-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In 1960, crowds filled the streets around the National Diet in Tokyo t
 
 genesis_title: ""
 genesis_description: "In 1960, crowds filled the streets around the National Diet in Tokyo to protest the revised U.S.-Japan Security Treaty. The images from the Anpo protests are..."
-open_graph_title: "Cold War Regime"
+open_graph_title: "Cold War Regime: The Postwar Order That Never Fully Left"
 open_graph_description: "In 1960, crowds filled the streets around the National Diet in Tokyo to protest the revised U.S.-Japan Security Treaty. The images from the Anpo protests are..."
-twitter_title: "Cold War Regime"
+twitter_title: "Cold War Regime: The Postwar Order That Never Fully Left"
 twitter_description: "In 1960, crowds filled the streets around the National Diet in Tokyo to protest the revised U.S.-Japan Security Treaty. The images from the Anpo protests are..."
 genesis_noindex: 0
 genesis_nofollow: 0

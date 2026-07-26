@@ -1,5 +1,5 @@
 ---
-title: "Footbath Street"
+title: "Footbath Street: The Town at Ankle Depth"
 slug: travel-footbath-street
 wp_date: 2025-12-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "There is a particular Japanese travel pleasure that begins not with im
 
 genesis_title: ""
 genesis_description: "Guide to Footbath Street in Japan. There is a particular Japanese travel pleasure that begins not with immersion but with partial surrender."
-open_graph_title: "Footbath Street"
+open_graph_title: "Footbath Street: The Town at Ankle Depth"
 open_graph_description: "Guide to Footbath Street in Japan. There is a particular Japanese travel pleasure that begins not with immersion but with partial surrender."
-twitter_title: "Footbath Street"
+twitter_title: "Footbath Street: The Town at Ankle Depth"
 twitter_description: "Guide to Footbath Street in Japan. There is a particular Japanese travel pleasure that begins not with immersion but with partial surrender."
 genesis_noindex: 0
 genesis_nofollow: 0

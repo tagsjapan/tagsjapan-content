@@ -1,5 +1,5 @@
 ---
-title: "Sento"
+title: "Sento: Public Baths as Everyday Infrastructure"
 slug: understand-japan-sento
 wp_date: 2026-01-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At the end of a workday in a dense Japanese neighborhood, a small buil
 
 genesis_title: ""
 genesis_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
-open_graph_title: "Sento"
+open_graph_title: "Sento: Public Baths as Everyday Infrastructure"
 open_graph_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
-twitter_title: "Sento"
+twitter_title: "Sento: Public Baths as Everyday Infrastructure"
 twitter_description: "Learn about Sento in Japan. Shoes come off, coins clink in a locker, and voices drop into the relaxed register that appears when no one is performing..."
 genesis_noindex: 0
 genesis_nofollow: 0

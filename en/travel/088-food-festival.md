@@ -1,5 +1,5 @@
 ---
-title: "Food Festival"
+title: "Food Festival: Japan’s Pop-Up Table for Regional Taste"
 slug: travel-food-festival
 wp_date: 2025-06-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At a weekend festival site in Japan, the first thing you learn is that
 
 genesis_title: ""
 genesis_description: "Guide to Food Festival in Japan. At a weekend festival site in Japan, the first thing you learn is that appetite has a timetable. Lines form before noon."
-open_graph_title: "Food Festival"
+open_graph_title: "Food Festival: Japan’s Pop-Up Table for Regional Taste"
 open_graph_description: "Guide to Food Festival in Japan. At a weekend festival site in Japan, the first thing you learn is that appetite has a timetable. Lines form before noon."
-twitter_title: "Food Festival"
+twitter_title: "Food Festival: Japan’s Pop-Up Table for Regional Taste"
 twitter_description: "Guide to Food Festival in Japan. At a weekend festival site in Japan, the first thing you learn is that appetite has a timetable. Lines form before noon."
 genesis_noindex: 0
 genesis_nofollow: 0

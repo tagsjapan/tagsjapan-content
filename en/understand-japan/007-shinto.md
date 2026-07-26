@@ -1,5 +1,5 @@
 ---
-title: "Shinto"
+title: "Shinto: The Religion Japan Often Practices Without Announcing"
 slug: understand-japan-shinto
 wp_date: 2025-01-14 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On the first days of January, millions of people in Japan line up at s
 
 genesis_title: ""
 genesis_description: "On the first days of January, millions of people in Japan line up at shrines, ring bells, bow, clap, pray, buy lucky charms, and begin the year by passing th..."
-open_graph_title: "Shinto"
+open_graph_title: "Shinto: The Religion Japan Often Practices Without Announcing"
 open_graph_description: "On the first days of January, millions of people in Japan line up at shrines, ring bells, bow, clap, pray, buy lucky charms, and begin the year by passing th..."
-twitter_title: "Shinto"
+twitter_title: "Shinto: The Religion Japan Often Practices Without Announcing"
 twitter_description: "On the first days of January, millions of people in Japan line up at shrines, ring bells, bow, clap, pray, buy lucky charms, and begin the year by passing th..."
 genesis_noindex: 0
 genesis_nofollow: 0

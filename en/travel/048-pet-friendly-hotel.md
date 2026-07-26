@@ -1,5 +1,5 @@
 ---
-title: "Pet-friendly Hotel"
+title: "Pet-friendly Hotel: Traveling in Japan Without Pretending the Dog Is an Afterthought"
 slug: travel-pet-friendly-hotel
 wp_date: 2025-04-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The check-in question is often about paperwork before it is about the 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Pet-friendly Hotel in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Pet-friendly Hotel"
+open_graph_title: "Pet-friendly Hotel: Traveling in Japan Without Pretending the Dog Is an Afterthought"
 open_graph_description: "A comprehensive guide to Pet-friendly Hotel in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Pet-friendly Hotel"
+twitter_title: "Pet-friendly Hotel: Traveling in Japan Without Pretending the Dog Is an Afterthought"
 twitter_description: "A comprehensive guide to Pet-friendly Hotel in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Karoshi"
+title: "Karoshi: When Work Becomes a Cause of Death"
 slug: understand-japan-karoshi
 wp_date: 2025-08-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Late at night in a Japanese office district, the most telling light is
 
 genesis_title: ""
 genesis_description: "Late at night in a Japanese office district, the most telling light is the one that does not go out. A few floors up, fluorescent panels still glow over rows..."
-open_graph_title: "Karoshi"
+open_graph_title: "Karoshi: When Work Becomes a Cause of Death"
 open_graph_description: "Late at night in a Japanese office district, the most telling light is the one that does not go out. A few floors up, fluorescent panels still glow over rows..."
-twitter_title: "Karoshi"
+twitter_title: "Karoshi: When Work Becomes a Cause of Death"
 twitter_description: "Late at night in a Japanese office district, the most telling light is the one that does not go out. A few floors up, fluorescent panels still glow over rows..."
 genesis_noindex: 0
 genesis_nofollow: 0

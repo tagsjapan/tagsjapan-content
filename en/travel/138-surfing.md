@@ -1,5 +1,5 @@
 ---
-title: "Surfing"
+title: "Surfing: Dawn, Local Rules, and the Coastlines Beyond Tokyo"
 slug: travel-surfing
 wp_date: 2025-10-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Surfing travel in Japan begins before breakfast. You pull on a wetsuit
 
 genesis_title: ""
 genesis_description: "Explore Surfing in Japan. Surfing travel in Japan begins before breakfast. For travelers used to Japan as trains and temples, s"
-open_graph_title: "Surfing"
+open_graph_title: "Surfing: Dawn, Local Rules, and the Coastlines Beyond Tokyo"
 open_graph_description: "Explore Surfing in Japan. Surfing travel in Japan begins before breakfast. For travelers used to Japan as trains and temples, s"
-twitter_title: "Surfing"
+twitter_title: "Surfing: Dawn, Local Rules, and the Coastlines Beyond Tokyo"
 twitter_description: "Explore Surfing in Japan. Surfing travel in Japan begins before breakfast. For travelers used to Japan as trains and temples, s"
 genesis_noindex: 0
 genesis_nofollow: 0

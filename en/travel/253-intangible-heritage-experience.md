@@ -1,5 +1,5 @@
 ---
-title: "Intangible Heritage Experience"
+title: "Intangible Heritage Experience: Meeting a Tradition While It’s Still Alive"
 slug: travel-intangible-heritage-experience
 wp_date: 2026-05-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a small studio, the important things aren’t for sale. A teacher s
 
 genesis_title: ""
 genesis_description: "In a small studio, the important things aren’t for sale. A teacher shows you a movement slowly—how to hold a tool, how to fold something so it sits correctly..."
-open_graph_title: "Intangible Heritage Experience"
+open_graph_title: "Intangible Heritage Experience: Meeting a Tradition While It’s Still Alive"
 open_graph_description: "In a small studio, the important things aren’t for sale. A teacher shows you a movement slowly—how to hold a tool, how to fold something so it sits correctly..."
-twitter_title: "Intangible Heritage Experience"
+twitter_title: "Intangible Heritage Experience: Meeting a Tradition While It’s Still Alive"
 twitter_description: "In a small studio, the important things aren’t for sale. A teacher shows you a movement slowly—how to hold a tool, how to fold something so it sits correctly..."
 genesis_noindex: 0
 genesis_nofollow: 0

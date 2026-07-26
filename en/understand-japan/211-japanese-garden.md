@@ -1,5 +1,5 @@
 ---
-title: "Japanese Garden"
+title: "Japanese Garden: Turning Nature into a Readable World"
 slug: understand-japan-japanese-garden
 wp_date: 2026-02-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Japanese Garden（日本庭園） is often misunderstood as “plants,
 
 genesis_title: ""
 genesis_description: "Learn about Japanese Garden in Japan. A path narrows, turns, and suddenly widens into a view that feels “found,” even though it is carefully arranged."
-open_graph_title: "Japanese Garden"
+open_graph_title: "Japanese Garden: Turning Nature into a Readable World"
 open_graph_description: "Learn about Japanese Garden in Japan. A path narrows, turns, and suddenly widens into a view that feels “found,” even though it is carefully arranged."
-twitter_title: "Japanese Garden"
+twitter_title: "Japanese Garden: Turning Nature into a Readable World"
 twitter_description: "Learn about Japanese Garden in Japan. A path narrows, turns, and suddenly widens into a view that feels “found,” even though it is carefully arranged."
 genesis_noindex: 0
 genesis_nofollow: 0

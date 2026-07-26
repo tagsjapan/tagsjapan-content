@@ -1,5 +1,5 @@
 ---
-title: "Onsen Town Food"
+title: "Onsen Town Food: Eating Between the Baths"
 slug: travel-onsen-town-food
 wp_date: 2025-12-22 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The meal that stays with you in a Japanese onsen town is not always di
 
 genesis_title: ""
 genesis_description: "Guide to Onsen Town Food in Japan. The meal that stays with you in a Japanese onsen town is not always dinner. is not a list of famous restaurants."
-open_graph_title: "Onsen Town Food"
+open_graph_title: "Onsen Town Food: Eating Between the Baths"
 open_graph_description: "Guide to Onsen Town Food in Japan. The meal that stays with you in a Japanese onsen town is not always dinner. is not a list of famous restaurants."
-twitter_title: "Onsen Town Food"
+twitter_title: "Onsen Town Food: Eating Between the Baths"
 twitter_description: "Guide to Onsen Town Food in Japan. The meal that stays with you in a Japanese onsen town is not always dinner. is not a list of famous restaurants."
 genesis_noindex: 0
 genesis_nofollow: 0

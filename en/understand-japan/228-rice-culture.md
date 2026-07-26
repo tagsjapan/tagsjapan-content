@@ -1,5 +1,5 @@
 ---
-title: "Rice Culture"
+title: "Rice Culture: The Grain That Organizes Time"
 slug: understand-japan-rice-culture
 wp_date: 2026-04-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Rice Culture（稻作文化） in Japan is not just the act of growing
 
 genesis_title: ""
 genesis_description: "Learn about Rice Culture in Japan. Before a single bowl of rice is served, there is already a community making the grain possible."
-open_graph_title: "Rice Culture"
+open_graph_title: "Rice Culture: The Grain That Organizes Time"
 open_graph_description: "Learn about Rice Culture in Japan. Before a single bowl of rice is served, there is already a community making the grain possible."
-twitter_title: "Rice Culture"
+twitter_title: "Rice Culture: The Grain That Organizes Time"
 twitter_description: "Learn about Rice Culture in Japan. Before a single bowl of rice is served, there is already a community making the grain possible."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Nuclear Energy Policy"
+title: "Nuclear Energy Policy: Power, Risk, and the Long Shadow of Fukushima"
 slug: understand-japan-nuclear-energy-policy
 wp_date: 2025-05-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, a reactor restart begins long before electricity reaches the
 
 genesis_title: ""
 genesis_description: "In Japan, a reactor restart begins long before electricity reaches the grid. It begins in inspections, court filings, municipal negotiations, engineering upg..."
-open_graph_title: "Nuclear Energy Policy"
+open_graph_title: "Nuclear Energy Policy: Power, Risk, and the Long Shadow of Fukushima"
 open_graph_description: "In Japan, a reactor restart begins long before electricity reaches the grid. It begins in inspections, court filings, municipal negotiations, engineering upg..."
-twitter_title: "Nuclear Energy Policy"
+twitter_title: "Nuclear Energy Policy: Power, Risk, and the Long Shadow of Fukushima"
 twitter_description: "In Japan, a reactor restart begins long before electricity reaches the grid. It begins in inspections, court filings, municipal negotiations, engineering upg..."
 genesis_noindex: 0
 genesis_nofollow: 0

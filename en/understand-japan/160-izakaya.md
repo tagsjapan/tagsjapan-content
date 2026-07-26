@@ -1,5 +1,5 @@
 ---
-title: "Izakaya"
+title: "Izakaya: Japan’s After-Work Social Infrastructure"
 slug: understand-japan-izakaya
 wp_date: 2025-11-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In the early evening, the street outside a station can flip personalit
 
 genesis_title: ""
 genesis_description: "Learn about Izakaya in Japan. An izakaya is usually described as a casual Japanese tavern: beer, Nihonshu（日本酒）, shōchū, and shareable dishes that arrive..."
-open_graph_title: "Izakaya"
+open_graph_title: "Izakaya: Japan’s After-Work Social Infrastructure"
 open_graph_description: "Learn about Izakaya in Japan. An izakaya is usually described as a casual Japanese tavern: beer, Nihonshu（日本酒）, shōchū, and shareable dishes that arrive..."
-twitter_title: "Izakaya"
+twitter_title: "Izakaya: Japan’s After-Work Social Infrastructure"
 twitter_description: "Learn about Izakaya in Japan. An izakaya is usually described as a casual Japanese tavern: beer, Nihonshu（日本酒）, shōchū, and shareable dishes that arrive..."
 genesis_noindex: 0
 genesis_nofollow: 0

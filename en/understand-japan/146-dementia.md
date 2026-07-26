@@ -1,5 +1,5 @@
 ---
-title: "Dementia"
+title: "Dementia: Japan’s Shift from Management to Coexistence"
 slug: understand-japan-dementia
 wp_date: 2025-10-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A person reaches the register and cannot remember the PIN. A bank cler
 
 genesis_title: ""
 genesis_description: "Learn about Dementia in Japan. Japan’s policy language adds another layer: dementia is treated as a question of welfare, rights, participation, and..."
-open_graph_title: "Dementia"
+open_graph_title: "Dementia: Japan’s Shift from Management to Coexistence"
 open_graph_description: "Learn about Dementia in Japan. Japan’s policy language adds another layer: dementia is treated as a question of welfare, rights, participation, and..."
-twitter_title: "Dementia"
+twitter_title: "Dementia: Japan’s Shift from Management to Coexistence"
 twitter_description: "Learn about Dementia in Japan. Japan’s policy language adds another layer: dementia is treated as a question of welfare, rights, participation, and..."
 genesis_noindex: 0
 genesis_nofollow: 0

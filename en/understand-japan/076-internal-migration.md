@@ -1,5 +1,5 @@
 ---
-title: "Internal Migration"
+title: "Internal Migration: The Current That Keeps Pulling Japan Toward Its Big Cities"
 slug: understand-japan-internal-migration
 wp_date: 2025-05-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Japan, a move to Tokyo is often described as a personal decision. A
 
 genesis_title: ""
 genesis_description: "In Japan, a move to Tokyo is often described as a personal decision. A student leaves for university. A new graduate takes a job in the capital."
-open_graph_title: "Internal Migration"
+open_graph_title: "Internal Migration: The Current That Keeps Pulling Japan Toward Its Big Cities"
 open_graph_description: "In Japan, a move to Tokyo is often described as a personal decision. A student leaves for university. A new graduate takes a job in the capital."
-twitter_title: "Internal Migration"
+twitter_title: "Internal Migration: The Current That Keeps Pulling Japan Toward Its Big Cities"
 twitter_description: "In Japan, a move to Tokyo is often described as a personal decision. A student leaves for university. A new graduate takes a job in the capital."
 genesis_noindex: 0
 genesis_nofollow: 0

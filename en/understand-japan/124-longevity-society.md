@@ -1,5 +1,5 @@
 ---
-title: "Longevity Society"
+title: "Longevity Society: Living After the Calendar Says “Old”"
 slug: understand-japan-longevity-society
 wp_date: 2025-09-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weekday morning in Japan, you can watch longevity become ordinary
 
 genesis_title: ""
 genesis_description: "On a weekday morning in Japan, you can watch longevity become ordinary. A line forms quietly outside a clinic for routine checkups."
-open_graph_title: "Longevity Society"
+open_graph_title: "Longevity Society: Living After the Calendar Says “Old”"
 open_graph_description: "On a weekday morning in Japan, you can watch longevity become ordinary. A line forms quietly outside a clinic for routine checkups."
-twitter_title: "Longevity Society"
+twitter_title: "Longevity Society: Living After the Calendar Says “Old”"
 twitter_description: "On a weekday morning in Japan, you can watch longevity become ordinary. A line forms quietly outside a clinic for routine checkups."
 genesis_noindex: 0
 genesis_nofollow: 0

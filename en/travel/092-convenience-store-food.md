@@ -1,5 +1,5 @@
 ---
-title: "Convenience Store Food"
+title: "Convenience Store Food: Japan's Smallest Reliable Meal"
 slug: travel-convenience-store-food
 wp_date: 2025-07-03 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "It is often around 6:10 in the morning, or 11:40 at night, when Japane
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Convenience Store Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Convenience Store Food"
+open_graph_title: "Convenience Store Food: Japan's Smallest Reliable Meal"
 open_graph_description: "A comprehensive guide to Convenience Store Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Convenience Store Food"
+twitter_title: "Convenience Store Food: Japan's Smallest Reliable Meal"
 twitter_description: "A comprehensive guide to Convenience Store Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

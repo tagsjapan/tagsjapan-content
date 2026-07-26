@@ -1,5 +1,5 @@
 ---
-title: "Postwar Reforms"
+title: "Postwar Reforms: How Defeat Rewrote Everyday Japan"
 slug: understand-japan-postwar-reforms
 wp_date: 2025-02-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "For a tenant farmer in the late 1940s, political transformation could 
 
 genesis_title: ""
 genesis_description: "For a tenant farmer in the late 1940s, political transformation could arrive as a piece of paper saying the land under his feet might finally become his."
-open_graph_title: "Postwar Reforms"
+open_graph_title: "Postwar Reforms: How Defeat Rewrote Everyday Japan"
 open_graph_description: "For a tenant farmer in the late 1940s, political transformation could arrive as a piece of paper saying the land under his feet might finally become his."
-twitter_title: "Postwar Reforms"
+twitter_title: "Postwar Reforms: How Defeat Rewrote Everyday Japan"
 twitter_description: "For a tenant farmer in the late 1940s, political transformation could arrive as a piece of paper saying the land under his feet might finally become his."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Supermarket"
+title: "Supermarket: Where a Trip Meets Ordinary Appetite"
 slug: travel-supermarket
 wp_date: 2026-01-25 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "The most revealing shop on a trip is often not the one designed to imp
 
 genesis_title: ""
 genesis_description: "The most revealing shop on a trip is often not the one designed to impress you. It is the supermarket ten minutes from the station, the one with bicycles out..."
-open_graph_title: "Supermarket"
+open_graph_title: "Supermarket: Where a Trip Meets Ordinary Appetite"
 open_graph_description: "The most revealing shop on a trip is often not the one designed to impress you. It is the supermarket ten minutes from the station, the one with bicycles out..."
-twitter_title: "Supermarket"
+twitter_title: "Supermarket: Where a Trip Meets Ordinary Appetite"
 twitter_description: "The most revealing shop on a trip is often not the one designed to impress you. It is the supermarket ten minutes from the station, the one with bicycles out..."
 genesis_noindex: 0
 genesis_nofollow: 0

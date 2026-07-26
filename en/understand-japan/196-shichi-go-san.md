@@ -1,5 +1,5 @@
 ---
-title: "Shichi-Go-San"
+title: "Shichi-Go-San: Childhood, Survival, and a Family Photograph"
 slug: understand-japan-shichi-go-san
 wp_date: 2026-01-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In November, the steps of a shrine can look like a small parade of car
 
 genesis_title: ""
 genesis_description: "Learn about Shichi-Go-San in Japan. Shichi-Go-San is a growth celebration for girls and boys at 3, for boys at 5, and for girls at 7."
-open_graph_title: "Shichi-Go-San"
+open_graph_title: "Shichi-Go-San: Childhood, Survival, and a Family Photograph"
 open_graph_description: "Learn about Shichi-Go-San in Japan. Shichi-Go-San is a growth celebration for girls and boys at 3, for boys at 5, and for girls at 7."
-twitter_title: "Shichi-Go-San"
+twitter_title: "Shichi-Go-San: Childhood, Survival, and a Family Photograph"
 twitter_description: "Learn about Shichi-Go-San in Japan. Shichi-Go-San is a growth celebration for girls and boys at 3, for boys at 5, and for girls at 7."
 genesis_noindex: 0
 genesis_nofollow: 0

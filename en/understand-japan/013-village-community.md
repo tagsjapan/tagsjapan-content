@@ -1,5 +1,5 @@
 ---
-title: "Village Community"
+title: "Village Community: The Local Order That Made Rural Japan Work"
 slug: understand-japan-village-community
 wp_date: 2025-01-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a Japanese village, the most important institutions were often not 
 
 genesis_title: ""
 genesis_description: "In a Japanese village, the most important institutions were often not the grand ones. They were the meeting where water use was argued over, the shared labor..."
-open_graph_title: "Village Community"
+open_graph_title: "Village Community: The Local Order That Made Rural Japan Work"
 open_graph_description: "In a Japanese village, the most important institutions were often not the grand ones. They were the meeting where water use was argued over, the shared labor..."
-twitter_title: "Village Community"
+twitter_title: "Village Community: The Local Order That Made Rural Japan Work"
 twitter_description: "In a Japanese village, the most important institutions were often not the grand ones. They were the meeting where water use was argued over, the shared labor..."
 genesis_noindex: 0
 genesis_nofollow: 0

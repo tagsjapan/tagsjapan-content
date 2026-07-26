@@ -1,5 +1,5 @@
 ---
-title: "Regional Integration"
+title: "Regional Integration: Japan's Habit of Building the Region by Committee"
 slug: understand-japan-regional-integration
 wp_date: 2025-04-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "There is a familiar look to the diplomatic stage in East and Southeast
 
 genesis_title: ""
 genesis_description: "There is a familiar look to the diplomatic stage in East and Southeast Asia: a row of desk flags, a horseshoe table, interpreters waiting behind glass, folde..."
-open_graph_title: "Regional Integration"
+open_graph_title: "Regional Integration: Japan's Habit of Building the Region by Committee"
 open_graph_description: "There is a familiar look to the diplomatic stage in East and Southeast Asia: a row of desk flags, a horseshoe table, interpreters waiting behind glass, folde..."
-twitter_title: "Regional Integration"
+twitter_title: "Regional Integration: Japan's Habit of Building the Region by Committee"
 twitter_description: "There is a familiar look to the diplomatic stage in East and Southeast Asia: a row of desk flags, a horseshoe table, interpreters waiting behind glass, folde..."
 genesis_noindex: 0
 genesis_nofollow: 0

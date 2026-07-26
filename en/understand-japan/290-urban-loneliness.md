@@ -1,5 +1,5 @@
 ---
-title: "Urban Loneliness"
+title: "Urban Loneliness: Density Without a Net"
 slug: understand-japan-urban-loneliness
 wp_date: 2026-07-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a late weekday night in Tokyo, the trains still disgorge tired bodi
 
 genesis_title: ""
 genesis_description: "Learn about Urban Loneliness in Japan. You can walk home past more people than a small town sees in a day and still feel, with a surprising clarity, that..."
-open_graph_title: "Urban Loneliness"
+open_graph_title: "Urban Loneliness: Density Without a Net"
 open_graph_description: "Learn about Urban Loneliness in Japan. You can walk home past more people than a small town sees in a day and still feel, with a surprising clarity, that..."
-twitter_title: "Urban Loneliness"
+twitter_title: "Urban Loneliness: Density Without a Net"
 twitter_description: "Learn about Urban Loneliness in Japan. You can walk home past more people than a small town sees in a day and still feel, with a surprising clarity, that..."
 genesis_noindex: 0
 genesis_nofollow: 0

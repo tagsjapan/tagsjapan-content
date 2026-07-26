@@ -1,5 +1,5 @@
 ---
-title: "Keidanren"
+title: "Keidanren: The Boardroom That Talks Like Government"
 slug: understand-japan-keidanren
 wp_date: 2025-07-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a day when the yen, energy prices, and wage negotiations are all in
 
 genesis_title: ""
 genesis_description: "On a day when the yen, energy prices, and wage negotiations are all in the news, the scene in Tokyo can look oddly ceremonial: a chairman behind a lectern, r..."
-open_graph_title: "Keidanren"
+open_graph_title: "Keidanren: The Boardroom That Talks Like Government"
 open_graph_description: "On a day when the yen, energy prices, and wage negotiations are all in the news, the scene in Tokyo can look oddly ceremonial: a chairman behind a lectern, r..."
-twitter_title: "Keidanren"
+twitter_title: "Keidanren: The Boardroom That Talks Like Government"
 twitter_description: "On a day when the yen, energy prices, and wage negotiations are all in the news, the scene in Tokyo can look oddly ceremonial: a chairman behind a lectern, r..."
 genesis_noindex: 0
 genesis_nofollow: 0

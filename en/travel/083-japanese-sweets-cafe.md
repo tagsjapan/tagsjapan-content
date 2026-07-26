@@ -1,5 +1,5 @@
 ---
-title: "Japanese Sweets Café"
+title: "Japanese Sweets Café: The Slow Stop Japan Builds Into Walking"
 slug: travel-japanese-sweets-cafe
 wp_date: 2025-06-14 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Around three o’clock, when your feet have started to argue with your
 
 genesis_title: ""
 genesis_description: "Guide to Japanese Sweets Café in Japan. Outside, a street keeps moving—tour groups, bicycles, the soft clack of sandals—but inside a you are all"
-open_graph_title: "Japanese Sweets Café"
+open_graph_title: "Japanese Sweets Café: The Slow Stop Japan Builds Into Walking"
 open_graph_description: "Guide to Japanese Sweets Café in Japan. Outside, a street keeps moving—tour groups, bicycles, the soft clack of sandals—but inside a you are all"
-twitter_title: "Japanese Sweets Café"
+twitter_title: "Japanese Sweets Café: The Slow Stop Japan Builds Into Walking"
 twitter_description: "Guide to Japanese Sweets Café in Japan. Outside, a street keeps moving—tour groups, bicycles, the soft clack of sandals—but inside a you are all"
 genesis_noindex: 0
 genesis_nofollow: 0

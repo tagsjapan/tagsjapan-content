@@ -1,5 +1,5 @@
 ---
-title: "Water Bus"
+title: "Water Bus: The Slow Edge of the City"
 slug: travel-water-bus
 wp_date: 2025-02-23 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a bright morning in Asakusa, the riverfront can feel like a side do
 
 genesis_title: ""
 genesis_description: "Complete guide to Water Bus in Japan. On a bright morning in Asakusa, the riverfront can feel like a side door to Tokyo. The bridges come low and fast."
-open_graph_title: "Water Bus"
+open_graph_title: "Water Bus: The Slow Edge of the City"
 open_graph_description: "Complete guide to Water Bus in Japan. On a bright morning in Asakusa, the riverfront can feel like a side door to Tokyo. The bridges come low and fast."
-twitter_title: "Water Bus"
+twitter_title: "Water Bus: The Slow Edge of the City"
 twitter_description: "Complete guide to Water Bus in Japan. On a bright morning in Asakusa, the riverfront can feel like a side door to Tokyo. The bridges come low and fast."
 genesis_noindex: 0
 genesis_nofollow: 0

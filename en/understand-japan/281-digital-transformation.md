@@ -1,5 +1,5 @@
 ---
-title: "Digital Transformation"
+title: "Digital Transformation: Japan’s War on Its Own Paperwork"
 slug: understand-japan-digital-transformation
 wp_date: 2026-06-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A clerk prints a form, stamps it, scans it, and emails the scan to ano
 
 genesis_title: ""
 genesis_description: "Learn about Digital Transformation in Japan. A sales team keeps a spreadsheet that duplicates what the company’s core system already stores, because the..."
-open_graph_title: "Digital Transformation"
+open_graph_title: "Digital Transformation: Japan’s War on Its Own Paperwork"
 open_graph_description: "Learn about Digital Transformation in Japan. A sales team keeps a spreadsheet that duplicates what the company’s core system already stores, because the..."
-twitter_title: "Digital Transformation"
+twitter_title: "Digital Transformation: Japan’s War on Its Own Paperwork"
 twitter_description: "Learn about Digital Transformation in Japan. A sales team keeps a spreadsheet that duplicates what the company’s core system already stores, because the..."
 genesis_noindex: 0
 genesis_nofollow: 0

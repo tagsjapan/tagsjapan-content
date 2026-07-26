@@ -1,5 +1,5 @@
 ---
-title: "Cool Japan"
+title: "Cool Japan: When the State Tries to Manage “Cool”"
 slug: understand-japan-cool-japan
 wp_date: 2026-07-15 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Walk into a Japan House exhibition space and the country arrives as a 
 
 genesis_title: ""
 genesis_description: "Learn about Cool Japan in Japan. Food culture is presented as taste and discipline rather than as mere consumption. Walk into a Japan Ho"
-open_graph_title: "Cool Japan"
+open_graph_title: "Cool Japan: When the State Tries to Manage “Cool”"
 open_graph_description: "Learn about Cool Japan in Japan. Food culture is presented as taste and discipline rather than as mere consumption. Walk into a Japan Ho"
-twitter_title: "Cool Japan"
+twitter_title: "Cool Japan: When the State Tries to Manage “Cool”"
 twitter_description: "Learn about Cool Japan in Japan. Food culture is presented as taste and discipline rather than as mere consumption. Walk into a Japan Ho"
 genesis_noindex: 0
 genesis_nofollow: 0

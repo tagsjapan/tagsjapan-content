@@ -1,5 +1,5 @@
 ---
-title: "Automation"
+title: "Automation: When Labor Shortage Becomes a Design Principle"
 slug: understand-japan-automation
 wp_date: 2025-05-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Stand in a busy station concourse for five minutes and the Japanese ar
 
 genesis_title: ""
 genesis_description: "Stand in a busy station concourse for five minutes and the Japanese argument for automation reveals itself without a speech."
-open_graph_title: "Automation"
+open_graph_title: "Automation: When Labor Shortage Becomes a Design Principle"
 open_graph_description: "Stand in a busy station concourse for five minutes and the Japanese argument for automation reveals itself without a speech."
-twitter_title: "Automation"
+twitter_title: "Automation: When Labor Shortage Becomes a Design Principle"
 twitter_description: "Stand in a busy station concourse for five minutes and the Japanese argument for automation reveals itself without a speech."
 genesis_noindex: 0
 genesis_nofollow: 0

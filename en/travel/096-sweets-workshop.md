@@ -1,5 +1,5 @@
 ---
-title: "Sweets Workshop"
+title: "Sweets Workshop: Making Japan’s Seasons Small Enough to Eat"
 slug: travel-sweets-workshop
 wp_date: 2025-07-11 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The room is quiet in the way a museum gallery is quiet, except here th
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Sweets Workshop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Sweets Workshop"
+open_graph_title: "Sweets Workshop: Making Japan’s Seasons Small Enough to Eat"
 open_graph_description: "A comprehensive guide to Sweets Workshop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Sweets Workshop"
+twitter_title: "Sweets Workshop: Making Japan’s Seasons Small Enough to Eat"
 twitter_description: "A comprehensive guide to Sweets Workshop in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

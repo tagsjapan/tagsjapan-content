@@ -1,5 +1,5 @@
 ---
-title: "Airport Express"
+title: "Airport Express: The First Controlled Hour"
 slug: travel-airport-express
 wp_date: 2025-02-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "There is a particular kind of silence that comes after landing in Japa
 
 genesis_title: ""
 genesis_description: "Complete guide to Airport Express in Japan. The trip has started, but the country has not become usable yet. Their job is to reduce"
-open_graph_title: "Airport Express"
+open_graph_title: "Airport Express: The First Controlled Hour"
 open_graph_description: "Complete guide to Airport Express in Japan. The trip has started, but the country has not become usable yet. Their job is to reduce"
-twitter_title: "Airport Express"
+twitter_title: "Airport Express: The First Controlled Hour"
 twitter_description: "Complete guide to Airport Express in Japan. The trip has started, but the country has not become usable yet. Their job is to reduce"
 genesis_noindex: 0
 genesis_nofollow: 0

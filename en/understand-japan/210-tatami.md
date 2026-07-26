@@ -1,5 +1,5 @@
 ---
-title: "Tatami"
+title: "Tatami: When a Floor Becomes a Measure of Life"
 slug: understand-japan-tatami
 wp_date: 2026-02-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Tatami（畳） matters in Japan because it functions as both surface 
 
 genesis_title: ""
 genesis_description: "Learn about Tatami in Japan. The first thing you notice about tatami（畳） is not what it looks like, but what it does to your body."
-open_graph_title: "Tatami"
+open_graph_title: "Tatami: When a Floor Becomes a Measure of Life"
 open_graph_description: "Learn about Tatami in Japan. The first thing you notice about tatami（畳） is not what it looks like, but what it does to your body."
-twitter_title: "Tatami"
+twitter_title: "Tatami: When a Floor Becomes a Measure of Life"
 twitter_description: "Learn about Tatami in Japan. The first thing you notice about tatami（畳） is not what it looks like, but what it does to your body."
 genesis_noindex: 0
 genesis_nofollow: 0

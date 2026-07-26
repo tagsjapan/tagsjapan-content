@@ -1,5 +1,5 @@
 ---
-title: "Kamameshi"
+title: "Kamameshi: The Little Pot That Makes Rice Feel Like Travel"
 slug: travel-kamameshi
 wp_date: 2025-05-29 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You notice it by weight before you notice it by smell. At a station ki
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Kamameshi in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Kamameshi"
+open_graph_title: "Kamameshi: The Little Pot That Makes Rice Feel Like Travel"
 open_graph_description: "A comprehensive guide to Kamameshi in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Kamameshi"
+twitter_title: "Kamameshi: The Little Pot That Makes Rice Feel Like Travel"
 twitter_description: "A comprehensive guide to Kamameshi in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Food Court"
+title: "Food Court: The Indoor Plaza Where Everyone Can Eat"
 slug: travel-food-court
 wp_date: 2026-01-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first time a Japanese saves your day, it will probably be raining.
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Food Court in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Food Court"
+open_graph_title: "Food Court: The Indoor Plaza Where Everyone Can Eat"
 open_graph_description: "A comprehensive guide to Food Court in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Food Court"
+twitter_title: "Food Court: The Indoor Plaza Where Everyone Can Eat"
 twitter_description: "A comprehensive guide to Food Court in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

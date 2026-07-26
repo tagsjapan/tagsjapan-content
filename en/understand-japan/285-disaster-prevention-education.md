@@ -1,5 +1,5 @@
 ---
-title: "Disaster Prevention Education"
+title: "Disaster Prevention Education: Training for the Day the Manual Fails"
 slug: understand-japan-disaster-prevention-education
 wp_date: 2026-06-29 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a Japanese elementary school, the first lesson in risk management i
 
 genesis_title: ""
 genesis_description: "Learn about Disaster Prevention Education in Japan. In a Japanese elementary school, the first lesson in risk management is often physical."
-open_graph_title: "Disaster Prevention Education"
+open_graph_title: "Disaster Prevention Education: Training for the Day the Manual Fails"
 open_graph_description: "Learn about Disaster Prevention Education in Japan. In a Japanese elementary school, the first lesson in risk management is often physical."
-twitter_title: "Disaster Prevention Education"
+twitter_title: "Disaster Prevention Education: Training for the Day the Manual Fails"
 twitter_description: "Learn about Disaster Prevention Education in Japan. In a Japanese elementary school, the first lesson in risk management is often physical."
 genesis_noindex: 0
 genesis_nofollow: 0

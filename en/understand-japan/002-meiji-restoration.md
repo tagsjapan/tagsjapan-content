@@ -1,5 +1,5 @@
 ---
-title: "Meiji Restoration"
+title: "Meiji Restoration: Japan's Fastest Reinvention of the State"
 slug: understand-japan-meiji-restoration
 wp_date: 2025-01-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In October 1872, a train began running between Shimbashi and Yokohama.
 
 genesis_title: ""
 genesis_description: "In October 1872, a train began running between Shimbashi and Yokohama. The line was only 29 kilometers long, but that was almost beside the point."
-open_graph_title: "Meiji Restoration"
+open_graph_title: "Meiji Restoration: Japan's Fastest Reinvention of the State"
 open_graph_description: "In October 1872, a train began running between Shimbashi and Yokohama. The line was only 29 kilometers long, but that was almost beside the point."
-twitter_title: "Meiji Restoration"
+twitter_title: "Meiji Restoration: Japan's Fastest Reinvention of the State"
 twitter_description: "In October 1872, a train began running between Shimbashi and Yokohama. The line was only 29 kilometers long, but that was almost beside the point."
 genesis_noindex: 0
 genesis_nofollow: 0

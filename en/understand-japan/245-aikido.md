@@ -1,5 +1,5 @@
 ---
-title: "Aikido"
+title: "Aikido: Training Without Trophies, Arguing Without Winning"
 slug: understand-japan-aikido
 wp_date: 2026-05-04 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Aikido（合気道） is a modern Japanese martial art developed in th
 
 genesis_title: ""
 genesis_description: "Learn about Aikido in Japan. Aikido is a modern martial art by Morihei Ueshiba, blending physical technique with harmony and non-resistance principles."
-open_graph_title: "Aikido"
+open_graph_title: "Aikido: Training Without Trophies, Arguing Without Winning"
 open_graph_description: "Learn about Aikido in Japan. Aikido is a modern martial art by Morihei Ueshiba, blending physical technique with harmony and non-resistance principles."
-twitter_title: "Aikido"
+twitter_title: "Aikido: Training Without Trophies, Arguing Without Winning"
 twitter_description: "Learn about Aikido in Japan. Aikido is a modern martial art by Morihei Ueshiba, blending physical technique with harmony and non-resistance principles."
 genesis_noindex: 0
 genesis_nofollow: 0

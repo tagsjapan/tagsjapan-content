@@ -1,5 +1,5 @@
 ---
-title: "Residence Status"
+title: "Residence Status: Japan’s Way of Sorting Belonging"
 slug: understand-japan-residence-status
 wp_date: 2025-09-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Residence Status（在留資格） is Japan’s system of classifying 
 
 genesis_title: ""
 genesis_description: "Learn about Residence Status in Japan. At a job interview, a landlord meeting, or a university office, a question can arrive with surprising force: what..."
-open_graph_title: "Residence Status"
+open_graph_title: "Residence Status: Japan’s Way of Sorting Belonging"
 open_graph_description: "Learn about Residence Status in Japan. At a job interview, a landlord meeting, or a university office, a question can arrive with surprising force: what..."
-twitter_title: "Residence Status"
+twitter_title: "Residence Status: Japan’s Way of Sorting Belonging"
 twitter_description: "Learn about Residence Status in Japan. At a job interview, a landlord meeting, or a university office, a question can arrive with surprising force: what..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Sushi"
+title: "Sushi: Rice, Time, and the Price of Precision"
 slug: travel-sushi
 wp_date: 2025-05-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first surprise often comes at lunch, not at night. You slip into a
 
 genesis_title: ""
 genesis_description: "Discover Sushi in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Sushi"
+open_graph_title: "Sushi: Rice, Time, and the Price of Precision"
 open_graph_description: "Discover Sushi in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Sushi"
+twitter_title: "Sushi: Rice, Time, and the Price of Precision"
 twitter_description: "Discover Sushi in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Airport Limousine Bus"
+title: "Airport Limousine Bus: The Low-Effort Arrival"
 slug: travel-airport-limousine-bus
 wp_date: 2025-02-20 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "By the time a traveler begins to appreciate an airport limousine bus, 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Airport Limousine Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Airport Limousine Bus"
+open_graph_title: "Airport Limousine Bus: The Low-Effort Arrival"
 open_graph_description: "A comprehensive guide to Airport Limousine Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Airport Limousine Bus"
+twitter_title: "Airport Limousine Bus: The Low-Effort Arrival"
 twitter_description: "A comprehensive guide to Airport Limousine Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

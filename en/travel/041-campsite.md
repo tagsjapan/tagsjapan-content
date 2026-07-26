@@ -1,5 +1,5 @@
 ---
-title: "Campsite"
+title: "Campsite: How Japan Turns the Outdoors into an Ordered Form of Lodging"
 slug: travel-campsite
 wp_date: 2025-03-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Arriving at a Japanese is less like vanishing into the wild than many 
 
 genesis_title: ""
 genesis_description: "Your guide to Campsite in Japan. Arriving at a Japanese is less like vanishing into the wild than many travelers expect. Children are already on bicycles."
-open_graph_title: "Campsite"
+open_graph_title: "Campsite: How Japan Turns the Outdoors into an Ordered Form of Lodging"
 open_graph_description: "Your guide to Campsite in Japan. Arriving at a Japanese is less like vanishing into the wild than many travelers expect. Children are already on bicycles."
-twitter_title: "Campsite"
+twitter_title: "Campsite: How Japan Turns the Outdoors into an Ordered Form of Lodging"
 twitter_description: "Your guide to Campsite in Japan. Arriving at a Japanese is less like vanishing into the wild than many travelers expect. Children are already on bicycles."
 genesis_noindex: 0
 genesis_nofollow: 0

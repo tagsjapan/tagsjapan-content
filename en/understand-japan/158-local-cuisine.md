@@ -1,5 +1,5 @@
 ---
-title: "Local Cuisine"
+title: "Local Cuisine: When a Recipe Becomes a Place"
 slug: understand-japan-local-cuisine
 wp_date: 2025-11-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a community hall kitchen, several generations can stand over the sa
 
 genesis_title: ""
 genesis_description: "Learn about Local Cuisine in Japan. It is a concept about how a dish ties itself to local conditions: available ingredients, climate, seasonal rhythms,..."
-open_graph_title: "Local Cuisine"
+open_graph_title: "Local Cuisine: When a Recipe Becomes a Place"
 open_graph_description: "Learn about Local Cuisine in Japan. It is a concept about how a dish ties itself to local conditions: available ingredients, climate, seasonal rhythms,..."
-twitter_title: "Local Cuisine"
+twitter_title: "Local Cuisine: When a Recipe Becomes a Place"
 twitter_description: "Learn about Local Cuisine in Japan. It is a concept about how a dish ties itself to local conditions: available ingredients, climate, seasonal rhythms,..."
 genesis_noindex: 0
 genesis_nofollow: 0

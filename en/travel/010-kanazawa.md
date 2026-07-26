@@ -1,5 +1,5 @@
 ---
-title: "Kanazawa"
+title: "Kanazawa: A City of Stored Refinement"
 slug: travel-kanazawa
 wp_date: 2025-01-19 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Kanazawa does not overwhelm in the way the great Japanese capitals do.
 
 genesis_title: ""
 genesis_description: "Discover Kanazawa, Japan. Kanazawa does not overwhelm in the way the great Japanese capitals do. It accumulates instead."
-open_graph_title: "Kanazawa"
+open_graph_title: "Kanazawa: A City of Stored Refinement"
 open_graph_description: "Discover Kanazawa, Japan. Kanazawa does not overwhelm in the way the great Japanese capitals do. It accumulates instead."
-twitter_title: "Kanazawa"
+twitter_title: "Kanazawa: A City of Stored Refinement"
 twitter_description: "Discover Kanazawa, Japan. Kanazawa does not overwhelm in the way the great Japanese capitals do. It accumulates instead."
 genesis_noindex: 0
 genesis_nofollow: 0

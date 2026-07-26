@@ -1,5 +1,5 @@
 ---
-title: "Disaster Kit"
+title: "Disaster Kit: The Small Bag That Explains a Country"
 slug: travel-disaster-kit
 wp_date: 2026-02-15 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Open the wrong drawer in a Tokyo apartment guide, a municipal prepared
 
 genesis_title: ""
 genesis_description: "Open the wrong drawer in a Tokyo apartment guide, a municipal preparedness booklet, or a hotel emergency page and you begin to understand something about Jap..."
-open_graph_title: "Disaster Kit"
+open_graph_title: "Disaster Kit: The Small Bag That Explains a Country"
 open_graph_description: "Open the wrong drawer in a Tokyo apartment guide, a municipal preparedness booklet, or a hotel emergency page and you begin to understand something about Jap..."
-twitter_title: "Disaster Kit"
+twitter_title: "Disaster Kit: The Small Bag That Explains a Country"
 twitter_description: "Open the wrong drawer in a Tokyo apartment guide, a municipal preparedness booklet, or a hotel emergency page and you begin to understand something about Jap..."
 genesis_noindex: 0
 genesis_nofollow: 0

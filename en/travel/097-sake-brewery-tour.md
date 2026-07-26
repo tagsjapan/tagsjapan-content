@@ -1,5 +1,5 @@
 ---
-title: "Sake Brewery Tour"
+title: "Sake Brewery Tour: Reading a Region Through the Brew"
 slug: travel-sake-brewery-tour
 wp_date: 2025-07-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In many parts of Japan, the most interesting drink on the table begins
 
 genesis_title: ""
 genesis_description: "Guide to Sake Brewery Tour in Japan. In many parts of Japan, the most interesting drink on the table begins long before the table."
-open_graph_title: "Sake Brewery Tour"
+open_graph_title: "Sake Brewery Tour: Reading a Region Through the Brew"
 open_graph_description: "Guide to Sake Brewery Tour in Japan. In many parts of Japan, the most interesting drink on the table begins long before the table."
-twitter_title: "Sake Brewery Tour"
+twitter_title: "Sake Brewery Tour: Reading a Region Through the Brew"
 twitter_description: "Guide to Sake Brewery Tour in Japan. In many parts of Japan, the most interesting drink on the table begins long before the table."
 genesis_noindex: 0
 genesis_nofollow: 0

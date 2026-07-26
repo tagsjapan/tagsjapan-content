@@ -1,5 +1,5 @@
 ---
-title: "Evacuation Shelter"
+title: "Evacuation Shelter: Knowing Where the Public Room Is"
 slug: travel-evacuation-shelter
 wp_date: 2026-02-17 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The useful question in a disaster is rarely abstract. It is not \"What
 
 genesis_title: ""
 genesis_description: "The useful question in a disaster is rarely abstract. It is not \"What is Japan's disaster culture?\" but \"Where do we go now?"
-open_graph_title: "Evacuation Shelter"
+open_graph_title: "Evacuation Shelter: Knowing Where the Public Room Is"
 open_graph_description: "The useful question in a disaster is rarely abstract. It is not \"What is Japan's disaster culture?\" but \"Where do we go now?"
-twitter_title: "Evacuation Shelter"
+twitter_title: "Evacuation Shelter: Knowing Where the Public Room Is"
 twitter_description: "The useful question in a disaster is rarely abstract. It is not \"What is Japan's disaster culture?\" but \"Where do we go now?"
 genesis_noindex: 0
 genesis_nofollow: 0

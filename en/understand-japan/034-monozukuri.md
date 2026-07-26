@@ -1,5 +1,5 @@
 ---
-title: "Monozukuri"
+title: "Monozukuri: Why Making Things Became a National Ideal"
 slug: understand-japan-monozukuri
 wp_date: 2025-03-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a factory floor, the word may be attached to a tool, a process char
 
 genesis_title: ""
 genesis_description: "On a factory floor, the word may be attached to a tool, a process chart, a training wall, or a veteran worker showing someone younger how to judge a surface ..."
-open_graph_title: "Monozukuri"
+open_graph_title: "Monozukuri: Why Making Things Became a National Ideal"
 open_graph_description: "On a factory floor, the word may be attached to a tool, a process chart, a training wall, or a veteran worker showing someone younger how to judge a surface ..."
-twitter_title: "Monozukuri"
+twitter_title: "Monozukuri: Why Making Things Became a National Ideal"
 twitter_description: "On a factory floor, the word may be attached to a tool, a process chart, a training wall, or a veteran worker showing someone younger how to judge a surface ..."
 genesis_noindex: 0
 genesis_nofollow: 0

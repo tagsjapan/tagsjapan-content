@@ -1,5 +1,5 @@
 ---
-title: "Baseball"
+title: "Baseball: Japan’s Summer Language"
 slug: understand-japan-baseball
 wp_date: 2026-05-08 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Baseball（野球） in Japan is not a single league or a single level
 
 genesis_title: ""
 genesis_description: "Learn about Baseball in Japan. The stage is often Koshien（甲子園）, the high school tournament that turns a sport into a national season."
-open_graph_title: "Baseball"
+open_graph_title: "Baseball: Japan’s Summer Language"
 open_graph_description: "Learn about Baseball in Japan. The stage is often Koshien（甲子園）, the high school tournament that turns a sport into a national season."
-twitter_title: "Baseball"
+twitter_title: "Baseball: Japan’s Summer Language"
 twitter_description: "Learn about Baseball in Japan. The stage is often Koshien（甲子園）, the high school tournament that turns a sport into a national season."
 genesis_noindex: 0
 genesis_nofollow: 0

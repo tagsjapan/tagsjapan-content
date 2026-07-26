@@ -1,5 +1,5 @@
 ---
-title: "Electronics Store"
+title: "Electronics Store: The Station-Side Cathedral of Gadgets"
 slug: travel-electronics-store
 wp_date: 2026-01-08 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The doors open and the noise hits first: escalator announcements, jing
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Electronics Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Electronics Store"
+open_graph_title: "Electronics Store: The Station-Side Cathedral of Gadgets"
 open_graph_description: "A comprehensive guide to Electronics Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Electronics Store"
+twitter_title: "Electronics Store: The Station-Side Cathedral of Gadgets"
 twitter_description: "A comprehensive guide to Electronics Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

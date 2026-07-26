@@ -1,5 +1,5 @@
 ---
-title: "Green Transportation"
+title: "Green Transportation: Seeing More by Burning Less"
 slug: travel-green-transportation
 wp_date: 2026-04-21 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, low-carbon travel is often less a sacrifice than an upgrade 
 
 genesis_title: ""
 genesis_description: "In Japan, low-carbon travel is often less a sacrifice than an upgrade in attention. You feel it when a trip shifts from steering and parking to timetables, p..."
-open_graph_title: "Green Transportation"
+open_graph_title: "Green Transportation: Seeing More by Burning Less"
 open_graph_description: "In Japan, low-carbon travel is often less a sacrifice than an upgrade in attention. You feel it when a trip shifts from steering and parking to timetables, p..."
-twitter_title: "Green Transportation"
+twitter_title: "Green Transportation: Seeing More by Burning Less"
 twitter_description: "In Japan, low-carbon travel is often less a sacrifice than an upgrade in attention. You feel it when a trip shifts from steering and parking to timetables, p..."
 genesis_noindex: 0
 genesis_nofollow: 0

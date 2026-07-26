@@ -1,5 +1,5 @@
 ---
-title: "End-of-life Planning"
+title: "End-of-life Planning: Making Death Talkable in a Super-Aging Society"
 slug: understand-japan-end-of-life-planning
 wp_date: 2025-10-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Japan, you can buy an “ending note” the way you buy a calendar.
 
 genesis_title: ""
 genesis_description: "Learn about End-of-life Planning in Japan. Decisions that used to be deferred until a crisis now have to be clarified while a person still has capacity."
-open_graph_title: "End-of-life Planning"
+open_graph_title: "End-of-life Planning: Making Death Talkable in a Super-Aging Society"
 open_graph_description: "Learn about End-of-life Planning in Japan. Decisions that used to be deferred until a crisis now have to be clarified while a person still has capacity."
-twitter_title: "End-of-life Planning"
+twitter_title: "End-of-life Planning: Making Death Talkable in a Super-Aging Society"
 twitter_description: "Learn about End-of-life Planning in Japan. Decisions that used to be deferred until a crisis now have to be clarified while a person still has capacity."
 genesis_noindex: 0
 genesis_nofollow: 0

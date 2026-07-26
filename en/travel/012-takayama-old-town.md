@@ -1,5 +1,5 @@
 ---
-title: "Takayama Old Town"
+title: "Takayama Old Town: A Mountain Town That Kept Its Trading Rhythm"
 slug: travel-takayama-old-town
 wp_date: 2025-01-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first thing you notice in Takayama is not grandeur but scale. The 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Takayama Old Town in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Takayama Old Town"
+open_graph_title: "Takayama Old Town: A Mountain Town That Kept Its Trading Rhythm"
 open_graph_description: "A comprehensive guide to Takayama Old Town in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Takayama Old Town"
+twitter_title: "Takayama Old Town: A Mountain Town That Kept Its Trading Rhythm"
 twitter_description: "A comprehensive guide to Takayama Old Town in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

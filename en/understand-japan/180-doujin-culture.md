@@ -1,5 +1,5 @@
 ---
-title: "Doujin Culture"
+title: "Doujin Culture: Self-Organized Publishing Outside the Market"
 slug: understand-japan-doujin-culture
 wp_date: 2025-12-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The scene looks like a temporary city built out of folding tables. Car
 
 genesis_title: ""
 genesis_description: "Learn about Doujin Culture in Japan. Doujin culture is often misread abroad as a narrow synonym for fan fiction. The scene looks like"
-open_graph_title: "Doujin Culture"
+open_graph_title: "Doujin Culture: Self-Organized Publishing Outside the Market"
 open_graph_description: "Learn about Doujin Culture in Japan. Doujin culture is often misread abroad as a narrow synonym for fan fiction. The scene looks like"
-twitter_title: "Doujin Culture"
+twitter_title: "Doujin Culture: Self-Organized Publishing Outside the Market"
 twitter_description: "Learn about Doujin Culture in Japan. Doujin culture is often misread abroad as a narrow synonym for fan fiction. The scene looks like"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Eco-friendly Restaurant"
+title: "Eco-friendly Restaurant: Eating the Landscape, Responsibly"
 slug: travel-eco-friendly-restaurant
 wp_date: 2026-04-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The menu arrives like a small map. Not of neighborhoods, but of farms 
 
 genesis_title: ""
 genesis_description: "The menu arrives like a small map. Not of neighborhoods, but of farms and fishing grounds: a name of a valley you passed on the train, a vegetable you don’t ..."
-open_graph_title: "Eco-friendly Restaurant"
+open_graph_title: "Eco-friendly Restaurant: Eating the Landscape, Responsibly"
 open_graph_description: "The menu arrives like a small map. Not of neighborhoods, but of farms and fishing grounds: a name of a valley you passed on the train, a vegetable you don’t ..."
-twitter_title: "Eco-friendly Restaurant"
+twitter_title: "Eco-friendly Restaurant: Eating the Landscape, Responsibly"
 twitter_description: "The menu arrives like a small map. Not of neighborhoods, but of farms and fishing grounds: a name of a valley you passed on the train, a vegetable you don’t ..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Commendation"
+title: "Commendation: How Japan Turns Public Virtue into Formal Honors"
 slug: understand-japan-commendation
 wp_date: 2025-08-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A list is published, names are read, and a small piece of ribbon becom
 
 genesis_title: ""
 genesis_description: "A list is published, names are read, and a small piece of ribbon becomes a public statement. Japan’s honor system appears in newspapers and official websites..."
-open_graph_title: "Commendation"
+open_graph_title: "Commendation: How Japan Turns Public Virtue into Formal Honors"
 open_graph_description: "A list is published, names are read, and a small piece of ribbon becomes a public statement. Japan’s honor system appears in newspapers and official websites..."
-twitter_title: "Commendation"
+twitter_title: "Commendation: How Japan Turns Public Virtue into Formal Honors"
 twitter_description: "A list is published, names are read, and a small piece of ribbon becomes a public statement. Japan’s honor system appears in newspapers and official websites..."
 genesis_noindex: 0
 genesis_nofollow: 0

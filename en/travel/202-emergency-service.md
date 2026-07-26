@@ -1,5 +1,5 @@
 ---
-title: "Emergency Service"
+title: "Emergency Service: What To Do Before Panic Takes Over"
 slug: travel-emergency-service
 wp_date: 2026-02-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The important part comes before the call. A traveler slips on wet step
 
 genesis_title: ""
 genesis_description: "The important part comes before the call. A traveler slips on wet steps outside a station, or a companion develops chest pain in the middle of dinner, and fo..."
-open_graph_title: "Emergency Service"
+open_graph_title: "Emergency Service: What To Do Before Panic Takes Over"
 open_graph_description: "The important part comes before the call. A traveler slips on wet steps outside a station, or a companion develops chest pain in the middle of dinner, and fo..."
-twitter_title: "Emergency Service"
+twitter_title: "Emergency Service: What To Do Before Panic Takes Over"
 twitter_description: "The important part comes before the call. A traveler slips on wet steps outside a station, or a companion develops chest pain in the middle of dinner, and fo..."
 genesis_noindex: 0
 genesis_nofollow: 0

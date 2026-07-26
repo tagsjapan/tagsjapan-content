@@ -1,5 +1,5 @@
 ---
-title: "Lake Cycling"
+title: "Lake Cycling: Measuring Japan at Bicycle Speed"
 slug: travel-lake-cycling
 wp_date: 2025-09-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first surprise is the wind. You can see the lake perfectly—flat,
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Lake Cycling in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Lake Cycling"
+open_graph_title: "Lake Cycling: Measuring Japan at Bicycle Speed"
 open_graph_description: "A comprehensive guide to Lake Cycling in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Lake Cycling"
+twitter_title: "Lake Cycling: Measuring Japan at Bicycle Speed"
 twitter_description: "A comprehensive guide to Lake Cycling in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

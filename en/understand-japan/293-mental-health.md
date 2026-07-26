@@ -1,5 +1,5 @@
 ---
-title: "Mental Health"
+title: "Mental Health: From Private Strain to Public System"
 slug: understand-japan-mental-health
 wp_date: 2026-07-07 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many Japanese workplaces, a message about mental health arrives as 
 
 genesis_title: ""
 genesis_description: "Learn about Mental Health in Japan. This is one of the quiet ways “mental health” became ordinary in Japan—not through confession, but through forms."
-open_graph_title: "Mental Health"
+open_graph_title: "Mental Health: From Private Strain to Public System"
 open_graph_description: "Learn about Mental Health in Japan. This is one of the quiet ways “mental health” became ordinary in Japan—not through confession, but through forms."
-twitter_title: "Mental Health"
+twitter_title: "Mental Health: From Private Strain to Public System"
 twitter_description: "Learn about Mental Health in Japan. This is one of the quiet ways “mental health” became ordinary in Japan—not through confession, but through forms."
 genesis_noindex: 0
 genesis_nofollow: 0

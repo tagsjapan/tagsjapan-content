@@ -1,5 +1,5 @@
 ---
-title: "School Uniform Culture"
+title: "School Uniform Culture: Wearing the Rules in Plain Sight"
 slug: understand-japan-school-uniform-culture
 wp_date: 2025-10-07 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "There is a particular kind of morning decision that looks trivial unti
 
 genesis_title: ""
 genesis_description: "Learn about School Uniform Culture in Japan. There is a particular kind of morning decision that looks trivial until you remember it repeats for years."
-open_graph_title: "School Uniform Culture"
+open_graph_title: "School Uniform Culture: Wearing the Rules in Plain Sight"
 open_graph_description: "Learn about School Uniform Culture in Japan. There is a particular kind of morning decision that looks trivial until you remember it repeats for years."
-twitter_title: "School Uniform Culture"
+twitter_title: "School Uniform Culture: Wearing the Rules in Plain Sight"
 twitter_description: "Learn about School Uniform Culture in Japan. There is a particular kind of morning decision that looks trivial until you remember it repeats for years."
 genesis_noindex: 0
 genesis_nofollow: 0

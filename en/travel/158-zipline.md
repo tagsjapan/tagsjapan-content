@@ -1,5 +1,5 @@
 ---
-title: "Zipline"
+title: "Zipline: A Landscape You Don’t Just Look At—You Cross It"
 slug: travel-zipline
 wp_date: 2025-11-12 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The harness feels absurdly serious for something that lasts less than 
 
 genesis_title: ""
 genesis_description: "Explore Zipline in Japan. The harness feels absurdly serious for something that lasts less than a minute. Then you step, and the view turns into motion."
-open_graph_title: "Zipline"
+open_graph_title: "Zipline: A Landscape You Don’t Just Look At—You Cross It"
 open_graph_description: "Explore Zipline in Japan. The harness feels absurdly serious for something that lasts less than a minute. Then you step, and the view turns into motion."
-twitter_title: "Zipline"
+twitter_title: "Zipline: A Landscape You Don’t Just Look At—You Cross It"
 twitter_description: "Explore Zipline in Japan. The harness feels absurdly serious for something that lasts less than a minute. Then you step, and the view turns into motion."
 genesis_noindex: 0
 genesis_nofollow: 0

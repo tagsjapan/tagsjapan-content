@@ -1,5 +1,5 @@
 ---
-title: "House of Councillors"
+title: "House of Councillors: The Chamber That Slows the Temperature"
 slug: understand-japan-house-of-councillors
 wp_date: 2025-02-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Japanese politics has a second national election that feels different 
 
 genesis_title: ""
 genesis_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
-open_graph_title: "House of Councillors"
+open_graph_title: "House of Councillors: The Chamber That Slows the Temperature"
 open_graph_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
-twitter_title: "House of Councillors"
+twitter_title: "House of Councillors: The Chamber That Slows the Temperature"
 twitter_description: "Japanese politics has a second national election that feels different from the one that can sweep a cabinet out the door. It usually comes in the summer."
 genesis_noindex: 0
 genesis_nofollow: 0

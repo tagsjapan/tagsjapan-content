@@ -1,5 +1,5 @@
 ---
-title: "Eco Trail"
+title: "Eco Trail: Walking Without Treating the Land as Scenery"
 slug: travel-eco-trail
 wp_date: 2026-04-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At the start of an eco trail in Japan, the most useful sign is often t
 
 genesis_title: ""
 genesis_description: "At the start of an eco trail in Japan, the most useful sign is often the least dramatic one. It may tell you how long the route takes, where the water points..."
-open_graph_title: "Eco Trail"
+open_graph_title: "Eco Trail: Walking Without Treating the Land as Scenery"
 open_graph_description: "At the start of an eco trail in Japan, the most useful sign is often the least dramatic one. It may tell you how long the route takes, where the water points..."
-twitter_title: "Eco Trail"
+twitter_title: "Eco Trail: Walking Without Treating the Land as Scenery"
 twitter_description: "At the start of an eco trail in Japan, the most useful sign is often the least dramatic one. It may tell you how long the route takes, where the water points..."
 genesis_noindex: 0
 genesis_nofollow: 0

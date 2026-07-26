@@ -1,5 +1,5 @@
 ---
-title: "Declining Birthrate Measures"
+title: "Declining Birthrate Measures: Japan’s Attempt to Rebuild the Conditions for Family Life"
 slug: understand-japan-declining-birthrate-measures
 wp_date: 2025-10-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Declining Birthrate Measures（少子化対策） in Japan are not a s
 
 genesis_title: ""
 genesis_description: "Learn about Declining Birthrate Measures in Japan. In Japan, the declining birthrate is not a statistic that stays in a spreadsheet."
-open_graph_title: "Declining Birthrate Measures"
+open_graph_title: "Declining Birthrate Measures: Japan’s Attempt to Rebuild the Conditions for Family Life"
 open_graph_description: "Learn about Declining Birthrate Measures in Japan. In Japan, the declining birthrate is not a statistic that stays in a spreadsheet."
-twitter_title: "Declining Birthrate Measures"
+twitter_title: "Declining Birthrate Measures: Japan’s Attempt to Rebuild the Conditions for Family Life"
 twitter_description: "Learn about Declining Birthrate Measures in Japan. In Japan, the declining birthrate is not a statistic that stays in a spreadsheet."
 genesis_noindex: 0
 genesis_nofollow: 0

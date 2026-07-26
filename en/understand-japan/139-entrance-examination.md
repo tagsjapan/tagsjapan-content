@@ -1,5 +1,5 @@
 ---
-title: "Entrance Examination"
+title: "Entrance Examination: Japan’s Sorting Machine, Rebuilt Without Being Replaced"
 slug: understand-japan-entrance-examination
 wp_date: 2025-10-04 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Entrance Examination（入学試験） in Japan is not one test paper.
 
 genesis_title: ""
 genesis_description: "Learn about Entrance Examination in Japan. In practice it is an institution—one of the country’s most durable devices for distributing opportunity and..."
-open_graph_title: "Entrance Examination"
+open_graph_title: "Entrance Examination: Japan’s Sorting Machine, Rebuilt Without Being Replaced"
 open_graph_description: "Learn about Entrance Examination in Japan. In practice it is an institution—one of the country’s most durable devices for distributing opportunity and..."
-twitter_title: "Entrance Examination"
+twitter_title: "Entrance Examination: Japan’s Sorting Machine, Rebuilt Without Being Replaced"
 twitter_description: "Learn about Entrance Examination in Japan. In practice it is an institution—one of the country’s most durable devices for distributing opportunity and..."
 genesis_noindex: 0
 genesis_nofollow: 0

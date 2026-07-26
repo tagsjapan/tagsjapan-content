@@ -1,5 +1,5 @@
 ---
-title: "Social Stratification"
+title: "Social Stratification: The Inequality Beneath Japan's Middle-Class Surface"
 slug: understand-japan-social-stratification
 wp_date: 2025-06-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Japan, class difference is often easier to detect in schedules and 
 
 genesis_title: ""
 genesis_description: "In Japan, class difference is often easier to detect in schedules and options than in dramatic visual contrast. Who can afford cram school without crisis."
-open_graph_title: "Social Stratification"
+open_graph_title: "Social Stratification: The Inequality Beneath Japan's Middle-Class Surface"
 open_graph_description: "In Japan, class difference is often easier to detect in schedules and options than in dramatic visual contrast. Who can afford cram school without crisis."
-twitter_title: "Social Stratification"
+twitter_title: "Social Stratification: The Inequality Beneath Japan's Middle-Class Surface"
 twitter_description: "In Japan, class difference is often easier to detect in schedules and options than in dramatic visual contrast. Who can afford cram school without crisis."
 genesis_noindex: 0
 genesis_nofollow: 0

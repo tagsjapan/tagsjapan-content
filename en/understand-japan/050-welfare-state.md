@@ -1,5 +1,5 @@
 ---
-title: "Welfare State"
+title: "Welfare State: Japan's Safety Net Built on Insurance and Family"
 slug: understand-japan-welfare-state
 wp_date: 2025-04-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On an ordinary weekday in Japan, the welfare state is easy to miss bec
 
 genesis_title: ""
 genesis_description: "On an ordinary weekday in Japan, the welfare state is easy to miss because it rarely announces itself with a single dramatic institution."
-open_graph_title: "Welfare State"
+open_graph_title: "Welfare State: Japan's Safety Net Built on Insurance and Family"
 open_graph_description: "On an ordinary weekday in Japan, the welfare state is easy to miss because it rarely announces itself with a single dramatic institution."
-twitter_title: "Welfare State"
+twitter_title: "Welfare State: Japan's Safety Net Built on Insurance and Family"
 twitter_description: "On an ordinary weekday in Japan, the welfare state is easy to miss because it rarely announces itself with a single dramatic institution."
 genesis_noindex: 0
 genesis_nofollow: 0

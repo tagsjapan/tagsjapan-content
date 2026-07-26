@@ -1,5 +1,5 @@
 ---
-title: "Niconico Douga"
+title: "Niconico Douga: How Japan Turned Watching Into a Crowd"
 slug: understand-japan-niconico-douga
 wp_date: 2026-06-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A line of text slides across the video, perfectly timed to the punchli
 
 genesis_title: ""
 genesis_description: "Learn about Niconico Douga in Japan. That design choice is the reason Niconico Douga became more than a video host. A line of text slide"
-open_graph_title: "Niconico Douga"
+open_graph_title: "Niconico Douga: How Japan Turned Watching Into a Crowd"
 open_graph_description: "Learn about Niconico Douga in Japan. That design choice is the reason Niconico Douga became more than a video host. A line of text slide"
-twitter_title: "Niconico Douga"
+twitter_title: "Niconico Douga: How Japan Turned Watching Into a Crowd"
 twitter_description: "Learn about Niconico Douga in Japan. That design choice is the reason Niconico Douga became more than a video host. A line of text slide"
 genesis_noindex: 0
 genesis_nofollow: 0

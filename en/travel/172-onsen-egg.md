@@ -1,5 +1,5 @@
 ---
-title: "Onsen Egg"
+title: "Onsen Egg: The Smallest Meal in the Hot-Spring Town"
 slug: travel-onsen-egg
 wp_date: 2025-12-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "It usually enters the trip sideways. You are not seated for lunch. You
 
 genesis_title: ""
 genesis_description: "Guide to Onsen Egg in Japan. It usually enters the trip sideways. You are not seated for lunch. You are not studying a famous menu."
-open_graph_title: "Onsen Egg"
+open_graph_title: "Onsen Egg: The Smallest Meal in the Hot-Spring Town"
 open_graph_description: "Guide to Onsen Egg in Japan. It usually enters the trip sideways. You are not seated for lunch. You are not studying a famous menu."
-twitter_title: "Onsen Egg"
+twitter_title: "Onsen Egg: The Smallest Meal in the Hot-Spring Town"
 twitter_description: "Guide to Onsen Egg in Japan. It usually enters the trip sideways. You are not seated for lunch. You are not studying a famous menu."
 genesis_noindex: 0
 genesis_nofollow: 0

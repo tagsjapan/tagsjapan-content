@@ -1,5 +1,5 @@
 ---
-title: "Shrine and Temple Pilgrimage"
+title: "Shrine and Temple Pilgrimage: Religion as Routine, Not Just Belief"
 slug: understand-japan-shrine-and-temple-pilgrimage
 wp_date: 2026-01-21 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Goshuin（御朱印） makes that action-based character even more con
 
 genesis_title: ""
 genesis_description: "Learn about Shrine and Temple Pilgrimage in Japan. What matters is not whether everyone in line can explain doctrine. On a cold morning in"
-open_graph_title: "Shrine and Temple Pilgrimage"
+open_graph_title: "Shrine and Temple Pilgrimage: Religion as Routine, Not Just Belief"
 open_graph_description: "Learn about Shrine and Temple Pilgrimage in Japan. What matters is not whether everyone in line can explain doctrine. On a cold morning in"
-twitter_title: "Shrine and Temple Pilgrimage"
+twitter_title: "Shrine and Temple Pilgrimage: Religion as Routine, Not Just Belief"
 twitter_description: "Learn about Shrine and Temple Pilgrimage in Japan. What matters is not whether everyone in line can explain doctrine. On a cold morning in"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Tuition Waiver"
+title: "Tuition Waiver: Japan’s Shift from “Student Debt” to Public Cost‑Sharing"
 slug: understand-japan-tuition-waiver
 wp_date: 2025-09-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Tuition Waiver（授業料免除） in contemporary Japan is best unde
 
 genesis_title: ""
 genesis_description: "Learn about Tuition Waiver in Japan. Tuition Waiver（授業料免除） in contemporary Japan is best understood through the New Higher Education Study Support..."
-open_graph_title: "Tuition Waiver"
+open_graph_title: "Tuition Waiver: Japan’s Shift from “Student Debt” to Public Cost‑Sharing"
 open_graph_description: "Learn about Tuition Waiver in Japan. Tuition Waiver（授業料免除） in contemporary Japan is best understood through the New Higher Education Study Support..."
-twitter_title: "Tuition Waiver"
+twitter_title: "Tuition Waiver: Japan’s Shift from “Student Debt” to Public Cost‑Sharing"
 twitter_description: "Learn about Tuition Waiver in Japan. Tuition Waiver（授業料免除） in contemporary Japan is best understood through the New Higher Education Study Support..."
 genesis_noindex: 0
 genesis_nofollow: 0

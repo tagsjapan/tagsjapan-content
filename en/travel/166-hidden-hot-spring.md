@@ -1,5 +1,5 @@
 ---
-title: "Hidden Hot Spring"
+title: "Hidden Hot Spring: The Bath You Have to Mean to Reach"
 slug: travel-hidden-hot-spring
 wp_date: 2025-11-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You can tell a hidden hot spring trip has begun when the timetable sta
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Hidden Hot Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Hidden Hot Spring"
+open_graph_title: "Hidden Hot Spring: The Bath You Have to Mean to Reach"
 open_graph_description: "A comprehensive guide to Hidden Hot Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Hidden Hot Spring"
+twitter_title: "Hidden Hot Spring: The Bath You Have to Mean to Reach"
 twitter_description: "A comprehensive guide to Hidden Hot Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

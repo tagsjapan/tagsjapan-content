@@ -1,5 +1,5 @@
 ---
-title: "Annual Shrine & Temple Events"
+title: "Annual Shrine & Temple Events: How Japan Cuts the Year into Ritual"
 slug: understand-japan-annual-shrine-&-temple-events
 wp_status: draft
 wp_blog_id: 1
@@ -18,9 +18,9 @@ excerpt: "Annual Shrine & Temple Events（社寺年中行事） are the recurrin
 
 genesis_title: ""
 genesis_description: "Learn about Annual Shrine & Temple Events in Japan. It is the operating system of a religious institution that repeats itself on purpose."
-open_graph_title: "Annual Shrine & Temple Events"
+open_graph_title: "Annual Shrine & Temple Events: How Japan Cuts the Year into Ritual"
 open_graph_description: "Learn about Annual Shrine & Temple Events in Japan. It is the operating system of a religious institution that repeats itself on purpose."
-twitter_title: "Annual Shrine & Temple Events"
+twitter_title: "Annual Shrine & Temple Events: How Japan Cuts the Year into Ritual"
 twitter_description: "Learn about Annual Shrine & Temple Events in Japan. It is the operating system of a religious institution that repeats itself on purpose."
 genesis_noindex: 0
 genesis_nofollow: 0

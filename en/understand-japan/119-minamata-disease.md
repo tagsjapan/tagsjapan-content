@@ -1,5 +1,5 @@
 ---
-title: "Minamata Disease"
+title: "Minamata Disease: Japan’s Most Painful Lesson in Industrial Modernity"
 slug: understand-japan-minamata-disease
 wp_date: 2025-08-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A coastal community can look ordinary until the body begins to fail in
 
 genesis_title: ""
 genesis_description: "A coastal community can look ordinary until the body begins to fail in a pattern nobody can explain. Hands tremble, speech slurs, balance collapses, and fami..."
-open_graph_title: "Minamata Disease"
+open_graph_title: "Minamata Disease: Japan’s Most Painful Lesson in Industrial Modernity"
 open_graph_description: "A coastal community can look ordinary until the body begins to fail in a pattern nobody can explain. Hands tremble, speech slurs, balance collapses, and fami..."
-twitter_title: "Minamata Disease"
+twitter_title: "Minamata Disease: Japan’s Most Painful Lesson in Industrial Modernity"
 twitter_description: "A coastal community can look ordinary until the body begins to fail in a pattern nobody can explain. Hands tremble, speech slurs, balance collapses, and fami..."
 genesis_noindex: 0
 genesis_nofollow: 0

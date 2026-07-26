@@ -1,5 +1,5 @@
 ---
-title: "World Heritage Conservation"
+title: "World Heritage Conservation: The Rules That Keep a Place Real"
 slug: travel-world-heritage-conservation
 wp_date: 2026-05-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At the trailhead the sign is polite and firm. Stay on the path. Don’
 
 genesis_title: ""
 genesis_description: "At the trailhead the sign is polite and firm. Stay on the path. Don’t pick plants. Certain areas are off limits. Sometimes there’s a note about guides or sea..."
-open_graph_title: "World Heritage Conservation"
+open_graph_title: "World Heritage Conservation: The Rules That Keep a Place Real"
 open_graph_description: "At the trailhead the sign is polite and firm. Stay on the path. Don’t pick plants. Certain areas are off limits. Sometimes there’s a note about guides or sea..."
-twitter_title: "World Heritage Conservation"
+twitter_title: "World Heritage Conservation: The Rules That Keep a Place Real"
 twitter_description: "At the trailhead the sign is polite and firm. Stay on the path. Don’t pick plants. Certain areas are off limits. Sometimes there’s a note about guides or sea..."
 genesis_noindex: 0
 genesis_nofollow: 0

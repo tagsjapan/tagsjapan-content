@@ -1,5 +1,5 @@
 ---
-title: "Lost and Found"
+title: "Lost and Found: The System Behind Japan's Reputation for Returning Things"
 slug: travel-lost-and-found
 wp_date: 2026-03-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The panic arrives all at once. A wallet is gone after the train ride. 
 
 genesis_title: ""
 genesis_description: "The panic arrives all at once. A wallet is gone after the train ride. A passport sleeve is missing at the hotel. The shopping bag that was definitely on the ..."
-open_graph_title: "Lost and Found"
+open_graph_title: "Lost and Found: The System Behind Japan's Reputation for Returning Things"
 open_graph_description: "The panic arrives all at once. A wallet is gone after the train ride. A passport sleeve is missing at the hotel. The shopping bag that was definitely on the ..."
-twitter_title: "Lost and Found"
+twitter_title: "Lost and Found: The System Behind Japan's Reputation for Returning Things"
 twitter_description: "The panic arrives all at once. A wallet is gone after the train ride. A passport sleeve is missing at the hotel. The shopping bag that was definitely on the ..."
 genesis_noindex: 0
 genesis_nofollow: 0

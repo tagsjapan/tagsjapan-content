@@ -1,5 +1,5 @@
 ---
-title: "Childcare Leave"
+title: "Childcare Leave: Japan’s Law, Its Workplace Mood, and the Fight to Make Fathers Use It"
 slug: understand-japan-childcare-leave
 wp_date: 2025-10-11 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Childcare Leave（育児休業） is a legal right that allows workers
 
 genesis_title: ""
 genesis_description: "Learn about Childcare Leave in Japan. In practice, the decision is filtered through “atmosphere”—the invisible pressure of a workplace that still prizes..."
-open_graph_title: "Childcare Leave"
+open_graph_title: "Childcare Leave: Japan’s Law, Its Workplace Mood, and the Fight to Make Fathers Use It"
 open_graph_description: "Learn about Childcare Leave in Japan. In practice, the decision is filtered through “atmosphere”—the invisible pressure of a workplace that still prizes..."
-twitter_title: "Childcare Leave"
+twitter_title: "Childcare Leave: Japan’s Law, Its Workplace Mood, and the Fight to Make Fathers Use It"
 twitter_description: "Learn about Childcare Leave in Japan. In practice, the decision is filtered through “atmosphere”—the invisible pressure of a workplace that still prizes..."
 genesis_noindex: 0
 genesis_nofollow: 0

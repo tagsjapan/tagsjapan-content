@@ -1,5 +1,5 @@
 ---
-title: "Netizen"
+title: "Netizen: Japan’s Crowd That Talks in Memes"
 slug: understand-japan-netizen
 wp_date: 2026-06-06 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A big game ends, a scandal breaks, or a variety show lands a punchline
 
 genesis_title: ""
 genesis_description: "Learn about Netizen in Japan. In Japan this “live talk” culture has a name—実況—and it captures something important about what Japanese people often mean..."
-open_graph_title: "Netizen"
+open_graph_title: "Netizen: Japan’s Crowd That Talks in Memes"
 open_graph_description: "Learn about Netizen in Japan. In Japan this “live talk” culture has a name—実況—and it captures something important about what Japanese people often mean..."
-twitter_title: "Netizen"
+twitter_title: "Netizen: Japan’s Crowd That Talks in Memes"
 twitter_description: "Learn about Netizen in Japan. In Japan this “live talk” culture has a name—実況—and it captures something important about what Japanese people often mean..."
 genesis_noindex: 0
 genesis_nofollow: 0

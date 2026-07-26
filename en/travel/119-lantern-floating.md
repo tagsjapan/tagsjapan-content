@@ -1,5 +1,5 @@
 ---
-title: "Lantern Floating"
+title: "Lantern Floating: Summer Nights When Japan Lowers Its Voice"
 slug: travel-lantern-floating
 wp_date: 2025-08-25 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At first you only see one light, and you’re not even sure it’s on 
 
 genesis_title: ""
 genesis_description: "Experience Lantern Floating in Japan. At first you only see one light, and you’re not even sure it’s on purpose. The crowd around you isn’t cheering."
-open_graph_title: "Lantern Floating"
+open_graph_title: "Lantern Floating: Summer Nights When Japan Lowers Its Voice"
 open_graph_description: "Experience Lantern Floating in Japan. At first you only see one light, and you’re not even sure it’s on purpose. The crowd around you isn’t cheering."
-twitter_title: "Lantern Floating"
+twitter_title: "Lantern Floating: Summer Nights When Japan Lowers Its Voice"
 twitter_description: "Experience Lantern Floating in Japan. At first you only see one light, and you’re not even sure it’s on purpose. The crowd around you isn’t cheering."
 genesis_noindex: 0
 genesis_nofollow: 0

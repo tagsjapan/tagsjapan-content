@@ -1,5 +1,5 @@
 ---
-title: "Umeshu"
+title: "Umeshu: The Sweet Drink With a Farm Behind It"
 slug: travel-umeshu
 wp_date: 2025-06-11 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In an izakaya, the easiest order is often the one that looks least int
 
 genesis_title: ""
 genesis_description: "Discover Umeshu in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Umeshu"
+open_graph_title: "Umeshu: The Sweet Drink With a Farm Behind It"
 open_graph_description: "Discover Umeshu in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Umeshu"
+twitter_title: "Umeshu: The Sweet Drink With a Farm Behind It"
 twitter_description: "Discover Umeshu in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

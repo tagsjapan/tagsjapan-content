@@ -1,5 +1,5 @@
 ---
-title: "Puppet Theater"
+title: "Puppet Theater: Adult Drama Built from Voice, Shamisen, and Hands"
 slug: understand-japan-puppet-theater
 wp_date: 2026-02-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first surprise is the voice. A single narrator chants, speaks, cri
 
 genesis_title: ""
 genesis_description: "Learn about Puppet Theater in Japan. In this entry, “puppet theater” means Ningyō Jōruri（人形浄瑠璃）: a stage art that synchronizes three departments at once."
-open_graph_title: "Puppet Theater"
+open_graph_title: "Puppet Theater: Adult Drama Built from Voice, Shamisen, and Hands"
 open_graph_description: "Learn about Puppet Theater in Japan. In this entry, “puppet theater” means Ningyō Jōruri（人形浄瑠璃）: a stage art that synchronizes three departments at once."
-twitter_title: "Puppet Theater"
+twitter_title: "Puppet Theater: Adult Drama Built from Voice, Shamisen, and Hands"
 twitter_description: "Learn about Puppet Theater in Japan. In this entry, “puppet theater” means Ningyō Jōruri（人形浄瑠璃）: a stage art that synchronizes three departments at once."
 genesis_noindex: 0
 genesis_nofollow: 0

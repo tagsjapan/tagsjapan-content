@@ -1,5 +1,5 @@
 ---
-title: "Regional Limited Edition"
+title: "Regional Limited Edition: Shopping as a Final Itinerary Stop"
 slug: travel-regional-limited-edition
 wp_date: 2026-02-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The last hour of a Japan trip often happens under fluorescent lights. 
 
 genesis_title: ""
 genesis_description: "The last hour of a Japan trip often happens under fluorescent lights. Not in a temple, not in a museum, but in a station concourse or an airport corridor lin..."
-open_graph_title: "Regional Limited Edition"
+open_graph_title: "Regional Limited Edition: Shopping as a Final Itinerary Stop"
 open_graph_description: "The last hour of a Japan trip often happens under fluorescent lights. Not in a temple, not in a museum, but in a station concourse or an airport corridor lin..."
-twitter_title: "Regional Limited Edition"
+twitter_title: "Regional Limited Edition: Shopping as a Final Itinerary Stop"
 twitter_description: "The last hour of a Japan trip often happens under fluorescent lights. Not in a temple, not in a museum, but in a station concourse or an airport corridor lin..."
 genesis_noindex: 0
 genesis_nofollow: 0

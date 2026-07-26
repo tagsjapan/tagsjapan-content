@@ -1,5 +1,5 @@
 ---
-title: "High Economic Growth Era"
+title: "High Economic Growth Era: The Years Japan Learned to Move Fast"
 slug: understand-japan-high-economic-growth-era
 wp_date: 2025-04-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In 1964, the opening of the Tokaido Shinkansen and the Tokyo Olympics 
 
 genesis_title: ""
 genesis_description: "In 1964, the opening of the Tokaido Shinkansen and the Tokyo Olympics made Japan's postwar acceleration visible in a single national image."
-open_graph_title: "High Economic Growth Era"
+open_graph_title: "High Economic Growth Era: The Years Japan Learned to Move Fast"
 open_graph_description: "In 1964, the opening of the Tokaido Shinkansen and the Tokyo Olympics made Japan's postwar acceleration visible in a single national image."
-twitter_title: "High Economic Growth Era"
+twitter_title: "High Economic Growth Era: The Years Japan Learned to Move Fast"
 twitter_description: "In 1964, the opening of the Tokaido Shinkansen and the Tokyo Olympics made Japan's postwar acceleration visible in a single national image."
 genesis_noindex: 0
 genesis_nofollow: 0

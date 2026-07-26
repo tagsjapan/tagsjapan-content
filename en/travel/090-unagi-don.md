@@ -1,5 +1,5 @@
 ---
-title: "Unagi Don"
+title: "Unagi Don: The Lacquered Box of Summer Appetite"
 slug: travel-unagi-don
 wp_date: 2025-06-29 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The lid arrives before the smell does. In many eel restaurants the ser
 
 genesis_title: ""
 genesis_description: "Guide to Unagi Don in Japan. The lid arrives before the smell does. Japan has plenty of foods that travelers eat on impulse. is rarely one of them."
-open_graph_title: "Unagi Don"
+open_graph_title: "Unagi Don: The Lacquered Box of Summer Appetite"
 open_graph_description: "Guide to Unagi Don in Japan. The lid arrives before the smell does. Japan has plenty of foods that travelers eat on impulse. is rarely one of them."
-twitter_title: "Unagi Don"
+twitter_title: "Unagi Don: The Lacquered Box of Summer Appetite"
 twitter_description: "Guide to Unagi Don in Japan. The lid arrives before the smell does. Japan has plenty of foods that travelers eat on impulse. is rarely one of them."
 genesis_noindex: 0
 genesis_nofollow: 0

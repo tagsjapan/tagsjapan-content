@@ -1,5 +1,5 @@
 ---
-title: "Continuous Evolution"
+title: "Continuous Evolution: Japan’s Talent for the Small Fix"
 slug: understand-japan-continuous-evolution
 wp_date: 2026-07-22 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "In a Japanese factory, change often appears as a piece of paper. A han
 
 genesis_title: ""
 genesis_description: "Learn about Continuous Evolution in Japan. The word you see is *kaizen*—improvement—and what it names is not a single breakthrough but a habit: notice,..."
-open_graph_title: "Continuous Evolution"
+open_graph_title: "Continuous Evolution: Japan’s Talent for the Small Fix"
 open_graph_description: "Learn about Continuous Evolution in Japan. The word you see is *kaizen*—improvement—and what it names is not a single breakthrough but a habit: notice,..."
-twitter_title: "Continuous Evolution"
+twitter_title: "Continuous Evolution: Japan’s Talent for the Small Fix"
 twitter_description: "Learn about Continuous Evolution in Japan. The word you see is *kaizen*—improvement—and what it names is not a single breakthrough but a habit: notice,..."
 genesis_noindex: 0
 genesis_nofollow: 0

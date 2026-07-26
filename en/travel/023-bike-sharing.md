@@ -1,5 +1,5 @@
 ---
-title: "Bike Sharing"
+title: "Bike Sharing: The Missing Distance"
 slug: travel-bike-sharing
 wp_date: 2025-02-14 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The stretch that defeats a city walker is rarely dramatic. It is the t
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Bike Sharing in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Bike Sharing"
+open_graph_title: "Bike Sharing: The Missing Distance"
 open_graph_description: "A comprehensive guide to Bike Sharing in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Bike Sharing"
+twitter_title: "Bike Sharing: The Missing Distance"
 twitter_description: "A comprehensive guide to Bike Sharing in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

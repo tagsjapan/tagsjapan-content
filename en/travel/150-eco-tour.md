@@ -1,5 +1,5 @@
 ---
-title: "Eco Tour"
+title: "Eco Tour: Japan’s Way of Putting Rules Around Nature"
 slug: travel-eco-tour
 wp_date: 2025-10-27 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The guide begins with the kind of talk travelers sometimes try to skip
 
 genesis_title: ""
 genesis_description: "Explore Eco Tour in Japan. The guide begins with the kind of talk travelers sometimes try to skip. Where to stand. What not to touch."
-open_graph_title: "Eco Tour"
+open_graph_title: "Eco Tour: Japan’s Way of Putting Rules Around Nature"
 open_graph_description: "Explore Eco Tour in Japan. The guide begins with the kind of talk travelers sometimes try to skip. Where to stand. What not to touch."
-twitter_title: "Eco Tour"
+twitter_title: "Eco Tour: Japan’s Way of Putting Rules Around Nature"
 twitter_description: "Explore Eco Tour in Japan. The guide begins with the kind of talk travelers sometimes try to skip. Where to stand. What not to touch."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Waka"
+title: "Waka: When Court Poetry Became Cultural Infrastructure"
 slug: understand-japan-waka
 wp_date: 2025-12-10 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "Waka（和歌） is often flattened into “ancient Japanese poetry,�
 
 genesis_title: ""
 genesis_description: "Learn about Waka in Japan. But the thing being competed over is older than the rulebook in the room. On a tatami floor, h"
-open_graph_title: "Waka"
+open_graph_title: "Waka: When Court Poetry Became Cultural Infrastructure"
 open_graph_description: "Learn about Waka in Japan. But the thing being competed over is older than the rulebook in the room. On a tatami floor, h"
-twitter_title: "Waka"
+twitter_title: "Waka: When Court Poetry Became Cultural Infrastructure"
 twitter_description: "Learn about Waka in Japan. But the thing being competed over is older than the rulebook in the room. On a tatami floor, h"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Bakufu (Shogunate)"
+title: "Bakufu (Shogunate): How Japan Separated Legitimacy from Rule"
 slug: understand-japan-bakufu-shogunate
 wp_date: 2025-01-05 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In the old Japanese order, a strange thing happened in plain sight. Th
 
 genesis_title: ""
 genesis_description: "In the old Japanese order, a strange thing happened in plain sight. The emperor remained in Kyoto, the court survived, ritual legitimacy stayed where it had ..."
-open_graph_title: "Bakufu (Shogunate)"
+open_graph_title: "Bakufu (Shogunate): How Japan Separated Legitimacy from Rule"
 open_graph_description: "In the old Japanese order, a strange thing happened in plain sight. The emperor remained in Kyoto, the court survived, ritual legitimacy stayed where it had ..."
-twitter_title: "Bakufu (Shogunate)"
+twitter_title: "Bakufu (Shogunate): How Japan Separated Legitimacy from Rule"
 twitter_description: "In the old Japanese order, a strange thing happened in plain sight. The emperor remained in Kyoto, the court survived, ritual legitimacy stayed where it had ..."
 genesis_noindex: 0
 genesis_nofollow: 0

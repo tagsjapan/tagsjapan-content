@@ -1,5 +1,5 @@
 ---
-title: "Great East Japan Earthquake"
+title: "Great East Japan Earthquake: The Disaster That Refused to Stay in the Past"
 slug: understand-japan-great-east-japan-earthquake
 wp_date: 2025-05-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At 2:46 p.m. on March 11, 2011, the ground off the Pacific coast of To
 
 genesis_title: ""
 genesis_description: "At 2:46 p.m. on March 11, 2011, the ground off the Pacific coast of Tohoku ruptured and Japan entered a different era. The earthquake itself was enormous."
-open_graph_title: "Great East Japan Earthquake"
+open_graph_title: "Great East Japan Earthquake: The Disaster That Refused to Stay in the Past"
 open_graph_description: "At 2:46 p.m. on March 11, 2011, the ground off the Pacific coast of Tohoku ruptured and Japan entered a different era. The earthquake itself was enormous."
-twitter_title: "Great East Japan Earthquake"
+twitter_title: "Great East Japan Earthquake: The Disaster That Refused to Stay in the Past"
 twitter_description: "At 2:46 p.m. on March 11, 2011, the ground off the Pacific coast of Tohoku ruptured and Japan entered a different era. The earthquake itself was enormous."
 genesis_noindex: 0
 genesis_nofollow: 0

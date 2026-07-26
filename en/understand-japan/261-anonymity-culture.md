@@ -1,5 +1,5 @@
 ---
-title: "Anonymity Culture"
+title: "Anonymity Culture: The Mask Japan Uses to Speak"
 slug: understand-japan-anonymity-culture
 wp_date: 2026-06-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Anonymity Culture is often misunderstood as a simple absence of a name
 
 genesis_title: ""
 genesis_description: "Learn about Anonymity Culture in Japan. There is no profile photo, no real name, sometimes not even a stable handle. A stranger types a c"
-open_graph_title: "Anonymity Culture"
+open_graph_title: "Anonymity Culture: The Mask Japan Uses to Speak"
 open_graph_description: "Learn about Anonymity Culture in Japan. There is no profile photo, no real name, sometimes not even a stable handle. A stranger types a c"
-twitter_title: "Anonymity Culture"
+twitter_title: "Anonymity Culture: The Mask Japan Uses to Speak"
 twitter_description: "Learn about Anonymity Culture in Japan. There is no profile photo, no real name, sometimes not even a stable handle. A stranger types a c"
 genesis_noindex: 0
 genesis_nofollow: 0

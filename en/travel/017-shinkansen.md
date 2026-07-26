@@ -1,5 +1,5 @@
 ---
-title: "Shinkansen"
+title: "Shinkansen: The Machine That Turns Distance into Timetable"
 slug: travel-shinkansen
 wp_date: 2025-02-03 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "You feel the difference before the train starts moving. The platform m
 
 genesis_title: ""
 genesis_description: "Complete guide to Shinkansen in Japan. You feel the difference before the train starts moving. It presents itself as procedure."
-open_graph_title: "Shinkansen"
+open_graph_title: "Shinkansen: The Machine That Turns Distance into Timetable"
 open_graph_description: "Complete guide to Shinkansen in Japan. You feel the difference before the train starts moving. It presents itself as procedure."
-twitter_title: "Shinkansen"
+twitter_title: "Shinkansen: The Machine That Turns Distance into Timetable"
 twitter_description: "Complete guide to Shinkansen in Japan. You feel the difference before the train starts moving. It presents itself as procedure."
 genesis_noindex: 0
 genesis_nofollow: 0

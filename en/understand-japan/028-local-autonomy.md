@@ -1,5 +1,5 @@
 ---
-title: "Local Autonomy"
+title: "Local Autonomy: Why Japan Is Not Governed by Tokyo Alone"
 slug: understand-japan-local-autonomy
 wp_date: 2025-02-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Move from one Japanese municipality to another and small differences b
 
 genesis_title: ""
 genesis_description: "Move from one Japanese municipality to another and small differences begin to pile up. Garbage must be sorted on a different calendar."
-open_graph_title: "Local Autonomy"
+open_graph_title: "Local Autonomy: Why Japan Is Not Governed by Tokyo Alone"
 open_graph_description: "Move from one Japanese municipality to another and small differences begin to pile up. Garbage must be sorted on a different calendar."
-twitter_title: "Local Autonomy"
+twitter_title: "Local Autonomy: Why Japan Is Not Governed by Tokyo Alone"
 twitter_description: "Move from one Japanese municipality to another and small differences begin to pile up. Garbage must be sorted on a different calendar."
 genesis_noindex: 0
 genesis_nofollow: 0

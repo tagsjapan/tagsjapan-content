@@ -1,5 +1,5 @@
 ---
-title: "Wabi-sabi"
+title: "Wabi-sabi: The Japanese Art of Letting Time Stay Visible"
 slug: understand-japan-wabi-sabi
 wp_date: 2025-01-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Pick up a tea bowl prized in Japan and the first surprise may be that 
 
 genesis_title: ""
 genesis_description: "Pick up a tea bowl prized in Japan and the first surprise may be that it does not look perfect at all. The rim may lean slightly. The glaze may pool unevenly."
-open_graph_title: "Wabi-sabi"
+open_graph_title: "Wabi-sabi: The Japanese Art of Letting Time Stay Visible"
 open_graph_description: "Pick up a tea bowl prized in Japan and the first surprise may be that it does not look perfect at all. The rim may lean slightly. The glaze may pool unevenly."
-twitter_title: "Wabi-sabi"
+twitter_title: "Wabi-sabi: The Japanese Art of Letting Time Stay Visible"
 twitter_description: "Pick up a tea bowl prized in Japan and the first surprise may be that it does not look perfect at all. The rim may lean slightly. The glaze may pool unevenly."
 genesis_noindex: 0
 genesis_nofollow: 0

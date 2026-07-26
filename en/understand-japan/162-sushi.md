@@ -1,5 +1,5 @@
 ---
-title: "Sushi"
+title: "Sushi: Vinegared Rice and the Many Histories It Carries"
 slug: understand-japan-sushi
 wp_date: 2025-11-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a sushi counter, the most important ingredient is often the one peo
 
 genesis_title: ""
 genesis_description: "Learn about Sushi in Japan. At a sushi counter, the most important ingredient is often the one people talk about the least."
-open_graph_title: "Sushi"
+open_graph_title: "Sushi: Vinegared Rice and the Many Histories It Carries"
 open_graph_description: "Learn about Sushi in Japan. At a sushi counter, the most important ingredient is often the one people talk about the least."
-twitter_title: "Sushi"
+twitter_title: "Sushi: Vinegared Rice and the Many Histories It Carries"
 twitter_description: "Learn about Sushi in Japan. At a sushi counter, the most important ingredient is often the one people talk about the least."
 genesis_noindex: 0
 genesis_nofollow: 0

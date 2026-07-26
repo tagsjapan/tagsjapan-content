@@ -1,5 +1,5 @@
 ---
-title: "Permanent Residency"
+title: "Permanent Residency: Stability Granted, Not Assumed"
 slug: understand-japan-permanent-residency
 wp_date: 2025-09-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "For many foreign residents in Japan, the calendar has a quiet edge. A 
 
 genesis_title: ""
 genesis_description: "Learn about Permanent Residency in Japan. The question is never only “where do you live,” but “under what label do you live.” Against that background,..."
-open_graph_title: "Permanent Residency"
+open_graph_title: "Permanent Residency: Stability Granted, Not Assumed"
 open_graph_description: "Learn about Permanent Residency in Japan. The question is never only “where do you live,” but “under what label do you live.” Against that background,..."
-twitter_title: "Permanent Residency"
+twitter_title: "Permanent Residency: Stability Granted, Not Assumed"
 twitter_description: "Learn about Permanent Residency in Japan. The question is never only “where do you live,” but “under what label do you live.” Against that background,..."
 genesis_noindex: 0
 genesis_nofollow: 0

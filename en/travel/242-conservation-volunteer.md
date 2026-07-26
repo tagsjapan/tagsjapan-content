@@ -1,5 +1,5 @@
 ---
-title: "Conservation Volunteer"
+title: "Conservation Volunteer: A Day When the Trail Is Your Task"
 slug: travel-conservation-volunteer
 wp_date: 2026-04-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a boardwalk in a wetland, the work looks almost too small to matter
 
 genesis_title: ""
 genesis_description: "On a boardwalk in a wetland, the work looks almost too small to matter. Someone bends to pull a plant that doesn’t belong."
-open_graph_title: "Conservation Volunteer"
+open_graph_title: "Conservation Volunteer: A Day When the Trail Is Your Task"
 open_graph_description: "On a boardwalk in a wetland, the work looks almost too small to matter. Someone bends to pull a plant that doesn’t belong."
-twitter_title: "Conservation Volunteer"
+twitter_title: "Conservation Volunteer: A Day When the Trail Is Your Task"
 twitter_description: "On a boardwalk in a wetland, the work looks almost too small to matter. Someone bends to pull a plant that doesn’t belong."
 genesis_noindex: 0
 genesis_nofollow: 0

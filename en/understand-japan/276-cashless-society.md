@@ -1,5 +1,5 @@
 ---
-title: "Cashless Society"
+title: "Cashless Society: Japan’s Slow Exit from the Coin Tray"
 slug: understand-japan-cashless-society
 wp_date: 2026-06-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a neighborhood shop counter, you can watch Japan’s cashless trans
 
 genesis_title: ""
 genesis_description: "Learn about Cashless Society in Japan. The payment methods simply multiply, and the counter becomes a map of what Japan is willing to change—and what it..."
-open_graph_title: "Cashless Society"
+open_graph_title: "Cashless Society: Japan’s Slow Exit from the Coin Tray"
 open_graph_description: "Learn about Cashless Society in Japan. The payment methods simply multiply, and the counter becomes a map of what Japan is willing to change—and what it..."
-twitter_title: "Cashless Society"
+twitter_title: "Cashless Society: Japan’s Slow Exit from the Coin Tray"
 twitter_description: "Learn about Cashless Society in Japan. The payment methods simply multiply, and the counter becomes a map of what Japan is willing to change—and what it..."
 genesis_noindex: 0
 genesis_nofollow: 0

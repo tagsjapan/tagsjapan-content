@@ -1,5 +1,5 @@
 ---
-title: "Yokai Culture"
+title: "Yokai Culture: Drawing the Unexplainable into Public Form"
 slug: understand-japan-yokai-culture
 wp_date: 2026-04-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Yokai Culture（妖怪文化） in Japan is the long-running system of
 
 genesis_title: ""
 genesis_description: "Learn about Yokai Culture in Japan. The same image can frighten a child, amuse an adult, and become a classroom reference for “traditional culture.” That..."
-open_graph_title: "Yokai Culture"
+open_graph_title: "Yokai Culture: Drawing the Unexplainable into Public Form"
 open_graph_description: "Learn about Yokai Culture in Japan. The same image can frighten a child, amuse an adult, and become a classroom reference for “traditional culture.” That..."
-twitter_title: "Yokai Culture"
+twitter_title: "Yokai Culture: Drawing the Unexplainable into Public Form"
 twitter_description: "Learn about Yokai Culture in Japan. The same image can frighten a child, amuse an adult, and become a classroom reference for “traditional culture.” That..."
 genesis_noindex: 0
 genesis_nofollow: 0

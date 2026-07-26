@@ -1,5 +1,5 @@
 ---
-title: "One-Party Dominance"
+title: "One-Party Dominance: The Democracy That Rarely Changed Hands"
 slug: understand-japan-one-party-dominance
 wp_date: 2025-02-16 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many Japanese election seasons, the posters go up, the vans circle 
 
 genesis_title: ""
 genesis_description: "In many Japanese election seasons, the posters go up, the vans circle the neighborhood, the party leaders fill the television screen, and yet the deeper mach..."
-open_graph_title: "One-Party Dominance"
+open_graph_title: "One-Party Dominance: The Democracy That Rarely Changed Hands"
 open_graph_description: "In many Japanese election seasons, the posters go up, the vans circle the neighborhood, the party leaders fill the television screen, and yet the deeper mach..."
-twitter_title: "One-Party Dominance"
+twitter_title: "One-Party Dominance: The Democracy That Rarely Changed Hands"
 twitter_description: "In many Japanese election seasons, the posters go up, the vans circle the neighborhood, the party leaders fill the television screen, and yet the deeper mach..."
 genesis_noindex: 0
 genesis_nofollow: 0

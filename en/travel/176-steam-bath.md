@@ -1,5 +1,5 @@
 ---
-title: "Steam Bath"
+title: "Steam Bath: Heat Without the Waterline"
 slug: travel-steam-bath
 wp_date: 2025-12-18 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first surprise is that it does not feel like the gym. Travelers ar
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Steam Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Steam Bath"
+open_graph_title: "Steam Bath: Heat Without the Waterline"
 open_graph_description: "A comprehensive guide to Steam Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Steam Bath"
+twitter_title: "Steam Bath: Heat Without the Waterline"
 twitter_description: "A comprehensive guide to Steam Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

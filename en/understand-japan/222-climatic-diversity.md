@@ -1,5 +1,5 @@
 ---
-title: "Climatic Diversity"
+title: "Climatic Diversity: Japan’s Seasons Are Not One Story"
 slug: understand-japan-climatic-diversity
 wp_date: 2026-03-19 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Climatic Diversity（氣候多樣性） in Japan is not a slogan. The 
 
 genesis_title: ""
 genesis_description: "Learn about Climatic Diversity in Japan. Japan is often described as a country of 4 clear seasons, but the weather map tells a messier truth."
-open_graph_title: "Climatic Diversity"
+open_graph_title: "Climatic Diversity: Japan’s Seasons Are Not One Story"
 open_graph_description: "Learn about Climatic Diversity in Japan. Japan is often described as a country of 4 clear seasons, but the weather map tells a messier truth."
-twitter_title: "Climatic Diversity"
+twitter_title: "Climatic Diversity: Japan’s Seasons Are Not One Story"
 twitter_description: "Learn about Climatic Diversity in Japan. Japan is often described as a country of 4 clear seasons, but the weather map tells a messier truth."
 genesis_noindex: 0
 genesis_nofollow: 0

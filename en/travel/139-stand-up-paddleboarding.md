@@ -1,5 +1,5 @@
 ---
-title: "Stand Up Paddleboarding"
+title: "Stand Up Paddleboarding: The Slowest Way to See Water"
 slug: travel-stand-up-paddleboarding
 wp_date: 2025-10-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a calm morning, a Japanese lake can look like it has been polished.
 
 genesis_title: ""
 genesis_description: "Explore Stand Up Paddleboarding in Japan. On a calm morning, a Japanese lake can look like it has been polished. This is when makes sense."
-open_graph_title: "Stand Up Paddleboarding"
+open_graph_title: "Stand Up Paddleboarding: The Slowest Way to See Water"
 open_graph_description: "Explore Stand Up Paddleboarding in Japan. On a calm morning, a Japanese lake can look like it has been polished. This is when makes sense."
-twitter_title: "Stand Up Paddleboarding"
+twitter_title: "Stand Up Paddleboarding: The Slowest Way to See Water"
 twitter_description: "Explore Stand Up Paddleboarding in Japan. On a calm morning, a Japanese lake can look like it has been polished. This is when makes sense."
 genesis_noindex: 0
 genesis_nofollow: 0

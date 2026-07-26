@@ -1,5 +1,5 @@
 ---
-title: "Wagyu"
+title: "Wagyu: Beef With a Paper Trail"
 slug: travel-wagyu
 wp_date: 2025-05-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At a yakiniku (焼肉 / 燒肉) table the grill is the easy part. The 
 
 genesis_title: ""
 genesis_description: "Guide to Wagyu in Japan. At a yakiniku (焼肉 / 燒肉) table the grill is the easy part. In Japan it’s less of a spell than a classification."
-open_graph_title: "Wagyu"
+open_graph_title: "Wagyu: Beef With a Paper Trail"
 open_graph_description: "Guide to Wagyu in Japan. At a yakiniku (焼肉 / 燒肉) table the grill is the easy part. In Japan it’s less of a spell than a classification."
-twitter_title: "Wagyu"
+twitter_title: "Wagyu: Beef With a Paper Trail"
 twitter_description: "Guide to Wagyu in Japan. At a yakiniku (焼肉 / 燒肉) table the grill is the easy part. In Japan it’s less of a spell than a classification."
 genesis_noindex: 0
 genesis_nofollow: 0

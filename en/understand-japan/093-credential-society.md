@@ -1,5 +1,5 @@
 ---
-title: "Credential Society"
+title: "Credential Society: The Long Shadow of the School Name"
 slug: understand-japan-credential-society
 wp_date: 2025-07-04 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On winter evenings in Japanese station districts, the signs of the cre
 
 genesis_title: ""
 genesis_description: "On winter evenings in Japanese station districts, the signs of the credential society glow long after dark. Prep schools advertise acceptance rates."
-open_graph_title: "Credential Society"
+open_graph_title: "Credential Society: The Long Shadow of the School Name"
 open_graph_description: "On winter evenings in Japanese station districts, the signs of the credential society glow long after dark. Prep schools advertise acceptance rates."
-twitter_title: "Credential Society"
+twitter_title: "Credential Society: The Long Shadow of the School Name"
 twitter_description: "On winter evenings in Japanese station districts, the signs of the credential society glow long after dark. Prep schools advertise acceptance rates."
 genesis_noindex: 0
 genesis_nofollow: 0

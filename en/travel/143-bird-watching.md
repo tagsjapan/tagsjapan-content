@@ -1,5 +1,5 @@
 ---
-title: "Bird Watching"
+title: "Bird Watching: Seeing Japan’s Landscapes Through Wings"
 slug: travel-bird-watching
 wp_date: 2025-10-12 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "Bird watching in Japan often begins with quiet inconvenience and delib
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Bird Watching in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Bird Watching"
+open_graph_title: "Bird Watching: Seeing Japan’s Landscapes Through Wings"
 open_graph_description: "A comprehensive guide to Bird Watching in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Bird Watching"
+twitter_title: "Bird Watching: Seeing Japan’s Landscapes Through Wings"
 twitter_description: "A comprehensive guide to Bird Watching in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

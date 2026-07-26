@@ -1,5 +1,5 @@
 ---
-title: "Seniority-based Promotion"
+title: "Seniority-based Promotion: When Time Itself Became a Workplace Asset"
 slug: understand-japan-seniority-based-promotion
 wp_date: 2025-03-07 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Walk into a large Japanese office and status is often visible before a
 
 genesis_title: ""
 genesis_description: "Walk into a large Japanese office and status is often visible before anyone speaks. The seating order, the turn-taking in meetings, the deference shown to a ..."
-open_graph_title: "Seniority-based Promotion"
+open_graph_title: "Seniority-based Promotion: When Time Itself Became a Workplace Asset"
 open_graph_description: "Walk into a large Japanese office and status is often visible before anyone speaks. The seating order, the turn-taking in meetings, the deference shown to a ..."
-twitter_title: "Seniority-based Promotion"
+twitter_title: "Seniority-based Promotion: When Time Itself Became a Workplace Asset"
 twitter_description: "Walk into a large Japanese office and status is often visible before anyone speaks. The seating order, the turn-taking in meetings, the deference shown to a ..."
 genesis_noindex: 0
 genesis_nofollow: 0

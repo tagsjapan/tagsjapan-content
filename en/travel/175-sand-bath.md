@@ -1,5 +1,5 @@
 ---
-title: "Sand Bath"
+title: "Sand Bath: Japan's Most Physical Form of Onsen Time"
 slug: travel-sand-bath
 wp_date: 2025-12-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At Ibusuki, the sea is in front of you, steam rises faintly in the air
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Sand Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Sand Bath"
+open_graph_title: "Sand Bath: Japan's Most Physical Form of Onsen Time"
 open_graph_description: "A comprehensive guide to Sand Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Sand Bath"
+twitter_title: "Sand Bath: Japan's Most Physical Form of Onsen Time"
 twitter_description: "A comprehensive guide to Sand Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

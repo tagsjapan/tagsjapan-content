@@ -1,5 +1,5 @@
 ---
-title: "Economic Bubble"
+title: "Economic Bubble: When Paper Wealth Rose Above the Ground"
 slug: understand-japan-economic-bubble
 wp_date: 2025-03-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In the late 1980s, Japan reached a point where the numbers stopped beh
 
 genesis_title: ""
 genesis_description: "In the late 1980s, Japan reached a point where the numbers stopped behaving like ordinary economic numbers. Land values in major cities soared."
-open_graph_title: "Economic Bubble"
+open_graph_title: "Economic Bubble: When Paper Wealth Rose Above the Ground"
 open_graph_description: "In the late 1980s, Japan reached a point where the numbers stopped behaving like ordinary economic numbers. Land values in major cities soared."
-twitter_title: "Economic Bubble"
+twitter_title: "Economic Bubble: When Paper Wealth Rose Above the Ground"
 twitter_description: "In the late 1980s, Japan reached a point where the numbers stopped behaving like ordinary economic numbers. Land values in major cities soared."
 genesis_noindex: 0
 genesis_nofollow: 0

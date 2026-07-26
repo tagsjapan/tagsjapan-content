@@ -1,5 +1,5 @@
 ---
-title: "Cherry Blossom Festival"
+title: "Cherry Blossom Festival: Planning Around a Bloom"
 slug: travel-cherry-blossom-festival
 wp_date: 2025-08-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "By late afternoon the park is already claimed. Blue tarps are taped do
 
 genesis_title: ""
 genesis_description: "Experience Cherry Blossom Festival in Japan. By late afternoon the park is already claimed. In Japan, the starts before the petals do. It starts with p"
-open_graph_title: "Cherry Blossom Festival"
+open_graph_title: "Cherry Blossom Festival: Planning Around a Bloom"
 open_graph_description: "Experience Cherry Blossom Festival in Japan. By late afternoon the park is already claimed. In Japan, the starts before the petals do. It starts with p"
-twitter_title: "Cherry Blossom Festival"
+twitter_title: "Cherry Blossom Festival: Planning Around a Bloom"
 twitter_description: "Experience Cherry Blossom Festival in Japan. By late afternoon the park is already claimed. In Japan, the starts before the petals do. It starts with p"
 genesis_noindex: 0
 genesis_nofollow: 0

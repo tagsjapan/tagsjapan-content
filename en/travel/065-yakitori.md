@@ -1,5 +1,5 @@
 ---
-title: "Yakitori"
+title: "Yakitori: Where the Night Starts on a Stick"
 slug: travel-yakitori
 wp_date: 2025-05-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You can find Tokyo’s evening by following smoke. It curls out from u
 
 genesis_title: ""
 genesis_description: "Guide to Yakitori in Japan. You can find Tokyo’s evening by following smoke. You sit, you point, you eat, you leave. The night keeps moving."
-open_graph_title: "Yakitori"
+open_graph_title: "Yakitori: Where the Night Starts on a Stick"
 open_graph_description: "Guide to Yakitori in Japan. You can find Tokyo’s evening by following smoke. You sit, you point, you eat, you leave. The night keeps moving."
-twitter_title: "Yakitori"
+twitter_title: "Yakitori: Where the Night Starts on a Stick"
 twitter_description: "Guide to Yakitori in Japan. You can find Tokyo’s evening by following smoke. You sit, you point, you eat, you leave. The night keeps moving."
 genesis_noindex: 0
 genesis_nofollow: 0

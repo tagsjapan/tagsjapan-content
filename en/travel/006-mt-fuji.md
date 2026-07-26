@@ -1,5 +1,5 @@
 ---
-title: "Mt. Fuji"
+title: "Mt. Fuji: The Mountain You Must Not Mistake"
 slug: travel-mt.-fuji
 wp_status: draft
 wp_blog_id: 1
@@ -18,9 +18,9 @@ excerpt: "The mountain is almost always doing two things at once. From a train w
 
 genesis_title: ""
 genesis_description: "Discover Mt. Fuji, Japan. The mountain is almost always doing two things at once. From a train window or a lakeside inn, Mt. To travel around Mt. Fuji w"
-open_graph_title: "Mt. Fuji"
+open_graph_title: "Mt. Fuji: The Mountain You Must Not Mistake"
 open_graph_description: "Discover Mt. Fuji, Japan. The mountain is almost always doing two things at once. From a train window or a lakeside inn, Mt. To travel around Mt. Fuji w"
-twitter_title: "Mt. Fuji"
+twitter_title: "Mt. Fuji: The Mountain You Must Not Mistake"
 twitter_description: "Discover Mt. Fuji, Japan. The mountain is almost always doing two things at once. From a train window or a lakeside inn, Mt. To travel around Mt. Fuji w"
 genesis_noindex: 0
 genesis_nofollow: 0

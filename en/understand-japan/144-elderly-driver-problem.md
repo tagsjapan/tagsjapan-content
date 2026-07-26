@@ -1,5 +1,5 @@
 ---
-title: "Elderly Driver Problem"
+title: "Elderly Driver Problem: Safety Policy Meets the Last Mile of Daily Life"
 slug: understand-japan-elderly-driver-problem
 wp_date: 2025-10-14 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Elderly Driver Problem（高齢運転者問題） is not simply the cl
 
 genesis_title: ""
 genesis_description: "Learn about Elderly Driver Problem in Japan. In a town where the bus comes a few times a day, an elderly driver’s license is not a hobby."
-open_graph_title: "Elderly Driver Problem"
+open_graph_title: "Elderly Driver Problem: Safety Policy Meets the Last Mile of Daily Life"
 open_graph_description: "Learn about Elderly Driver Problem in Japan. In a town where the bus comes a few times a day, an elderly driver’s license is not a hobby."
-twitter_title: "Elderly Driver Problem"
+twitter_title: "Elderly Driver Problem: Safety Policy Meets the Last Mile of Daily Life"
 twitter_description: "Learn about Elderly Driver Problem in Japan. In a town where the bus comes a few times a day, an elderly driver’s license is not a hobby."
 genesis_noindex: 0
 genesis_nofollow: 0

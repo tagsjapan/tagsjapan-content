@@ -1,5 +1,5 @@
 ---
-title: "Lifelong Learning"
+title: "Lifelong Learning: Japan’s Quiet Infrastructure for Starting Over"
 slug: understand-japan-lifelong-learning
 wp_date: 2026-06-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a bulletin board outside a neighborhood kominkan (public community 
 
 genesis_title: ""
 genesis_description: "Learn about Lifelong Learning in Japan. The room itself is practical—folding chairs, a whiteboard, a stack of printed handouts—but the crowd is mixed in a..."
-open_graph_title: "Lifelong Learning"
+open_graph_title: "Lifelong Learning: Japan’s Quiet Infrastructure for Starting Over"
 open_graph_description: "Learn about Lifelong Learning in Japan. The room itself is practical—folding chairs, a whiteboard, a stack of printed handouts—but the crowd is mixed in a..."
-twitter_title: "Lifelong Learning"
+twitter_title: "Lifelong Learning: Japan’s Quiet Infrastructure for Starting Over"
 twitter_description: "Learn about Lifelong Learning in Japan. The room itself is practical—folding chairs, a whiteboard, a stack of printed handouts—but the crowd is mixed in a..."
 genesis_noindex: 0
 genesis_nofollow: 0

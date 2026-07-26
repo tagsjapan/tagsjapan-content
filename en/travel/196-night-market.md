@@ -1,5 +1,5 @@
 ---
-title: "Night Market"
+title: "Night Market: Japan’s After-Dark Crowd Without a Template"
 slug: travel-night-market
 wp_date: 2026-01-26 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "If you arrive in Japan carrying the idea of a Taiwanese night market i
 
 genesis_title: ""
 genesis_description: "If you arrive in Japan carrying the idea of a Taiwanese night market in your head—one long corridor of smoke, noise, and snacks—you may spend your first even..."
-open_graph_title: "Night Market"
+open_graph_title: "Night Market: Japan’s After-Dark Crowd Without a Template"
 open_graph_description: "If you arrive in Japan carrying the idea of a Taiwanese night market in your head—one long corridor of smoke, noise, and snacks—you may spend your first even..."
-twitter_title: "Night Market"
+twitter_title: "Night Market: Japan’s After-Dark Crowd Without a Template"
 twitter_description: "If you arrive in Japan carrying the idea of a Taiwanese night market in your head—one long corridor of smoke, noise, and snacks—you may spend your first even..."
 genesis_noindex: 0
 genesis_nofollow: 0

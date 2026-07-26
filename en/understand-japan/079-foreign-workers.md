@@ -1,5 +1,5 @@
 ---
-title: "Foreign Workers"
+title: "Foreign Workers: Labor Shortage, Managed Openness, and the Limits of Welcome"
 slug: understand-japan-foreign-workers
 wp_date: 2025-06-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a convenience store before dawn, the shift handover may move throug
 
 genesis_title: ""
 genesis_description: "At a convenience store before dawn, the shift handover may move through Japanese touched by Vietnamese, Chinese, Nepali, or Tagalog accents."
-open_graph_title: "Foreign Workers"
+open_graph_title: "Foreign Workers: Labor Shortage, Managed Openness, and the Limits of Welcome"
 open_graph_description: "At a convenience store before dawn, the shift handover may move through Japanese touched by Vietnamese, Chinese, Nepali, or Tagalog accents."
-twitter_title: "Foreign Workers"
+twitter_title: "Foreign Workers: Labor Shortage, Managed Openness, and the Limits of Welcome"
 twitter_description: "At a convenience store before dawn, the shift handover may move through Japanese touched by Vietnamese, Chinese, Nepali, or Tagalog accents."
 genesis_noindex: 0
 genesis_nofollow: 0

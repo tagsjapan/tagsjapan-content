@@ -1,5 +1,5 @@
 ---
-title: "Rail Pass"
+title: "Rail Pass: The Ticket That Changes a Route Before It Changes a Fare"
 slug: travel-rail-pass
 wp_date: 2025-02-07 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "People like to talk about a as if it were a bargain, and sometimes it 
 
 genesis_title: ""
 genesis_description: "Complete guide to Rail Pass in Japan. People like to talk about a as if it were a bargain, and sometimes it is. It is on the imagination."
-open_graph_title: "Rail Pass"
+open_graph_title: "Rail Pass: The Ticket That Changes a Route Before It Changes a Fare"
 open_graph_description: "Complete guide to Rail Pass in Japan. People like to talk about a as if it were a bargain, and sometimes it is. It is on the imagination."
-twitter_title: "Rail Pass"
+twitter_title: "Rail Pass: The Ticket That Changes a Route Before It Changes a Fare"
 twitter_description: "Complete guide to Rail Pass in Japan. People like to talk about a as if it were a bargain, and sometimes it is. It is on the imagination."
 genesis_noindex: 0
 genesis_nofollow: 0

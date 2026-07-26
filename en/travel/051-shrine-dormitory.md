@@ -1,5 +1,5 @@
 ---
-title: "Shrine Dormitory"
+title: "Shrine Dormitory: A Rare Stay Built Around the Timing of Worship"
 slug: travel-shrine-dormitory
 wp_date: 2025-04-12 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "Before breakfast, before the tour buses, before souvenir shops are ful
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Shrine Dormitory in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Shrine Dormitory"
+open_graph_title: "Shrine Dormitory: A Rare Stay Built Around the Timing of Worship"
 open_graph_description: "A comprehensive guide to Shrine Dormitory in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Shrine Dormitory"
+twitter_title: "Shrine Dormitory: A Rare Stay Built Around the Timing of Worship"
 twitter_description: "A comprehensive guide to Shrine Dormitory in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

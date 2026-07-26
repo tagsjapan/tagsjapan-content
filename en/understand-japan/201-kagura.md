@@ -1,5 +1,5 @@
 ---
-title: "Kagura"
+title: "Kagura: When Worship Takes the Form of a Night Performance"
 slug: understand-japan-kagura
 wp_date: 2026-02-05 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Kagura（神楽） is often translated as Shinto music and dance, but 
 
 genesis_title: ""
 genesis_description: "Learn about Kagura in Japan. Kagura is Shinto music and dance performed as hōnō, an offering that invites, pacifies, or celebrates the presence of kami."
-open_graph_title: "Kagura"
+open_graph_title: "Kagura: When Worship Takes the Form of a Night Performance"
 open_graph_description: "Learn about Kagura in Japan. Kagura is Shinto music and dance performed as hōnō, an offering that invites, pacifies, or celebrates the presence of kami."
-twitter_title: "Kagura"
+twitter_title: "Kagura: When Worship Takes the Form of a Night Performance"
 twitter_description: "Learn about Kagura in Japan. Kagura is Shinto music and dance performed as hōnō, an offering that invites, pacifies, or celebrates the presence of kami."
 genesis_noindex: 0
 genesis_nofollow: 0

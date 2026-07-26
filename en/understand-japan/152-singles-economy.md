@@ -1,5 +1,5 @@
 ---
-title: "Singles Economy"
+title: "Singles Economy: When the One-Person Household Becomes the Default"
 slug: understand-japan-singles-economy
 wp_date: 2025-10-30 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Japan has learned how to build daily life for one. A meal comes in a s
 
 genesis_title: ""
 genesis_description: "Learn about Singles Economy in Japan. A restaurant counter seat is not the “sad option” but the standard architecture. Japan has learned ho"
-open_graph_title: "Singles Economy"
+open_graph_title: "Singles Economy: When the One-Person Household Becomes the Default"
 open_graph_description: "Learn about Singles Economy in Japan. A restaurant counter seat is not the “sad option” but the standard architecture. Japan has learned ho"
-twitter_title: "Singles Economy"
+twitter_title: "Singles Economy: When the One-Person Household Becomes the Default"
 twitter_description: "Learn about Singles Economy in Japan. A restaurant counter seat is not the “sad option” but the standard architecture. Japan has learned ho"
 genesis_noindex: 0
 genesis_nofollow: 0

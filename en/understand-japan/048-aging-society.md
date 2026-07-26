@@ -1,5 +1,5 @@
 ---
-title: "Aging Society"
+title: "Aging Society: When Longevity Becomes the Main Condition of Daily Life"
 slug: understand-japan-aging-society
 wp_date: 2025-04-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Stand on a local station platform in Japan for ten minutes and the sha
 
 genesis_title: ""
 genesis_description: "Stand on a local station platform in Japan for ten minutes and the shape of the country becomes visible in small movements."
-open_graph_title: "Aging Society"
+open_graph_title: "Aging Society: When Longevity Becomes the Main Condition of Daily Life"
 open_graph_description: "Stand on a local station platform in Japan for ten minutes and the shape of the country becomes visible in small movements."
-twitter_title: "Aging Society"
+twitter_title: "Aging Society: When Longevity Becomes the Main Condition of Daily Life"
 twitter_description: "Stand on a local station platform in Japan for ten minutes and the shape of the country becomes visible in small movements."
 genesis_noindex: 0
 genesis_nofollow: 0

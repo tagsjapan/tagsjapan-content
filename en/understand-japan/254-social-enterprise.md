@@ -1,5 +1,5 @@
 ---
-title: "Social Enterprise"
+title: "Social Enterprise: Japan’s Workaround for Public Problems"
 slug: understand-japan-social-enterprise
 wp_date: 2026-05-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a weekday morning in a shrinking Japanese town, the most “innovat
 
 genesis_title: ""
 genesis_description: "Learn about Social Enterprise in Japan. The mission is obvious—keep daily life possible when population density and family structure no longer support the..."
-open_graph_title: "Social Enterprise"
+open_graph_title: "Social Enterprise: Japan’s Workaround for Public Problems"
 open_graph_description: "Learn about Social Enterprise in Japan. The mission is obvious—keep daily life possible when population density and family structure no longer support the..."
-twitter_title: "Social Enterprise"
+twitter_title: "Social Enterprise: Japan’s Workaround for Public Problems"
 twitter_description: "Learn about Social Enterprise in Japan. The mission is obvious—keep daily life possible when population density and family structure no longer support the..."
 genesis_noindex: 0
 genesis_nofollow: 0

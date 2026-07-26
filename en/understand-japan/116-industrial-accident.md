@@ -1,5 +1,5 @@
 ---
-title: "Industrial Accident"
+title: "Industrial Accident: How Japan Governs Workplace Harm as a System"
 slug: understand-japan-industrial-accident
 wp_date: 2025-08-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A warehouse worker slips while carrying a load. A care worker strains 
 
 genesis_title: ""
 genesis_description: "A warehouse worker slips while carrying a load. A care worker strains their back lifting a patient. A delivery driver is injured on the road, halfway between..."
-open_graph_title: "Industrial Accident"
+open_graph_title: "Industrial Accident: How Japan Governs Workplace Harm as a System"
 open_graph_description: "A warehouse worker slips while carrying a load. A care worker strains their back lifting a patient. A delivery driver is injured on the road, halfway between..."
-twitter_title: "Industrial Accident"
+twitter_title: "Industrial Accident: How Japan Governs Workplace Harm as a System"
 twitter_description: "A warehouse worker slips while carrying a load. A care worker strains their back lifting a patient. A delivery driver is injured on the road, halfway between..."
 genesis_noindex: 0
 genesis_nofollow: 0

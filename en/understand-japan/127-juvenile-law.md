@@ -1,5 +1,5 @@
 ---
-title: "Juvenile Law"
+title: "Juvenile Law: Protection, Punishment, and the Family Court"
 slug: understand-japan-juvenile-law
 wp_date: 2025-09-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weekday afternoon, the waiting area of a Japanese family court ca
 
 genesis_title: ""
 genesis_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
-open_graph_title: "Juvenile Law"
+open_graph_title: "Juvenile Law: Protection, Punishment, and the Family Court"
 open_graph_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
-twitter_title: "Juvenile Law"
+twitter_title: "Juvenile Law: Protection, Punishment, and the Family Court"
 twitter_description: "On a weekday afternoon, the waiting area of a Japanese family court can feel closer to a school corridor than to the marble drama people associate with “court."
 genesis_noindex: 0
 genesis_nofollow: 0

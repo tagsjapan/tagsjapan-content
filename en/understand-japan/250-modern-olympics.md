@@ -1,5 +1,5 @@
 ---
-title: "Modern Olympics"
+title: "Modern Olympics: The Arena Where Japan Builds a National Story"
 slug: understand-japan-modern-olympics
 wp_date: 2026-05-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Modern Olympics（近代オリンピック） is not a single event so
 
 genesis_title: ""
 genesis_description: "Learn about Modern Olympics in Japan. That is the most useful reminder the Tokyo Games left behind—what the modern Olympics really is."
-open_graph_title: "Modern Olympics"
+open_graph_title: "Modern Olympics: The Arena Where Japan Builds a National Story"
 open_graph_description: "Learn about Modern Olympics in Japan. That is the most useful reminder the Tokyo Games left behind—what the modern Olympics really is."
-twitter_title: "Modern Olympics"
+twitter_title: "Modern Olympics: The Arena Where Japan Builds a National Story"
 twitter_description: "Learn about Modern Olympics in Japan. That is the most useful reminder the Tokyo Games left behind—what the modern Olympics really is."
 genesis_noindex: 0
 genesis_nofollow: 0

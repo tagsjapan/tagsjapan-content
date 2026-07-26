@@ -1,5 +1,5 @@
 ---
-title: "Ama Divers"
+title: "Ama Divers: When Women’s Coastal Labor Becomes Cultural Heritage"
 slug: understand-japan-ama-divers
 wp_date: 2025-11-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Ama Divers（海女） refers to coastal harvesters—historically and
 
 genesis_title: ""
 genesis_description: "Learn about Ama Divers in Japan. A diver slips into the water without tanks, reads the tide, and works by memory: where the rocks cut, where abalone hide,..."
-open_graph_title: "Ama Divers"
+open_graph_title: "Ama Divers: When Women’s Coastal Labor Becomes Cultural Heritage"
 open_graph_description: "Learn about Ama Divers in Japan. A diver slips into the water without tanks, reads the tide, and works by memory: where the rocks cut, where abalone hide,..."
-twitter_title: "Ama Divers"
+twitter_title: "Ama Divers: When Women’s Coastal Labor Becomes Cultural Heritage"
 twitter_description: "Learn about Ama Divers in Japan. A diver slips into the water without tanks, reads the tide, and works by memory: where the rocks cut, where abalone hide,..."
 genesis_noindex: 0
 genesis_nofollow: 0

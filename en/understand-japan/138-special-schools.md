@@ -1,5 +1,5 @@
 ---
-title: "Special Schools"
+title: "Special Schools: The Institutional Backbone of Special Needs Education"
 slug: understand-japan-special-schools
 wp_date: 2025-10-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Special Schools（特別支援学校） in Japan are part of the count
 
 genesis_title: ""
 genesis_description: "Learn about Special Schools in Japan. In a Japanese classroom built for children who need extra support, the most striking thing is not a single device or..."
-open_graph_title: "Special Schools"
+open_graph_title: "Special Schools: The Institutional Backbone of Special Needs Education"
 open_graph_description: "Learn about Special Schools in Japan. In a Japanese classroom built for children who need extra support, the most striking thing is not a single device or..."
-twitter_title: "Special Schools"
+twitter_title: "Special Schools: The Institutional Backbone of Special Needs Education"
 twitter_description: "Learn about Special Schools in Japan. In a Japanese classroom built for children who need extra support, the most striking thing is not a single device or..."
 genesis_noindex: 0
 genesis_nofollow: 0

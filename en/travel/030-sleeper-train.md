@@ -1,5 +1,5 @@
 ---
-title: "Sleeper Train"
+title: "Sleeper Train: The Night That Counts as Travel"
 slug: travel-sleeper-train
 wp_date: 2025-03-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Late in the evening at Tokyo Station, the platforms begin to sort them
 
 genesis_title: ""
 genesis_description: "Complete guide to Sleeper Train in Japan. Late in the evening at Tokyo Station, the platforms begin to sort themselves into two Japans."
-open_graph_title: "Sleeper Train"
+open_graph_title: "Sleeper Train: The Night That Counts as Travel"
 open_graph_description: "Complete guide to Sleeper Train in Japan. Late in the evening at Tokyo Station, the platforms begin to sort themselves into two Japans."
-twitter_title: "Sleeper Train"
+twitter_title: "Sleeper Train: The Night That Counts as Travel"
 twitter_description: "Complete guide to Sleeper Train in Japan. Late in the evening at Tokyo Station, the platforms begin to sort themselves into two Japans."
 genesis_noindex: 0
 genesis_nofollow: 0

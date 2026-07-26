@@ -1,5 +1,5 @@
 ---
-title: "Kūki"
+title: "Kūki: The Room as an Unwritten Rulebook"
 slug: understand-japan-kūki
 wp_status: draft
 wp_blog_id: 1
@@ -19,9 +19,9 @@ excerpt: "In a meeting, someone begins to raise an objection and then stops—no
 
 genesis_title: ""
 genesis_description: "In a meeting, someone begins to raise an objection and then stops—not because the argument is weak, but because the room has already decided what kind of spe..."
-open_graph_title: "Kūki"
+open_graph_title: "Kūki: The Room as an Unwritten Rulebook"
 open_graph_description: "In a meeting, someone begins to raise an objection and then stops—not because the argument is weak, but because the room has already decided what kind of spe..."
-twitter_title: "Kūki"
+twitter_title: "Kūki: The Room as an Unwritten Rulebook"
 twitter_description: "In a meeting, someone begins to raise an objection and then stops—not because the argument is weak, but because the room has already decided what kind of spe..."
 genesis_noindex: 0
 genesis_nofollow: 0

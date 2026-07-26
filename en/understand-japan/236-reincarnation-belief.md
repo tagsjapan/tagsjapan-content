@@ -1,5 +1,5 @@
 ---
-title: "Reincarnation Belief"
+title: "Reincarnation Belief: Japan’s Map of the Afterlife, and Its Arguments"
 slug: understand-japan-reincarnation-belief
 wp_date: 2026-04-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Reincarnation Belief（輪迴觀） in Japan is the Japanese way of li
 
 genesis_title: ""
 genesis_description: "Learn about Reincarnation Belief in Japan. Even if you do not “believe” the picture, you understand what it is doing. In a temple hallway,"
-open_graph_title: "Reincarnation Belief"
+open_graph_title: "Reincarnation Belief: Japan’s Map of the Afterlife, and Its Arguments"
 open_graph_description: "Learn about Reincarnation Belief in Japan. Even if you do not “believe” the picture, you understand what it is doing. In a temple hallway,"
-twitter_title: "Reincarnation Belief"
+twitter_title: "Reincarnation Belief: Japan’s Map of the Afterlife, and Its Arguments"
 twitter_description: "Learn about Reincarnation Belief in Japan. Even if you do not “believe” the picture, you understand what it is doing. In a temple hallway,"
 genesis_noindex: 0
 genesis_nofollow: 0

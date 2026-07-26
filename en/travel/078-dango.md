@@ -1,5 +1,5 @@
 ---
-title: "Dango"
+title: "Dango: The Sweet on a Stick That Marks a Season"
 slug: travel-dango
 wp_date: 2025-06-04 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You notice it on the way in, not in a restaurant. A narrow street lead
 
 genesis_title: ""
 genesis_description: "Guide to Dango in Japan. You notice it on the way in, not in a restaurant. is one of those Japanese foods that is less about dessert and more about place."
-open_graph_title: "Dango"
+open_graph_title: "Dango: The Sweet on a Stick That Marks a Season"
 open_graph_description: "Guide to Dango in Japan. You notice it on the way in, not in a restaurant. is one of those Japanese foods that is less about dessert and more about place."
-twitter_title: "Dango"
+twitter_title: "Dango: The Sweet on a Stick That Marks a Season"
 twitter_description: "Guide to Dango in Japan. You notice it on the way in, not in a restaurant. is one of those Japanese foods that is less about dessert and more about place."
 genesis_noindex: 0
 genesis_nofollow: 0

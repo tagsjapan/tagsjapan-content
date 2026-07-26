@@ -1,5 +1,5 @@
 ---
-title: "Martial Arts Experience"
+title: "Martial Arts Experience: Learning the Bow Before the Blow"
 slug: travel-martial-arts-experience
 wp_date: 2025-09-13 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The first sound in the room is not a shout. It’s the soft slap of ba
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Martial Arts Experience in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Martial Arts Experience"
+open_graph_title: "Martial Arts Experience: Learning the Bow Before the Blow"
 open_graph_description: "A comprehensive guide to Martial Arts Experience in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Martial Arts Experience"
+twitter_title: "Martial Arts Experience: Learning the Bow Before the Blow"
 twitter_description: "A comprehensive guide to Martial Arts Experience in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

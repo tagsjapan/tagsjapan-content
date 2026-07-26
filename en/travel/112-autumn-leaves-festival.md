@@ -1,5 +1,5 @@
 ---
-title: "Autumn Leaves Festival"
+title: "Autumn Leaves Festival: The Season That Makes You Look Up"
 slug: travel-autumn-leaves-festival
 wp_date: 2025-08-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a temple gate in late afternoon, you hear the small things first: t
 
 genesis_title: ""
 genesis_description: "Experience Autumn Leaves Festival in Japan. The air has that clear, spare quality that makes your scarf feel suddenly necessary."
-open_graph_title: "Autumn Leaves Festival"
+open_graph_title: "Autumn Leaves Festival: The Season That Makes You Look Up"
 open_graph_description: "Experience Autumn Leaves Festival in Japan. The air has that clear, spare quality that makes your scarf feel suddenly necessary."
-twitter_title: "Autumn Leaves Festival"
+twitter_title: "Autumn Leaves Festival: The Season That Makes You Look Up"
 twitter_description: "Experience Autumn Leaves Festival in Japan. The air has that clear, spare quality that makes your scarf feel suddenly necessary."
 genesis_noindex: 0
 genesis_nofollow: 0

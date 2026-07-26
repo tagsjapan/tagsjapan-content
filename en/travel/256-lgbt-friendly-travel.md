@@ -1,5 +1,5 @@
 ---
-title: "LGBT-friendly Travel"
+title: "LGBT-friendly Travel: When Welcome Becomes Legible"
 slug: travel-lgbt-friendly-travel
 wp_date: 2026-05-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The awkward moment often arrives before you ever land. It’s the book
 
 genesis_title: ""
 genesis_description: "The awkward moment often arrives before you ever land. It’s the booking form that assumes a certain kind of couple, the tour description that is vague about ..."
-open_graph_title: "LGBT-friendly Travel"
+open_graph_title: "LGBT-friendly Travel: When Welcome Becomes Legible"
 open_graph_description: "The awkward moment often arrives before you ever land. It’s the booking form that assumes a certain kind of couple, the tour description that is vague about ..."
-twitter_title: "LGBT-friendly Travel"
+twitter_title: "LGBT-friendly Travel: When Welcome Becomes Legible"
 twitter_description: "The awkward moment often arrives before you ever land. It’s the booking form that assumes a certain kind of couple, the tour description that is vague about ..."
 genesis_noindex: 0
 genesis_nofollow: 0

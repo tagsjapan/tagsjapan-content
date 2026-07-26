@@ -1,5 +1,5 @@
 ---
-title: "Labor Dispatch"
+title: "Labor Dispatch: The Three-Sided Labor Market"
 slug: understand-japan-labor-dispatch
 wp_date: 2025-04-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Walk into a Japanese office or factory and a worker may spend every da
 
 genesis_title: ""
 genesis_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
-open_graph_title: "Labor Dispatch"
+open_graph_title: "Labor Dispatch: The Three-Sided Labor Market"
 open_graph_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
-twitter_title: "Labor Dispatch"
+twitter_title: "Labor Dispatch: The Three-Sided Labor Market"
 twitter_description: "Walk into a Japanese office or factory and a worker may spend every day under the direction of the people at that site while remaining legally employed by so..."
 genesis_noindex: 0
 genesis_nofollow: 0

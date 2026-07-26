@@ -1,5 +1,5 @@
 ---
-title: "Data Sovereignty"
+title: "Data Sovereignty: Japan’s Argument Between Openness and Control"
 slug: understand-japan-data-sovereignty
 wp_date: 2026-07-30 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At a municipal counter, a staff member types a resident’s informatio
 
 genesis_title: ""
 genesis_description: "Learn about Data Sovereignty in Japan. Japan’s version of the debate is sharpened by an apparent paradox. At a municipal count"
-open_graph_title: "Data Sovereignty"
+open_graph_title: "Data Sovereignty: Japan’s Argument Between Openness and Control"
 open_graph_description: "Learn about Data Sovereignty in Japan. Japan’s version of the debate is sharpened by an apparent paradox. At a municipal count"
-twitter_title: "Data Sovereignty"
+twitter_title: "Data Sovereignty: Japan’s Argument Between Openness and Control"
 twitter_description: "Learn about Data Sovereignty in Japan. Japan’s version of the debate is sharpened by an apparent paradox. At a municipal count"
 genesis_noindex: 0
 genesis_nofollow: 0

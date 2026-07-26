@@ -1,5 +1,5 @@
 ---
-title: "Colonial Rule"
+title: "Colonial Rule: How Imperial Japan Made Power Routine"
 slug: understand-japan-colonial-rule
 wp_date: 2025-02-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A colonial state often announces itself in paperwork before it appears
 
 genesis_title: ""
 genesis_description: "A colonial state often announces itself in paperwork before it appears in monuments. A permit, a school roster, a police report, a railway timetable, a censu..."
-open_graph_title: "Colonial Rule"
+open_graph_title: "Colonial Rule: How Imperial Japan Made Power Routine"
 open_graph_description: "A colonial state often announces itself in paperwork before it appears in monuments. A permit, a school roster, a police report, a railway timetable, a censu..."
-twitter_title: "Colonial Rule"
+twitter_title: "Colonial Rule: How Imperial Japan Made Power Routine"
 twitter_description: "A colonial state often announces itself in paperwork before it appears in monuments. A permit, a school roster, a police report, a railway timetable, a censu..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Bento"
+title: "Bento: The Meal Japan Designed for Moving"
 slug: travel-bento
 wp_date: 2025-05-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a Shinkansen platform, a bento is an object before it is a lunch. I
 
 genesis_title: ""
 genesis_description: "Guide to Bento in Japan. On a Shinkansen platform, a bento is an object before it is a lunch. Outside the window, Japan starts to slide past."
-open_graph_title: "Bento"
+open_graph_title: "Bento: The Meal Japan Designed for Moving"
 open_graph_description: "Guide to Bento in Japan. On a Shinkansen platform, a bento is an object before it is a lunch. Outside the window, Japan starts to slide past."
-twitter_title: "Bento"
+twitter_title: "Bento: The Meal Japan Designed for Moving"
 twitter_description: "Guide to Bento in Japan. On a Shinkansen platform, a bento is an object before it is a lunch. Outside the window, Japan starts to slide past."
 genesis_noindex: 0
 genesis_nofollow: 0

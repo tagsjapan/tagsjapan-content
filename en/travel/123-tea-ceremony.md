@@ -1,5 +1,5 @@
 ---
-title: "Tea Ceremony"
+title: "Tea Ceremony: Learning to Notice the Room"
 slug: travel-tea-ceremony
 wp_date: 2025-09-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The sweet comes first. That surprises some travelers, especially those
 
 genesis_title: ""
 genesis_description: "Experience Tea Ceremony in Japan. The sweet comes first. You are not simply told about etiquette. You sit within it. The"
-open_graph_title: "Tea Ceremony"
+open_graph_title: "Tea Ceremony: Learning to Notice the Room"
 open_graph_description: "Experience Tea Ceremony in Japan. The sweet comes first. You are not simply told about etiquette. You sit within it. The"
-twitter_title: "Tea Ceremony"
+twitter_title: "Tea Ceremony: Learning to Notice the Room"
 twitter_description: "Experience Tea Ceremony in Japan. The sweet comes first. You are not simply told about etiquette. You sit within it. The"
 genesis_noindex: 0
 genesis_nofollow: 0

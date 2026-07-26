@@ -1,5 +1,5 @@
 ---
-title: "Kanto Festival"
+title: "Kanto Festival: When a City Balances a Harvest in the Dark"
 slug: travel-kanto-festival
 wp_date: 2025-07-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Akita in early August has a particular kind of evening. The heat linge
 
 genesis_title: ""
 genesis_description: "Experience Kanto Festival in Japan. Akita in early August has a particular kind of evening. It does not move like a float."
-open_graph_title: "Kanto Festival"
+open_graph_title: "Kanto Festival: When a City Balances a Harvest in the Dark"
 open_graph_description: "Experience Kanto Festival in Japan. Akita in early August has a particular kind of evening. It does not move like a float."
-twitter_title: "Kanto Festival"
+twitter_title: "Kanto Festival: When a City Balances a Harvest in the Dark"
 twitter_description: "Experience Kanto Festival in Japan. Akita in early August has a particular kind of evening. It does not move like a float."
 genesis_noindex: 0
 genesis_nofollow: 0

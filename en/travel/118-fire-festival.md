@@ -1,5 +1,5 @@
 ---
-title: "Fire Festival"
+title: "Fire Festival: Japan’s Most Beautiful Controlled Danger"
 slug: travel-fire-festival
 wp_date: 2025-08-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first thing you feel at a Japanese fire festival is heat, and the 
 
 genesis_title: ""
 genesis_description: "Experience Fire Festival in Japan. The first thing you feel at a Japanese fire festival is heat, and the second is distance. The spectacle is undeniable."
-open_graph_title: "Fire Festival"
+open_graph_title: "Fire Festival: Japan’s Most Beautiful Controlled Danger"
 open_graph_description: "Experience Fire Festival in Japan. The first thing you feel at a Japanese fire festival is heat, and the second is distance. The spectacle is undeniable."
-twitter_title: "Fire Festival"
+twitter_title: "Fire Festival: Japan’s Most Beautiful Controlled Danger"
 twitter_description: "Experience Fire Festival in Japan. The first thing you feel at a Japanese fire festival is heat, and the second is distance. The spectacle is undeniable."
 genesis_noindex: 0
 genesis_nofollow: 0

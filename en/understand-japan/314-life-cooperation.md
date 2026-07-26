@@ -1,5 +1,5 @@
 ---
-title: "Life Cooperation"
+title: "Life Cooperation: The Quiet Power of Japan’s Consumer Co-ops"
 slug: understand-japan-life-cooperation
 wp_date: 2026-07-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A small delivery truck stops in a residential neighborhood and unloads
 
 genesis_title: ""
 genesis_description: "Learn about Life Cooperation in Japan. In Japan, this world is usually called seikyō, a consumer co-op. A small delivery tru"
-open_graph_title: "Life Cooperation"
+open_graph_title: "Life Cooperation: The Quiet Power of Japan’s Consumer Co-ops"
 open_graph_description: "Learn about Life Cooperation in Japan. In Japan, this world is usually called seikyō, a consumer co-op. A small delivery tru"
-twitter_title: "Life Cooperation"
+twitter_title: "Life Cooperation: The Quiet Power of Japan’s Consumer Co-ops"
 twitter_description: "Learn about Life Cooperation in Japan. In Japan, this world is usually called seikyō, a consumer co-op. A small delivery tru"
 genesis_noindex: 0
 genesis_nofollow: 0

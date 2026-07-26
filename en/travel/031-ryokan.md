@@ -1,5 +1,5 @@
 ---
-title: "Ryokan"
+title: "Ryokan: A Night Spent Inside Someone Else's Sense of Order"
 slug: travel-ryokan
 wp_date: 2025-03-03 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Arrival at a often begins with subtraction. Shoes come off. Wheels sto
 
 genesis_title: ""
 genesis_description: "Your guide to Ryokan in Japan. Arrival at a often begins with subtraction. Shoes come off. Wheels stop clattering. In a good , that change is the point."
-open_graph_title: "Ryokan"
+open_graph_title: "Ryokan: A Night Spent Inside Someone Else's Sense of Order"
 open_graph_description: "Your guide to Ryokan in Japan. Arrival at a often begins with subtraction. Shoes come off. Wheels stop clattering. In a good , that change is the point."
-twitter_title: "Ryokan"
+twitter_title: "Ryokan: A Night Spent Inside Someone Else's Sense of Order"
 twitter_description: "Your guide to Ryokan in Japan. Arrival at a often begins with subtraction. Shoes come off. Wheels stop clattering. In a good , that change is the point."
 genesis_noindex: 0
 genesis_nofollow: 0

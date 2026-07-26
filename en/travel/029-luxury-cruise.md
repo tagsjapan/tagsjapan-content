@@ -1,5 +1,5 @@
 ---
-title: "Luxury Cruise"
+title: "Luxury Cruise: Japan by Sea, at a Deliberately Slower Speed"
 slug: travel-luxury-cruise
 wp_date: 2025-02-26 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The difference appears before the ship leaves port. On a luxury cruise
 
 genesis_title: ""
 genesis_description: "Complete guide to Luxury Cruise in Japan. The difference appears before the ship leaves port. In Japan, that is the point of a . The ship is"
-open_graph_title: "Luxury Cruise"
+open_graph_title: "Luxury Cruise: Japan by Sea, at a Deliberately Slower Speed"
 open_graph_description: "Complete guide to Luxury Cruise in Japan. The difference appears before the ship leaves port. In Japan, that is the point of a . The ship is"
-twitter_title: "Luxury Cruise"
+twitter_title: "Luxury Cruise: Japan by Sea, at a Deliberately Slower Speed"
 twitter_description: "Complete guide to Luxury Cruise in Japan. The difference appears before the ship leaves port. In Japan, that is the point of a . The ship is"
 genesis_noindex: 0
 genesis_nofollow: 0

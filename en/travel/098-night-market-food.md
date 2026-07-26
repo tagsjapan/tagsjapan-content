@@ -1,5 +1,5 @@
 ---
-title: "Night Market Food"
+title: "Night Market Food: Japan’s After-Dark Appetite, Usually on a Timer"
 slug: travel-night-market-food
 wp_date: 2025-07-15 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In , night market food begins the way evening begins in many Japanese 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Night Market Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Night Market Food"
+open_graph_title: "Night Market Food: Japan’s After-Dark Appetite, Usually on a Timer"
 open_graph_description: "A comprehensive guide to Night Market Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Night Market Food"
+twitter_title: "Night Market Food: Japan’s After-Dark Appetite, Usually on a Timer"
 twitter_description: "A comprehensive guide to Night Market Food in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

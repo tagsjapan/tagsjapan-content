@@ -1,5 +1,5 @@
 ---
-title: "Shikoku Pilgrimage"
+title: "Shikoku Pilgrimage: The Long Way Around an Island"
 slug: travel-shikoku-pilgrimage
 wp_date: 2025-01-25 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "At some point on the road between temples in Tokushima, the souvenirs 
 
 genesis_title: ""
 genesis_description: "Experience Shikoku Pilgrimage in Japan. You are carrying water, checking the next turn, and noticing your own pace in a way city travel rarely requires."
-open_graph_title: "Shikoku Pilgrimage"
+open_graph_title: "Shikoku Pilgrimage: The Long Way Around an Island"
 open_graph_description: "Experience Shikoku Pilgrimage in Japan. You are carrying water, checking the next turn, and noticing your own pace in a way city travel rarely requires."
-twitter_title: "Shikoku Pilgrimage"
+twitter_title: "Shikoku Pilgrimage: The Long Way Around an Island"
 twitter_description: "Experience Shikoku Pilgrimage in Japan. You are carrying water, checking the next turn, and noticing your own pace in a way city travel rarely requires."
 genesis_noindex: 0
 genesis_nofollow: 0

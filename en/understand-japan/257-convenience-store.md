@@ -1,5 +1,5 @@
 ---
-title: "Convenience Store"
+title: "Convenience Store: Japan’s Everyday Infrastructure at the Corner"
 slug: understand-japan-convenience-store
 wp_date: 2026-05-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At 3 a.m. in a Japanese city, the brightest room on the street is ofte
 
 genesis_title: ""
 genesis_description: "Learn about Convenience Store in Japan. in a Japanese city, the brightest room on the street is often a convenience store."
-open_graph_title: "Convenience Store"
+open_graph_title: "Convenience Store: Japan’s Everyday Infrastructure at the Corner"
 open_graph_description: "Learn about Convenience Store in Japan. in a Japanese city, the brightest room on the street is often a convenience store."
-twitter_title: "Convenience Store"
+twitter_title: "Convenience Store: Japan’s Everyday Infrastructure at the Corner"
 twitter_description: "Learn about Convenience Store in Japan. in a Japanese city, the brightest room on the street is often a convenience store."
 genesis_noindex: 0
 genesis_nofollow: 0

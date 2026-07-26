@@ -1,5 +1,5 @@
 ---
-title: "Carbon Neutrality"
+title: "Carbon Neutrality: Japan’s Deadline with an Argument Inside"
 slug: understand-japan-carbon-neutrality
 wp_date: 2026-06-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On October 26, 2020, Japan’s prime minister stood at the Diet rostru
 
 genesis_title: ""
 genesis_description: "Learn about Carbon Neutrality in Japan. The term is global, but Japan’s version is tightly bound to the practical question of how an industrial nation..."
-open_graph_title: "Carbon Neutrality"
+open_graph_title: "Carbon Neutrality: Japan’s Deadline with an Argument Inside"
 open_graph_description: "Learn about Carbon Neutrality in Japan. The term is global, but Japan’s version is tightly bound to the practical question of how an industrial nation..."
-twitter_title: "Carbon Neutrality"
+twitter_title: "Carbon Neutrality: Japan’s Deadline with an Argument Inside"
 twitter_description: "Learn about Carbon Neutrality in Japan. The term is global, but Japan’s version is tightly bound to the practical question of how an industrial nation..."
 genesis_noindex: 0
 genesis_nofollow: 0

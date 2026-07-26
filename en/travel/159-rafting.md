@@ -1,5 +1,5 @@
 ---
-title: "Rafting"
+title: "Rafting: Whitewater as an Itinerary Switch"
 slug: travel-rafting
 wp_date: 2025-11-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You feel it before the boat even hits the water: the rubbery smell of 
 
 genesis_title: ""
 genesis_description: "Explore Rafting in Japan. In a city week, Japan teaches you to move by timetable—platform numbers, ticket gates, the last train. Rafting flips that logic."
-open_graph_title: "Rafting"
+open_graph_title: "Rafting: Whitewater as an Itinerary Switch"
 open_graph_description: "Explore Rafting in Japan. In a city week, Japan teaches you to move by timetable—platform numbers, ticket gates, the last train. Rafting flips that logic."
-twitter_title: "Rafting"
+twitter_title: "Rafting: Whitewater as an Itinerary Switch"
 twitter_description: "Explore Rafting in Japan. In a city week, Japan teaches you to move by timetable—platform numbers, ticket gates, the last train. Rafting flips that logic."
 genesis_noindex: 0
 genesis_nofollow: 0

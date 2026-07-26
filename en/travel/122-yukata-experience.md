@@ -1,5 +1,5 @@
 ---
-title: "Yukata Experience"
+title: "Yukata Experience: Dressing for Summer at Walking Speed"
 slug: travel-yukata-experience
 wp_date: 2025-09-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first lesson arrives at the knot. You pull the sash tight, tuck th
 
 genesis_title: ""
 genesis_description: "Experience Yukata Experience in Japan. The first lesson arrives at the knot. Your stride shortens. Your arms stay closer."
-open_graph_title: "Yukata Experience"
+open_graph_title: "Yukata Experience: Dressing for Summer at Walking Speed"
 open_graph_description: "Experience Yukata Experience in Japan. The first lesson arrives at the knot. Your stride shortens. Your arms stay closer."
-twitter_title: "Yukata Experience"
+twitter_title: "Yukata Experience: Dressing for Summer at Walking Speed"
 twitter_description: "Experience Yukata Experience in Japan. The first lesson arrives at the knot. Your stride shortens. Your arms stay closer."
 genesis_noindex: 0
 genesis_nofollow: 0

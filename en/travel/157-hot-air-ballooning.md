@@ -1,5 +1,5 @@
 ---
-title: "Hot Air Ballooning"
+title: "Hot Air Ballooning: When the Sky Sets the Schedule"
 slug: travel-hot-air-ballooning
 wp_date: 2025-11-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You arrive before the day feels legal. The field is still grey, the ri
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Hot Air Ballooning in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Hot Air Ballooning"
+open_graph_title: "Hot Air Ballooning: When the Sky Sets the Schedule"
 open_graph_description: "A comprehensive guide to Hot Air Ballooning in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Hot Air Ballooning"
+twitter_title: "Hot Air Ballooning: When the Sky Sets the Schedule"
 twitter_description: "A comprehensive guide to Hot Air Ballooning in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

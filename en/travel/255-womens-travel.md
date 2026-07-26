@@ -1,5 +1,5 @@
 ---
-title: "Women’s Travel"
+title: "Women’s Travel: Building a Trip That Feels Easy"
 slug: travel-womens-travel
 wp_date: 2026-05-25 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At check-in the sign is small enough that you could miss it: Ladies Fl
 
 genesis_title: ""
 genesis_description: "At check-in the sign is small enough that you could miss it: Ladies Floor, an arrow, a quiet suggestion that the hotel has thought about the night from the g..."
-open_graph_title: "Women’s Travel"
+open_graph_title: "Women’s Travel: Building a Trip That Feels Easy"
 open_graph_description: "At check-in the sign is small enough that you could miss it: Ladies Floor, an arrow, a quiet suggestion that the hotel has thought about the night from the g..."
-twitter_title: "Women’s Travel"
+twitter_title: "Women’s Travel: Building a Trip That Feels Easy"
 twitter_description: "At check-in the sign is small enough that you could miss it: Ladies Floor, an arrow, a quiet suggestion that the hotel has thought about the night from the g..."
 genesis_noindex: 0
 genesis_nofollow: 0

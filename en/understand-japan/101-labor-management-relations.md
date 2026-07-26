@@ -1,5 +1,5 @@
 ---
-title: "Labor-Management Relations"
+title: "Labor-Management Relations: How Japan Negotiates Inside the Firm"
 slug: understand-japan-labor-management-relations
 wp_date: 2025-07-21 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In late winter, a familiar choreography begins in Japanese workplaces.
 
 genesis_title: ""
 genesis_description: "In late winter, a familiar choreography begins in Japanese workplaces. A union representative walks into a meeting room with a thick folder of pay tables and..."
-open_graph_title: "Labor-Management Relations"
+open_graph_title: "Labor-Management Relations: How Japan Negotiates Inside the Firm"
 open_graph_description: "In late winter, a familiar choreography begins in Japanese workplaces. A union representative walks into a meeting room with a thick folder of pay tables and..."
-twitter_title: "Labor-Management Relations"
+twitter_title: "Labor-Management Relations: How Japan Negotiates Inside the Firm"
 twitter_description: "In late winter, a familiar choreography begins in Japanese workplaces. A union representative walks into a meeting room with a thick folder of pay tables and..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Rationalization Movement"
+title: "Rationalization Movement: Efficiency as a Postwar Social Bargain"
 slug: understand-japan-rationalization-movement
 wp_date: 2025-03-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many countries, the word rationalization has an ominous sound. It s
 
 genesis_title: ""
 genesis_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
-open_graph_title: "Rationalization Movement"
+open_graph_title: "Rationalization Movement: Efficiency as a Postwar Social Bargain"
 open_graph_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
-twitter_title: "Rationalization Movement"
+twitter_title: "Rationalization Movement: Efficiency as a Postwar Social Bargain"
 twitter_description: "In many countries, the word rationalization has an ominous sound. It suggests layoffs, speedup, and management using efficiency as a polite word for pain."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Traditional Eco-house"
+title: "Traditional Eco-house: Comfort, Drafts, and the Logic of Old Wood"
 slug: travel-traditional-eco-house
 wp_date: 2026-05-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first lesson of a traditional house stay in Japan is acoustic. Woo
 
 genesis_title: ""
 genesis_description: "The first lesson of a traditional house stay in Japan is acoustic. Wood takes the edge off sound, paper screens turn a hallway into a soft glow, and the stre..."
-open_graph_title: "Traditional Eco-house"
+open_graph_title: "Traditional Eco-house: Comfort, Drafts, and the Logic of Old Wood"
 open_graph_description: "The first lesson of a traditional house stay in Japan is acoustic. Wood takes the edge off sound, paper screens turn a hallway into a soft glow, and the stre..."
-twitter_title: "Traditional Eco-house"
+twitter_title: "Traditional Eco-house: Comfort, Drafts, and the Logic of Old Wood"
 twitter_description: "The first lesson of a traditional house stay in Japan is acoustic. Wood takes the edge off sound, paper screens turn a hallway into a soft glow, and the stre..."
 genesis_noindex: 0
 genesis_nofollow: 0

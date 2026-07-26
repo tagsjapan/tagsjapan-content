@@ -1,5 +1,5 @@
 ---
-title: "Bulletin Board System"
+title: "Bulletin Board System: Japan’s Text-Based Public Architecture"
 slug: understand-japan-bulletin-board-system
 wp_date: 2026-06-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A subject line appears, then a numbered reply, then another reply quot
 
 genesis_title: ""
 genesis_description: "Learn about Bulletin Board System in Japan. In Japanese, the simplest word is 掲示板, a bulletin board. A subject line appea"
-open_graph_title: "Bulletin Board System"
+open_graph_title: "Bulletin Board System: Japan’s Text-Based Public Architecture"
 open_graph_description: "Learn about Bulletin Board System in Japan. In Japanese, the simplest word is 掲示板, a bulletin board. A subject line appea"
-twitter_title: "Bulletin Board System"
+twitter_title: "Bulletin Board System: Japan’s Text-Based Public Architecture"
 twitter_description: "Learn about Bulletin Board System in Japan. In Japanese, the simplest word is 掲示板, a bulletin board. A subject line appea"
 genesis_noindex: 0
 genesis_nofollow: 0

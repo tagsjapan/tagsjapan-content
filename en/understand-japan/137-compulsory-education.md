@@ -1,5 +1,5 @@
 ---
-title: "Compulsory Education"
+title: "Compulsory Education: Nine Years, and the Problem of Staying in School"
 slug: understand-japan-compulsory-education
 wp_date: 2025-10-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Compulsory Education（義務教育） refers to the nine years of ord
 
 genesis_title: ""
 genesis_description: "Learn about Compulsory Education in Japan. On a weekday morning in Japan, the most reliable rhythm is the walk to school."
-open_graph_title: "Compulsory Education"
+open_graph_title: "Compulsory Education: Nine Years, and the Problem of Staying in School"
 open_graph_description: "Learn about Compulsory Education in Japan. On a weekday morning in Japan, the most reliable rhythm is the walk to school."
-twitter_title: "Compulsory Education"
+twitter_title: "Compulsory Education: Nine Years, and the Problem of Staying in School"
 twitter_description: "Learn about Compulsory Education in Japan. On a weekday morning in Japan, the most reliable rhythm is the walk to school."
 genesis_noindex: 0
 genesis_nofollow: 0

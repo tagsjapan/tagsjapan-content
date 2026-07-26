@@ -1,5 +1,5 @@
 ---
-title: "US-Japan Security Treaty"
+title: "US-Japan Security Treaty: The Alliance Under the Schoolyard Sky"
 slug: understand-japan-us-japan-security-treaty
 wp_date: 2025-04-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Ginowan, on Okinawa, the sound often arrives before the aircraft do
 
 genesis_title: ""
 genesis_description: "In Ginowan, on Okinawa, the sound often arrives before the aircraft does. A classroom window trembles, children glance up, and the sky briefly belongs to mac..."
-open_graph_title: "US-Japan Security Treaty"
+open_graph_title: "US-Japan Security Treaty: The Alliance Under the Schoolyard Sky"
 open_graph_description: "In Ginowan, on Okinawa, the sound often arrives before the aircraft does. A classroom window trembles, children glance up, and the sky briefly belongs to mac..."
-twitter_title: "US-Japan Security Treaty"
+twitter_title: "US-Japan Security Treaty: The Alliance Under the Schoolyard Sky"
 twitter_description: "In Ginowan, on Okinawa, the sound often arrives before the aircraft does. A classroom window trembles, children glance up, and the sky briefly belongs to mac..."
 genesis_noindex: 0
 genesis_nofollow: 0

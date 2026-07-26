@@ -1,5 +1,5 @@
 ---
-title: "Themed Café"
+title: "Themed Café: Booking a Seat Inside the Story"
 slug: travel-themed-cafe
 wp_date: 2026-01-19 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The first step is not ordering. It’s booking. You’re on a phone at
 
 genesis_title: ""
 genesis_description: "Guide to Themed Café in Japan. The first step is not ordering. It’s booking. This is already the point. These places don’t sell coffee so much as a tim"
-open_graph_title: "Themed Café"
+open_graph_title: "Themed Café: Booking a Seat Inside the Story"
 open_graph_description: "Guide to Themed Café in Japan. The first step is not ordering. It’s booking. This is already the point. These places don’t sell coffee so much as a tim"
-twitter_title: "Themed Café"
+twitter_title: "Themed Café: Booking a Seat Inside the Story"
 twitter_description: "Guide to Themed Café in Japan. The first step is not ordering. It’s booking. This is already the point. These places don’t sell coffee so much as a tim"
 genesis_noindex: 0
 genesis_nofollow: 0

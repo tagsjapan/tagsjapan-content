@@ -1,5 +1,5 @@
 ---
-title: "Karesansui"
+title: "Karesansui: Making a Landscape Without Water"
 slug: understand-japan-karesansui
 wp_date: 2026-02-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "From a veranda, a karesansui（枯山水） garden can look almost blu
 
 genesis_title: ""
 genesis_description: "Learn about Karesansui in Japan. This matters because it breaks the common myth of sudden invention. From a veranda, a ka"
-open_graph_title: "Karesansui"
+open_graph_title: "Karesansui: Making a Landscape Without Water"
 open_graph_description: "Learn about Karesansui in Japan. This matters because it breaks the common myth of sudden invention. From a veranda, a ka"
-twitter_title: "Karesansui"
+twitter_title: "Karesansui: Making a Landscape Without Water"
 twitter_description: "Learn about Karesansui in Japan. This matters because it breaks the common myth of sudden invention. From a veranda, a ka"
 genesis_noindex: 0
 genesis_nofollow: 0

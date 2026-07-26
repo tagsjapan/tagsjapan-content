@@ -1,5 +1,5 @@
 ---
-title: "Food Safety"
+title: "Food Safety: The Infrastructure of Small Print"
 slug: understand-japan-food-safety
 wp_date: 2025-08-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Pick up a rice ball in a Japanese convenience store and you will notic
 
 genesis_title: ""
 genesis_description: "Pick up a rice ball in a Japanese convenience store and you will notice the quiet confidence of the label. There is an expiration time, not just a date."
-open_graph_title: "Food Safety"
+open_graph_title: "Food Safety: The Infrastructure of Small Print"
 open_graph_description: "Pick up a rice ball in a Japanese convenience store and you will notice the quiet confidence of the label. There is an expiration time, not just a date."
-twitter_title: "Food Safety"
+twitter_title: "Food Safety: The Infrastructure of Small Print"
 twitter_description: "Pick up a rice ball in a Japanese convenience store and you will notice the quiet confidence of the label. There is an expiration time, not just a date."
 genesis_noindex: 0
 genesis_nofollow: 0

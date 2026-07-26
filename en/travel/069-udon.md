@@ -1,5 +1,5 @@
 ---
-title: "Udon"
+title: "Udon: The Noodle That Fits Between Trains"
 slug: travel-udon
 wp_date: 2025-05-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a wet afternoon in Japan, the smartest meal is often the one you do
 
 genesis_title: ""
 genesis_description: "Discover Udon in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Udon"
+open_graph_title: "Udon: The Noodle That Fits Between Trains"
 open_graph_description: "Discover Udon in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Udon"
+twitter_title: "Udon: The Noodle That Fits Between Trains"
 twitter_description: "Discover Udon in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

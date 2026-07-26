@@ -1,5 +1,5 @@
 ---
-title: "Women-only Accommodation"
+title: "Women-only Accommodation: The Nightly Infrastructure of Reassurance"
 slug: travel-women-only-accommodation
 wp_date: 2025-04-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "It often reveals itself in the small things first: a separate elevator
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Women-only Accommodation in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Women-only Accommodation"
+open_graph_title: "Women-only Accommodation: The Nightly Infrastructure of Reassurance"
 open_graph_description: "A comprehensive guide to Women-only Accommodation in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Women-only Accommodation"
+twitter_title: "Women-only Accommodation: The Nightly Infrastructure of Reassurance"
 twitter_description: "A comprehensive guide to Women-only Accommodation in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

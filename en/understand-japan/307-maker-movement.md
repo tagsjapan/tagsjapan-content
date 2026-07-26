@@ -1,5 +1,5 @@
 ---
-title: "Maker Movement"
+title: "Maker Movement: Japan’s Hands, Now with Lasers"
 slug: understand-japan-maker-movement
 wp_date: 2026-07-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first thing you notice in a makerspace is the noise: a 3D printer 
 
 genesis_title: ""
 genesis_description: "Learn about Maker Movement in Japan. The Maker Movement in Japan refers to a contemporary technical culture that pulls design, fabrication, testing, and..."
-open_graph_title: "Maker Movement"
+open_graph_title: "Maker Movement: Japan’s Hands, Now with Lasers"
 open_graph_description: "Learn about Maker Movement in Japan. The Maker Movement in Japan refers to a contemporary technical culture that pulls design, fabrication, testing, and..."
-twitter_title: "Maker Movement"
+twitter_title: "Maker Movement: Japan’s Hands, Now with Lasers"
 twitter_description: "Learn about Maker Movement in Japan. The Maker Movement in Japan refers to a contemporary technical culture that pulls design, fabrication, testing, and..."
 genesis_noindex: 0
 genesis_nofollow: 0

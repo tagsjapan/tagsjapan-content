@@ -1,5 +1,5 @@
 ---
-title: "Horse Riding"
+title: "Horse Riding: Hokkaido Seen at the Speed of Hoofbeats"
 slug: travel-horse-riding
 wp_date: 2025-11-07 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The guide tightens the girth and hands you the reins with the calm con
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Horse Riding in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Horse Riding"
+open_graph_title: "Horse Riding: Hokkaido Seen at the Speed of Hoofbeats"
 open_graph_description: "A comprehensive guide to Horse Riding in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Horse Riding"
+twitter_title: "Horse Riding: Hokkaido Seen at the Speed of Hoofbeats"
 twitter_description: "A comprehensive guide to Horse Riding in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

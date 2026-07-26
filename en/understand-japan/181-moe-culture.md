@@ -1,5 +1,5 @@
 ---
-title: "Moe Culture"
+title: "Moe Culture: When Affection Becomes a Design Language"
 slug: understand-japan-moe-culture
 wp_date: 2025-12-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Moe Culture is frequently mistranslated as “cute culture,” but “
 
 genesis_title: ""
 genesis_description: "Learn about Moe Culture in Japan. Moe（萌） is one of the words Japan invented to talk about that attachment. In the glow of a con"
-open_graph_title: "Moe Culture"
+open_graph_title: "Moe Culture: When Affection Becomes a Design Language"
 open_graph_description: "Learn about Moe Culture in Japan. Moe（萌） is one of the words Japan invented to talk about that attachment. In the glow of a con"
-twitter_title: "Moe Culture"
+twitter_title: "Moe Culture: When Affection Becomes a Design Language"
 twitter_description: "Learn about Moe Culture in Japan. Moe（萌） is one of the words Japan invented to talk about that attachment. In the glow of a con"
 genesis_noindex: 0
 genesis_nofollow: 0

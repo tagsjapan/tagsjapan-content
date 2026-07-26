@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Farm Experience"
+title: "Sustainable Farm Experience: When the Trip Includes the Work of Food"
 slug: travel-sustainable-farm-experience
 wp_date: 2026-04-25 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a farm, “local” stops being a label and turns into a schedule. 
 
 genesis_title: ""
 genesis_description: "On a farm, “local” stops being a label and turns into a schedule. You wake with light, pull on boots, and find that the day’s first lesson is not philosophic..."
-open_graph_title: "Sustainable Farm Experience"
+open_graph_title: "Sustainable Farm Experience: When the Trip Includes the Work of Food"
 open_graph_description: "On a farm, “local” stops being a label and turns into a schedule. You wake with light, pull on boots, and find that the day’s first lesson is not philosophic..."
-twitter_title: "Sustainable Farm Experience"
+twitter_title: "Sustainable Farm Experience: When the Trip Includes the Work of Food"
 twitter_description: "On a farm, “local” stops being a label and turns into a schedule. You wake with light, pull on boots, and find that the day’s first lesson is not philosophic..."
 genesis_noindex: 0
 genesis_nofollow: 0

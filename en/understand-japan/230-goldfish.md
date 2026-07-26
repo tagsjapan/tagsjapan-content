@@ -1,5 +1,5 @@
 ---
-title: "Goldfish"
+title: "Goldfish: A Summer Image with an Industrial Backbone"
 slug: understand-japan-goldfish
 wp_date: 2026-04-05 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Goldfish（金魚） in Japan sits at an unusual intersection: pet and
 
 genesis_title: ""
 genesis_description: "Learn about Goldfish in Japan. Japan’s kingyo-sukui（金魚すくい) is often remembered as a seasonal game, yet it quietly teaches a deeper truth about..."
-open_graph_title: "Goldfish"
+open_graph_title: "Goldfish: A Summer Image with an Industrial Backbone"
 open_graph_description: "Learn about Goldfish in Japan. Japan’s kingyo-sukui（金魚すくい) is often remembered as a seasonal game, yet it quietly teaches a deeper truth about..."
-twitter_title: "Goldfish"
+twitter_title: "Goldfish: A Summer Image with an Industrial Backbone"
 twitter_description: "Learn about Goldfish in Japan. Japan’s kingyo-sukui（金魚すくい) is often remembered as a seasonal game, yet it quietly teaches a deeper truth about..."
 genesis_noindex: 0
 genesis_nofollow: 0

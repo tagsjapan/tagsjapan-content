@@ -1,5 +1,5 @@
 ---
-title: "Kushikatsu"
+title: "Kushikatsu: The Sauce Rule That Tastes Like Osaka"
 slug: travel-kushikatsu
 wp_date: 2025-06-01 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Osaka’s , the first thing you notice is not the menu. It’s the 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Kushikatsu in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Kushikatsu"
+open_graph_title: "Kushikatsu: The Sauce Rule That Tastes Like Osaka"
 open_graph_description: "A comprehensive guide to Kushikatsu in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Kushikatsu"
+twitter_title: "Kushikatsu: The Sauce Rule That Tastes Like Osaka"
 twitter_description: "A comprehensive guide to Kushikatsu in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Yakisoba"
+title: "Yakisoba: The Noodles Japan Eats in Crowds"
 slug: travel-yakisoba
 wp_date: 2025-06-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "There are foods that feel like destinations, and foods that feel like 
 
 genesis_title: ""
 genesis_description: "Guide to Yakisoba in Japan. There are foods that feel like destinations, and foods that feel like movement. is the second kind. It’s not"
-open_graph_title: "Yakisoba"
+open_graph_title: "Yakisoba: The Noodles Japan Eats in Crowds"
 open_graph_description: "Guide to Yakisoba in Japan. There are foods that feel like destinations, and foods that feel like movement. is the second kind. It’s not"
-twitter_title: "Yakisoba"
+twitter_title: "Yakisoba: The Noodles Japan Eats in Crowds"
 twitter_description: "Guide to Yakisoba in Japan. There are foods that feel like destinations, and foods that feel like movement. is the second kind. It’s not"
 genesis_noindex: 0
 genesis_nofollow: 0

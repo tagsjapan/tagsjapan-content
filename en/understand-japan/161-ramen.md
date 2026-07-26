@@ -1,5 +1,5 @@
 ---
-title: "Ramen"
+title: "Ramen: How Japan Turned a Borrowed Noodle into a National Food"
 slug: understand-japan-ramen
 wp_date: 2025-11-18 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A ramen shop often announces itself by sound and steam. A door opens, 
 
 genesis_title: ""
 genesis_description: "Learn about Ramen in Japan. The surface is busy—fat droplets of oil, a slice of pork, green onions, sheets of nori—yet the experience is controlled."
-open_graph_title: "Ramen"
+open_graph_title: "Ramen: How Japan Turned a Borrowed Noodle into a National Food"
 open_graph_description: "Learn about Ramen in Japan. The surface is busy—fat droplets of oil, a slice of pork, green onions, sheets of nori—yet the experience is controlled."
-twitter_title: "Ramen"
+twitter_title: "Ramen: How Japan Turned a Borrowed Noodle into a National Food"
 twitter_description: "Learn about Ramen in Japan. The surface is busy—fat droplets of oil, a slice of pork, green onions, sheets of nori—yet the experience is controlled."
 genesis_noindex: 0
 genesis_nofollow: 0

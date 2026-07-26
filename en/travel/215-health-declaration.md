@@ -1,5 +1,5 @@
 ---
-title: "Health Declaration"
+title: "Health Declaration: The Border Step That May or May Not Be There"
 slug: travel-health-declaration
 wp_date: 2026-03-05 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Few travel terms age faster than the ones born in an emergency. \"Heal
 
 genesis_title: ""
 genesis_description: "Visit Japan Web streamlines customs and immigration. As of 2023, no health declaration or pre-departure test is required for entry into Japan."
-open_graph_title: "Health Declaration"
+open_graph_title: "Health Declaration: The Border Step That May or May Not Be There"
 open_graph_description: "Visit Japan Web streamlines customs and immigration. As of 2023, no health declaration or pre-departure test is required for entry into Japan."
-twitter_title: "Health Declaration"
+twitter_title: "Health Declaration: The Border Step That May or May Not Be There"
 twitter_description: "Visit Japan Web streamlines customs and immigration. As of 2023, no health declaration or pre-departure test is required for entry into Japan."
 genesis_noindex: 0
 genesis_nofollow: 0

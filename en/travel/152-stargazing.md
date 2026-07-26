@@ -1,5 +1,5 @@
 ---
-title: "Stargazing"
+title: "Stargazing: Japan After the Lights Go Out"
 slug: travel-stargazing
 wp_date: 2025-10-31 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The hardest part is the first five minutes. You step outside, leave th
 
 genesis_title: ""
 genesis_description: "Explore Stargazing in Japan. The hardest part is the first five minutes. Then your eyes adjust. The darkness gains depth."
-open_graph_title: "Stargazing"
+open_graph_title: "Stargazing: Japan After the Lights Go Out"
 open_graph_description: "Explore Stargazing in Japan. The hardest part is the first five minutes. Then your eyes adjust. The darkness gains depth."
-twitter_title: "Stargazing"
+twitter_title: "Stargazing: Japan After the Lights Go Out"
 twitter_description: "Explore Stargazing in Japan. The hardest part is the first five minutes. Then your eyes adjust. The darkness gains depth."
 genesis_noindex: 0
 genesis_nofollow: 0

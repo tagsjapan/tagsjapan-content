@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence: Japan’s Push for “Social Implementation”"
 slug: understand-japan-artificial-intelligence
 wp_date: 2026-06-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a municipal office, a staff member pastes a draft memo into a chat 
 
 genesis_title: ""
 genesis_description: "Learn about Artificial Intelligence in Japan. The pressure is demographic as much as technological. In a municipal offic"
-open_graph_title: "Artificial Intelligence"
+open_graph_title: "Artificial Intelligence: Japan’s Push for “Social Implementation”"
 open_graph_description: "Learn about Artificial Intelligence in Japan. The pressure is demographic as much as technological. In a municipal offic"
-twitter_title: "Artificial Intelligence"
+twitter_title: "Artificial Intelligence: Japan’s Push for “Social Implementation”"
 twitter_description: "Learn about Artificial Intelligence in Japan. The pressure is demographic as much as technological. In a municipal offic"
 genesis_noindex: 0
 genesis_nofollow: 0

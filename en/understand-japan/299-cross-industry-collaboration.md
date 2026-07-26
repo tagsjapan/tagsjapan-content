@@ -1,5 +1,5 @@
 ---
-title: "Cross-Industry Collaboration"
+title: "Cross-Industry Collaboration: Teaching Organizations to Share a Problem"
 slug: understand-japan-cross-industry-collaboration
 wp_date: 2026-07-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a conference room that smells faintly of coffee and printer paper, 
 
 genesis_title: ""
 genesis_description: "Learn about Cross-Industry Collaboration in Japan. In Japan, this awkward, necessary meeting has a name: cross-industry collaboration."
-open_graph_title: "Cross-Industry Collaboration"
+open_graph_title: "Cross-Industry Collaboration: Teaching Organizations to Share a Problem"
 open_graph_description: "Learn about Cross-Industry Collaboration in Japan. In Japan, this awkward, necessary meeting has a name: cross-industry collaboration."
-twitter_title: "Cross-Industry Collaboration"
+twitter_title: "Cross-Industry Collaboration: Teaching Organizations to Share a Problem"
 twitter_description: "Learn about Cross-Industry Collaboration in Japan. In Japan, this awkward, necessary meeting has a name: cross-industry collaboration."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Ikigai"
+title: "Ikigai: Meaning as an Everyday Social Practice"
 slug: understand-japan-ikigai
 wp_date: 2025-10-20 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A retiree shows up at the community center early, not because anyone i
 
 genesis_title: ""
 genesis_description: "Learn about Ikigai in Japan. A retiree shows up at the community center early, not because anyone is paying him, but because someone has to set the chairs..."
-open_graph_title: "Ikigai"
+open_graph_title: "Ikigai: Meaning as an Everyday Social Practice"
 open_graph_description: "Learn about Ikigai in Japan. A retiree shows up at the community center early, not because anyone is paying him, but because someone has to set the chairs..."
-twitter_title: "Ikigai"
+twitter_title: "Ikigai: Meaning as an Everyday Social Practice"
 twitter_description: "Learn about Ikigai in Japan. A retiree shows up at the community center early, not because anyone is paying him, but because someone has to set the chairs..."
 genesis_noindex: 0
 genesis_nofollow: 0

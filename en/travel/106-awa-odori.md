@@ -1,5 +1,5 @@
 ---
-title: "Awa Odori"
+title: "Awa Odori: When Tokushima Turns Into a Dance Floor"
 slug: travel-awa-odori
 wp_date: 2025-07-30 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Tokushima on a hot August night, you can feel the festival before y
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Awa Odori in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Awa Odori"
+open_graph_title: "Awa Odori: When Tokushima Turns Into a Dance Floor"
 open_graph_description: "A comprehensive guide to Awa Odori in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Awa Odori"
+twitter_title: "Awa Odori: When Tokushima Turns Into a Dance Floor"
 twitter_description: "A comprehensive guide to Awa Odori in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

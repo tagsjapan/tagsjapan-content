@@ -1,5 +1,5 @@
 ---
-title: "Social Networking Service"
+title: "Social Networking Service: Japan’s Everyday Public Mirror"
 slug: understand-japan-social-networking-service
 wp_date: 2026-06-12 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In Japan, “what happened” often arrives as a screenshot. A friend 
 
 genesis_title: ""
 genesis_description: "Learn about Social Networking Service in Japan. In Japan, this made SNS a primary stage for three kinds of everyday public life."
-open_graph_title: "Social Networking Service"
+open_graph_title: "Social Networking Service: Japan’s Everyday Public Mirror"
 open_graph_description: "Learn about Social Networking Service in Japan. In Japan, this made SNS a primary stage for three kinds of everyday public life."
-twitter_title: "Social Networking Service"
+twitter_title: "Social Networking Service: Japan’s Everyday Public Mirror"
 twitter_description: "Learn about Social Networking Service in Japan. In Japan, this made SNS a primary stage for three kinds of everyday public life."
 genesis_noindex: 0
 genesis_nofollow: 0

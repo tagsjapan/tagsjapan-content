@@ -1,5 +1,5 @@
 ---
-title: "Short-term Apartment"
+title: "Short-term Apartment: When the Trip Starts to Behave Like Life"
 slug: travel-short-term-apartment
 wp_date: 2025-04-28 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The first sign is usually the grocery basket. A hotel guest buys a dri
 
 genesis_title: ""
 genesis_description: "Your guide to Short-term Apartment in Japan. The first sign is usually the grocery basket. You are no longer moving through a city as a nightly customer."
-open_graph_title: "Short-term Apartment"
+open_graph_title: "Short-term Apartment: When the Trip Starts to Behave Like Life"
 open_graph_description: "Your guide to Short-term Apartment in Japan. The first sign is usually the grocery basket. You are no longer moving through a city as a nightly customer."
-twitter_title: "Short-term Apartment"
+twitter_title: "Short-term Apartment: When the Trip Starts to Behave Like Life"
 twitter_description: "Your guide to Short-term Apartment in Japan. The first sign is usually the grocery basket. You are no longer moving through a city as a nightly customer."
 genesis_noindex: 0
 genesis_nofollow: 0

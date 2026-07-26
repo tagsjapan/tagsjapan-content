@@ -1,5 +1,5 @@
 ---
-title: "School Club Activities"
+title: "School Club Activities: The After-School System Japan Is Rebuilding"
 slug: understand-japan-school-club-activities
 wp_date: 2026-05-17 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "In many Japanese schools, the day does not end when the last class doe
 
 genesis_title: ""
 genesis_description: "Learn about School Club Activities in Japan. This is bukatsu（部活動）, usually translated as “school club activities,” and it is not simply an after-school..."
-open_graph_title: "School Club Activities"
+open_graph_title: "School Club Activities: The After-School System Japan Is Rebuilding"
 open_graph_description: "Learn about School Club Activities in Japan. This is bukatsu（部活動）, usually translated as “school club activities,” and it is not simply an after-school..."
-twitter_title: "School Club Activities"
+twitter_title: "School Club Activities: The After-School System Japan Is Rebuilding"
 twitter_description: "Learn about School Club Activities in Japan. This is bukatsu（部活動）, usually translated as “school club activities,” and it is not simply an after-school..."
 genesis_noindex: 0
 genesis_nofollow: 0

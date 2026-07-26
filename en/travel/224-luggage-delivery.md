@@ -1,5 +1,5 @@
 ---
-title: "Luggage Delivery"
+title: "Luggage Delivery: The Freedom of Traveling Light"
 slug: travel-luggage-delivery
 wp_date: 2026-03-23 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "There is a moment on many Japanese platforms when the trip seems to na
 
 genesis_title: ""
 genesis_description: "There is a moment on many Japanese platforms when the trip seems to narrow to one practical question: can you get this suitcase from here to there without tu..."
-open_graph_title: "Luggage Delivery"
+open_graph_title: "Luggage Delivery: The Freedom of Traveling Light"
 open_graph_description: "There is a moment on many Japanese platforms when the trip seems to narrow to one practical question: can you get this suitcase from here to there without tu..."
-twitter_title: "Luggage Delivery"
+twitter_title: "Luggage Delivery: The Freedom of Traveling Light"
 twitter_description: "There is a moment on many Japanese platforms when the trip seems to narrow to one practical question: can you get this suitcase from here to there without tu..."
 genesis_noindex: 0
 genesis_nofollow: 0

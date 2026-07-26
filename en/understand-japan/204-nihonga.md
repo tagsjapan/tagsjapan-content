@@ -1,5 +1,5 @@
 ---
-title: "Nihonga"
+title: "Nihonga: Tradition Rebuilt as a Modern Category"
 slug: understand-japan-nihonga
 wp_date: 2026-02-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a museum gallery, a surface can look quiet until you get close. Min
 
 genesis_title: ""
 genesis_description: "Learn about Nihonga in Japan. The scene feels “traditional,” and that feeling is part of the story. In a museum gallery,"
-open_graph_title: "Nihonga"
+open_graph_title: "Nihonga: Tradition Rebuilt as a Modern Category"
 open_graph_description: "Learn about Nihonga in Japan. The scene feels “traditional,” and that feeling is part of the story. In a museum gallery,"
-twitter_title: "Nihonga"
+twitter_title: "Nihonga: Tradition Rebuilt as a Modern Category"
 twitter_description: "Learn about Nihonga in Japan. The scene feels “traditional,” and that feeling is part of the story. In a museum gallery,"
 genesis_noindex: 0
 genesis_nofollow: 0

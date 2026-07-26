@@ -1,5 +1,5 @@
 ---
-title: "Fishing Village Experience"
+title: "Fishing Village Experience: Spending a Night Where the Catch Comes From"
 slug: travel-fishing-village-experience
 wp_date: 2026-04-14 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In Ine, on Kyoto Prefecture’s quieter coast, the houses face the wat
 
 genesis_title: ""
 genesis_description: "In Ine, on Kyoto Prefecture’s quieter coast, the houses face the water the way waterfront buildings rarely do in big cities. Boats sit where garages would be."
-open_graph_title: "Fishing Village Experience"
+open_graph_title: "Fishing Village Experience: Spending a Night Where the Catch Comes From"
 open_graph_description: "In Ine, on Kyoto Prefecture’s quieter coast, the houses face the water the way waterfront buildings rarely do in big cities. Boats sit where garages would be."
-twitter_title: "Fishing Village Experience"
+twitter_title: "Fishing Village Experience: Spending a Night Where the Catch Comes From"
 twitter_description: "In Ine, on Kyoto Prefecture’s quieter coast, the houses face the water the way waterfront buildings rarely do in big cities. Boats sit where garages would be."
 genesis_noindex: 0
 genesis_nofollow: 0

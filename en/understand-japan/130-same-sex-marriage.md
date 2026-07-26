@@ -1,5 +1,5 @@
 ---
-title: "Same-Sex Marriage"
+title: "Same-Sex Marriage: Japan’s Debate About the Register"
 slug: understand-japan-same-sex-marriage
 wp_date: 2025-09-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Same-Sex Marriage（同性婚姻） in Japan is therefore not primaril
 
 genesis_title: ""
 genesis_description: "Learn about Same-Sex Marriage in Japan. In Japan, that sheet of paper is normally the legal start of marriage. Imagine a couple at"
-open_graph_title: "Same-Sex Marriage"
+open_graph_title: "Same-Sex Marriage: Japan’s Debate About the Register"
 open_graph_description: "Learn about Same-Sex Marriage in Japan. In Japan, that sheet of paper is normally the legal start of marriage. Imagine a couple at"
-twitter_title: "Same-Sex Marriage"
+twitter_title: "Same-Sex Marriage: Japan’s Debate About the Register"
 twitter_description: "Learn about Same-Sex Marriage in Japan. In Japan, that sheet of paper is normally the legal start of marriage. Imagine a couple at"
 genesis_noindex: 0
 genesis_nofollow: 0

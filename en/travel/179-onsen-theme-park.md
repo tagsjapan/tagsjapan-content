@@ -1,5 +1,5 @@
 ---
-title: "Onsen Theme Park"
+title: "Onsen Theme Park: The Easier Door Into Hot-Spring Culture"
 slug: travel-onsen-theme-park
 wp_date: 2025-12-24 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The argument begins in the changing room. One traveler is curious abou
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Onsen Theme Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Onsen Theme Park"
+open_graph_title: "Onsen Theme Park: The Easier Door Into Hot-Spring Culture"
 open_graph_description: "A comprehensive guide to Onsen Theme Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Onsen Theme Park"
+twitter_title: "Onsen Theme Park: The Easier Door Into Hot-Spring Culture"
 twitter_description: "A comprehensive guide to Onsen Theme Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

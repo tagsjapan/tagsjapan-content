@@ -1,5 +1,5 @@
 ---
-title: "Public Interest Corporation"
+title: "Public Interest Corporation: Where Public Work Lives Outside the State"
 slug: understand-japan-public-interest-corporation
 wp_date: 2025-05-07 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, an old museum, a scholarship foundation, a cultural preserva
 
 genesis_title: ""
 genesis_description: "In Japan, an old museum, a scholarship foundation, a cultural preservation body, or a regional promotion group may have a nameplate that begins with a phrase..."
-open_graph_title: "Public Interest Corporation"
+open_graph_title: "Public Interest Corporation: Where Public Work Lives Outside the State"
 open_graph_description: "In Japan, an old museum, a scholarship foundation, a cultural preservation body, or a regional promotion group may have a nameplate that begins with a phrase..."
-twitter_title: "Public Interest Corporation"
+twitter_title: "Public Interest Corporation: Where Public Work Lives Outside the State"
 twitter_description: "In Japan, an old museum, a scholarship foundation, a cultural preservation body, or a regional promotion group may have a nameplate that begins with a phrase..."
 genesis_noindex: 0
 genesis_nofollow: 0

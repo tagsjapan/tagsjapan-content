@@ -1,5 +1,5 @@
 ---
-title: "Snow-viewing Onsen"
+title: "Snow-viewing Onsen: Winter When It Finally Sits Still"
 slug: travel-snow-viewing-onsen
 wp_date: 2025-10-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You notice it most clearly on the walk back from the bath. The air is 
 
 genesis_title: ""
 genesis_description: "Explore Snow-viewing Onsen in Japan. You notice it most clearly on the walk back from the bath. It is not merely looking at snow from hot water."
-open_graph_title: "Snow-viewing Onsen"
+open_graph_title: "Snow-viewing Onsen: Winter When It Finally Sits Still"
 open_graph_description: "Explore Snow-viewing Onsen in Japan. You notice it most clearly on the walk back from the bath. It is not merely looking at snow from hot water."
-twitter_title: "Snow-viewing Onsen"
+twitter_title: "Snow-viewing Onsen: Winter When It Finally Sits Still"
 twitter_description: "Explore Snow-viewing Onsen in Japan. You notice it most clearly on the walk back from the bath. It is not merely looking at snow from hot water."
 genesis_noindex: 0
 genesis_nofollow: 0

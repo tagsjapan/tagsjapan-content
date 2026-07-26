@@ -1,5 +1,5 @@
 ---
-title: "Shared Accommodation"
+title: "Shared Accommodation: Living Inside the Neighborhood"
 slug: travel-shared-accommodation
 wp_date: 2025-04-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The difference announces itself in the kitchen sink. In a Japanese sha
 
 genesis_title: ""
 genesis_description: "Your guide to Shared Accommodation in Japan. The difference announces itself in the kitchen sink. Shared accommodation in Japan is not simply a cheap bed."
-open_graph_title: "Shared Accommodation"
+open_graph_title: "Shared Accommodation: Living Inside the Neighborhood"
 open_graph_description: "Your guide to Shared Accommodation in Japan. The difference announces itself in the kitchen sink. Shared accommodation in Japan is not simply a cheap bed."
-twitter_title: "Shared Accommodation"
+twitter_title: "Shared Accommodation: Living Inside the Neighborhood"
 twitter_description: "Your guide to Shared Accommodation in Japan. The difference announces itself in the kitchen sink. Shared accommodation in Japan is not simply a cheap bed."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Gaman"
+title: "Gaman: The Discipline of Holding It In"
 slug: understand-japan-gaman
 wp_date: 2025-08-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A train is delayed, the platform is crowded, and the air is humid enou
 
 genesis_title: ""
 genesis_description: "A train is delayed, the platform is crowded, and the air is humid enough to make shirts stick to skin. People check their phones, shift their bags, and wait."
-open_graph_title: "Gaman"
+open_graph_title: "Gaman: The Discipline of Holding It In"
 open_graph_description: "A train is delayed, the platform is crowded, and the air is humid enough to make shirts stick to skin. People check their phones, shift their bags, and wait."
-twitter_title: "Gaman"
+twitter_title: "Gaman: The Discipline of Holding It In"
 twitter_description: "A train is delayed, the platform is crowded, and the air is humid enough to make shirts stick to skin. People check their phones, shift their bags, and wait."
 genesis_noindex: 0
 genesis_nofollow: 0

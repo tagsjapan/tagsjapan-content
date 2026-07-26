@@ -1,5 +1,5 @@
 ---
-title: "Sake"
+title: "Sake: Koji, Tax, and the Making of Nihonshu"
 slug: understand-japan-sake
 wp_date: 2025-11-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a Shinto ceremony, a small cup of clear alcohol can carry more weig
 
 genesis_title: ""
 genesis_description: "Learn about Sake in Japan. Sake（清酒） is one of those Japanese words that seems simple until you try to pin it down. In a Shinto ceremony"
-open_graph_title: "Sake"
+open_graph_title: "Sake: Koji, Tax, and the Making of Nihonshu"
 open_graph_description: "Learn about Sake in Japan. Sake（清酒） is one of those Japanese words that seems simple until you try to pin it down. In a Shinto ceremony"
-twitter_title: "Sake"
+twitter_title: "Sake: Koji, Tax, and the Making of Nihonshu"
 twitter_description: "Learn about Sake in Japan. Sake（清酒） is one of those Japanese words that seems simple until you try to pin it down. In a Shinto ceremony"
 genesis_noindex: 0
 genesis_nofollow: 0

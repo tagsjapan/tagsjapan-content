@@ -1,5 +1,5 @@
 ---
-title: "Sakura"
+title: "Sakura: A Flower That Turns Nature into a National Calendar"
 slug: understand-japan-sakura
 wp_date: 2026-03-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Every spring in Japan, the country briefly shares a single nervous hab
 
 genesis_title: ""
 genesis_description: "Learn about Sakura in Japan. Cherry blossoms are a public timing device synchronizing emotion, festivals, and seasonal schedules across the archipelago."
-open_graph_title: "Sakura"
+open_graph_title: "Sakura: A Flower That Turns Nature into a National Calendar"
 open_graph_description: "Learn about Sakura in Japan. Cherry blossoms are a public timing device synchronizing emotion, festivals, and seasonal schedules across the archipelago."
-twitter_title: "Sakura"
+twitter_title: "Sakura: A Flower That Turns Nature into a National Calendar"
 twitter_description: "Learn about Sakura in Japan. Cherry blossoms are a public timing device synchronizing emotion, festivals, and seasonal schedules across the archipelago."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Telework"
+title: "Telework: When Japan’s Office Culture Met the Living Room"
 slug: understand-japan-telework
 wp_date: 2026-06-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In the spring of 2020, the commuter train became an odd kind of docume
 
 genesis_title: ""
 genesis_description: "Learn about Telework in Japan. The office is not only a place to sit; it is a system of visible coordination. In the spring of 202"
-open_graph_title: "Telework"
+open_graph_title: "Telework: When Japan’s Office Culture Met the Living Room"
 open_graph_description: "Learn about Telework in Japan. The office is not only a place to sit; it is a system of visible coordination. In the spring of 202"
-twitter_title: "Telework"
+twitter_title: "Telework: When Japan’s Office Culture Met the Living Room"
 twitter_description: "Learn about Telework in Japan. The office is not only a place to sit; it is a system of visible coordination. In the spring of 202"
 genesis_noindex: 0
 genesis_nofollow: 0

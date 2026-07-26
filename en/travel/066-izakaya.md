@@ -1,5 +1,5 @@
 ---
-title: "Izakaya"
+title: "Izakaya: Where the Day Finally Comes Undone"
 slug: travel-izakaya
 wp_date: 2025-05-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You hear an izakaya before you understand it. The glass door slides op
 
 genesis_title: ""
 genesis_description: "Guide to Izakaya in Japan. You hear an izakaya before you understand it. Coats are being hung up. Someone is already laughing too loudly."
-open_graph_title: "Izakaya"
+open_graph_title: "Izakaya: Where the Day Finally Comes Undone"
 open_graph_description: "Guide to Izakaya in Japan. You hear an izakaya before you understand it. Coats are being hung up. Someone is already laughing too loudly."
-twitter_title: "Izakaya"
+twitter_title: "Izakaya: Where the Day Finally Comes Undone"
 twitter_description: "Guide to Izakaya in Japan. You hear an izakaya before you understand it. Coats are being hung up. Someone is already laughing too loudly."
 genesis_noindex: 0
 genesis_nofollow: 0

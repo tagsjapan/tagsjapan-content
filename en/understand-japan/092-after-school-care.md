@@ -1,5 +1,5 @@
 ---
-title: "After-school Care"
+title: "After-school Care: Where the School Day Really Ends"
 slug: understand-japan-after-school-care
 wp_date: 2025-07-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At around three in the afternoon, many Japanese elementary schools beg
 
 genesis_title: ""
 genesis_description: "At around three in the afternoon, many Japanese elementary schools begin a second shift that does not look like school at all."
-open_graph_title: "After-school Care"
+open_graph_title: "After-school Care: Where the School Day Really Ends"
 open_graph_description: "At around three in the afternoon, many Japanese elementary schools begin a second shift that does not look like school at all."
-twitter_title: "After-school Care"
+twitter_title: "After-school Care: Where the School Day Really Ends"
 twitter_description: "At around three in the afternoon, many Japanese elementary schools begin a second shift that does not look like school at all."
 genesis_noindex: 0
 genesis_nofollow: 0

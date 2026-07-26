@@ -1,5 +1,5 @@
 ---
-title: "Yamato people"
+title: "Yamato People: The Majority Identity Japan Long Treated as Natural"
 slug: understand-japan-yamato-people
 wp_date: 2025-01-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Ask who the \"Japanese people\" are, and for a long time the answer in
 
 genesis_title: ""
 genesis_description: "Ask who the \"Japanese people\" are, and for a long time the answer inside Japan often arrived with very little explanation. That was precisely the point."
-open_graph_title: "Yamato people"
+open_graph_title: "Yamato People: The Majority Identity Japan Long Treated as Natural"
 open_graph_description: "Ask who the \"Japanese people\" are, and for a long time the answer inside Japan often arrived with very little explanation. That was precisely the point."
-twitter_title: "Yamato people"
+twitter_title: "Yamato People: The Majority Identity Japan Long Treated as Natural"
 twitter_description: "Ask who the \"Japanese people\" are, and for a long time the answer inside Japan often arrived with very little explanation. That was precisely the point."
 genesis_noindex: 0
 genesis_nofollow: 0

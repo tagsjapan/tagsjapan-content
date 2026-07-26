@@ -1,5 +1,5 @@
 ---
-title: "Vaccination"
+title: "Vaccination: A Shot, a System, and a Trust Problem"
 slug: understand-japan-vaccination
 wp_date: 2025-09-07 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A vaccination in Japan often begins as paperwork. An envelope arrives 
 
 genesis_title: ""
 genesis_description: "A vaccination in Japan often begins as paperwork. An envelope arrives from the municipality with a voucher, a screening form, instructions, and a schedule th..."
-open_graph_title: "Vaccination"
+open_graph_title: "Vaccination: A Shot, a System, and a Trust Problem"
 open_graph_description: "A vaccination in Japan often begins as paperwork. An envelope arrives from the municipality with a voucher, a screening form, instructions, and a schedule th..."
-twitter_title: "Vaccination"
+twitter_title: "Vaccination: A Shot, a System, and a Trust Problem"
 twitter_description: "A vaccination in Japan often begins as paperwork. An envelope arrives from the municipality with a voucher, a screening form, instructions, and a schedule th..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Passenger Rights"
+title: "Passenger Rights: The Fine Print That Saves the Day"
 slug: travel-passenger-rights
 wp_date: 2026-03-09 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first thing many travelers want after a cancellation is justice. T
 
 genesis_title: ""
 genesis_description: "The first thing many travelers want after a cancellation is justice. The second thing they actually need is a rule they can use."
-open_graph_title: "Passenger Rights"
+open_graph_title: "Passenger Rights: The Fine Print That Saves the Day"
 open_graph_description: "The first thing many travelers want after a cancellation is justice. The second thing they actually need is a rule they can use."
-twitter_title: "Passenger Rights"
+twitter_title: "Passenger Rights: The Fine Print That Saves the Day"
 twitter_description: "The first thing many travelers want after a cancellation is justice. The second thing they actually need is a rule they can use."
 genesis_noindex: 0
 genesis_nofollow: 0

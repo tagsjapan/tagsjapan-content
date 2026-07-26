@@ -1,5 +1,5 @@
 ---
-title: "Metropolitan Area"
+title: "Metropolitan Area: Where the City Really Ends"
 slug: understand-japan-metropolitan-area
 wp_date: 2025-06-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The map says Tokyo ends in one place and Saitama, Chiba, or Kanagawa b
 
 genesis_title: ""
 genesis_description: "The map says Tokyo ends in one place and Saitama, Chiba, or Kanagawa begins in another. The morning train says something else."
-open_graph_title: "Metropolitan Area"
+open_graph_title: "Metropolitan Area: Where the City Really Ends"
 open_graph_description: "The map says Tokyo ends in one place and Saitama, Chiba, or Kanagawa begins in another. The morning train says something else."
-twitter_title: "Metropolitan Area"
+twitter_title: "Metropolitan Area: Where the City Really Ends"
 twitter_description: "The map says Tokyo ends in one place and Saitama, Chiba, or Kanagawa begins in another. The morning train says something else."
 genesis_noindex: 0
 genesis_nofollow: 0

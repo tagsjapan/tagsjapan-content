@@ -1,5 +1,5 @@
 ---
-title: "Multilingual Support"
+title: "Multilingual Support: How Japan Helps You Keep Moving"
 slug: travel-multilingual-support
 wp_date: 2026-03-14 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first useful sentence in Japan is often not poetic. It is \"Which 
 
 genesis_title: ""
 genesis_description: "The first useful sentence in Japan is often not poetic. It is \"Which exit?\" or \"Can I use this pass?\" or \"Where is the elevator?"
-open_graph_title: "Multilingual Support"
+open_graph_title: "Multilingual Support: How Japan Helps You Keep Moving"
 open_graph_description: "The first useful sentence in Japan is often not poetic. It is \"Which exit?\" or \"Can I use this pass?\" or \"Where is the elevator?"
-twitter_title: "Multilingual Support"
+twitter_title: "Multilingual Support: How Japan Helps You Keep Moving"
 twitter_description: "The first useful sentence in Japan is often not poetic. It is \"Which exit?\" or \"Can I use this pass?\" or \"Where is the elevator?"
 genesis_noindex: 0
 genesis_nofollow: 0

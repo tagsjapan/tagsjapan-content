@@ -1,5 +1,5 @@
 ---
-title: "Cultural Market"
+title: "Cultural Market: Where Japan Sells You the City in Small Objects"
 slug: travel-cultural-market
 wp_date: 2026-01-29 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "If you arrive early enough, a Japanese cultural market feels like a ci
 
 genesis_title: ""
 genesis_description: "If you arrive early enough, a Japanese cultural market feels like a city assembling itself in public. Tables unfold. Cardboard boxes open like stage props."
-open_graph_title: "Cultural Market"
+open_graph_title: "Cultural Market: Where Japan Sells You the City in Small Objects"
 open_graph_description: "If you arrive early enough, a Japanese cultural market feels like a city assembling itself in public. Tables unfold. Cardboard boxes open like stage props."
-twitter_title: "Cultural Market"
+twitter_title: "Cultural Market: Where Japan Sells You the City in Small Objects"
 twitter_description: "If you arrive early enough, a Japanese cultural market feels like a city assembling itself in public. Tables unfold. Cardboard boxes open like stage props."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Windsurfing"
+title: "Windsurfing: The Day-Trip Sport That Depends on Place"
 slug: travel-windsurfing
 wp_date: 2025-11-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a good morning, the beach feels like it’s waiting for the wind to
 
 genesis_title: ""
 genesis_description: "Explore Windsurfing in Japan. On a good morning, the beach feels like it’s waiting for the wind to arrive. That quick shift is part of"
-open_graph_title: "Windsurfing"
+open_graph_title: "Windsurfing: The Day-Trip Sport That Depends on Place"
 open_graph_description: "Explore Windsurfing in Japan. On a good morning, the beach feels like it’s waiting for the wind to arrive. That quick shift is part of"
-twitter_title: "Windsurfing"
+twitter_title: "Windsurfing: The Day-Trip Sport That Depends on Place"
 twitter_description: "Explore Windsurfing in Japan. On a good morning, the beach feels like it’s waiting for the wind to arrive. That quick shift is part of"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Safety Culture"
+title: "Safety Culture: What Japan Learned After Rules Were Not Enough"
 slug: understand-japan-safety-culture
 wp_date: 2025-08-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A safety manual can be perfect and still fail. A workplace can have ch
 
 genesis_title: ""
 genesis_description: "A safety manual can be perfect and still fail. A workplace can have checklists, signs, and training sessions, and still produce the same near-misses—until on..."
-open_graph_title: "Safety Culture"
+open_graph_title: "Safety Culture: What Japan Learned After Rules Were Not Enough"
 open_graph_description: "A safety manual can be perfect and still fail. A workplace can have checklists, signs, and training sessions, and still produce the same near-misses—until on..."
-twitter_title: "Safety Culture"
+twitter_title: "Safety Culture: What Japan Learned After Rules Were Not Enough"
 twitter_description: "A safety manual can be perfect and still fail. A workplace can have checklists, signs, and training sessions, and still produce the same near-misses—until on..."
 genesis_noindex: 0
 genesis_nofollow: 0

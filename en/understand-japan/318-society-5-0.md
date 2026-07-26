@@ -1,5 +1,5 @@
 ---
-title: "Society 5.0"
+title: "Society 5.0: Japan’s Attempt to Make Technology a Social Operating System"
 slug: understand-japan-society-5.0
 wp_status: draft
 wp_blog_id: 1
@@ -19,9 +19,9 @@ excerpt: "In Japan’s policy language, the future is often described as a syste
 
 genesis_title: ""
 genesis_description: "Learn about Society 5.0 in Japan. In Japan’s policy language, the future is often described as a system you can wire. A sensor here, a dat"
-open_graph_title: "Society 5.0"
+open_graph_title: "Society 5.0: Japan’s Attempt to Make Technology a Social Operating System"
 open_graph_description: "Learn about Society 5.0 in Japan. In Japan’s policy language, the future is often described as a system you can wire. A sensor here, a dat"
-twitter_title: "Society 5.0"
+twitter_title: "Society 5.0: Japan’s Attempt to Make Technology a Social Operating System"
 twitter_description: "Learn about Society 5.0 in Japan. In Japan’s policy language, the future is often described as a system you can wire. A sensor here, a dat"
 genesis_noindex: 0
 genesis_nofollow: 0

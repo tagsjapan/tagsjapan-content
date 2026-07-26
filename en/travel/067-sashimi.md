@@ -1,5 +1,5 @@
 ---
-title: "Sashimi"
+title: "Sashimi: The Raw Moment on the Plate"
 slug: travel-sashimi
 wp_date: 2025-05-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At the counter the chef sets the plate down without ceremony. A fan of
 
 genesis_title: ""
 genesis_description: "Everything you need to know about Sashimi in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-open_graph_title: "Sashimi"
+open_graph_title: "Sashimi: The Raw Moment on the Plate"
 open_graph_description: "Everything you need to know about Sashimi in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-twitter_title: "Sashimi"
+twitter_title: "Sashimi: The Raw Moment on the Plate"
 twitter_description: "Everything you need to know about Sashimi in Japan. Travel tips, cultural insights, and practical guidance for visitors."
 genesis_noindex: 0
 genesis_nofollow: 0

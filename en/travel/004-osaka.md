@@ -1,5 +1,5 @@
 ---
-title: "Osaka"
+title: "Osaka: The City That Comes Right Up To You"
 slug: travel-osaka
 wp_date: 2025-01-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Some cities maintain a polite distance. Osaka rarely bothers. It annou
 
 genesis_title: ""
 genesis_description: "Discover Osaka, Japan. Some cities maintain a polite distance. Osaka rarely bothers. None of this means Osaka is disorderly."
-open_graph_title: "Osaka"
+open_graph_title: "Osaka: The City That Comes Right Up To You"
 open_graph_description: "Discover Osaka, Japan. Some cities maintain a polite distance. Osaka rarely bothers. None of this means Osaka is disorderly."
-twitter_title: "Osaka"
+twitter_title: "Osaka: The City That Comes Right Up To You"
 twitter_description: "Discover Osaka, Japan. Some cities maintain a polite distance. Osaka rarely bothers. None of this means Osaka is disorderly."
 genesis_noindex: 0
 genesis_nofollow: 0

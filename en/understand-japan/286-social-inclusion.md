@@ -1,5 +1,5 @@
 ---
-title: "Social Inclusion"
+title: "Social Inclusion: The Work of Pulling People Back In"
 slug: understand-japan-social-inclusion
 wp_date: 2026-06-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many Japanese city halls there is a familiar kind of counter: not t
 
 genesis_title: ""
 genesis_description: "Learn about Social Inclusion in Japan. The first service is often simple: listening long enough to discover how many problems are stacked on top of each..."
-open_graph_title: "Social Inclusion"
+open_graph_title: "Social Inclusion: The Work of Pulling People Back In"
 open_graph_description: "Learn about Social Inclusion in Japan. The first service is often simple: listening long enough to discover how many problems are stacked on top of each..."
-twitter_title: "Social Inclusion"
+twitter_title: "Social Inclusion: The Work of Pulling People Back In"
 twitter_description: "Learn about Social Inclusion in Japan. The first service is often simple: listening long enough to discover how many problems are stacked on top of each..."
 genesis_noindex: 0
 genesis_nofollow: 0

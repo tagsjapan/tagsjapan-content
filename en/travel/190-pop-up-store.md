@@ -1,5 +1,5 @@
 ---
-title: "Pop-up Store"
+title: "Pop-up Store: Buying the City’s Mood, Temporarily"
 slug: travel-pop-up-store
 wp_date: 2026-01-14 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The line is the first clue. It forms not outside a famous temple but o
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Pop-up Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Pop-up Store"
+open_graph_title: "Pop-up Store: Buying the City’s Mood, Temporarily"
 open_graph_description: "A comprehensive guide to Pop-up Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Pop-up Store"
+twitter_title: "Pop-up Store: Buying the City’s Mood, Temporarily"
 twitter_description: "A comprehensive guide to Pop-up Store in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

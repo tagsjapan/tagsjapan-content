@@ -1,5 +1,5 @@
 ---
-title: "Mutual Aid"
+title: "Mutual Aid: The Layer Between the State and the Street"
 slug: understand-japan-mutual-aid
 wp_date: 2025-04-07 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "After a major disaster in Japan, official vehicles eventually arrive, 
 
 genesis_title: ""
 genesis_description: "After a major disaster in Japan, official vehicles eventually arrive, but the first knock on the door is often not from the state."
-open_graph_title: "Mutual Aid"
+open_graph_title: "Mutual Aid: The Layer Between the State and the Street"
 open_graph_description: "After a major disaster in Japan, official vehicles eventually arrive, but the first knock on the door is often not from the state."
-twitter_title: "Mutual Aid"
+twitter_title: "Mutual Aid: The Layer Between the State and the Street"
 twitter_description: "After a major disaster in Japan, official vehicles eventually arrive, but the first knock on the door is often not from the state."
 genesis_noindex: 0
 genesis_nofollow: 0

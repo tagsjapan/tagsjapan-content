@@ -1,5 +1,5 @@
 ---
-title: "Snow Bathing"
+title: "Snow Bathing: The Winter Onsen Scene That Is Beautiful Because It Is Slightly Hard to Reach"
 slug: travel-snow-bathing
 wp_date: 2025-11-30 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The image is famous long before the traveler sees it in person: hot wa
 
 genesis_title: ""
 genesis_description: "Guide to Snow Bathing in Japan. Yet a real experience usually begins not in the bath but in boots. That is important to remember."
-open_graph_title: "Snow Bathing"
+open_graph_title: "Snow Bathing: The Winter Onsen Scene That Is Beautiful Because It Is Slightly Hard to Reach"
 open_graph_description: "Guide to Snow Bathing in Japan. Yet a real experience usually begins not in the bath but in boots. That is important to remember."
-twitter_title: "Snow Bathing"
+twitter_title: "Snow Bathing: The Winter Onsen Scene That Is Beautiful Because It Is Slightly Hard to Reach"
 twitter_description: "Guide to Snow Bathing in Japan. Yet a real experience usually begins not in the bath but in boots. That is important to remember."
 genesis_noindex: 0
 genesis_nofollow: 0

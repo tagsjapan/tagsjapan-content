@@ -1,5 +1,5 @@
 ---
-title: "Overnight Bus"
+title: "Overnight Bus: Trading a Hotel Night for a Different Kind of Morning"
 slug: travel-overnight-bus
 wp_date: 2025-02-10 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Night buses in Japan tend to begin in places that do not feel romantic
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Overnight Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Overnight Bus"
+open_graph_title: "Overnight Bus: Trading a Hotel Night for a Different Kind of Morning"
 open_graph_description: "A comprehensive guide to Overnight Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Overnight Bus"
+twitter_title: "Overnight Bus: Trading a Hotel Night for a Different Kind of Morning"
 twitter_description: "A comprehensive guide to Overnight Bus in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

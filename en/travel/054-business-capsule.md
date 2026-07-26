@@ -1,5 +1,5 @@
 ---
-title: "Business Capsule"
+title: "Business Capsule: The One-Person Night in Efficient Japanese Form"
 slug: travel-business-capsule
 wp_date: 2025-04-18 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The classic moment arrives around midnight. A salaryman has missed the
 
 genesis_title: ""
 genesis_description: "Your guide to Business Capsule in Japan. The classic moment arrives around midnight. A salaryman has missed the last train."
-open_graph_title: "Business Capsule"
+open_graph_title: "Business Capsule: The One-Person Night in Efficient Japanese Form"
 open_graph_description: "Your guide to Business Capsule in Japan. The classic moment arrives around midnight. A salaryman has missed the last train."
-twitter_title: "Business Capsule"
+twitter_title: "Business Capsule: The One-Person Night in Efficient Japanese Form"
 twitter_description: "Your guide to Business Capsule in Japan. The classic moment arrives around midnight. A salaryman has missed the last train."
 genesis_noindex: 0
 genesis_nofollow: 0

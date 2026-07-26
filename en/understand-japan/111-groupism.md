@@ -1,5 +1,5 @@
 ---
-title: "Groupism"
+title: "Groupism: How Belonging Became a Social Default in Japan"
 slug: understand-japan-groupism
 wp_date: 2025-08-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first lesson often arrives before anyone calls it a “value.” I
 
 genesis_title: ""
 genesis_description: "The first lesson often arrives before anyone calls it a “value.” In school, you learn to move as a class: greetings in unison, cleaning together, club activi..."
-open_graph_title: "Groupism"
+open_graph_title: "Groupism: How Belonging Became a Social Default in Japan"
 open_graph_description: "The first lesson often arrives before anyone calls it a “value.” In school, you learn to move as a class: greetings in unison, cleaning together, club activi..."
-twitter_title: "Groupism"
+twitter_title: "Groupism: How Belonging Became a Social Default in Japan"
 twitter_description: "The first lesson often arrives before anyone calls it a “value.” In school, you learn to move as a class: greetings in unison, cleaning together, club activi..."
 genesis_noindex: 0
 genesis_nofollow: 0

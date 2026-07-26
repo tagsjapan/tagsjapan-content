@@ -1,5 +1,5 @@
 ---
-title: "Konosuke Matsushita"
+title: "Konosuke Matsushita: The Founder Who Tried to Make Management Moral"
 slug: understand-japan-konosuke-matsushita
 wp_date: 2025-03-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Kadoma, on the edge of Osaka, the Panasonic Museum does not present
 
 genesis_title: ""
 genesis_description: "In Kadoma, on the edge of Osaka, the Panasonic Museum does not present its founder as a man who simply sold more appliances than his rivals."
-open_graph_title: "Konosuke Matsushita"
+open_graph_title: "Konosuke Matsushita: The Founder Who Tried to Make Management Moral"
 open_graph_description: "In Kadoma, on the edge of Osaka, the Panasonic Museum does not present its founder as a man who simply sold more appliances than his rivals."
-twitter_title: "Konosuke Matsushita"
+twitter_title: "Konosuke Matsushita: The Founder Who Tried to Make Management Moral"
 twitter_description: "In Kadoma, on the edge of Osaka, the Panasonic Museum does not present its founder as a man who simply sold more appliances than his rivals."
 genesis_noindex: 0
 genesis_nofollow: 0

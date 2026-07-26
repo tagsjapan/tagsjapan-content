@@ -1,5 +1,5 @@
 ---
-title: "Canyoning"
+title: "Canyoning: Japan’s Summer Shortcut into the Mountains"
 slug: travel-canyoning
 wp_date: 2025-11-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You know it’s going to be cold when the guide has you zip the wetsui
 
 genesis_title: ""
 genesis_description: "Explore Canyoning in Japan. You know it’s going to be cold when the guide has you zip the wetsuit all the way up before you’ve even seen the water."
-open_graph_title: "Canyoning"
+open_graph_title: "Canyoning: Japan’s Summer Shortcut into the Mountains"
 open_graph_description: "Explore Canyoning in Japan. You know it’s going to be cold when the guide has you zip the wetsuit all the way up before you’ve even seen the water."
-twitter_title: "Canyoning"
+twitter_title: "Canyoning: Japan’s Summer Shortcut into the Mountains"
 twitter_description: "Explore Canyoning in Japan. You know it’s going to be cold when the guide has you zip the wetsuit all the way up before you’ve even seen the water."
 genesis_noindex: 0
 genesis_nofollow: 0

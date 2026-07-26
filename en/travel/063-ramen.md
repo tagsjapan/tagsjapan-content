@@ -1,5 +1,5 @@
 ---
-title: "Ramen"
+title: "Ramen: The Fast Meal That Maps a City"
 slug: travel-ramen
 wp_date: 2025-05-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The door is half-hidden behind a noren curtain, and the shop is small 
 
 genesis_title: ""
 genesis_description: "Guide to Ramen in Japan. A vending-style ticket machine blinks with buttons you cannot read at speed. Someone behind you is already waiting."
-open_graph_title: "Ramen"
+open_graph_title: "Ramen: The Fast Meal That Maps a City"
 open_graph_description: "Guide to Ramen in Japan. A vending-style ticket machine blinks with buttons you cannot read at speed. Someone behind you is already waiting."
-twitter_title: "Ramen"
+twitter_title: "Ramen: The Fast Meal That Maps a City"
 twitter_description: "Guide to Ramen in Japan. A vending-style ticket machine blinks with buttons you cannot read at speed. Someone behind you is already waiting."
 genesis_noindex: 0
 genesis_nofollow: 0

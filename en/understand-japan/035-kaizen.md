@@ -1,5 +1,5 @@
 ---
-title: "Kaizen"
+title: "Kaizen: How Small Corrections Became a Japanese Method"
 slug: understand-japan-kaizen
 wp_date: 2025-03-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Sometimes the change is so small that an outsider would miss it. A too
 
 genesis_title: ""
 genesis_description: "Sometimes the change is so small that an outsider would miss it. A tool is moved closer to the worker's hand. A checklist is rewritten so the awkward step co..."
-open_graph_title: "Kaizen"
+open_graph_title: "Kaizen: How Small Corrections Became a Japanese Method"
 open_graph_description: "Sometimes the change is so small that an outsider would miss it. A tool is moved closer to the worker's hand. A checklist is rewritten so the awkward step co..."
-twitter_title: "Kaizen"
+twitter_title: "Kaizen: How Small Corrections Became a Japanese Method"
 twitter_description: "Sometimes the change is so small that an outsider would miss it. A tool is moved closer to the worker's hand. A checklist is rewritten so the awkward step co..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Okinawa"
+title: "Okinawa: Japan Facing South"
 slug: travel-okinawa
 wp_date: 2025-01-10 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The air does the work before the history catches up. Arrive in Okinawa
 
 genesis_title: ""
 genesis_description: "Everything you need to know about Okinawa in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-open_graph_title: "Okinawa"
+open_graph_title: "Okinawa: Japan Facing South"
 open_graph_description: "Everything you need to know about Okinawa in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-twitter_title: "Okinawa"
+twitter_title: "Okinawa: Japan Facing South"
 twitter_description: "Everything you need to know about Okinawa in Japan. Travel tips, cultural insights, and practical guidance for visitors."
 genesis_noindex: 0
 genesis_nofollow: 0

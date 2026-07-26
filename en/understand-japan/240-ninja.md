@@ -1,5 +1,5 @@
 ---
-title: "Ninja"
+title: "Ninja: The Myth of the Black Suit, and the Reality of Intelligence Work"
 slug: understand-japan-ninja
 wp_date: 2026-04-24 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Ninja（忍者） originally points to practitioners of ninjutsu（忍
 
 genesis_title: ""
 genesis_description: "Learn about Ninja in Japan. The global ninja image is clean and cinematic: black clothing, silent rooftop jumps, a glittering blade, a life lived entirely..."
-open_graph_title: "Ninja"
+open_graph_title: "Ninja: The Myth of the Black Suit, and the Reality of Intelligence Work"
 open_graph_description: "Learn about Ninja in Japan. The global ninja image is clean and cinematic: black clothing, silent rooftop jumps, a glittering blade, a life lived entirely..."
-twitter_title: "Ninja"
+twitter_title: "Ninja: The Myth of the Black Suit, and the Reality of Intelligence Work"
 twitter_description: "Learn about Ninja in Japan. The global ninja image is clean and cinematic: black clothing, silent rooftop jumps, a glittering blade, a life lived entirely..."
 genesis_noindex: 0
 genesis_nofollow: 0

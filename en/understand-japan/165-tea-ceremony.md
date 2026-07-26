@@ -1,5 +1,5 @@
 ---
-title: "Tea Ceremony"
+title: "Tea Ceremony: Hospitality as a Discipline of Attention"
 slug: understand-japan-tea-ceremony
 wp_date: 2025-11-26 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a tea room, the first thing that happens is often silence. A guest 
 
 genesis_title: ""
 genesis_description: "Learn about the Tea Ceremony in Japan. Chanoyu is a cultural art teaching hospitality through arrangement, slow attention, and careful matcha preparation."
-open_graph_title: "Tea Ceremony"
+open_graph_title: "Tea Ceremony: Hospitality as a Discipline of Attention"
 open_graph_description: "Learn about the Tea Ceremony in Japan. Chanoyu is a cultural art teaching hospitality through arrangement, slow attention, and careful matcha preparation."
-twitter_title: "Tea Ceremony"
+twitter_title: "Tea Ceremony: Hospitality as a Discipline of Attention"
 twitter_description: "Learn about the Tea Ceremony in Japan. Chanoyu is a cultural art teaching hospitality through arrangement, slow attention, and careful matcha preparation."
 genesis_noindex: 0
 genesis_nofollow: 0

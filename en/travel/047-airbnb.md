@@ -1,5 +1,5 @@
 ---
-title: "Airbnb"
+title: "Airbnb: The Apartment Key With Rules Attached"
 slug: travel-airbnb
 wp_date: 2025-04-03 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The message usually arrives before you land. It tells you where the ke
 
 genesis_title: ""
 genesis_description: "Discover Airbnb in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Airbnb"
+open_graph_title: "Airbnb: The Apartment Key With Rules Attached"
 open_graph_description: "Discover Airbnb in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Airbnb"
+twitter_title: "Airbnb: The Apartment Key With Rules Attached"
 twitter_description: "Discover Airbnb in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

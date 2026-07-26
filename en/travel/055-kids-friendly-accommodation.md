@@ -1,5 +1,5 @@
 ---
-title: "Kids-friendly Accommodation"
+title: "Kids-friendly Accommodation: Where the Family Trip Is Won or Lost at Night"
 slug: travel-kids-friendly-accommodation
 wp_date: 2025-04-20 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Families often discover the true character of a Japanese trip after th
 
 genesis_title: ""
 genesis_description: "Your guide to Kids-friendly Accommodation in Japan. Families often discover the true character of a Japanese trip after the day's sightseeing is over."
-open_graph_title: "Kids-friendly Accommodation"
+open_graph_title: "Kids-friendly Accommodation: Where the Family Trip Is Won or Lost at Night"
 open_graph_description: "Your guide to Kids-friendly Accommodation in Japan. Families often discover the true character of a Japanese trip after the day's sightseeing is over."
-twitter_title: "Kids-friendly Accommodation"
+twitter_title: "Kids-friendly Accommodation: Where the Family Trip Is Won or Lost at Night"
 twitter_description: "Your guide to Kids-friendly Accommodation in Japan. Families often discover the true character of a Japanese trip after the day's sightseeing is over."
 genesis_noindex: 0
 genesis_nofollow: 0

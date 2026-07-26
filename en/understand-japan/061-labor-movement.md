@@ -1,5 +1,5 @@
 ---
-title: "Labor Movement"
+title: "Labor Movement: How Conflict Was Folded Into the Company"
 slug: understand-japan-labor-movement
 wp_date: 2025-05-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Every spring in Japan, wage negotiations rise into the news with a ton
 
 genesis_title: ""
 genesis_description: "Every spring in Japan, wage negotiations rise into the news with a tone that can seem oddly measured for something rooted in labor struggle."
-open_graph_title: "Labor Movement"
+open_graph_title: "Labor Movement: How Conflict Was Folded Into the Company"
 open_graph_description: "Every spring in Japan, wage negotiations rise into the news with a tone that can seem oddly measured for something rooted in labor struggle."
-twitter_title: "Labor Movement"
+twitter_title: "Labor Movement: How Conflict Was Folded Into the Company"
 twitter_description: "Every spring in Japan, wage negotiations rise into the news with a tone that can seem oddly measured for something rooted in labor struggle."
 genesis_noindex: 0
 genesis_nofollow: 0

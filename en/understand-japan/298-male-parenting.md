@@ -1,5 +1,5 @@
 ---
-title: "Male Parenting"
+title: "Male Parenting: Turning “Help” Into Responsibility"
 slug: understand-japan-male-parenting
 wp_date: 2026-07-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Outside a daycare in the late afternoon, the scene is quietly instruct
 
 genesis_title: ""
 genesis_description: "Learn about Male Parenting in Japan. Outside a daycare in the late afternoon, the scene is quietly instructional. A father in office c"
-open_graph_title: "Male Parenting"
+open_graph_title: "Male Parenting: Turning “Help” Into Responsibility"
 open_graph_description: "Learn about Male Parenting in Japan. Outside a daycare in the late afternoon, the scene is quietly instructional. A father in office c"
-twitter_title: "Male Parenting"
+twitter_title: "Male Parenting: Turning “Help” Into Responsibility"
 twitter_description: "Learn about Male Parenting in Japan. Outside a daycare in the late afternoon, the scene is quietly instructional. A father in office c"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Gunkanjima"
+title: "Gunkanjima: The Island That Changed With the Fuel"
 slug: travel-gunkanjima
 wp_date: 2025-01-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The boat leaves Nagasaki with the usual tourist promises: sea air, a c
 
 genesis_title: ""
 genesis_description: "Discover Gunkanjima, Japan. Then the shape appears, low and blunt, a block of concrete set in water, and the nickname suddenly makes sense."
-open_graph_title: "Gunkanjima"
+open_graph_title: "Gunkanjima: The Island That Changed With the Fuel"
 open_graph_description: "Discover Gunkanjima, Japan. Then the shape appears, low and blunt, a block of concrete set in water, and the nickname suddenly makes sense."
-twitter_title: "Gunkanjima"
+twitter_title: "Gunkanjima: The Island That Changed With the Fuel"
 twitter_description: "Discover Gunkanjima, Japan. Then the shape appears, low and blunt, a block of concrete set in water, and the nickname suddenly makes sense."
 genesis_noindex: 0
 genesis_nofollow: 0

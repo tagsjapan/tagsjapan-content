@@ -1,5 +1,5 @@
 ---
-title: "Mountain Hut"
+title: "Mountain Hut: Sleeping Where the Trail Demands It"
 slug: travel-mountain-hut
 wp_date: 2025-03-29 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "In the high mountains of Japan, a hut is not a rustic fantasy but a ca
 
 genesis_title: ""
 genesis_description: "Your guide to Mountain Hut in Japan. In the high mountains of Japan, a hut is not a rustic fantasy but a calculation. How far can you climb before dark?"
-open_graph_title: "Mountain Hut"
+open_graph_title: "Mountain Hut: Sleeping Where the Trail Demands It"
 open_graph_description: "Your guide to Mountain Hut in Japan. In the high mountains of Japan, a hut is not a rustic fantasy but a calculation. How far can you climb before dark?"
-twitter_title: "Mountain Hut"
+twitter_title: "Mountain Hut: Sleeping Where the Trail Demands It"
 twitter_description: "Your guide to Mountain Hut in Japan. In the high mountains of Japan, a hut is not a rustic fantasy but a calculation. How far can you climb before dark?"
 genesis_noindex: 0
 genesis_nofollow: 0

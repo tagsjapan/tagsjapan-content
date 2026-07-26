@@ -1,5 +1,5 @@
 ---
-title: "Nara"
+title: "Nara: Where The Beginning Still Walks Around"
 slug: travel-nara
 wp_date: 2025-01-13 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At some point in Nara, usually sooner than expected, the deer stop bei
 
 genesis_title: ""
 genesis_description: "Discover Nara, Japan. At some point in Nara, usually sooner than expected, the deer stop being amusing and start becoming explanatory."
-open_graph_title: "Nara"
+open_graph_title: "Nara: Where The Beginning Still Walks Around"
 open_graph_description: "Discover Nara, Japan. At some point in Nara, usually sooner than expected, the deer stop being amusing and start becoming explanatory."
-twitter_title: "Nara"
+twitter_title: "Nara: Where The Beginning Still Walks Around"
 twitter_description: "Discover Nara, Japan. At some point in Nara, usually sooner than expected, the deer stop being amusing and start becoming explanatory."
 genesis_noindex: 0
 genesis_nofollow: 0

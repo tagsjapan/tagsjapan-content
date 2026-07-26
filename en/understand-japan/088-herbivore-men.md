@@ -1,5 +1,5 @@
 ---
-title: "Herbivore Men"
+title: "Herbivore Men: The Label That Turned Male Change into a Public Drama"
 slug: understand-japan-herbivore-men
 wp_date: 2025-06-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The old script for middle-class manhood in Japan used to sound almost 
 
 genesis_title: ""
 genesis_description: "The old script for middle-class manhood in Japan used to sound almost mechanical. Finish school, enter a company, stay late, earn steadily, move toward marri..."
-open_graph_title: "Herbivore Men"
+open_graph_title: "Herbivore Men: The Label That Turned Male Change into a Public Drama"
 open_graph_description: "The old script for middle-class manhood in Japan used to sound almost mechanical. Finish school, enter a company, stay late, earn steadily, move toward marri..."
-twitter_title: "Herbivore Men"
+twitter_title: "Herbivore Men: The Label That Turned Male Change into a Public Drama"
 twitter_description: "The old script for middle-class manhood in Japan used to sound almost mechanical. Finish school, enter a company, stay late, earn steadily, move toward marri..."
 genesis_noindex: 0
 genesis_nofollow: 0

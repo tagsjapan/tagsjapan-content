@@ -1,5 +1,5 @@
 ---
-title: "NEET"
+title: "NEET: Youth on the Far Side of the Hiring System"
 slug: understand-japan-neet
 wp_date: 2025-06-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a regional youth support station, the room can look almost ordinary
 
 genesis_title: ""
 genesis_description: "In a regional youth support station, the room can look almost ordinary. Plastic folders on a shelf. Posters about interview practice."
-open_graph_title: "NEET"
+open_graph_title: "NEET: Youth on the Far Side of the Hiring System"
 open_graph_description: "In a regional youth support station, the room can look almost ordinary. Plastic folders on a shelf. Posters about interview practice."
-twitter_title: "NEET"
+twitter_title: "NEET: Youth on the Far Side of the Hiring System"
 twitter_description: "In a regional youth support station, the room can look almost ordinary. Plastic folders on a shelf. Posters about interview practice."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Coming-of-Age Ceremony"
+title: "Coming-of-Age Ceremony: When Japan Publicly Introduces Its Next Adults"
 slug: understand-japan-coming-of-age-ceremony
 wp_date: 2026-01-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On Seijin no Hi（成人の日）, a municipal hall can fill with a ca
 
 genesis_title: ""
 genesis_description: "Learn about Coming-of-Age Ceremony in Japan. The ceremony is Coming-of-Age Ceremony（成人式）, known in Japanese as seijinshiki（成人式）."
-open_graph_title: "Coming-of-Age Ceremony"
+open_graph_title: "Coming-of-Age Ceremony: When Japan Publicly Introduces Its Next Adults"
 open_graph_description: "Learn about Coming-of-Age Ceremony in Japan. The ceremony is Coming-of-Age Ceremony（成人式）, known in Japanese as seijinshiki（成人式）."
-twitter_title: "Coming-of-Age Ceremony"
+twitter_title: "Coming-of-Age Ceremony: When Japan Publicly Introduces Its Next Adults"
 twitter_description: "Learn about Coming-of-Age Ceremony in Japan. The ceremony is Coming-of-Age Ceremony（成人式）, known in Japanese as seijinshiki（成人式）."
 genesis_noindex: 0
 genesis_nofollow: 0

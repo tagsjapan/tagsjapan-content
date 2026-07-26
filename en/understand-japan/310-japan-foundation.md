@@ -1,5 +1,5 @@
 ---
-title: "Japan Foundation"
+title: "Japan Foundation: Japan’s Slow-Burning Foreign Policy"
 slug: understand-japan-japan-foundation
 wp_date: 2026-07-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weeknight in a city far from Tokyo, a small auditorium fills for 
 
 genesis_title: ""
 genesis_description: "Learn about Japan Foundation in Japan. This is one of the scenes the Japan Foundation was built to produce: not spectacle, but durable contact."
-open_graph_title: "Japan Foundation"
+open_graph_title: "Japan Foundation: Japan’s Slow-Burning Foreign Policy"
 open_graph_description: "Learn about Japan Foundation in Japan. This is one of the scenes the Japan Foundation was built to produce: not spectacle, but durable contact."
-twitter_title: "Japan Foundation"
+twitter_title: "Japan Foundation: Japan’s Slow-Burning Foreign Policy"
 twitter_description: "Learn about Japan Foundation in Japan. This is one of the scenes the Japan Foundation was built to produce: not spectacle, but durable contact."
 genesis_noindex: 0
 genesis_nofollow: 0

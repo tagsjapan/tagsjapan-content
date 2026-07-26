@@ -1,5 +1,5 @@
 ---
-title: "Prefectures"
+title: "Prefectures: The Map on Which Japan Learns to Know Itself"
 slug: understand-japan-prefectures
 wp_date: 2025-02-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Turn on a Japanese weather forecast and the screen fills with familiar
 
 genesis_title: ""
 genesis_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
-open_graph_title: "Prefectures"
+open_graph_title: "Prefectures: The Map on Which Japan Learns to Know Itself"
 open_graph_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
-twitter_title: "Prefectures"
+twitter_title: "Prefectures: The Map on Which Japan Learns to Know Itself"
 twitter_description: "Turn on a Japanese weather forecast and the screen fills with familiar outlines: Hokkaido at the top, Okinawa far to the south, a chain of names that are adm..."
 genesis_noindex: 0
 genesis_nofollow: 0

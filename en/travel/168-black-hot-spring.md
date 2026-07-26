@@ -1,5 +1,5 @@
 ---
-title: "Black Hot Spring"
+title: "Black Hot Spring: The Dark Water That Brings Onsen Into the City"
 slug: travel-black-hot-spring
 wp_date: 2025-12-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At first glance it looks wrong. You step into the bath expecting clari
 
 genesis_title: ""
 genesis_description: "Guide to Black Hot Spring in Japan. At first glance it looks wrong. The surprise is visual first, but in Japan it quickly becomes geological and local. Wh"
-open_graph_title: "Black Hot Spring"
+open_graph_title: "Black Hot Spring: The Dark Water That Brings Onsen Into the City"
 open_graph_description: "Guide to Black Hot Spring in Japan. At first glance it looks wrong. The surprise is visual first, but in Japan it quickly becomes geological and local. Wh"
-twitter_title: "Black Hot Spring"
+twitter_title: "Black Hot Spring: The Dark Water That Brings Onsen Into the City"
 twitter_description: "Guide to Black Hot Spring in Japan. At first glance it looks wrong. The surprise is visual first, but in Japan it quickly becomes geological and local. Wh"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Bureaucracy"
+title: "Bureaucracy: The Quiet Machinery Behind Japanese Rule"
 slug: understand-japan-bureaucracy
 wp_date: 2025-02-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Stand at a government counter in Japan long enough and you begin to no
 
 genesis_title: ""
 genesis_description: "Stand at a government counter in Japan long enough and you begin to notice the choreography. Forms arrive in a particular order."
-open_graph_title: "Bureaucracy"
+open_graph_title: "Bureaucracy: The Quiet Machinery Behind Japanese Rule"
 open_graph_description: "Stand at a government counter in Japan long enough and you begin to notice the choreography. Forms arrive in a particular order."
-twitter_title: "Bureaucracy"
+twitter_title: "Bureaucracy: The Quiet Machinery Behind Japanese Rule"
 twitter_description: "Stand at a government counter in Japan long enough and you begin to notice the choreography. Forms arrive in a particular order."
 genesis_noindex: 0
 genesis_nofollow: 0

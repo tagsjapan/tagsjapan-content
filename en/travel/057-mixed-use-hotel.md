@@ -1,5 +1,5 @@
 ---
-title: "Mixed-use Hotel"
+title: "Mixed-use Hotel: Where Japan Hides the Last Mile"
 slug: travel-mixed-use-hotel
 wp_date: 2025-04-23 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The useful part of a mixed-use hotel often appears when you are too ti
 
 genesis_title: ""
 genesis_description: "Your guide to Mixed-use Hotel in Japan. The useful part of a mixed-use hotel often appears when you are too tired to admire it."
-open_graph_title: "Mixed-use Hotel"
+open_graph_title: "Mixed-use Hotel: Where Japan Hides the Last Mile"
 open_graph_description: "Your guide to Mixed-use Hotel in Japan. The useful part of a mixed-use hotel often appears when you are too tired to admire it."
-twitter_title: "Mixed-use Hotel"
+twitter_title: "Mixed-use Hotel: Where Japan Hides the Last Mile"
 twitter_description: "Your guide to Mixed-use Hotel in Japan. The useful part of a mixed-use hotel often appears when you are too tired to admire it."
 genesis_noindex: 0
 genesis_nofollow: 0

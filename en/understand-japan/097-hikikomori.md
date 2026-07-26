@@ -1,5 +1,5 @@
 ---
-title: "Hikikomori"
+title: "Hikikomori: A Society Seen From Behind a Closed Door"
 slug: understand-japan-hikikomori
 wp_date: 2025-07-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The signs are often quiet before anyone uses the word. Curtains stay d
 
 genesis_title: ""
 genesis_description: "The signs are often quiet before anyone uses the word. Curtains stay drawn later into the day. The mailbox fills. A meal is left on a tray outside a bedroom ..."
-open_graph_title: "Hikikomori"
+open_graph_title: "Hikikomori: A Society Seen From Behind a Closed Door"
 open_graph_description: "The signs are often quiet before anyone uses the word. Curtains stay drawn later into the day. The mailbox fills. A meal is left on a tray outside a bedroom ..."
-twitter_title: "Hikikomori"
+twitter_title: "Hikikomori: A Society Seen From Behind a Closed Door"
 twitter_description: "The signs are often quiet before anyone uses the word. Curtains stay drawn later into the day. The mailbox fills. A meal is left on a tray outside a bedroom ..."
 genesis_noindex: 0
 genesis_nofollow: 0

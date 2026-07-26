@@ -1,5 +1,5 @@
 ---
-title: "Eco Lodge"
+title: "Eco Lodge: The Night Japan Uses to Explain a Landscape"
 slug: travel-eco-lodge
 wp_date: 2025-04-29 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "An eco lodge in Japan usually announces itself quietly. The clues are 
 
 genesis_title: ""
 genesis_description: "Your guide to Eco Lodge in Japan. An eco lodge in Japan usually announces itself quietly. The point is not moral theater."
-open_graph_title: "Eco Lodge"
+open_graph_title: "Eco Lodge: The Night Japan Uses to Explain a Landscape"
 open_graph_description: "Your guide to Eco Lodge in Japan. An eco lodge in Japan usually announces itself quietly. The point is not moral theater."
-twitter_title: "Eco Lodge"
+twitter_title: "Eco Lodge: The Night Japan Uses to Explain a Landscape"
 twitter_description: "Your guide to Eco Lodge in Japan. An eco lodge in Japan usually announces itself quietly. The point is not moral theater."
 genesis_noindex: 0
 genesis_nofollow: 0

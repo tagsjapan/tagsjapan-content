@@ -1,5 +1,5 @@
 ---
-title: "Mobile Refugees"
+title: "Mobile Refugees: When You Cannot Afford to Stop Moving"
 slug: understand-japan-mobile-refugees
 wp_date: 2026-07-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Late at night, a net café in a big Japanese city can look like a piec
 
 genesis_title: ""
 genesis_description: "Learn about Mobile Refugees in Japan. The label often used for this in Japan is “net café refugees” (ネットカフェ難民). Late at night, a net"
-open_graph_title: "Mobile Refugees"
+open_graph_title: "Mobile Refugees: When You Cannot Afford to Stop Moving"
 open_graph_description: "Learn about Mobile Refugees in Japan. The label often used for this in Japan is “net café refugees” (ネットカフェ難民). Late at night, a net"
-twitter_title: "Mobile Refugees"
+twitter_title: "Mobile Refugees: When You Cannot Afford to Stop Moving"
 twitter_description: "Learn about Mobile Refugees in Japan. The label often used for this in Japan is “net café refugees” (ネットカフェ難民). Late at night, a net"
 genesis_noindex: 0
 genesis_nofollow: 0

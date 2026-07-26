@@ -1,5 +1,5 @@
 ---
-title: "Takoyaki"
+title: "Takoyaki: Osaka’s Heat in One Bite"
 slug: travel-takoyaki
 wp_date: 2025-05-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In Dotonbori, the food announces itself before you eat it. You hear th
 
 genesis_title: ""
 genesis_description: "Guide to Takoyaki in Japan. In Dotonbori, the food announces itself before you eat it. Osaka doesn’t hide its cooking, and takoyaki is the proof."
-open_graph_title: "Takoyaki"
+open_graph_title: "Takoyaki: Osaka’s Heat in One Bite"
 open_graph_description: "Guide to Takoyaki in Japan. In Dotonbori, the food announces itself before you eat it. Osaka doesn’t hide its cooking, and takoyaki is the proof."
-twitter_title: "Takoyaki"
+twitter_title: "Takoyaki: Osaka’s Heat in One Bite"
 twitter_description: "Guide to Takoyaki in Japan. In Dotonbori, the food announces itself before you eat it. Osaka doesn’t hide its cooking, and takoyaki is the proof."
 genesis_noindex: 0
 genesis_nofollow: 0

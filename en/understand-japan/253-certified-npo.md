@@ -1,5 +1,5 @@
 ---
-title: "Certified NPO"
+title: "Certified NPO: How Japan Turns Public Trust into a Status"
 slug: understand-japan-certified-npo
 wp_date: 2026-05-20 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In Japan, giving money to a good cause often comes with an unusually c
 
 genesis_title: ""
 genesis_description: "Learn about Certified NPO in Japan. That is the quiet context behind Certified NPO（認定NPO法人）—a label that makes “public benefit” legible to the state and,..."
-open_graph_title: "Certified NPO"
+open_graph_title: "Certified NPO: How Japan Turns Public Trust into a Status"
 open_graph_description: "Learn about Certified NPO in Japan. That is the quiet context behind Certified NPO（認定NPO法人）—a label that makes “public benefit” legible to the state and,..."
-twitter_title: "Certified NPO"
+twitter_title: "Certified NPO: How Japan Turns Public Trust into a Status"
 twitter_description: "Learn about Certified NPO in Japan. That is the quiet context behind Certified NPO（認定NPO法人）—a label that makes “public benefit” legible to the state and,..."
 genesis_noindex: 0
 genesis_nofollow: 0

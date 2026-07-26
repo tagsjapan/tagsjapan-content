@@ -1,5 +1,5 @@
 ---
-title: "Nuclear Family"
+title: "Nuclear Family: The Small Household That Rebuilt Postwar Life"
 slug: understand-japan-nuclear-family
 wp_date: 2025-03-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Walk through a postwar apartment block on the edge of a Japanese city 
 
 genesis_title: ""
 genesis_description: "Walk through a postwar apartment block on the edge of a Japanese city and the architecture gives away a social ideal. The rooms are compact."
-open_graph_title: "Nuclear Family"
+open_graph_title: "Nuclear Family: The Small Household That Rebuilt Postwar Life"
 open_graph_description: "Walk through a postwar apartment block on the edge of a Japanese city and the architecture gives away a social ideal. The rooms are compact."
-twitter_title: "Nuclear Family"
+twitter_title: "Nuclear Family: The Small Household That Rebuilt Postwar Life"
 twitter_description: "Walk through a postwar apartment block on the edge of a Japanese city and the architecture gives away a social ideal. The rooms are compact."
 genesis_noindex: 0
 genesis_nofollow: 0

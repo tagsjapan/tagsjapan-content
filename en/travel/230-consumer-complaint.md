@@ -1,5 +1,5 @@
 ---
-title: "Consumer Complaint"
+title: "Consumer Complaint: What to Do When the Purchase Goes Wrong"
 slug: travel-consumer-complaint
 wp_date: 2026-04-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The trouble usually begins with something small: a refund refused at t
 
 genesis_title: ""
 genesis_description: "The trouble usually begins with something small: a refund refused at the counter, a tax-free misunderstanding, a missing shipment, a booking that looked one ..."
-open_graph_title: "Consumer Complaint"
+open_graph_title: "Consumer Complaint: What to Do When the Purchase Goes Wrong"
 open_graph_description: "The trouble usually begins with something small: a refund refused at the counter, a tax-free misunderstanding, a missing shipment, a booking that looked one ..."
-twitter_title: "Consumer Complaint"
+twitter_title: "Consumer Complaint: What to Do When the Purchase Goes Wrong"
 twitter_description: "The trouble usually begins with something small: a refund refused at the counter, a tax-free misunderstanding, a missing shipment, a booking that looked one ..."
 genesis_noindex: 0
 genesis_nofollow: 0

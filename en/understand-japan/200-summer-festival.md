@@ -1,5 +1,5 @@
 ---
-title: "Summer Festival"
+title: "Summer Festival: Ritual, Heat, and Local Governance in One Night"
 slug: understand-japan-summer-festival
 wp_date: 2026-02-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, a summer night can sound like a city breathing together. Tai
 
 genesis_title: ""
 genesis_description: "Learn about Summer Festivals in Japan. Natsu matsuri blend shrine rites, Obon dance, fireworks, and street life into local communal celebrations."
-open_graph_title: "Summer Festival"
+open_graph_title: "Summer Festival: Ritual, Heat, and Local Governance in One Night"
 open_graph_description: "Learn about Summer Festivals in Japan. Natsu matsuri blend shrine rites, Obon dance, fireworks, and street life into local communal celebrations."
-twitter_title: "Summer Festival"
+twitter_title: "Summer Festival: Ritual, Heat, and Local Governance in One Night"
 twitter_description: "Learn about Summer Festivals in Japan. Natsu matsuri blend shrine rites, Obon dance, fireworks, and street life into local communal celebrations."
 genesis_noindex: 0
 genesis_nofollow: 0

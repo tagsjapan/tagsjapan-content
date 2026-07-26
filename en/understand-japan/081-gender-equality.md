@@ -1,5 +1,5 @@
 ---
-title: "Gender Equality"
+title: "Gender Equality: Reform on Paper, Friction in Daily Life"
 slug: understand-japan-gender-equality
 wp_date: 2025-06-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The problem can be felt in the way time is arranged. Office lights bur
 
 genesis_title: ""
 genesis_description: "The problem can be felt in the way time is arranged. Office lights burn late. Day-care pickup has a deadline. Elder care does not wait for a committee meetin..."
-open_graph_title: "Gender Equality"
+open_graph_title: "Gender Equality: Reform on Paper, Friction in Daily Life"
 open_graph_description: "The problem can be felt in the way time is arranged. Office lights burn late. Day-care pickup has a deadline. Elder care does not wait for a committee meetin..."
-twitter_title: "Gender Equality"
+twitter_title: "Gender Equality: Reform on Paper, Friction in Daily Life"
 twitter_description: "The problem can be felt in the way time is arranged. Office lights burn late. Day-care pickup has a deadline. Elder care does not wait for a committee meetin..."
 genesis_noindex: 0
 genesis_nofollow: 0

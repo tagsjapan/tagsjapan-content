@@ -1,5 +1,5 @@
 ---
-title: "Mt. Fuji Climbing"
+title: "Mt. Fuji Climbing: A Pilgrimage With Gates on It"
 slug: travel-mt.-fuji-climbing
 wp_status: draft
 wp_blog_id: 1
@@ -18,9 +18,9 @@ excerpt: "Around midnight the line begins to look less like a hiking trail than 
 
 genesis_title: ""
 genesis_description: "Explore Mt. Fuji Climbing in Japan. This is the image many travelers carry of climbing Mt. Fuji, and it is not false. It is simply incomplete."
-open_graph_title: "Mt. Fuji Climbing"
+open_graph_title: "Mt. Fuji Climbing: A Pilgrimage With Gates on It"
 open_graph_description: "Explore Mt. Fuji Climbing in Japan. This is the image many travelers carry of climbing Mt. Fuji, and it is not false. It is simply incomplete."
-twitter_title: "Mt. Fuji Climbing"
+twitter_title: "Mt. Fuji Climbing: A Pilgrimage With Gates on It"
 twitter_description: "Explore Mt. Fuji Climbing in Japan. This is the image many travelers carry of climbing Mt. Fuji, and it is not false. It is simply incomplete."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Zero Waste Travel"
+title: "Zero Waste Travel: Packing Light in a Land of Packaging"
 slug: travel-zero-waste-travel
 wp_date: 2026-04-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "It starts with a small, ordinary question at a convenience store count
 
 genesis_title: ""
 genesis_description: "It starts with a small, ordinary question at a convenience store counter: “Do you need a bag?” In Japan the question is asked so often, and the answer is so ..."
-open_graph_title: "Zero Waste Travel"
+open_graph_title: "Zero Waste Travel: Packing Light in a Land of Packaging"
 open_graph_description: "It starts with a small, ordinary question at a convenience store counter: “Do you need a bag?” In Japan the question is asked so often, and the answer is so ..."
-twitter_title: "Zero Waste Travel"
+twitter_title: "Zero Waste Travel: Packing Light in a Land of Packaging"
 twitter_description: "It starts with a small, ordinary question at a convenience store counter: “Do you need a bag?” In Japan the question is asked so often, and the answer is so ..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Senryu"
+title: "Senryu: Seventeen Sounds of Social Satire"
 slug: understand-japan-senryu
 wp_date: 2025-12-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A senryu often sounds like something you might overhear: a line about 
 
 genesis_title: ""
 genesis_description: "Learn about Senryu in Japan. Japan has many high cultural forms that ask for slow attention, but Senryu（川柳） is proud of being immediate."
-open_graph_title: "Senryu"
+open_graph_title: "Senryu: Seventeen Sounds of Social Satire"
 open_graph_description: "Learn about Senryu in Japan. Japan has many high cultural forms that ask for slow attention, but Senryu（川柳） is proud of being immediate."
-twitter_title: "Senryu"
+twitter_title: "Senryu: Seventeen Sounds of Social Satire"
 twitter_description: "Learn about Senryu in Japan. Japan has many high cultural forms that ask for slow attention, but Senryu（川柳） is proud of being immediate."
 genesis_noindex: 0
 genesis_nofollow: 0

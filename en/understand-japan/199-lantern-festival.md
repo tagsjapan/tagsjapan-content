@@ -1,5 +1,5 @@
 ---
-title: "Lantern Festival"
+title: "Lantern Festival: Light as Offering, Light as City Management"
 slug: understand-japan-lantern-festival
 wp_date: 2026-02-02 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, a lantern is rarely just decoration. A small flame inside a 
 
 genesis_title: ""
 genesis_description: "Learn about Lantern Festival in Japan. That is why “Lantern Festival” in Japan is better understood as a family of events rather than a single fixed..."
-open_graph_title: "Lantern Festival"
+open_graph_title: "Lantern Festival: Light as Offering, Light as City Management"
 open_graph_description: "Learn about Lantern Festival in Japan. That is why “Lantern Festival” in Japan is better understood as a family of events rather than a single fixed..."
-twitter_title: "Lantern Festival"
+twitter_title: "Lantern Festival: Light as Offering, Light as City Management"
 twitter_description: "Learn about Lantern Festival in Japan. That is why “Lantern Festival” in Japan is better understood as a family of events rather than a single fixed..."
 genesis_noindex: 0
 genesis_nofollow: 0

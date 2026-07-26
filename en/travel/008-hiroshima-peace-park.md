@@ -1,5 +1,5 @@
 ---
-title: "Hiroshima Peace Park"
+title: "Hiroshima Peace Park: The Walk That Changes The Trip"
 slug: travel-hiroshima-peace-park
 wp_date: 2025-01-16 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "There is a point in Hiroshima when the city stops feeling like a pleas
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Hiroshima Peace Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Hiroshima Peace Park"
+open_graph_title: "Hiroshima Peace Park: The Walk That Changes The Trip"
 open_graph_description: "A comprehensive guide to Hiroshima Peace Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Hiroshima Peace Park"
+twitter_title: "Hiroshima Peace Park: The Walk That Changes The Trip"
 twitter_description: "A comprehensive guide to Hiroshima Peace Park in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

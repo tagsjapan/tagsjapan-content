@@ -1,5 +1,5 @@
 ---
-title: "School Bullying"
+title: "School Bullying: The Hurt That Must Be Recognized"
 slug: understand-japan-school-bullying
 wp_date: 2025-07-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The message appears after school, not during class. A class group chat
 
 genesis_title: ""
 genesis_description: "The message appears after school, not during class. A class group chat falls silent when one student's name comes up. A photo is circulated with a caption me..."
-open_graph_title: "School Bullying"
+open_graph_title: "School Bullying: The Hurt That Must Be Recognized"
 open_graph_description: "The message appears after school, not during class. A class group chat falls silent when one student's name comes up. A photo is circulated with a caption me..."
-twitter_title: "School Bullying"
+twitter_title: "School Bullying: The Hurt That Must Be Recognized"
 twitter_description: "The message appears after school, not during class. A class group chat falls silent when one student's name comes up. A photo is circulated with a caption me..."
 genesis_noindex: 0
 genesis_nofollow: 0

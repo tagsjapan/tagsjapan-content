@@ -1,5 +1,5 @@
 ---
-title: "Vegetarian Restaurant"
+title: "Vegetarian Restaurant: Eating Light in a Country of Hidden Stock"
 slug: travel-vegetarian-restaurant
 wp_date: 2025-07-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You learn the hard way, usually at lunch. The menu looks safe—vegeta
 
 genesis_title: ""
 genesis_description: "Guide to Vegetarian Restaurant in Japan. You learn the hard way, usually at lunch. In many Japanese kitchens, stock is not a background detail. The countr"
-open_graph_title: "Vegetarian Restaurant"
+open_graph_title: "Vegetarian Restaurant: Eating Light in a Country of Hidden Stock"
 open_graph_description: "Guide to Vegetarian Restaurant in Japan. You learn the hard way, usually at lunch. In many Japanese kitchens, stock is not a background detail. The countr"
-twitter_title: "Vegetarian Restaurant"
+twitter_title: "Vegetarian Restaurant: Eating Light in a Country of Hidden Stock"
 twitter_description: "Guide to Vegetarian Restaurant in Japan. You learn the hard way, usually at lunch. In many Japanese kitchens, stock is not a background detail. The countr"
 genesis_noindex: 0
 genesis_nofollow: 0

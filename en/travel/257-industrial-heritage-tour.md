@@ -1,5 +1,5 @@
 ---
-title: "Industrial Heritage Tour"
+title: "Industrial Heritage Tour: Japan’s Past You Can Walk Through"
 slug: travel-industrial-heritage-tour
 wp_date: 2026-05-29 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In the tunnel, the air changes. It’s cooler, slightly damp, and it c
 
 genesis_title: ""
 genesis_description: "In the tunnel, the air changes. It’s cooler, slightly damp, and it carries a faint smell of metal that makes you aware of your own breathing."
-open_graph_title: "Industrial Heritage Tour"
+open_graph_title: "Industrial Heritage Tour: Japan’s Past You Can Walk Through"
 open_graph_description: "In the tunnel, the air changes. It’s cooler, slightly damp, and it carries a faint smell of metal that makes you aware of your own breathing."
-twitter_title: "Industrial Heritage Tour"
+twitter_title: "Industrial Heritage Tour: Japan’s Past You Can Walk Through"
 twitter_description: "In the tunnel, the air changes. It’s cooler, slightly damp, and it carries a faint smell of metal that makes you aware of your own breathing."
 genesis_noindex: 0
 genesis_nofollow: 0

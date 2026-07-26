@@ -1,5 +1,5 @@
 ---
-title: "Regional Branding"
+title: "Regional Branding: When a Place Becomes a Promise"
 slug: understand-japan-regional-branding
 wp_date: 2026-07-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a Japanese supermarket, a label can do more than describe a product
 
 genesis_title: ""
 genesis_description: "Learn about Regional Branding in Japan. Sometimes the name is protected by a trademark; sometimes it is backed by a geographical indication."
-open_graph_title: "Regional Branding"
+open_graph_title: "Regional Branding: When a Place Becomes a Promise"
 open_graph_description: "Learn about Regional Branding in Japan. Sometimes the name is protected by a trademark; sometimes it is backed by a geographical indication."
-twitter_title: "Regional Branding"
+twitter_title: "Regional Branding: When a Place Becomes a Promise"
 twitter_description: "Learn about Regional Branding in Japan. Sometimes the name is protected by a trademark; sometimes it is backed by a geographical indication."
 genesis_noindex: 0
 genesis_nofollow: 0

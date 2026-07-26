@@ -1,5 +1,5 @@
 ---
-title: "Public Restroom"
+title: "Public Restroom: The Quiet Piece of Infrastructure Behind an Easy Day"
 slug: travel-public-restroom
 wp_date: 2026-03-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You realize its value most clearly when it is absent somewhere else. I
 
 genesis_title: ""
 genesis_description: "You realize its value most clearly when it is absent somewhere else. In Japan, a Public Restroom often appears before urgency has turned into a problem: in a..."
-open_graph_title: "Public Restroom"
+open_graph_title: "Public Restroom: The Quiet Piece of Infrastructure Behind an Easy Day"
 open_graph_description: "You realize its value most clearly when it is absent somewhere else. In Japan, a Public Restroom often appears before urgency has turned into a problem: in a..."
-twitter_title: "Public Restroom"
+twitter_title: "Public Restroom: The Quiet Piece of Infrastructure Behind an Easy Day"
 twitter_description: "You realize its value most clearly when it is absent somewhere else. In Japan, a Public Restroom often appears before urgency has turned into a problem: in a..."
 genesis_noindex: 0
 genesis_nofollow: 0

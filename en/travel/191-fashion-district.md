@@ -1,5 +1,5 @@
 ---
-title: "Fashion District"
+title: "Fashion District: Walking the City’s Taste, One Block at a Time"
 slug: travel-fashion-district
 wp_date: 2026-01-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a weekend afternoon in Tokyo, you can tell when you’ve entered a 
 
 genesis_title: ""
 genesis_description: "Guide to Fashion District in Japan. On a weekend afternoon in Tokyo, you can tell when you’ve entered a without checking a map. People slow down."
-open_graph_title: "Fashion District"
+open_graph_title: "Fashion District: Walking the City’s Taste, One Block at a Time"
 open_graph_description: "Guide to Fashion District in Japan. On a weekend afternoon in Tokyo, you can tell when you’ve entered a without checking a map. People slow down."
-twitter_title: "Fashion District"
+twitter_title: "Fashion District: Walking the City’s Taste, One Block at a Time"
 twitter_description: "Guide to Fashion District in Japan. On a weekend afternoon in Tokyo, you can tell when you’ve entered a without checking a map. People slow down."
 genesis_noindex: 0
 genesis_nofollow: 0

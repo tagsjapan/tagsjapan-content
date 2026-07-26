@@ -1,5 +1,5 @@
 ---
-title: "Rock Climbing"
+title: "Rock Climbing: Japan’s Chains, Crags, and Sacred Peaks"
 slug: travel-rock-climbing
 wp_date: 2025-11-05 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The hand finds the chain before the eye finds the next foothold. The r
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Rock Climbing in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Rock Climbing"
+open_graph_title: "Rock Climbing: Japan’s Chains, Crags, and Sacred Peaks"
 open_graph_description: "A comprehensive guide to Rock Climbing in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Rock Climbing"
+twitter_title: "Rock Climbing: Japan’s Chains, Crags, and Sacred Peaks"
 twitter_description: "A comprehensive guide to Rock Climbing in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

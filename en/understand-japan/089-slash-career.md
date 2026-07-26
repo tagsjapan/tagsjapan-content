@@ -1,5 +1,5 @@
 ---
-title: "Slash Career"
+title: "Slash Career: Life Beyond the One-Company Track"
 slug: understand-japan-slash-career
 wp_date: 2025-06-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weekday evening in Tokyo, the workday may not end when the office
 
 genesis_title: ""
 genesis_description: "On a weekday evening in Tokyo, the workday may not end when the office lights go out. A salaried employee closes one laptop, boards a train, then opens anoth..."
-open_graph_title: "Slash Career"
+open_graph_title: "Slash Career: Life Beyond the One-Company Track"
 open_graph_description: "On a weekday evening in Tokyo, the workday may not end when the office lights go out. A salaried employee closes one laptop, boards a train, then opens anoth..."
-twitter_title: "Slash Career"
+twitter_title: "Slash Career: Life Beyond the One-Company Track"
 twitter_description: "On a weekday evening in Tokyo, the workday may not end when the office lights go out. A salaried employee closes one laptop, boards a train, then opens anoth..."
 genesis_noindex: 0
 genesis_nofollow: 0

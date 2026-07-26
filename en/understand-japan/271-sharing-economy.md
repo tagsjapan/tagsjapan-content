@@ -1,5 +1,5 @@
 ---
-title: "Sharing Economy"
+title: "Sharing Economy: Japan’s Rules for Trust Between Strangers"
 slug: understand-japan-sharing-economy
 wp_date: 2026-06-15 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In the hallway of a small apartment building, the technology looks hum
 
 genesis_title: ""
 genesis_description: "Learn about Sharing Economy in Japan. In textbook form, the sharing economy means matching underused assets—rooms, cars, tools, skills, spare..."
-open_graph_title: "Sharing Economy"
+open_graph_title: "Sharing Economy: Japan’s Rules for Trust Between Strangers"
 open_graph_description: "Learn about Sharing Economy in Japan. In textbook form, the sharing economy means matching underused assets—rooms, cars, tools, skills, spare..."
-twitter_title: "Sharing Economy"
+twitter_title: "Sharing Economy: Japan’s Rules for Trust Between Strangers"
 twitter_description: "Learn about Sharing Economy in Japan. In textbook form, the sharing economy means matching underused assets—rooms, cars, tools, skills, spare..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Community Craft Workshop"
+title: "Community Craft Workshop: Learning What a Souvenir Is Made Of"
 slug: travel-community-craft-workshop
 wp_date: 2026-04-30 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first thing you notice is how hard it is to breathe. Not from fume
 
 genesis_title: ""
 genesis_description: "The first thing you notice is how hard it is to breathe. Not from fumes or dust, but from concentration. A sheet of gold leaf is thinner than your confidence..."
-open_graph_title: "Community Craft Workshop"
+open_graph_title: "Community Craft Workshop: Learning What a Souvenir Is Made Of"
 open_graph_description: "The first thing you notice is how hard it is to breathe. Not from fumes or dust, but from concentration. A sheet of gold leaf is thinner than your confidence..."
-twitter_title: "Community Craft Workshop"
+twitter_title: "Community Craft Workshop: Learning What a Souvenir Is Made Of"
 twitter_description: "The first thing you notice is how hard it is to breathe. Not from fumes or dust, but from concentration. A sheet of gold leaf is thinner than your confidence..."
 genesis_noindex: 0
 genesis_nofollow: 0

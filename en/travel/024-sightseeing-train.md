@@ -1,5 +1,5 @@
 ---
-title: "Sightseeing Train"
+title: "Sightseeing Train: Looking Out on Purpose"
 slug: travel-sightseeing-train
 wp_date: 2025-02-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On an ordinary Japanese train, the view is incidental. It flickers pas
 
 genesis_title: ""
 genesis_description: "Complete guide to Sightseeing Train in Japan. On an ordinary Japanese train, the view is incidental. A sightseeing train changes the terms."
-open_graph_title: "Sightseeing Train"
+open_graph_title: "Sightseeing Train: Looking Out on Purpose"
 open_graph_description: "Complete guide to Sightseeing Train in Japan. On an ordinary Japanese train, the view is incidental. A sightseeing train changes the terms."
-twitter_title: "Sightseeing Train"
+twitter_title: "Sightseeing Train: Looking Out on Purpose"
 twitter_description: "Complete guide to Sightseeing Train in Japan. On an ordinary Japanese train, the view is incidental. A sightseeing train changes the terms."
 genesis_noindex: 0
 genesis_nofollow: 0

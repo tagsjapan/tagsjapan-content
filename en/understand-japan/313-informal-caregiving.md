@@ -1,5 +1,5 @@
 ---
-title: "Informal Caregiving"
+title: "Informal Caregiving: The Labor Japan Still Hides at Home"
 slug: understand-japan-informal-caregiving
 wp_date: 2026-07-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The day begins with a phone call, not a sunrise. A middle-aged office 
 
 genesis_title: ""
 genesis_description: "Learn about Informal Caregiving in Japan. In Japan, it is simply “what the family does”—and that is exactly why Informal Caregiving matters."
-open_graph_title: "Informal Caregiving"
+open_graph_title: "Informal Caregiving: The Labor Japan Still Hides at Home"
 open_graph_description: "Learn about Informal Caregiving in Japan. In Japan, it is simply “what the family does”—and that is exactly why Informal Caregiving matters."
-twitter_title: "Informal Caregiving"
+twitter_title: "Informal Caregiving: The Labor Japan Still Hides at Home"
 twitter_description: "Learn about Informal Caregiving in Japan. In Japan, it is simply “what the family does”—and that is exactly why Informal Caregiving matters."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "School Refusal"
+title: "School Refusal: When the School Door Stops Opening"
 slug: understand-japan-school-refusal
 wp_date: 2025-07-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The schoolbag is packed the night before. The uniform is laid out. The
 
 genesis_title: ""
 genesis_description: "The schoolbag is packed the night before. The uniform is laid out. The alarm rings on time. Then morning arrives, and nothing moves."
-open_graph_title: "School Refusal"
+open_graph_title: "School Refusal: When the School Door Stops Opening"
 open_graph_description: "The schoolbag is packed the night before. The uniform is laid out. The alarm rings on time. Then morning arrives, and nothing moves."
-twitter_title: "School Refusal"
+twitter_title: "School Refusal: When the School Door Stops Opening"
 twitter_description: "The schoolbag is packed the night before. The uniform is laid out. The alarm rings on time. Then morning arrives, and nothing moves."
 genesis_noindex: 0
 genesis_nofollow: 0

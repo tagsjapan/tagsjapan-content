@@ -1,5 +1,5 @@
 ---
-title: "Women’s Empowerment"
+title: "Women's Empowerment: When Equality Becomes an Administrative Program"
 slug: understand-japan-womens-empowerment
 wp_date: 2025-06-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The slogan often appears next to a table. A company website displays t
 
 genesis_title: ""
 genesis_description: "The slogan often appears next to a table. A company website displays the share of women in management, the rate of child-care leave, and the gap in wages."
-open_graph_title: "Women’s Empowerment"
+open_graph_title: "Women's Empowerment: When Equality Becomes an Administrative Program"
 open_graph_description: "The slogan often appears next to a table. A company website displays the share of women in management, the rate of child-care leave, and the gap in wages."
-twitter_title: "Women’s Empowerment"
+twitter_title: "Women's Empowerment: When Equality Becomes an Administrative Program"
 twitter_description: "The slogan often appears next to a table. A company website displays the share of women in management, the rate of child-care leave, and the gap in wages."
 genesis_noindex: 0
 genesis_nofollow: 0

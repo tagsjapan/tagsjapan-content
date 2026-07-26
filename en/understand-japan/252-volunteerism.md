@@ -1,5 +1,5 @@
 ---
-title: "Volunteerism"
+title: "Volunteerism: How Japan Organizes Help"
 slug: understand-japan-volunteerism
 wp_date: 2026-05-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "After a major disaster in Japan, a familiar scene tends to appear alon
 
 genesis_title: ""
 genesis_description: "Learn about Volunteerism in Japan. The work may be simple—clearing mud, carrying supplies, sorting donations—but the way it begins is often formal."
-open_graph_title: "Volunteerism"
+open_graph_title: "Volunteerism: How Japan Organizes Help"
 open_graph_description: "Learn about Volunteerism in Japan. The work may be simple—clearing mud, carrying supplies, sorting donations—but the way it begins is often formal."
-twitter_title: "Volunteerism"
+twitter_title: "Volunteerism: How Japan Organizes Help"
 twitter_description: "Learn about Volunteerism in Japan. The work may be simple—clearing mud, carrying supplies, sorting donations—but the way it begins is often formal."
 genesis_noindex: 0
 genesis_nofollow: 0

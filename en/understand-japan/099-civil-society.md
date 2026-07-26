@@ -1,5 +1,5 @@
 ---
-title: "Civil Society"
+title: "Civil Society: The Public Life That Grows Beside the State"
 slug: understand-japan-civil-society
 wp_date: 2025-07-16 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a school gym turned into a temporary shelter after a disaster, the 
 
 genesis_title: ""
 genesis_description: "In a school gym turned into a temporary shelter after a disaster, the first things to appear are often folding tables, handwritten signs, bottled water, and ..."
-open_graph_title: "Civil Society"
+open_graph_title: "Civil Society: The Public Life That Grows Beside the State"
 open_graph_description: "In a school gym turned into a temporary shelter after a disaster, the first things to appear are often folding tables, handwritten signs, bottled water, and ..."
-twitter_title: "Civil Society"
+twitter_title: "Civil Society: The Public Life That Grows Beside the State"
 twitter_description: "In a school gym turned into a temporary shelter after a disaster, the first things to appear are often folding tables, handwritten signs, bottled water, and ..."
 genesis_noindex: 0
 genesis_nofollow: 0

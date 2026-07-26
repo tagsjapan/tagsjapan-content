@@ -1,5 +1,5 @@
 ---
-title: "Nagaoka Fireworks Festival"
+title: "Nagaoka Fireworks Festival: Two Nights on the Shinano River"
 slug: travel-nagaoka-fireworks-festival
 wp_date: 2025-08-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "By late afternoon the Shinano River banks begin to look like a tempora
 
 genesis_title: ""
 genesis_description: "Experience Nagaoka Fireworks Festival in Japan. By late afternoon the Shinano River banks begin to look like a temporary city."
-open_graph_title: "Nagaoka Fireworks Festival"
+open_graph_title: "Nagaoka Fireworks Festival: Two Nights on the Shinano River"
 open_graph_description: "Experience Nagaoka Fireworks Festival in Japan. By late afternoon the Shinano River banks begin to look like a temporary city."
-twitter_title: "Nagaoka Fireworks Festival"
+twitter_title: "Nagaoka Fireworks Festival: Two Nights on the Shinano River"
 twitter_description: "Experience Nagaoka Fireworks Festival in Japan. By late afternoon the Shinano River banks begin to look like a temporary city."
 genesis_noindex: 0
 genesis_nofollow: 0

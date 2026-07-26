@@ -1,5 +1,5 @@
 ---
-title: "Satellite City"
+title: "Satellite City: The Commute That Built the Metropolis"
 slug: understand-japan-satellite-city
 wp_date: 2026-07-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At 7:12 a.m., a train pulls into a station that is not Tokyo and not q
 
 genesis_title: ""
 genesis_description: "Learn about Satellite City in Japan. At 7:12 a.m., a train pulls into a station that is not Tokyo and not quite countryside either."
-open_graph_title: "Satellite City"
+open_graph_title: "Satellite City: The Commute That Built the Metropolis"
 open_graph_description: "Learn about Satellite City in Japan. At 7:12 a.m., a train pulls into a station that is not Tokyo and not quite countryside either."
-twitter_title: "Satellite City"
+twitter_title: "Satellite City: The Commute That Built the Metropolis"
 twitter_description: "Learn about Satellite City in Japan. At 7:12 a.m., a train pulls into a station that is not Tokyo and not quite countryside either."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Small and Medium-sized Enterprises (SMEs)"
+title: "SMEs: The Economy Japan Can’t Replace"
 slug: understand-japan-small-and-medium-sized-enterprises-smes
 wp_date: 2025-07-25 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a side street far from any corporate headquarters, a small workshop
 
 genesis_title: ""
 genesis_description: "In a side street far from any corporate headquarters, a small workshop opens its shutters and turns on fluorescent lights."
-open_graph_title: "Small and Medium-sized Enterprises (SMEs)"
+open_graph_title: "SMEs: The Economy Japan Can’t Replace"
 open_graph_description: "In a side street far from any corporate headquarters, a small workshop opens its shutters and turns on fluorescent lights."
-twitter_title: "Small and Medium-sized Enterprises (SMEs)"
+twitter_title: "SMEs: The Economy Japan Can’t Replace"
 twitter_description: "In a side street far from any corporate headquarters, a small workshop opens its shutters and turns on fluorescent lights."
 genesis_noindex: 0
 genesis_nofollow: 0

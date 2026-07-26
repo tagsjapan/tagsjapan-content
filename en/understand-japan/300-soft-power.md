@@ -1,5 +1,5 @@
 ---
-title: "Soft Power"
+title: "Soft Power: Japan’s Influence Without Commands"
 slug: understand-japan-soft-power
 wp_date: 2026-07-14 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a classroom far from Tokyo, a student learns to write hiragana, the
 
 genesis_title: ""
 genesis_description: "Learn about Soft Power in Japan. That quiet accumulation is the easiest way to understand soft power. In a classroom far f"
-open_graph_title: "Soft Power"
+open_graph_title: "Soft Power: Japan’s Influence Without Commands"
 open_graph_description: "Learn about Soft Power in Japan. That quiet accumulation is the easiest way to understand soft power. In a classroom far f"
-twitter_title: "Soft Power"
+twitter_title: "Soft Power: Japan’s Influence Without Commands"
 twitter_description: "Learn about Soft Power in Japan. That quiet accumulation is the easiest way to understand soft power. In a classroom far f"
 genesis_noindex: 0
 genesis_nofollow: 0

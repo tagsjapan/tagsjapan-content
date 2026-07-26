@@ -1,5 +1,5 @@
 ---
-title: "Waterfall Visit"
+title: "Waterfall Visit: How Japan Lets You Enter the Landscape"
 slug: travel-waterfall-visit
 wp_date: 2025-09-29 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A waterfall announces itself before it appears. You hear the low roar 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Waterfall Visit in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Waterfall Visit"
+open_graph_title: "Waterfall Visit: How Japan Lets You Enter the Landscape"
 open_graph_description: "A comprehensive guide to Waterfall Visit in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Waterfall Visit"
+twitter_title: "Waterfall Visit: How Japan Lets You Enter the Landscape"
 twitter_description: "A comprehensive guide to Waterfall Visit in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

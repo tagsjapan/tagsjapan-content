@@ -1,5 +1,5 @@
 ---
-title: "Duty-free Shop"
+title: "Duty-free Shop: Shopping by Rule and Timing"
 slug: travel-duty-free-shop
 wp_date: 2026-01-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The sign is usually easy to miss until you suddenly need it. Somewhere
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Duty-free Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Duty-free Shop"
+open_graph_title: "Duty-free Shop: Shopping by Rule and Timing"
 open_graph_description: "A comprehensive guide to Duty-free Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Duty-free Shop"
+twitter_title: "Duty-free Shop: Shopping by Rule and Timing"
 twitter_description: "A comprehensive guide to Duty-free Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

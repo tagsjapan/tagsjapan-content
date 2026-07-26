@@ -1,5 +1,5 @@
 ---
-title: "Temple Stay"
+title: "Temple Stay: Sleeping Inside the Discipline"
 slug: travel-temple-stay
 wp_date: 2025-03-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The hallway is quiet in a way hotels rarely manage. Slippers wait in a
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Temple Stay in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Temple Stay"
+open_graph_title: "Temple Stay: Sleeping Inside the Discipline"
 open_graph_description: "A comprehensive guide to Temple Stay in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Temple Stay"
+twitter_title: "Temple Stay: Sleeping Inside the Discipline"
 twitter_description: "A comprehensive guide to Temple Stay in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

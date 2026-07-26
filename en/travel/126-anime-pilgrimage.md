@@ -1,5 +1,5 @@
 ---
-title: "Anime Pilgrimage"
+title: "Anime Pilgrimage: Following Fiction Back Into Town"
 slug: travel-anime-pilgrimage
 wp_date: 2025-09-08 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "Sometimes the first clue is a staircase. Sometimes it is a level cross
 
 genesis_title: ""
 genesis_description: "Experience Anime Pilgrimage in Japan. Sometimes the first clue is a staircase. To outsiders it can sound niche, even childish."
-open_graph_title: "Anime Pilgrimage"
+open_graph_title: "Anime Pilgrimage: Following Fiction Back Into Town"
 open_graph_description: "Experience Anime Pilgrimage in Japan. Sometimes the first clue is a staircase. To outsiders it can sound niche, even childish."
-twitter_title: "Anime Pilgrimage"
+twitter_title: "Anime Pilgrimage: Following Fiction Back Into Town"
 twitter_description: "Experience Anime Pilgrimage in Japan. Sometimes the first clue is a staircase. To outsiders it can sound niche, even childish."
 genesis_noindex: 0
 genesis_nofollow: 0

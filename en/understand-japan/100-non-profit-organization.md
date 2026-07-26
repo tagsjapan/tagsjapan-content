@@ -1,5 +1,5 @@
 ---
-title: "Non-profit Organization"
+title: "Non-profit Organization: How Civic Energy Learned to File Annual Reports"
 slug: understand-japan-non-profit-organization
 wp_date: 2025-07-19 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The office may be no larger than a classroom corner. There is a steel 
 
 genesis_title: ""
 genesis_description: "The office may be no larger than a classroom corner. There is a steel cabinet, a box of receipts, a fading printer, and a rubber stamp that gets more use tha..."
-open_graph_title: "Non-profit Organization"
+open_graph_title: "Non-profit Organization: How Civic Energy Learned to File Annual Reports"
 open_graph_description: "The office may be no larger than a classroom corner. There is a steel cabinet, a box of receipts, a fading printer, and a rubber stamp that gets more use tha..."
-twitter_title: "Non-profit Organization"
+twitter_title: "Non-profit Organization: How Civic Energy Learned to File Annual Reports"
 twitter_description: "The office may be no larger than a classroom corner. There is a steel cabinet, a box of receipts, a fading printer, and a rubber stamp that gets more use tha..."
 genesis_noindex: 0
 genesis_nofollow: 0

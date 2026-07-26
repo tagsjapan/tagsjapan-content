@@ -1,5 +1,5 @@
 ---
-title: "Communitarianism"
+title: "Communitarianism: The Argument Over Belonging That Japan Cannot Quite Leave Alone"
 slug: understand-japan-communitarianism
 wp_date: 2025-07-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Folded chairs are being stacked at the back of a neighborhood hall aft
 
 genesis_title: ""
 genesis_description: "Folded chairs are being stacked at the back of a neighborhood hall after a meeting on disaster drills and elder support."
-open_graph_title: "Communitarianism"
+open_graph_title: "Communitarianism: The Argument Over Belonging That Japan Cannot Quite Leave Alone"
 open_graph_description: "Folded chairs are being stacked at the back of a neighborhood hall after a meeting on disaster drills and elder support."
-twitter_title: "Communitarianism"
+twitter_title: "Communitarianism: The Argument Over Belonging That Japan Cannot Quite Leave Alone"
 twitter_description: "Folded chairs are being stacked at the back of a neighborhood hall after a meeting on disaster drills and elder support."
 genesis_noindex: 0
 genesis_nofollow: 0

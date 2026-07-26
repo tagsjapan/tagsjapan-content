@@ -1,5 +1,5 @@
 ---
-title: "House of Representatives"
+title: "House of Representatives: The Chamber That Can Make and Unmake a Government"
 slug: understand-japan-house-of-representatives
 wp_date: 2025-02-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Few moments in Japanese politics are more electric than the instant th
 
 genesis_title: ""
 genesis_description: "Few moments in Japanese politics are more electric than the instant the House of Representatives is dissolved. Members rise. The order is read."
-open_graph_title: "House of Representatives"
+open_graph_title: "House of Representatives: The Chamber That Can Make and Unmake a Government"
 open_graph_description: "Few moments in Japanese politics are more electric than the instant the House of Representatives is dissolved. Members rise. The order is read."
-twitter_title: "House of Representatives"
+twitter_title: "House of Representatives: The Chamber That Can Make and Unmake a Government"
 twitter_description: "Few moments in Japanese politics are more electric than the instant the House of Representatives is dissolved. Members rise. The order is read."
 genesis_noindex: 0
 genesis_nofollow: 0

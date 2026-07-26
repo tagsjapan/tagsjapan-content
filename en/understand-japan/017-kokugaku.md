@@ -1,5 +1,5 @@
 ---
-title: "Kokugaku"
+title: "Kokugaku: The Scholars Who Went Looking for an Older Japan"
 slug: understand-japan-kokugaku
 wp_date: 2025-02-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Picture a scholar in Edo-period Japan leaning over ancient texts, not 
 
 genesis_title: ""
 genesis_description: "Picture a scholar in Edo-period Japan leaning over ancient texts, not to admire them from a distance but to rescue them from what he believed were centuries ..."
-open_graph_title: "Kokugaku"
+open_graph_title: "Kokugaku: The Scholars Who Went Looking for an Older Japan"
 open_graph_description: "Picture a scholar in Edo-period Japan leaning over ancient texts, not to admire them from a distance but to rescue them from what he believed were centuries ..."
-twitter_title: "Kokugaku"
+twitter_title: "Kokugaku: The Scholars Who Went Looking for an Older Japan"
 twitter_description: "Picture a scholar in Edo-period Japan leaning over ancient texts, not to admire them from a distance but to rescue them from what he believed were centuries ..."
 genesis_noindex: 0
 genesis_nofollow: 0

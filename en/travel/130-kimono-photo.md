@@ -1,5 +1,5 @@
 ---
-title: "Kimono Photo"
+title: "Kimono Photo: When Clothing Rewrites the Day’s Pace"
 slug: travel-kimono-photo
 wp_date: 2025-09-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The rental clerk tugs the collar into place with a practiced gentlenes
 
 genesis_title: ""
 genesis_description: "Experience Kimono Photo in Japan. Your arms learn the weight of the sleeves. Before any camera appears, the experience has already started."
-open_graph_title: "Kimono Photo"
+open_graph_title: "Kimono Photo: When Clothing Rewrites the Day’s Pace"
 open_graph_description: "Experience Kimono Photo in Japan. Your arms learn the weight of the sleeves. Before any camera appears, the experience has already started."
-twitter_title: "Kimono Photo"
+twitter_title: "Kimono Photo: When Clothing Rewrites the Day’s Pace"
 twitter_description: "Experience Kimono Photo in Japan. Your arms learn the weight of the sleeves. Before any camera appears, the experience has already started."
 genesis_noindex: 0
 genesis_nofollow: 0

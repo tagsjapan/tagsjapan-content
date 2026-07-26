@@ -1,5 +1,5 @@
 ---
-title: "Hospice Care"
+title: "Hospice Care: Treating Suffering, Not Only Disease"
 slug: understand-japan-hospice-care
 wp_date: 2025-10-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a hospital, the most revealing conversations often happen in the ha
 
 genesis_title: ""
 genesis_description: "Learn about Hospice Care in Japan. Hospice Care（臨終關懷） in Japan is where medicine tries to answer that hallway question without pretending that the only..."
-open_graph_title: "Hospice Care"
+open_graph_title: "Hospice Care: Treating Suffering, Not Only Disease"
 open_graph_description: "Learn about Hospice Care in Japan. Hospice Care（臨終關懷） in Japan is where medicine tries to answer that hallway question without pretending that the only..."
-twitter_title: "Hospice Care"
+twitter_title: "Hospice Care: Treating Suffering, Not Only Disease"
 twitter_description: "Learn about Hospice Care in Japan. Hospice Care（臨終關懷） in Japan is where medicine tries to answer that hallway question without pretending that the only..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Coastline"
+title: "Coastline: The Managed Edge of an Island Nation"
 slug: understand-japan-coastline
 wp_date: 2026-03-28 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Coastline（海岸線） in Japan is less a line than an interface. It
 
 genesis_title: ""
 genesis_description: "Learn about Coastline in Japan. Along parts of Japan’s northeast coast, the first thing that stands out is not the sea. It is the built edge"
-open_graph_title: "Coastline"
+open_graph_title: "Coastline: The Managed Edge of an Island Nation"
 open_graph_description: "Learn about Coastline in Japan. Along parts of Japan’s northeast coast, the first thing that stands out is not the sea. It is the built edge"
-twitter_title: "Coastline"
+twitter_title: "Coastline: The Managed Edge of an Island Nation"
 twitter_description: "Learn about Coastline in Japan. Along parts of Japan’s northeast coast, the first thing that stands out is not the sea. It is the built edge"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Japanese Novel"
+title: "Japanese Novel: The Modern Form Japan Used to Read Itself"
 slug: understand-japan-japanese-novel
 wp_date: 2025-12-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weekday train, the novel is often a paperback object before it is
 
 genesis_title: ""
 genesis_description: "Learn about Japanese Novel in Japan. On a weekday train, the novel is often a paperback object before it is a “work of literature.” Thin pages."
-open_graph_title: "Japanese Novel"
+open_graph_title: "Japanese Novel: The Modern Form Japan Used to Read Itself"
 open_graph_description: "Learn about Japanese Novel in Japan. On a weekday train, the novel is often a paperback object before it is a “work of literature.” Thin pages."
-twitter_title: "Japanese Novel"
+twitter_title: "Japanese Novel: The Modern Form Japan Used to Read Itself"
 twitter_description: "Learn about Japanese Novel in Japan. On a weekday train, the novel is often a paperback object before it is a “work of literature.” Thin pages."
 genesis_noindex: 0
 genesis_nofollow: 0

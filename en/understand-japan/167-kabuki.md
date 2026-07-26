@@ -1,5 +1,5 @@
 ---
-title: "Kabuki"
+title: "Kabuki: A Four-Century Pop Stage That Refuses to Become a Museum"
 slug: understand-japan-kabuki
 wp_date: 2025-11-29 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Kabuki is often remembered as a picture: white faces edged with red li
 
 genesis_title: ""
 genesis_description: "Learn about Kabuki in Japan. Kabuki is often remembered as a picture: white faces edged with red lines, an actor frozen in a dramatic mie（見得） pose, a..."
-open_graph_title: "Kabuki"
+open_graph_title: "Kabuki: A Four-Century Pop Stage That Refuses to Become a Museum"
 open_graph_description: "Learn about Kabuki in Japan. Kabuki is often remembered as a picture: white faces edged with red lines, an actor frozen in a dramatic mie（見得） pose, a..."
-twitter_title: "Kabuki"
+twitter_title: "Kabuki: A Four-Century Pop Stage That Refuses to Become a Museum"
 twitter_description: "Learn about Kabuki in Japan. Kabuki is often remembered as a picture: white faces edged with red lines, an actor frozen in a dramatic mie（見得） pose, a..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Herb Bath"
+title: "Herb Bath: Scent as Part of the Soak"
 slug: travel-herb-bath
 wp_date: 2025-12-26 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Sometimes the difference is in the air before it reaches the skin. A t
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Herb Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Herb Bath"
+open_graph_title: "Herb Bath: Scent as Part of the Soak"
 open_graph_description: "A comprehensive guide to Herb Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Herb Bath"
+twitter_title: "Herb Bath: Scent as Part of the Soak"
 twitter_description: "A comprehensive guide to Herb Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

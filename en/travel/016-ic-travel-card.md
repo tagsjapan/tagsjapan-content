@@ -1,5 +1,5 @@
 ---
-title: "IC Travel Card"
+title: "IC Travel Card: The Small Piece of Plastic That Teaches You How Japan Moves"
 slug: travel-ic-travel-card
 wp_date: 2025-02-01 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first time an earns its keep in Japan is often not at a train gate
 
 genesis_title: ""
 genesis_description: "Complete guide to IC Travel Card in Japan. The first time an earns its keep in Japan is often not at a train gate but at a moment of mild confusion."
-open_graph_title: "IC Travel Card"
+open_graph_title: "IC Travel Card: The Small Piece of Plastic That Teaches You How Japan Moves"
 open_graph_description: "Complete guide to IC Travel Card in Japan. The first time an earns its keep in Japan is often not at a train gate but at a moment of mild confusion."
-twitter_title: "IC Travel Card"
+twitter_title: "IC Travel Card: The Small Piece of Plastic That Teaches You How Japan Moves"
 twitter_description: "Complete guide to IC Travel Card in Japan. The first time an earns its keep in Japan is often not at a train gate but at a moment of mild confusion."
 genesis_noindex: 0
 genesis_nofollow: 0

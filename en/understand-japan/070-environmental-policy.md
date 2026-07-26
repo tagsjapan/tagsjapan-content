@@ -1,5 +1,5 @@
 ---
-title: "Environmental Policy"
+title: "Environmental Policy: From Pollution Trauma to Managed Sustainability"
 slug: understand-japan-environmental-policy
 wp_date: 2025-05-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Modern Japanese environmental policy begins with places that became im
 
 genesis_title: ""
 genesis_description: "Modern Japanese environmental policy begins with places that became impossible to ignore. A bay poisoned by mercury. A city air made dangerous by industrial ..."
-open_graph_title: "Environmental Policy"
+open_graph_title: "Environmental Policy: From Pollution Trauma to Managed Sustainability"
 open_graph_description: "Modern Japanese environmental policy begins with places that became impossible to ignore. A bay poisoned by mercury. A city air made dangerous by industrial ..."
-twitter_title: "Environmental Policy"
+twitter_title: "Environmental Policy: From Pollution Trauma to Managed Sustainability"
 twitter_description: "Modern Japanese environmental policy begins with places that became impossible to ignore. A bay poisoned by mercury. A city air made dangerous by industrial ..."
 genesis_noindex: 0
 genesis_nofollow: 0

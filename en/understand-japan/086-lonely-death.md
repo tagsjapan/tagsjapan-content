@@ -1,5 +1,5 @@
 ---
-title: "Lonely Death"
+title: "Lonely Death: When Social Disconnection Becomes Visible Too Late"
 slug: understand-japan-lonely-death
 wp_date: 2025-06-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first sign may be practical rather than dramatic. Mail gathers. La
 
 genesis_title: ""
 genesis_description: "The first sign may be practical rather than dramatic. Mail gathers. Laundry stays where it was. A utility company notices unusual inactivity."
-open_graph_title: "Lonely Death"
+open_graph_title: "Lonely Death: When Social Disconnection Becomes Visible Too Late"
 open_graph_description: "The first sign may be practical rather than dramatic. Mail gathers. Laundry stays where it was. A utility company notices unusual inactivity."
-twitter_title: "Lonely Death"
+twitter_title: "Lonely Death: When Social Disconnection Becomes Visible Too Late"
 twitter_description: "The first sign may be practical rather than dramatic. Mail gathers. Laundry stays where it was. A utility company notices unusual inactivity."
 genesis_noindex: 0
 genesis_nofollow: 0

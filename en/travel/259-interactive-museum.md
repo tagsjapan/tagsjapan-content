@@ -1,5 +1,5 @@
 ---
-title: "Interactive Museum"
+title: "Interactive Museum: When the Exhibit Needs Your Body"
 slug: travel-interactive-museum
 wp_date: 2026-06-01 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first rule of an interactive museum in Japan is that you are rarel
 
 genesis_title: ""
 genesis_description: "The first rule of an interactive museum in Japan is that you are rarely a pure spectator. You take off your shoes. You tuck your bag into a locker."
-open_graph_title: "Interactive Museum"
+open_graph_title: "Interactive Museum: When the Exhibit Needs Your Body"
 open_graph_description: "The first rule of an interactive museum in Japan is that you are rarely a pure spectator. You take off your shoes. You tuck your bag into a locker."
-twitter_title: "Interactive Museum"
+twitter_title: "Interactive Museum: When the Exhibit Needs Your Body"
 twitter_description: "The first rule of an interactive museum in Japan is that you are rarely a pure spectator. You take off your shoes. You tuck your bag into a locker."
 genesis_noindex: 0
 genesis_nofollow: 0

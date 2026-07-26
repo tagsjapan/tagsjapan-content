@@ -1,5 +1,5 @@
 ---
-title: "Hiking"
+title: "Hiking: Japan’s Mountains at the Edge of the Train Line"
 slug: travel-hiking
 wp_date: 2025-09-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a weekday morning in the Tokyo region, you can board a train with c
 
 genesis_title: ""
 genesis_description: "Explore Hiking in Japan. On a weekday morning in the Tokyo region, you can board a train with commuters and get off with hikers."
-open_graph_title: "Hiking"
+open_graph_title: "Hiking: Japan’s Mountains at the Edge of the Train Line"
 open_graph_description: "Explore Hiking in Japan. On a weekday morning in the Tokyo region, you can board a train with commuters and get off with hikers."
-twitter_title: "Hiking"
+twitter_title: "Hiking: Japan’s Mountains at the Edge of the Train Line"
 twitter_description: "Explore Hiking in Japan. On a weekday morning in the Tokyo region, you can board a train with commuters and get off with hikers."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Westernization"
+title: "Westernization: Learning the West Without Becoming It"
 slug: understand-japan-westernization
 wp_date: 2025-02-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The change could begin with something as small as a pair of shoes. A l
 
 genesis_title: ""
 genesis_description: "The change could begin with something as small as a pair of shoes. A leather boot, displayed by the National Diet Library in its account of bunmei kaika, loo..."
-open_graph_title: "Westernization"
+open_graph_title: "Westernization: Learning the West Without Becoming It"
 open_graph_description: "The change could begin with something as small as a pair of shoes. A leather boot, displayed by the National Diet Library in its account of bunmei kaika, loo..."
-twitter_title: "Westernization"
+twitter_title: "Westernization: Learning the West Without Becoming It"
 twitter_description: "The change could begin with something as small as a pair of shoes. A leather boot, displayed by the National Diet Library in its account of bunmei kaika, loo..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Columbarium"
+title: "Columbarium: When the Grave Moves Indoors"
 slug: understand-japan-columbarium
 wp_date: 2025-10-26 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a Tokyo columbarium, the ritual can feel almost contemporary: a car
 
 genesis_title: ""
 genesis_description: "Learn about Columbarium in Japan. For many Japanese families, this is not a strange break with tradition. In a Tokyo columbari"
-open_graph_title: "Columbarium"
+open_graph_title: "Columbarium: When the Grave Moves Indoors"
 open_graph_description: "Learn about Columbarium in Japan. For many Japanese families, this is not a strange break with tradition. In a Tokyo columbari"
-twitter_title: "Columbarium"
+twitter_title: "Columbarium: When the Grave Moves Indoors"
 twitter_description: "Learn about Columbarium in Japan. For many Japanese families, this is not a strange break with tradition. In a Tokyo columbari"
 genesis_noindex: 0
 genesis_nofollow: 0

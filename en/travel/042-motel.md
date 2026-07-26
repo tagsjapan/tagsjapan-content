@@ -1,5 +1,5 @@
 ---
-title: "Motel"
+title: "Motel: Japan's Roadside Sleep"
 slug: travel-motel
 wp_date: 2025-03-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The room key does not come across a motel counter in Japan with the sa
 
 genesis_title: ""
 genesis_description: "Your guide to Motel in Japan. The room key does not come across a motel counter in Japan with the same old movie meaning it carries in the United States."
-open_graph_title: "Motel"
+open_graph_title: "Motel: Japan's Roadside Sleep"
 open_graph_description: "Your guide to Motel in Japan. The room key does not come across a motel counter in Japan with the same old movie meaning it carries in the United States."
-twitter_title: "Motel"
+twitter_title: "Motel: Japan's Roadside Sleep"
 twitter_description: "Your guide to Motel in Japan. The room key does not come across a motel counter in Japan with the same old movie meaning it carries in the United States."
 genesis_noindex: 0
 genesis_nofollow: 0

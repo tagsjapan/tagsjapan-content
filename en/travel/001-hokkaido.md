@@ -1,5 +1,5 @@
 ---
-title: "Hokkaido"
+title: "Hokkaido: Japan at a Larger Scale"
 slug: travel-hokkaido
 wp_date: 2025-01-01 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first adjustment happens on the map. Distances that look modest on
 
 genesis_title: ""
 genesis_description: "Discover Hokkaido, Japan. The first adjustment happens on the map. Travelers who come expecting only snow and seafood usually notice this within a day."
-open_graph_title: "Hokkaido"
+open_graph_title: "Hokkaido: Japan at a Larger Scale"
 open_graph_description: "Discover Hokkaido, Japan. The first adjustment happens on the map. Travelers who come expecting only snow and seafood usually notice this within a day."
-twitter_title: "Hokkaido"
+twitter_title: "Hokkaido: Japan at a Larger Scale"
 twitter_description: "Discover Hokkaido, Japan. The first adjustment happens on the map. Travelers who come expecting only snow and seafood usually notice this within a day."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Gonin-gumi"
+title: "Gonin-gumi: When the State Turned Neighbors into a Governing Device"
 slug: understand-japan-gonin-gumi
 wp_date: 2025-01-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The Tokugawa state did not need an official standing at every door in 
 
 genesis_title: ""
 genesis_description: "The Tokugawa state did not need an official standing at every door in order to make itself felt in daily life. It had a cheaper and often more effective method."
-open_graph_title: "Gonin-gumi"
+open_graph_title: "Gonin-gumi: When the State Turned Neighbors into a Governing Device"
 open_graph_description: "The Tokugawa state did not need an official standing at every door in order to make itself felt in daily life. It had a cheaper and often more effective method."
-twitter_title: "Gonin-gumi"
+twitter_title: "Gonin-gumi: When the State Turned Neighbors into a Governing Device"
 twitter_description: "The Tokugawa state did not need an official standing at every door in order to make itself felt in daily life. It had a cheaper and often more effective method."
 genesis_noindex: 0
 genesis_nofollow: 0

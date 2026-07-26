@@ -1,5 +1,5 @@
 ---
-title: "Matcha"
+title: "Matcha: Drinking the Tea, Not Just the Color"
 slug: travel-matcha
 wp_date: 2025-06-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The whisk makes a soft, dry sound as it moves through hot water. For a
 
 genesis_title: ""
 genesis_description: "Guide to Matcha in Japan. The whisk makes a soft, dry sound as it moves through hot water. Later, outside, you’ll stand in line for"
-open_graph_title: "Matcha"
+open_graph_title: "Matcha: Drinking the Tea, Not Just the Color"
 open_graph_description: "Guide to Matcha in Japan. The whisk makes a soft, dry sound as it moves through hot water. Later, outside, you’ll stand in line for"
-twitter_title: "Matcha"
+twitter_title: "Matcha: Drinking the Tea, Not Just the Color"
 twitter_description: "Guide to Matcha in Japan. The whisk makes a soft, dry sound as it moves through hot water. Later, outside, you’ll stand in line for"
 genesis_noindex: 0
 genesis_nofollow: 0

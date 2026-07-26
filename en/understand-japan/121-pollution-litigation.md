@@ -1,5 +1,5 @@
 ---
-title: "Pollution Litigation"
+title: "Pollution Litigation: When Harm Had to Become Evidence"
 slug: understand-japan-pollution-litigation
 wp_date: 2025-08-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In the corridor outside a courtroom, the most important documents do n
 
 genesis_title: ""
 genesis_description: "In the corridor outside a courtroom, the most important documents do not look dramatic. A medical certificate. A map of a coastline. A stack of receipts."
-open_graph_title: "Pollution Litigation"
+open_graph_title: "Pollution Litigation: When Harm Had to Become Evidence"
 open_graph_description: "In the corridor outside a courtroom, the most important documents do not look dramatic. A medical certificate. A map of a coastline. A stack of receipts."
-twitter_title: "Pollution Litigation"
+twitter_title: "Pollution Litigation: When Harm Had to Become Evidence"
 twitter_description: "In the corridor outside a courtroom, the most important documents do not look dramatic. A medical certificate. A map of a coastline. A stack of receipts."
 genesis_noindex: 0
 genesis_nofollow: 0

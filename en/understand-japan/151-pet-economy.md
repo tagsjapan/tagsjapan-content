@@ -1,5 +1,5 @@
 ---
-title: "Pet Economy"
+title: "Pet Economy: When Pets Become Family and the State Starts Tracking Them"
 slug: understand-japan-pet-economy
 wp_date: 2025-10-28 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The dog does not know it has an ID number. The owner does. A small chi
 
 genesis_title: ""
 genesis_description: "Learn about Pet Economy in Japan. This is a quiet but telling detail of contemporary Japan. The dog does not know it has an ID number."
-open_graph_title: "Pet Economy"
+open_graph_title: "Pet Economy: When Pets Become Family and the State Starts Tracking Them"
 open_graph_description: "Learn about Pet Economy in Japan. This is a quiet but telling detail of contemporary Japan. The dog does not know it has an ID number."
-twitter_title: "Pet Economy"
+twitter_title: "Pet Economy: When Pets Become Family and the State Starts Tracking Them"
 twitter_description: "Learn about Pet Economy in Japan. This is a quiet but telling detail of contemporary Japan. The dog does not know it has an ID number."
 genesis_noindex: 0
 genesis_nofollow: 0

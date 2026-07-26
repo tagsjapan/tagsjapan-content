@@ -1,5 +1,5 @@
 ---
-title: "Police Station"
+title: "Police Station: Where Order Becomes Reachable"
 slug: travel-police-station
 wp_date: 2026-02-09 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "In Japan, reassurance often has a building. It may be small enough to 
 
 genesis_title: ""
 genesis_description: "In Japan, reassurance often has a building. It may be small enough to miss on a first pass, wedged beside a station plaza or at the corner of a shopping stre..."
-open_graph_title: "Police Station"
+open_graph_title: "Police Station: Where Order Becomes Reachable"
 open_graph_description: "In Japan, reassurance often has a building. It may be small enough to miss on a first pass, wedged beside a station plaza or at the corner of a shopping stre..."
-twitter_title: "Police Station"
+twitter_title: "Police Station: Where Order Becomes Reachable"
 twitter_description: "In Japan, reassurance often has a building. It may be small enough to miss on a first pass, wedged beside a station plaza or at the corner of a shopping stre..."
 genesis_noindex: 0
 genesis_nofollow: 0

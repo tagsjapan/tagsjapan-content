@@ -1,5 +1,5 @@
 ---
-title: "Virtual YouTuber"
+title: "Virtual YouTuber: Japan’s Avatar Economy of Intimacy"
 slug: understand-japan-virtual-youtuber
 wp_date: 2026-06-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Virtual YouTuber（VTuber／バーチャルYouTuber） refers to creat
 
 genesis_title: ""
 genesis_description: "Learn about Virtual YouTuber in Japan. What the audience sees is an avatar（アバター）: a character that can be cute, aloof, awkward, mischievous, or perfectly..."
-open_graph_title: "Virtual YouTuber"
+open_graph_title: "Virtual YouTuber: Japan’s Avatar Economy of Intimacy"
 open_graph_description: "Learn about Virtual YouTuber in Japan. What the audience sees is an avatar（アバター）: a character that can be cute, aloof, awkward, mischievous, or perfectly..."
-twitter_title: "Virtual YouTuber"
+twitter_title: "Virtual YouTuber: Japan’s Avatar Economy of Intimacy"
 twitter_description: "Learn about Virtual YouTuber in Japan. What the audience sees is an avatar（アバター）: a character that can be cute, aloof, awkward, mischievous, or perfectly..."
 genesis_noindex: 0
 genesis_nofollow: 0

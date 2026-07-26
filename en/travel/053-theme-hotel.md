@@ -1,5 +1,5 @@
 ---
-title: "Theme Hotel"
+title: "Theme Hotel: When the Story Follows You Upstairs"
 slug: travel-theme-hotel
 wp_date: 2025-04-15 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The lobby is doing its best not to let the day end. You have left the 
 
 genesis_title: ""
 genesis_description: "Your guide to Theme Hotel in Japan. The lobby is doing its best not to let the day end. Japan's theme hotels are built on that extension of mood."
-open_graph_title: "Theme Hotel"
+open_graph_title: "Theme Hotel: When the Story Follows You Upstairs"
 open_graph_description: "Your guide to Theme Hotel in Japan. The lobby is doing its best not to let the day end. Japan's theme hotels are built on that extension of mood."
-twitter_title: "Theme Hotel"
+twitter_title: "Theme Hotel: When the Story Follows You Upstairs"
 twitter_description: "Your guide to Theme Hotel in Japan. The lobby is doing its best not to let the day end. Japan's theme hotels are built on that extension of mood."
 genesis_noindex: 0
 genesis_nofollow: 0

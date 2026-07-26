@@ -1,5 +1,5 @@
 ---
-title: "Anti-Nuclear Movement"
+title: "Anti-Nuclear Movement: When Risk Becomes Political in Japan"
 slug: understand-japan-anti-nuclear-movement
 wp_date: 2026-07-25 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On summer evenings in 2012, the streets near the Prime Minister’s Of
 
 genesis_title: ""
 genesis_description: "Learn about Anti-Nuclear Movement in Japan. On summer evenings in 2012, the streets near the Prime Minister’s Office (*Kantei*) in Tokyo filled with a..."
-open_graph_title: "Anti-Nuclear Movement"
+open_graph_title: "Anti-Nuclear Movement: When Risk Becomes Political in Japan"
 open_graph_description: "Learn about Anti-Nuclear Movement in Japan. On summer evenings in 2012, the streets near the Prime Minister’s Office (*Kantei*) in Tokyo filled with a..."
-twitter_title: "Anti-Nuclear Movement"
+twitter_title: "Anti-Nuclear Movement: When Risk Becomes Political in Japan"
 twitter_description: "Learn about Anti-Nuclear Movement in Japan. On summer evenings in 2012, the streets near the Prime Minister’s Office (*Kantei*) in Tokyo filled with a..."
 genesis_noindex: 0
 genesis_nofollow: 0

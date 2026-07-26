@@ -1,5 +1,5 @@
 ---
-title: "Diving"
+title: "Diving: Japan Below the Surface"
 slug: travel-diving
 wp_date: 2025-10-06 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "On the boat, everyone becomes a little quieter. Wetsuits zip up, regul
 
 genesis_title: ""
 genesis_description: "Discover Diving in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Diving"
+open_graph_title: "Diving: Japan Below the Surface"
 open_graph_description: "Discover Diving in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Diving"
+twitter_title: "Diving: Japan Below the Surface"
 twitter_description: "Discover Diving in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

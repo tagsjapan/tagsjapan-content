@@ -1,5 +1,5 @@
 ---
-title: "Renewable Energy Tour"
+title: "Renewable Energy Tour: Visiting the Infrastructure Behind the View"
 slug: travel-renewable-energy-tour
 wp_date: 2026-04-19 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "It doesn’t look like a tourist attraction at first. Fences, warning 
 
 genesis_title: ""
 genesis_description: "It doesn’t look like a tourist attraction at first. Fences, warning signs, a hum you feel more than you hear. The view might be impressive—rows of solar pane..."
-open_graph_title: "Renewable Energy Tour"
+open_graph_title: "Renewable Energy Tour: Visiting the Infrastructure Behind the View"
 open_graph_description: "It doesn’t look like a tourist attraction at first. Fences, warning signs, a hum you feel more than you hear. The view might be impressive—rows of solar pane..."
-twitter_title: "Renewable Energy Tour"
+twitter_title: "Renewable Energy Tour: Visiting the Infrastructure Behind the View"
 twitter_description: "It doesn’t look like a tourist attraction at first. Fences, warning signs, a hum you feel more than you hear. The view might be impressive—rows of solar pane..."
 genesis_noindex: 0
 genesis_nofollow: 0

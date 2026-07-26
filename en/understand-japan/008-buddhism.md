@@ -1,5 +1,5 @@
 ---
-title: "Buddhism"
+title: "Buddhism: The Imported Religion That Settled Deep into Japanese Life"
 slug: understand-japan-buddhism
 wp_date: 2025-01-15 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Walk through Japanese social life for long enough and Buddhism appears
 
 genesis_title: ""
 genesis_description: "Walk through Japanese social life for long enough and Buddhism appears where many outsiders first fail to look for it. It is there in temple bells at dusk, i..."
-open_graph_title: "Buddhism"
+open_graph_title: "Buddhism: The Imported Religion That Settled Deep into Japanese Life"
 open_graph_description: "Walk through Japanese social life for long enough and Buddhism appears where many outsiders first fail to look for it. It is there in temple bells at dusk, i..."
-twitter_title: "Buddhism"
+twitter_title: "Buddhism: The Imported Religion That Settled Deep into Japanese Life"
 twitter_description: "Walk through Japanese social life for long enough and Buddhism appears where many outsiders first fail to look for it. It is there in temple bells at dusk, i..."
 genesis_noindex: 0
 genesis_nofollow: 0

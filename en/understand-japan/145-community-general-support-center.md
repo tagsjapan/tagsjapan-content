@@ -1,5 +1,5 @@
 ---
-title: "Community General Support Center"
+title: "Community General Support Center: Japan’s Front Desk for Aging"
 slug: understand-japan-community-general-support-center
 wp_date: 2025-10-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Community General Support Center（地域包括支援センター） i
 
 genesis_title: ""
 genesis_description: "Learn about Community General Support Center in Japan. In Japan, one of the most common answers is surprisingly practical: call the local Community..."
-open_graph_title: "Community General Support Center"
+open_graph_title: "Community General Support Center: Japan’s Front Desk for Aging"
 open_graph_description: "Learn about Community General Support Center in Japan. In Japan, one of the most common answers is surprisingly practical: call the local Community..."
-twitter_title: "Community General Support Center"
+twitter_title: "Community General Support Center: Japan’s Front Desk for Aging"
 twitter_description: "Learn about Community General Support Center in Japan. In Japan, one of the most common answers is surprisingly practical: call the local Community..."
 genesis_noindex: 0
 genesis_nofollow: 0

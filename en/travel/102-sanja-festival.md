@@ -1,5 +1,5 @@
 ---
-title: "Sanja Festival"
+title: "Sanja Festival: Three Days When Asakusa Moves"
 slug: travel-sanja-festival
 wp_date: 2025-07-23 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On the third weekend of May, Asakusa stops being a neighborhood you pa
 
 genesis_title: ""
 genesis_description: "Experience Sanja Festival in Japan. Sanja Matsuri (三社祭), the annual grand festival of Asakusa Shrine (淺草神社), is not something you “drop by” for"
-open_graph_title: "Sanja Festival"
+open_graph_title: "Sanja Festival: Three Days When Asakusa Moves"
 open_graph_description: "Experience Sanja Festival in Japan. Sanja Matsuri (三社祭), the annual grand festival of Asakusa Shrine (淺草神社), is not something you “drop by” for"
-twitter_title: "Sanja Festival"
+twitter_title: "Sanja Festival: Three Days When Asakusa Moves"
 twitter_description: "Experience Sanja Festival in Japan. Sanja Matsuri (三社祭), the annual grand festival of Asakusa Shrine (淺草神社), is not something you “drop by” for"
 genesis_noindex: 0
 genesis_nofollow: 0

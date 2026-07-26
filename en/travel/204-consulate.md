@@ -1,5 +1,5 @@
 ---
-title: "Consulate"
+title: "Consulate: The Number You Hope Not to Need"
 slug: travel-consulate
 wp_date: 2026-02-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The missing passport usually reveals itself in a cramped hotel room or
 
 genesis_title: ""
 genesis_description: "The missing passport usually reveals itself in a cramped hotel room or at an airport counter, never at a calm, convenient hour."
-open_graph_title: "Consulate"
+open_graph_title: "Consulate: The Number You Hope Not to Need"
 open_graph_description: "The missing passport usually reveals itself in a cramped hotel room or at an airport counter, never at a calm, convenient hour."
-twitter_title: "Consulate"
+twitter_title: "Consulate: The Number You Hope Not to Need"
 twitter_description: "The missing passport usually reveals itself in a cramped hotel room or at an airport counter, never at a calm, convenient hour."
 genesis_noindex: 0
 genesis_nofollow: 0

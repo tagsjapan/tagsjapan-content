@@ -1,5 +1,5 @@
 ---
-title: "ESG Investment"
+title: "ESG Investment: Japan’s Attempt to Turn Sustainability Into Market Discipline"
 slug: understand-japan-esg-investment
 wp_date: 2026-07-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a conference room, a corporate executive clicks through a presentat
 
 genesis_title: ""
 genesis_description: "Learn about ESG Investment in Japan. Ten years ago it might have been an optional add-on; now it is increasingly treated as part of “normal” corporate..."
-open_graph_title: "ESG Investment"
+open_graph_title: "ESG Investment: Japan’s Attempt to Turn Sustainability Into Market Discipline"
 open_graph_description: "Learn about ESG Investment in Japan. Ten years ago it might have been an optional add-on; now it is increasingly treated as part of “normal” corporate..."
-twitter_title: "ESG Investment"
+twitter_title: "ESG Investment: Japan’s Attempt to Turn Sustainability Into Market Discipline"
 twitter_description: "Learn about ESG Investment in Japan. Ten years ago it might have been an optional add-on; now it is increasingly treated as part of “normal” corporate..."
 genesis_noindex: 0
 genesis_nofollow: 0

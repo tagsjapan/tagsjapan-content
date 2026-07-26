@@ -1,5 +1,5 @@
 ---
-title: "Mount Fuji"
+title: "Mount Fuji: A Volcano Turned into a National Image"
 slug: understand-japan-mount-fuji
 wp_date: 2026-03-06 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, Mount Fuji（富士山） is often encountered before it is 
 
 genesis_title: ""
 genesis_description: "Learn about Mount Fuji in Japan. In Japan, Mount Fuji（富士山） is often encountered before it is approached. It appears as a silh"
-open_graph_title: "Mount Fuji"
+open_graph_title: "Mount Fuji: A Volcano Turned into a National Image"
 open_graph_description: "Learn about Mount Fuji in Japan. In Japan, Mount Fuji（富士山） is often encountered before it is approached. It appears as a silh"
-twitter_title: "Mount Fuji"
+twitter_title: "Mount Fuji: A Volcano Turned into a National Image"
 twitter_description: "Learn about Mount Fuji in Japan. In Japan, Mount Fuji（富士山） is often encountered before it is approached. It appears as a silh"
 genesis_noindex: 0
 genesis_nofollow: 0

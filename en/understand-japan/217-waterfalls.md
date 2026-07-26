@@ -1,5 +1,5 @@
 ---
-title: "Waterfalls"
+title: "Waterfalls: Where Water Becomes Discipline and Place"
 slug: understand-japan-waterfalls
 wp_date: 2026-03-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Waterfalls（瀑布） in Japan are not only hydrological events. They
 
 genesis_title: ""
 genesis_description: "Learn about Waterfalls in Japan. Stand near a Japanese waterfall and the first thing that happens is sonic: ordinary conversation stops working."
-open_graph_title: "Waterfalls"
+open_graph_title: "Waterfalls: Where Water Becomes Discipline and Place"
 open_graph_description: "Learn about Waterfalls in Japan. Stand near a Japanese waterfall and the first thing that happens is sonic: ordinary conversation stops working."
-twitter_title: "Waterfalls"
+twitter_title: "Waterfalls: Where Water Becomes Discipline and Place"
 twitter_description: "Learn about Waterfalls in Japan. Stand near a Japanese waterfall and the first thing that happens is sonic: ordinary conversation stops working."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Typhoon"
+title: "Typhoon: A Season That Tests Coordination"
 slug: understand-japan-typhoon
 wp_date: 2026-03-16 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Typhoon（颱風） is the Japan Meteorological Agency’s name for a 
 
 genesis_title: ""
 genesis_description: "Learn about Typhoon in Japan. Typhoon season is expected, yet every storm forces a fresh decision tree. In Japan, a typhoon"
-open_graph_title: "Typhoon"
+open_graph_title: "Typhoon: A Season That Tests Coordination"
 open_graph_description: "Learn about Typhoon in Japan. Typhoon season is expected, yet every storm forces a fresh decision tree. In Japan, a typhoon"
-twitter_title: "Typhoon"
+twitter_title: "Typhoon: A Season That Tests Coordination"
 twitter_description: "Learn about Typhoon in Japan. Typhoon season is expected, yet every storm forces a fresh decision tree. In Japan, a typhoon"
 genesis_noindex: 0
 genesis_nofollow: 0

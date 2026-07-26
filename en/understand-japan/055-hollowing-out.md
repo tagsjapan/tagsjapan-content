@@ -1,5 +1,5 @@
 ---
-title: "Hollowing-out"
+title: "Hollowing-out: When the Factory Leaves but the Problem Stays"
 slug: understand-japan-hollowing-out
 wp_date: 2025-04-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On the edge of many Japanese industrial towns there are buildings that
 
 genesis_title: ""
 genesis_description: "On the edge of many Japanese industrial towns there are buildings that still look ready for the next shift. The gates are there, the loading bays are there, ..."
-open_graph_title: "Hollowing-out"
+open_graph_title: "Hollowing-out: When the Factory Leaves but the Problem Stays"
 open_graph_description: "On the edge of many Japanese industrial towns there are buildings that still look ready for the next shift. The gates are there, the loading bays are there, ..."
-twitter_title: "Hollowing-out"
+twitter_title: "Hollowing-out: When the Factory Leaves but the Problem Stays"
 twitter_description: "On the edge of many Japanese industrial towns there are buildings that still look ready for the next shift. The gates are there, the loading bays are there, ..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Nagashi Somen"
+title: "Nagashi Somen: Eating Summer at the Speed of Water"
 slug: travel-nagashi-somen
 wp_date: 2025-07-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "You hear the water before you see the noodles. In the shade of trees, 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Nagashi Somen in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Nagashi Somen"
+open_graph_title: "Nagashi Somen: Eating Summer at the Speed of Water"
 open_graph_description: "A comprehensive guide to Nagashi Somen in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Nagashi Somen"
+twitter_title: "Nagashi Somen: Eating Summer at the Speed of Water"
 twitter_description: "A comprehensive guide to Nagashi Somen in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

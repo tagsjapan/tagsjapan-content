@@ -1,5 +1,5 @@
 ---
-title: "School Excursion"
+title: "School Excursion: Japan’s Overnight Lesson in Group Life"
 slug: understand-japan-school-excursion
 wp_date: 2025-11-10 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "School Excursion（修學旅行） in Japan is not simply a “class t
 
 genesis_title: ""
 genesis_description: "Learn about School Excursion in Japan. A teacher with a clipboard calling roll again and again, not because anyone is missing, but because counting is..."
-open_graph_title: "School Excursion"
+open_graph_title: "School Excursion: Japan’s Overnight Lesson in Group Life"
 open_graph_description: "Learn about School Excursion in Japan. A teacher with a clipboard calling roll again and again, not because anyone is missing, but because counting is..."
-twitter_title: "School Excursion"
+twitter_title: "School Excursion: Japan’s Overnight Lesson in Group Life"
 twitter_description: "Learn about School Excursion in Japan. A teacher with a clipboard calling roll again and again, not because anyone is missing, but because counting is..."
 genesis_noindex: 0
 genesis_nofollow: 0

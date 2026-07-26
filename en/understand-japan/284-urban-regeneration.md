@@ -1,5 +1,5 @@
 ---
-title: "Urban Regeneration"
+title: "Urban Regeneration: Rebuilding the City After the Bubble"
 slug: understand-japan-urban-regeneration
 wp_date: 2026-06-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a weekday morning outside Tokyo Station, the city feels like it has
 
 genesis_title: ""
 genesis_description: "Learn about Urban Regeneration in Japan. In Japan, that kind of change is rarely described as simple redevelopment. On a weekday morning"
-open_graph_title: "Urban Regeneration"
+open_graph_title: "Urban Regeneration: Rebuilding the City After the Bubble"
 open_graph_description: "Learn about Urban Regeneration in Japan. In Japan, that kind of change is rarely described as simple redevelopment. On a weekday morning"
-twitter_title: "Urban Regeneration"
+twitter_title: "Urban Regeneration: Rebuilding the City After the Bubble"
 twitter_description: "Learn about Urban Regeneration in Japan. In Japan, that kind of change is rarely described as simple redevelopment. On a weekday morning"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Souvenir Shop"
+title: "Souvenir Shop: The Omiyage System That Ends a Trip"
 slug: travel-souvenir-shop
 wp_date: 2026-01-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On the last day in Japan, the most urgent shopping is rarely for yours
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Souvenir Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Souvenir Shop"
+open_graph_title: "Souvenir Shop: The Omiyage System That Ends a Trip"
 open_graph_description: "A comprehensive guide to Souvenir Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Souvenir Shop"
+twitter_title: "Souvenir Shop: The Omiyage System That Ends a Trip"
 twitter_description: "A comprehensive guide to Souvenir Shop in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

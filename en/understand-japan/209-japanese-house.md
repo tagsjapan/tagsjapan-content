@@ -1,5 +1,5 @@
 ---
-title: "Japanese House"
+title: "Japanese House: Living Inside Adjustable Boundaries"
 slug: understand-japan-japanese-house
 wp_date: 2026-02-22 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a traditional Japanese room, the boundary does not behave like a wa
 
 genesis_title: ""
 genesis_description: "Learn about Japanese House in Japan. That is why Japanese House（和式住宅） is not a style label for “wood and Japanese décor.” It is a housing logic shaped by..."
-open_graph_title: "Japanese House"
+open_graph_title: "Japanese House: Living Inside Adjustable Boundaries"
 open_graph_description: "Learn about Japanese House in Japan. That is why Japanese House（和式住宅） is not a style label for “wood and Japanese décor.” It is a housing logic shaped by..."
-twitter_title: "Japanese House"
+twitter_title: "Japanese House: Living Inside Adjustable Boundaries"
 twitter_description: "Learn about Japanese House in Japan. That is why Japanese House（和式住宅） is not a style label for “wood and Japanese décor.” It is a housing logic shaped by..."
 genesis_noindex: 0
 genesis_nofollow: 0

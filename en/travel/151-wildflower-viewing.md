@@ -1,5 +1,5 @@
 ---
-title: "Wildflower Viewing"
+title: "Wildflower Viewing: Japan’s Flowers You Have to Walk For"
 slug: travel-wildflower-viewing
 wp_date: 2025-10-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a mountain boardwalk in Japan, the flowers don’t announce themsel
 
 genesis_title: ""
 genesis_description: "Explore Wildflower Viewing in Japan. On a mountain boardwalk in Japan, the flowers don’t announce themselves. This is th"
-open_graph_title: "Wildflower Viewing"
+open_graph_title: "Wildflower Viewing: Japan’s Flowers You Have to Walk For"
 open_graph_description: "Explore Wildflower Viewing in Japan. On a mountain boardwalk in Japan, the flowers don’t announce themselves. This is th"
-twitter_title: "Wildflower Viewing"
+twitter_title: "Wildflower Viewing: Japan’s Flowers You Have to Walk For"
 twitter_description: "Explore Wildflower Viewing in Japan. On a mountain boardwalk in Japan, the flowers don’t announce themselves. This is th"
 genesis_noindex: 0
 genesis_nofollow: 0

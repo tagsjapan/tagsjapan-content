@@ -1,5 +1,5 @@
 ---
-title: "Green Hotel"
+title: "Green Hotel: How Sustainability Becomes Part of the Stay"
 slug: travel-green-hotel
 wp_date: 2026-04-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The phrase can sound suspiciously soft. A card asking you to reuse tow
 
 genesis_title: ""
 genesis_description: "The phrase can sound suspiciously soft. A card asking you to reuse towels, a polite note about linen changes, perhaps a bamboo toothbrush in a paper sleeve, ..."
-open_graph_title: "Green Hotel"
+open_graph_title: "Green Hotel: How Sustainability Becomes Part of the Stay"
 open_graph_description: "The phrase can sound suspiciously soft. A card asking you to reuse towels, a polite note about linen changes, perhaps a bamboo toothbrush in a paper sleeve, ..."
-twitter_title: "Green Hotel"
+twitter_title: "Green Hotel: How Sustainability Becomes Part of the Stay"
 twitter_description: "The phrase can sound suspiciously soft. A card asking you to reuse towels, a polite note about linen changes, perhaps a bamboo toothbrush in a paper sleeve, ..."
 genesis_noindex: 0
 genesis_nofollow: 0

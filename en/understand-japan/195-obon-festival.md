@@ -1,5 +1,5 @@
 ---
-title: "Obon Festival"
+title: "Obon Festival: Ancestors, Homecoming, and the Summer Calendar"
 slug: understand-japan-obon-festival
 wp_date: 2026-01-24 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Japan, the heat of mid-August often comes with a second atmosphere.
 
 genesis_title: ""
 genesis_description: "Learn about Obon Festival in Japan. At dusk, a fire is lit—not large enough to be dramatic, but deliberate enough to feel like a boundary."
-open_graph_title: "Obon Festival"
+open_graph_title: "Obon Festival: Ancestors, Homecoming, and the Summer Calendar"
 open_graph_description: "Learn about Obon Festival in Japan. At dusk, a fire is lit—not large enough to be dramatic, but deliberate enough to feel like a boundary."
-twitter_title: "Obon Festival"
+twitter_title: "Obon Festival: Ancestors, Homecoming, and the Summer Calendar"
 twitter_description: "Learn about Obon Festival in Japan. At dusk, a fire is lit—not large enough to be dramatic, but deliberate enough to feel like a boundary."
 genesis_noindex: 0
 genesis_nofollow: 0

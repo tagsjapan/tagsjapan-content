@@ -1,5 +1,5 @@
 ---
-title: "Business Hotel"
+title: "Business Hotel: The Small Room That Makes Japanese City Travel Work"
 slug: travel-business-hotel
 wp_date: 2025-03-06 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The room key in a Japanese often comes with a slight recalibration of 
 
 genesis_title: ""
 genesis_description: "Your guide to Business Hotel in Japan. The room key in a Japanese often comes with a slight recalibration of expectations. Check-in was quick."
-open_graph_title: "Business Hotel"
+open_graph_title: "Business Hotel: The Small Room That Makes Japanese City Travel Work"
 open_graph_description: "Your guide to Business Hotel in Japan. The room key in a Japanese often comes with a slight recalibration of expectations. Check-in was quick."
-twitter_title: "Business Hotel"
+twitter_title: "Business Hotel: The Small Room That Makes Japanese City Travel Work"
 twitter_description: "Your guide to Business Hotel in Japan. The room key in a Japanese often comes with a slight recalibration of expectations. Check-in was quick."
 genesis_noindex: 0
 genesis_nofollow: 0

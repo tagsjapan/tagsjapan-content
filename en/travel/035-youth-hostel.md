@@ -1,5 +1,5 @@
 ---
-title: "Youth Hostel"
+title: "Youth Hostel: The Shared Middle of the Trip"
 slug: travel-youth-hostel
 wp_date: 2025-03-11 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "It usually begins in the common room. Somebody is drying gloves by a h
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Youth Hostel in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Youth Hostel"
+open_graph_title: "Youth Hostel: The Shared Middle of the Trip"
 open_graph_description: "A comprehensive guide to Youth Hostel in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Youth Hostel"
+twitter_title: "Youth Hostel: The Shared Middle of the Trip"
 twitter_description: "A comprehensive guide to Youth Hostel in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

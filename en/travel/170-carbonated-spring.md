@@ -1,5 +1,5 @@
 ---
-title: "Carbonated Spring"
+title: "Carbonated Spring: The Bath That Fizzes Back"
 slug: travel-carbonated-spring
 wp_date: 2025-12-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The surprise is tactile before it is theoretical. You lower yourself i
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Carbonated Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Carbonated Spring"
+open_graph_title: "Carbonated Spring: The Bath That Fizzes Back"
 open_graph_description: "A comprehensive guide to Carbonated Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Carbonated Spring"
+twitter_title: "Carbonated Spring: The Bath That Fizzes Back"
 twitter_description: "A comprehensive guide to Carbonated Spring in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Temple Architecture"
+title: "Temple Architecture: How Buddhism Becomes a Built System"
 slug: understand-japan-temple-architecture
 wp_date: 2026-02-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Temple Architecture（寺院建築） is best understood as that arran
 
 genesis_title: ""
 genesis_description: "Learn about Temple Architecture in Japan. The architecture is not waiting at the end of the approach; it begins by arranging how you arrive."
-open_graph_title: "Temple Architecture"
+open_graph_title: "Temple Architecture: How Buddhism Becomes a Built System"
 open_graph_description: "Learn about Temple Architecture in Japan. The architecture is not waiting at the end of the approach; it begins by arranging how you arrive."
-twitter_title: "Temple Architecture"
+twitter_title: "Temple Architecture: How Buddhism Becomes a Built System"
 twitter_description: "Learn about Temple Architecture in Japan. The architecture is not waiting at the end of the approach; it begins by arranging how you arrive."
 genesis_noindex: 0
 genesis_nofollow: 0

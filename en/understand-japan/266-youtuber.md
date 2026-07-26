@@ -1,5 +1,5 @@
 ---
-title: "YouTuber"
+title: "YouTuber: Japan’s New Celebrity as a Small Business"
 slug: understand-japan-youtuber
 wp_date: 2026-06-10 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A Japanese YouTuber（ユーチューバー） does not begin with a s
 
 genesis_title: ""
 genesis_description: "Learn about YouTuber in Japan. In Japan, “YouTuber” is not a neutral label for someone who uploads videos. A Japanese YouTuber（"
-open_graph_title: "YouTuber"
+open_graph_title: "YouTuber: Japan’s New Celebrity as a Small Business"
 open_graph_description: "Learn about YouTuber in Japan. In Japan, “YouTuber” is not a neutral label for someone who uploads videos. A Japanese YouTuber（"
-twitter_title: "YouTuber"
+twitter_title: "YouTuber: Japan’s New Celebrity as a Small Business"
 twitter_description: "Learn about YouTuber in Japan. In Japan, “YouTuber” is not a neutral label for someone who uploads videos. A Japanese YouTuber（"
 genesis_noindex: 0
 genesis_nofollow: 0

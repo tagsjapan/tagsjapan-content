@@ -1,5 +1,5 @@
 ---
-title: "Manga Café"
+title: "Manga Café: The Deep-Night Refuge Between Last Train and Morning"
 slug: travel-manga-cafe
 wp_date: 2025-04-01 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The most revealing time to enter a Japanese is a little after midnight
 
 genesis_title: ""
 genesis_description: "Your guide to Manga Café in Japan. Someone has missed the last train. Someone else is waiting for the first one. This is why in Japan should"
-open_graph_title: "Manga Café"
+open_graph_title: "Manga Café: The Deep-Night Refuge Between Last Train and Morning"
 open_graph_description: "Your guide to Manga Café in Japan. Someone has missed the last train. Someone else is waiting for the first one. This is why in Japan should"
-twitter_title: "Manga Café"
+twitter_title: "Manga Café: The Deep-Night Refuge Between Last Train and Morning"
 twitter_description: "Your guide to Manga Café in Japan. Someone has missed the last train. Someone else is waiting for the first one. This is why in Japan should"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Public Safety Notice"
+title: "Public Safety Notice: Learning to Read the Country's Warnings"
 slug: travel-public-safety-notice
 wp_date: 2026-03-25 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, one of the most practical travel skills has nothing to do wi
 
 genesis_title: ""
 genesis_description: "In Japan, one of the most practical travel skills has nothing to do with language, etiquette, or train maps. It is learning how to respond when the country s..."
-open_graph_title: "Public Safety Notice"
+open_graph_title: "Public Safety Notice: Learning to Read the Country's Warnings"
 open_graph_description: "In Japan, one of the most practical travel skills has nothing to do with language, etiquette, or train maps. It is learning how to respond when the country s..."
-twitter_title: "Public Safety Notice"
+twitter_title: "Public Safety Notice: Learning to Read the Country's Warnings"
 twitter_description: "In Japan, one of the most practical travel skills has nothing to do with language, etiquette, or train maps. It is learning how to respond when the country s..."
 genesis_noindex: 0
 genesis_nofollow: 0

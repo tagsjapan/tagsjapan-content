@@ -1,5 +1,5 @@
 ---
-title: "Recycling Factory Tour"
+title: "Recycling Factory Tour: Visiting the Clean City’s Back Room"
 slug: travel-recycling-factory-tour
 wp_date: 2026-05-12 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Many travelers notice Japan’s cleanliness by noticing what isn’t t
 
 genesis_title: ""
 genesis_description: "Many travelers notice Japan’s cleanliness by noticing what isn’t there. Fewer public trash bins than you expected. Streets that stay neat even after festivals."
-open_graph_title: "Recycling Factory Tour"
+open_graph_title: "Recycling Factory Tour: Visiting the Clean City’s Back Room"
 open_graph_description: "Many travelers notice Japan’s cleanliness by noticing what isn’t there. Fewer public trash bins than you expected. Streets that stay neat even after festivals."
-twitter_title: "Recycling Factory Tour"
+twitter_title: "Recycling Factory Tour: Visiting the Clean City’s Back Room"
 twitter_description: "Many travelers notice Japan’s cleanliness by noticing what isn’t there. Fewer public trash bins than you expected. Streets that stay neat even after festivals."
 genesis_noindex: 0
 genesis_nofollow: 0

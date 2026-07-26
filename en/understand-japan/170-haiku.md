@@ -1,5 +1,5 @@
 ---
-title: "Haiku"
+title: "Haiku: The Discipline of Saying Less and Letting It Echo"
 slug: understand-japan-haiku
 wp_date: 2025-12-06 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "A haiku can be small enough to fit on a classroom blackboard corner, a
 
 genesis_title: ""
 genesis_description: "Learn about Haiku in Japan. The surprise is how much social and aesthetic machinery has been built around making shortness meaningful."
-open_graph_title: "Haiku"
+open_graph_title: "Haiku: The Discipline of Saying Less and Letting It Echo"
 open_graph_description: "Learn about Haiku in Japan. The surprise is how much social and aesthetic machinery has been built around making shortness meaningful."
-twitter_title: "Haiku"
+twitter_title: "Haiku: The Discipline of Saying Less and Letting It Echo"
 twitter_description: "Learn about Haiku in Japan. The surprise is how much social and aesthetic machinery has been built around making shortness meaningful."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Public Value"
+title: "Public Value: What Japan Decides Is Worth Keeping"
 slug: understand-japan-public-value
 wp_date: 2026-08-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "When a rural bus route is cut, the loss is not only transportation. It
 
 genesis_title: ""
 genesis_description: "Learn about Public Value in Japan. When a rural bus route is cut, the loss is not only transportation. It is the quiet end"
-open_graph_title: "Public Value"
+open_graph_title: "Public Value: What Japan Decides Is Worth Keeping"
 open_graph_description: "Learn about Public Value in Japan. When a rural bus route is cut, the loss is not only transportation. It is the quiet end"
-twitter_title: "Public Value"
+twitter_title: "Public Value: What Japan Decides Is Worth Keeping"
 twitter_description: "Learn about Public Value in Japan. When a rural bus route is cut, the loss is not only transportation. It is the quiet end"
 genesis_noindex: 0
 genesis_nofollow: 0

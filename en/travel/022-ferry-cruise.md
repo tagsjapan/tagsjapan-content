@@ -1,5 +1,5 @@
 ---
-title: "Ferry Cruise"
+title: "Ferry Cruise: The Slow Arrival"
 slug: travel-ferry-cruise
 wp_date: 2025-02-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The useful thing about a Japanese ferry is that it reminds you, before
 
 genesis_title: ""
 genesis_description: "Complete guide to Ferry Cruise in Japan. There is no quick plunge underground, no platform melody, no sealed carriage sliding shut."
-open_graph_title: "Ferry Cruise"
+open_graph_title: "Ferry Cruise: The Slow Arrival"
 open_graph_description: "Complete guide to Ferry Cruise in Japan. There is no quick plunge underground, no platform melody, no sealed carriage sliding shut."
-twitter_title: "Ferry Cruise"
+twitter_title: "Ferry Cruise: The Slow Arrival"
 twitter_description: "Complete guide to Ferry Cruise in Japan. There is no quick plunge underground, no platform melody, no sealed carriage sliding shut."
 genesis_noindex: 0
 genesis_nofollow: 0

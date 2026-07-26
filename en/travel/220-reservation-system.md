@@ -1,5 +1,5 @@
 ---
-title: "Reservation System"
+title: "Reservation System: Why Spontaneity Has Limits"
 slug: travel-reservation-system
 wp_date: 2026-03-15 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The line outside a popular attraction in Japan can be misleading. It m
 
 genesis_title: ""
 genesis_description: "The line outside a popular attraction in Japan can be misleading. It may look long or short, orderly or casual, but the more important question is whether th..."
-open_graph_title: "Reservation System"
+open_graph_title: "Reservation System: Why Spontaneity Has Limits"
 open_graph_description: "The line outside a popular attraction in Japan can be misleading. It may look long or short, orderly or casual, but the more important question is whether th..."
-twitter_title: "Reservation System"
+twitter_title: "Reservation System: Why Spontaneity Has Limits"
 twitter_description: "The line outside a popular attraction in Japan can be misleading. It may look long or short, orderly or casual, but the more important question is whether th..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Cooking Class"
+title: "Cooking Class: Learning Japan One Knife Stroke at a Time"
 slug: travel-cooking-class
 wp_date: 2025-06-26 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The teacher corrects your grip with the light touch of someone who has
 
 genesis_title: ""
 genesis_description: "Guide to Cooking Class in Japan. The teacher corrects your grip with the light touch of someone who has done this a thousand times."
-open_graph_title: "Cooking Class"
+open_graph_title: "Cooking Class: Learning Japan One Knife Stroke at a Time"
 open_graph_description: "Guide to Cooking Class in Japan. The teacher corrects your grip with the light touch of someone who has done this a thousand times."
-twitter_title: "Cooking Class"
+twitter_title: "Cooking Class: Learning Japan One Knife Stroke at a Time"
 twitter_description: "Guide to Cooking Class in Japan. The teacher corrects your grip with the light touch of someone who has done this a thousand times."
 genesis_noindex: 0
 genesis_nofollow: 0

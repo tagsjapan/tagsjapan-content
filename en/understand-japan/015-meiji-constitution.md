@@ -1,5 +1,5 @@
 ---
-title: "Meiji Constitution"
+title: "Meiji Constitution: Modern Form, Imperial Core"
 slug: understand-japan-meiji-constitution
 wp_date: 2025-01-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "When the Meiji Constitution was promulgated in 1889, Japan could final
 
 genesis_title: ""
 genesis_description: "When the Meiji Constitution was promulgated in 1889, Japan could finally present itself to the world as a state with the proper furniture of modern governmen..."
-open_graph_title: "Meiji Constitution"
+open_graph_title: "Meiji Constitution: Modern Form, Imperial Core"
 open_graph_description: "When the Meiji Constitution was promulgated in 1889, Japan could finally present itself to the world as a state with the proper furniture of modern governmen..."
-twitter_title: "Meiji Constitution"
+twitter_title: "Meiji Constitution: Modern Form, Imperial Core"
 twitter_description: "When the Meiji Constitution was promulgated in 1889, Japan could finally present itself to the world as a state with the proper furniture of modern governmen..."
 genesis_noindex: 0
 genesis_nofollow: 0

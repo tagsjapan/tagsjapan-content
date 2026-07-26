@@ -1,5 +1,5 @@
 ---
-title: "Public Art"
+title: "Public Art: When Japan Puts Art in the Street and Asks It to Work"
 slug: understand-japan-public-art
 wp_date: 2026-07-20 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In the morning rush, nobody stops for the artwork. Commuters funnel th
 
 genesis_title: ""
 genesis_description: "Learn about Public Art in Japan. The key question is not only where the work sits, but what it does: whether it changes how people move, notice, remember,..."
-open_graph_title: "Public Art"
+open_graph_title: "Public Art: When Japan Puts Art in the Street and Asks It to Work"
 open_graph_description: "Learn about Public Art in Japan. The key question is not only where the work sits, but what it does: whether it changes how people move, notice, remember,..."
-twitter_title: "Public Art"
+twitter_title: "Public Art: When Japan Puts Art in the Street and Asks It to Work"
 twitter_description: "Learn about Public Art in Japan. The key question is not only where the work sits, but what it does: whether it changes how people move, notice, remember,..."
 genesis_noindex: 0
 genesis_nofollow: 0

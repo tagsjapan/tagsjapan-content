@@ -1,5 +1,5 @@
 ---
-title: "Japanese Yen"
+title: "Japanese Yen: The Currency That Carries More Than Prices"
 slug: understand-japan-japanese-yen
 wp_date: 2025-03-16 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On July 3, 2024, Japan began issuing a new series of banknotes. For mo
 
 genesis_title: ""
 genesis_description: "On July 3, 2024, Japan began issuing a new series of banknotes. For most people the first noticeable fact was visual: new portraits, cleaner design, stronger..."
-open_graph_title: "Japanese Yen"
+open_graph_title: "Japanese Yen: The Currency That Carries More Than Prices"
 open_graph_description: "On July 3, 2024, Japan began issuing a new series of banknotes. For most people the first noticeable fact was visual: new portraits, cleaner design, stronger..."
-twitter_title: "Japanese Yen"
+twitter_title: "Japanese Yen: The Currency That Carries More Than Prices"
 twitter_description: "On July 3, 2024, Japan began issuing a new series of banknotes. For most people the first noticeable fact was visual: new portraits, cleaner design, stronger..."
 genesis_noindex: 0
 genesis_nofollow: 0

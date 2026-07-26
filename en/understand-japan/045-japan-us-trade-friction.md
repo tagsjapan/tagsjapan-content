@@ -1,5 +1,5 @@
 ---
-title: "Japan-US Trade Friction"
+title: "Japan-US Trade Friction: When Export Success Turned Into Negotiation"
 slug: understand-japan-japan-us-trade-friction
 wp_date: 2025-03-31 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At an American port in the early 1980s, the arriving Japanese cars loo
 
 genesis_title: ""
 genesis_description: "At an American port in the early 1980s, the arriving Japanese cars looked like a triumph of manufacturing discipline. They were also, politically, a problem."
-open_graph_title: "Japan-US Trade Friction"
+open_graph_title: "Japan-US Trade Friction: When Export Success Turned Into Negotiation"
 open_graph_description: "At an American port in the early 1980s, the arriving Japanese cars looked like a triumph of manufacturing discipline. They were also, politically, a problem."
-twitter_title: "Japan-US Trade Friction"
+twitter_title: "Japan-US Trade Friction: When Export Success Turned Into Negotiation"
 twitter_description: "At an American port in the early 1980s, the arriving Japanese cars looked like a triumph of manufacturing discipline. They were also, politically, a problem."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Sendai Tanabata Festival"
+title: "Sendai Tanabata Festival: A City Built Out of Paper and Patience"
 slug: travel-sendai-tanabata-festival
 wp_date: 2025-08-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In the middle of Sendai’s shopping arcades in early August, you find
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Sendai Tanabata Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Sendai Tanabata Festival"
+open_graph_title: "Sendai Tanabata Festival: A City Built Out of Paper and Patience"
 open_graph_description: "A comprehensive guide to Sendai Tanabata Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Sendai Tanabata Festival"
+twitter_title: "Sendai Tanabata Festival: A City Built Out of Paper and Patience"
 twitter_description: "A comprehensive guide to Sendai Tanabata Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

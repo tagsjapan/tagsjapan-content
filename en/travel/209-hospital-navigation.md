@@ -1,5 +1,5 @@
 ---
-title: "Hospital Navigation"
+title: "Hospital Navigation: Finding the Right Medical Door in Japan Before Panic Takes Over"
 slug: travel-hospital-navigation
 wp_date: 2026-02-21 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Illness on the road always begins in confusion before it becomes a pro
 
 genesis_title: ""
 genesis_description: "Illness on the road always begins in confusion before it becomes a procedure. A traveler wakes in a hotel room with a high fever, or twists an ankle on a sta..."
-open_graph_title: "Hospital Navigation"
+open_graph_title: "Hospital Navigation: Finding the Right Medical Door in Japan Before Panic Takes Over"
 open_graph_description: "Illness on the road always begins in confusion before it becomes a procedure. A traveler wakes in a hotel room with a high fever, or twists an ankle on a sta..."
-twitter_title: "Hospital Navigation"
+twitter_title: "Hospital Navigation: Finding the Right Medical Door in Japan Before Panic Takes Over"
 twitter_description: "Illness on the road always begins in confusion before it becomes a procedure. A traveler wakes in a hotel room with a high fever, or twists an ankle on a sta..."
 genesis_noindex: 0
 genesis_nofollow: 0

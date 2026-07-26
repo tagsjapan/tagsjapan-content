@@ -1,5 +1,5 @@
 ---
-title: "Day-use Onsen"
+title: "Day-use Onsen: The Bath You Can Fit Into a Journey"
 slug: travel-day-use-onsen
 wp_date: 2025-12-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You do not always need to spend the night to feel that you have entere
 
 genesis_title: ""
 genesis_description: "Guide to Day-use Onsen in Japan. You do not always need to spend the night to feel that you have entered a Japanese hot-spring town properly."
-open_graph_title: "Day-use Onsen"
+open_graph_title: "Day-use Onsen: The Bath You Can Fit Into a Journey"
 open_graph_description: "Guide to Day-use Onsen in Japan. You do not always need to spend the night to feel that you have entered a Japanese hot-spring town properly."
-twitter_title: "Day-use Onsen"
+twitter_title: "Day-use Onsen: The Bath You Can Fit Into a Journey"
 twitter_description: "Guide to Day-use Onsen in Japan. You do not always need to spend the night to feel that you have entered a Japanese hot-spring town properly."
 genesis_noindex: 0
 genesis_nofollow: 0

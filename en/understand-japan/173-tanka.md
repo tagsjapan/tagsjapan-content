@@ -1,5 +1,5 @@
 ---
-title: "Tanka"
+title: "Tanka: The 31-Sound Form That Keeps Updating Itself"
 slug: understand-japan-tanka
 wp_date: 2025-12-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a tradition-minded corner of modern Tokyo, poems still arrive as su
 
 genesis_title: ""
 genesis_description: "Learn about Tanka in Japan. It is one of Japan’s oldest literary containers and, at the same time, one of its most stubbornly renewable ones."
-open_graph_title: "Tanka"
+open_graph_title: "Tanka: The 31-Sound Form That Keeps Updating Itself"
 open_graph_description: "Learn about Tanka in Japan. It is one of Japan’s oldest literary containers and, at the same time, one of its most stubbornly renewable ones."
-twitter_title: "Tanka"
+twitter_title: "Tanka: The 31-Sound Form That Keeps Updating Itself"
 twitter_description: "Learn about Tanka in Japan. It is one of Japan’s oldest literary containers and, at the same time, one of its most stubbornly renewable ones."
 genesis_noindex: 0
 genesis_nofollow: 0

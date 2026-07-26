@@ -1,5 +1,5 @@
 ---
-title: "Urban Garden"
+title: "Urban Garden: The Surprise of Farmland in the Middle of Tokyo"
 slug: travel-urban-garden
 wp_date: 2026-04-27 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan’s big cities, the most disorienting green is not always a p
 
 genesis_title: ""
 genesis_description: "In Japan’s big cities, the most disorienting green is not always a park. Sometimes it is a rectangle of real cultivation—rows of vegetables behind a low fenc..."
-open_graph_title: "Urban Garden"
+open_graph_title: "Urban Garden: The Surprise of Farmland in the Middle of Tokyo"
 open_graph_description: "In Japan’s big cities, the most disorienting green is not always a park. Sometimes it is a rectangle of real cultivation—rows of vegetables behind a low fenc..."
-twitter_title: "Urban Garden"
+twitter_title: "Urban Garden: The Surprise of Farmland in the Middle of Tokyo"
 twitter_description: "In Japan’s big cities, the most disorienting green is not always a park. Sometimes it is a rectangle of real cultivation—rows of vegetables behind a low fenc..."
 genesis_noindex: 0
 genesis_nofollow: 0

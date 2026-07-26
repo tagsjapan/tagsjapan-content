@@ -1,5 +1,5 @@
 ---
-title: "Outlet Mall"
+title: "Outlet Mall: The Day Trip Japan Built for Shopping"
 slug: travel-outlet-mall
 wp_date: 2026-01-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The bus pulls away from the station with the quiet inevitability of a 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Outlet Mall in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Outlet Mall"
+open_graph_title: "Outlet Mall: The Day Trip Japan Built for Shopping"
 open_graph_description: "A comprehensive guide to Outlet Mall in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Outlet Mall"
+twitter_title: "Outlet Mall: The Day Trip Japan Built for Shopping"
 twitter_description: "A comprehensive guide to Outlet Mall in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

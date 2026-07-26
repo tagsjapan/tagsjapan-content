@@ -1,5 +1,5 @@
 ---
-title: "Manga"
+title: "Manga: Serialized Storytelling as Industrial Infrastructure"
 slug: understand-japan-manga
 wp_date: 2025-12-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Manga is easiest to misunderstand when you treat it as a look. Big eye
 
 genesis_title: ""
 genesis_description: "Learn about Manga in Japan. Manga is a mass medium built on panel grammar, serialization, and a pipeline from magazine to tankobon to franchise."
-open_graph_title: "Manga"
+open_graph_title: "Manga: Serialized Storytelling as Industrial Infrastructure"
 open_graph_description: "Learn about Manga in Japan. Manga is a mass medium built on panel grammar, serialization, and a pipeline from magazine to tankobon to franchise."
-twitter_title: "Manga"
+twitter_title: "Manga: Serialized Storytelling as Industrial Infrastructure"
 twitter_description: "Learn about Manga in Japan. Manga is a mass medium built on panel grammar, serialization, and a pipeline from magazine to tankobon to franchise."
 genesis_noindex: 0
 genesis_nofollow: 0

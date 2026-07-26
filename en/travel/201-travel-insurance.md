@@ -1,5 +1,5 @@
 ---
-title: "Travel Insurance"
+title: "Travel Insurance: The Quiet Part of a Japan Trip That Matters Most on the Wrong Day"
 slug: travel-travel-insurance
 wp_date: 2026-02-06 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Travel insurance seldom feels real while the trip is going well. It is
 
 genesis_title: ""
 genesis_description: "Travel insurance seldom feels real while the trip is going well. It is a policy number in a confirmation email, a PDF no one wants to read, a small line item..."
-open_graph_title: "Travel Insurance"
+open_graph_title: "Travel Insurance: The Quiet Part of a Japan Trip That Matters Most on the Wrong Day"
 open_graph_description: "Travel insurance seldom feels real while the trip is going well. It is a policy number in a confirmation email, a PDF no one wants to read, a small line item..."
-twitter_title: "Travel Insurance"
+twitter_title: "Travel Insurance: The Quiet Part of a Japan Trip That Matters Most on the Wrong Day"
 twitter_description: "Travel insurance seldom feels real while the trip is going well. It is a policy number in a confirmation email, a PDF no one wants to read, a small line item..."
 genesis_noindex: 0
 genesis_nofollow: 0

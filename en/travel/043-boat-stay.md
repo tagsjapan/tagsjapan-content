@@ -1,5 +1,5 @@
 ---
-title: "Boat Stay"
+title: "Boat Stay: Sleeping on the Water Instead of Merely Looking at It"
 slug: travel-boat-stay
 wp_date: 2025-03-26 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The small unease is part of the appeal. A traveler steps onto a moored
 
 genesis_title: ""
 genesis_description: "Your guide to Boat Stay in Japan. The small unease is part of the appeal. Even tied securely to a quay, a changes the body's sense of orientation. In"
-open_graph_title: "Boat Stay"
+open_graph_title: "Boat Stay: Sleeping on the Water Instead of Merely Looking at It"
 open_graph_description: "Your guide to Boat Stay in Japan. The small unease is part of the appeal. Even tied securely to a quay, a changes the body's sense of orientation. In"
-twitter_title: "Boat Stay"
+twitter_title: "Boat Stay: Sleeping on the Water Instead of Merely Looking at It"
 twitter_description: "Your guide to Boat Stay in Japan. The small unease is part of the appeal. Even tied securely to a quay, a changes the body's sense of orientation. In"
 genesis_noindex: 0
 genesis_nofollow: 0

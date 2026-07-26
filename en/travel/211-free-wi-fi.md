@@ -1,5 +1,5 @@
 ---
-title: "Free Wi-Fi"
+title: "Free Wi-Fi: The Helpful Signal That Should Never Be Your Only Plan"
 slug: travel-free-wi-fi
 wp_date: 2026-02-25 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The first need usually arrives before the luggage does. You land, swit
 
 genesis_title: ""
 genesis_description: "The first need usually arrives before the luggage does. You land, switch off airplane mode, and look for a way to tell someone you have arrived, pull up the ..."
-open_graph_title: "Free Wi-Fi"
+open_graph_title: "Free Wi-Fi: The Helpful Signal That Should Never Be Your Only Plan"
 open_graph_description: "The first need usually arrives before the luggage does. You land, switch off airplane mode, and look for a way to tell someone you have arrived, pull up the ..."
-twitter_title: "Free Wi-Fi"
+twitter_title: "Free Wi-Fi: The Helpful Signal That Should Never Be Your Only Plan"
 twitter_description: "The first need usually arrives before the luggage does. You land, switch off airplane mode, and look for a way to tell someone you have arrived, pull up the ..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Emperor System"
+title: "Emperor System: The Weight of a Throne Without Power"
 slug: understand-japan-emperor-system
 wp_date: 2025-01-07 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Watch a modern imperial ceremony in Japan and the first impression is 
 
 genesis_title: ""
 genesis_description: "Watch a modern imperial ceremony in Japan and the first impression is usually restraint. The emperor appears, the room stands, the formal words are spoken, t..."
-open_graph_title: "Emperor System"
+open_graph_title: "Emperor System: The Weight of a Throne Without Power"
 open_graph_description: "Watch a modern imperial ceremony in Japan and the first impression is usually restraint. The emperor appears, the room stands, the formal words are spoken, t..."
-twitter_title: "Emperor System"
+twitter_title: "Emperor System: The Weight of a Throne Without Power"
 twitter_description: "Watch a modern imperial ceremony in Japan and the first impression is usually restraint. The emperor appears, the room stands, the formal words are spoken, t..."
 genesis_noindex: 0
 genesis_nofollow: 0

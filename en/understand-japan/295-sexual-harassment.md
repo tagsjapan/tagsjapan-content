@@ -1,5 +1,5 @@
 ---
-title: "Sexual Harassment"
+title: "Sexual Harassment: When Power Pretends to Be Small Talk"
 slug: understand-japan-sexual-harassment
 wp_date: 2026-07-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a Japanese office, the anti-harassment message often arrives as a l
 
 genesis_title: ""
 genesis_description: "Learn about Sexual Harassment in Japan. Japan’s everyday word for sexual harassment is sekuhara (セクハラ), and its usefulness is that it names something..."
-open_graph_title: "Sexual Harassment"
+open_graph_title: "Sexual Harassment: When Power Pretends to Be Small Talk"
 open_graph_description: "Learn about Sexual Harassment in Japan. Japan’s everyday word for sexual harassment is sekuhara (セクハラ), and its usefulness is that it names something..."
-twitter_title: "Sexual Harassment"
+twitter_title: "Sexual Harassment: When Power Pretends to Be Small Talk"
 twitter_description: "Learn about Sexual Harassment in Japan. Japan’s everyday word for sexual harassment is sekuhara (セクハラ), and its usefulness is that it names something..."
 genesis_noindex: 0
 genesis_nofollow: 0

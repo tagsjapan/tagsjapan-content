@@ -1,5 +1,5 @@
 ---
-title: "Plastic-free Attraction"
+title: "Plastic-free Attraction: The Trip That Starts with a Bottle"
 slug: travel-plastic-free-attraction
 wp_date: 2026-05-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The moment usually arrives in a very ordinary place: a vending machine
 
 genesis_title: ""
 genesis_description: "The moment usually arrives in a very ordinary place: a vending machine on a hot day, a convenience store counter at the end of a long walk, the bright plasti..."
-open_graph_title: "Plastic-free Attraction"
+open_graph_title: "Plastic-free Attraction: The Trip That Starts with a Bottle"
 open_graph_description: "The moment usually arrives in a very ordinary place: a vending machine on a hot day, a convenience store counter at the end of a long walk, the bright plasti..."
-twitter_title: "Plastic-free Attraction"
+twitter_title: "Plastic-free Attraction: The Trip That Starts with a Bottle"
 twitter_description: "The moment usually arrives in a very ordinary place: a vending machine on a hot day, a convenience store counter at the end of a long walk, the bright plasti..."
 genesis_noindex: 0
 genesis_nofollow: 0

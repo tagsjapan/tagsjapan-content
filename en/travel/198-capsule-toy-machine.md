@@ -1,5 +1,5 @@
 ---
-title: "Capsule Toy Machine"
+title: "Capsule Toy Machine: A Pocket-Sized Gamble at the Station"
 slug: travel-capsule-toy-machine
 wp_date: 2026-01-30 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "You hear it before you see it: the plastic click of a capsule dropping
 
 genesis_title: ""
 genesis_description: "You hear it before you see it: the plastic click of a capsule dropping, the soft rattle of coins, the small sigh someone makes when they don’t get the one th..."
-open_graph_title: "Capsule Toy Machine"
+open_graph_title: "Capsule Toy Machine: A Pocket-Sized Gamble at the Station"
 open_graph_description: "You hear it before you see it: the plastic click of a capsule dropping, the soft rattle of coins, the small sigh someone makes when they don’t get the one th..."
-twitter_title: "Capsule Toy Machine"
+twitter_title: "Capsule Toy Machine: A Pocket-Sized Gamble at the Station"
 twitter_description: "You hear it before you see it: the plastic click of a capsule dropping, the soft rattle of coins, the small sigh someone makes when they don’t get the one th..."
 genesis_noindex: 0
 genesis_nofollow: 0

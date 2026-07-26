@@ -1,5 +1,5 @@
 ---
-title: "Urban Greening"
+title: "Urban Greening: Turning Green into a City Function"
 slug: understand-japan-urban-greening
 wp_date: 2026-03-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Urban Greening（都市綠化） in Japan is the attempt to make that 
 
 genesis_title: ""
 genesis_description: "Learn about Urban Greening in Japan. When heavy rain comes, the question is no longer only “where will the water go,” but “what surfaces will slow it..."
-open_graph_title: "Urban Greening"
+open_graph_title: "Urban Greening: Turning Green into a City Function"
 open_graph_description: "Learn about Urban Greening in Japan. When heavy rain comes, the question is no longer only “where will the water go,” but “what surfaces will slow it..."
-twitter_title: "Urban Greening"
+twitter_title: "Urban Greening: Turning Green into a City Function"
 twitter_description: "Learn about Urban Greening in Japan. When heavy rain comes, the question is no longer only “where will the water go,” but “what surfaces will slow it..."
 genesis_noindex: 0
 genesis_nofollow: 0

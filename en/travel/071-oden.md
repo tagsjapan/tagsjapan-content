@@ -1,5 +1,5 @@
 ---
-title: "Oden"
+title: "Oden: The Winter Pot You Keep Finding"
 slug: travel-oden
 wp_date: 2025-05-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The steam is the first invitation. It rises from a metal case at a con
 
 genesis_title: ""
 genesis_description: "Guide to Oden in Japan. The steam is the first invitation. Outside it’s cold and you’re not sure you want a full meal, but you want warmth."
-open_graph_title: "Oden"
+open_graph_title: "Oden: The Winter Pot You Keep Finding"
 open_graph_description: "Guide to Oden in Japan. The steam is the first invitation. Outside it’s cold and you’re not sure you want a full meal, but you want warmth."
-twitter_title: "Oden"
+twitter_title: "Oden: The Winter Pot You Keep Finding"
 twitter_description: "Guide to Oden in Japan. The steam is the first invitation. Outside it’s cold and you’re not sure you want a full meal, but you want warmth."
 genesis_noindex: 0
 genesis_nofollow: 0

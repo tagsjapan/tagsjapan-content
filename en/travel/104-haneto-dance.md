@@ -1,5 +1,5 @@
 ---
-title: "Haneto Dance"
+title: "Haneto Dance: Joining the Parade Instead of Watching It"
 slug: travel-haneto-dance
 wp_date: 2025-07-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At night in Aomori, the streets become a moving lantern. Giant illumin
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Haneto Dance in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Haneto Dance"
+open_graph_title: "Haneto Dance: Joining the Parade Instead of Watching It"
 open_graph_description: "A comprehensive guide to Haneto Dance in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Haneto Dance"
+twitter_title: "Haneto Dance: Joining the Parade Instead of Watching It"
 twitter_description: "A comprehensive guide to Haneto Dance in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

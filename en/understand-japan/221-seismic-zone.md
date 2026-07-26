@@ -1,5 +1,5 @@
 ---
-title: "Seismic Zone"
+title: "Seismic Zone: Building Normal Life on Moving Ground"
 slug: understand-japan-seismic-zone
 wp_date: 2026-03-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Seismic Zone（地震帶） in Japan is not an abstract geological lab
 
 genesis_title: ""
 genesis_description: "Learn about Earthquakes in Japan. Japan's seismic zone shapes building codes, the Shindo intensity scale, and a nationwide culture of earthquake preparedness."
-open_graph_title: "Seismic Zone"
+open_graph_title: "Seismic Zone: Building Normal Life on Moving Ground"
 open_graph_description: "Learn about Earthquakes in Japan. Japan's seismic zone shapes building codes, the Shindo intensity scale, and a nationwide culture of earthquake preparedness."
-twitter_title: "Seismic Zone"
+twitter_title: "Seismic Zone: Building Normal Life on Moving Ground"
 twitter_description: "Learn about Earthquakes in Japan. Japan's seismic zone shapes building codes, the Shindo intensity scale, and a nationwide culture of earthquake preparedness."
 genesis_noindex: 0
 genesis_nofollow: 0

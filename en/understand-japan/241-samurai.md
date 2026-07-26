@@ -1,5 +1,5 @@
 ---
-title: "Samurai"
+title: "Samurai: A Warrior Class That Became Japan’s Moral Logo"
 slug: understand-japan-samurai
 wp_date: 2026-04-26 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Samurai（侍） refers to members of Japan’s warrior class—also c
 
 genesis_title: ""
 genesis_description: "Learn about Samurai in Japan. A common modern confusion is to treat “samurai” as synonymous with endless battle. In a museum gallery,"
-open_graph_title: "Samurai"
+open_graph_title: "Samurai: A Warrior Class That Became Japan’s Moral Logo"
 open_graph_description: "Learn about Samurai in Japan. A common modern confusion is to treat “samurai” as synonymous with endless battle. In a museum gallery,"
-twitter_title: "Samurai"
+twitter_title: "Samurai: A Warrior Class That Became Japan’s Moral Logo"
 twitter_description: "Learn about Samurai in Japan. A common modern confusion is to treat “samurai” as synonymous with endless battle. In a museum gallery,"
 genesis_noindex: 0
 genesis_nofollow: 0

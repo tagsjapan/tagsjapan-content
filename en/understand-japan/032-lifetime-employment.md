@@ -1,5 +1,5 @@
 ---
-title: "Lifetime Employment"
+title: "Lifetime Employment: The Promise That Was Really About Staying Put"
 slug: understand-japan-lifetime-employment
 wp_date: 2025-03-04 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Every spring in Japan, new recruits in dark suits gather for entrance 
 
 genesis_title: ""
 genesis_description: "Every spring in Japan, new recruits in dark suits gather for entrance ceremonies, bow in rows, and listen to speeches about effort, growth, and beginning tog..."
-open_graph_title: "Lifetime Employment"
+open_graph_title: "Lifetime Employment: The Promise That Was Really About Staying Put"
 open_graph_description: "Every spring in Japan, new recruits in dark suits gather for entrance ceremonies, bow in rows, and listen to speeches about effort, growth, and beginning tog..."
-twitter_title: "Lifetime Employment"
+twitter_title: "Lifetime Employment: The Promise That Was Really About Staying Put"
 twitter_description: "Every spring in Japan, new recruits in dark suits gather for entrance ceremonies, bow in rows, and listen to speeches about effort, growth, and beginning tog..."
 genesis_noindex: 0
 genesis_nofollow: 0

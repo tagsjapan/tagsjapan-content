@@ -1,5 +1,5 @@
 ---
-title: "Community Economy"
+title: "Community Economy: Japan’s Business of Relationships"
 slug: understand-japan-community-economy
 wp_date: 2026-06-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Community Economy（コミュニティ経済） is a slippery term in 
 
 genesis_title: ""
 genesis_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
-open_graph_title: "Community Economy"
+open_graph_title: "Community Economy: Japan’s Business of Relationships"
 open_graph_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
-twitter_title: "Community Economy"
+twitter_title: "Community Economy: Japan’s Business of Relationships"
 twitter_description: "Learn about Community Economy in Japan. Community Economy（コミュニティ経済） is a slippery term in Japan, and the slipperiness is the point."
 genesis_noindex: 0
 genesis_nofollow: 0

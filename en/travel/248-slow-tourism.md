@@ -1,5 +1,5 @@
 ---
-title: "Slow Tourism"
+title: "Slow Tourism: Staying Put in a Country Built for Movement"
 slug: travel-slow-tourism
 wp_date: 2026-05-10 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Japan tempts you with motion. A departures board at a big station make
 
 genesis_title: ""
 genesis_description: "Japan tempts you with motion. A departures board at a big station makes it look irresponsible not to keep going: a train to Kanazawa in the next hour, anothe..."
-open_graph_title: "Slow Tourism"
+open_graph_title: "Slow Tourism: Staying Put in a Country Built for Movement"
 open_graph_description: "Japan tempts you with motion. A departures board at a big station makes it look irresponsible not to keep going: a train to Kanazawa in the next hour, anothe..."
-twitter_title: "Slow Tourism"
+twitter_title: "Slow Tourism: Staying Put in a Country Built for Movement"
 twitter_description: "Japan tempts you with motion. A departures board at a big station makes it look irresponsible not to keep going: a train to Kanazawa in the next hour, anothe..."
 genesis_noindex: 0
 genesis_nofollow: 0

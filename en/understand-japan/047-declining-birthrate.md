@@ -1,5 +1,5 @@
 ---
-title: "Declining Birthrate"
+title: "Declining Birthrate: The Demographic Problem That Starts Before the Cradle"
 slug: understand-japan-declining-birthrate
 wp_date: 2025-04-04 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many parts of Japan, the first visible sign of the birthrate proble
 
 genesis_title: ""
 genesis_description: "In many parts of Japan, the first visible sign of the birthrate problem is not a newborn at all. It is an empty classroom, a merged school district, a playgr..."
-open_graph_title: "Declining Birthrate"
+open_graph_title: "Declining Birthrate: The Demographic Problem That Starts Before the Cradle"
 open_graph_description: "In many parts of Japan, the first visible sign of the birthrate problem is not a newborn at all. It is an empty classroom, a merged school district, a playgr..."
-twitter_title: "Declining Birthrate"
+twitter_title: "Declining Birthrate: The Demographic Problem That Starts Before the Cradle"
 twitter_description: "In many parts of Japan, the first visible sign of the birthrate problem is not a newborn at all. It is an empty classroom, a merged school district, a playgr..."
 genesis_noindex: 0
 genesis_nofollow: 0

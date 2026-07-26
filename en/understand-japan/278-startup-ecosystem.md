@@ -1,5 +1,5 @@
 ---
-title: "Startup Ecosystem"
+title: "Startup Ecosystem: Japan Tries to Manufacture Risk"
 slug: understand-japan-startup-ecosystem
 wp_date: 2026-06-22 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a weekday evening in Tokyo, you can watch the new Japanese startup 
 
 genesis_title: ""
 genesis_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
-open_graph_title: "Startup Ecosystem"
+open_graph_title: "Startup Ecosystem: Japan Tries to Manufacture Risk"
 open_graph_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
-twitter_title: "Startup Ecosystem"
+twitter_title: "Startup Ecosystem: Japan Tries to Manufacture Risk"
 twitter_description: "Learn about Startup Ecosystem in Japan. That is what people mean, in Japan, when they talk about a Startup Ecosystem（スタートアップ生態系）."
 genesis_noindex: 0
 genesis_nofollow: 0

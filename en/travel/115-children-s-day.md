@@ -1,5 +1,5 @@
 ---
-title: "Children's Day"
+title: "Children's Day: The Bright Flag That Marks Early May"
 slug: travel-childrens-day
 wp_date: 2025-08-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In early May, Japan starts hanging the sky with color. You’ll see it
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Children's Day in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Children's Day"
+open_graph_title: "Children's Day: The Bright Flag That Marks Early May"
 open_graph_description: "A comprehensive guide to Children's Day in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Children's Day"
+twitter_title: "Children's Day: The Bright Flag That Marks Early May"
 twitter_description: "A comprehensive guide to Children's Day in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

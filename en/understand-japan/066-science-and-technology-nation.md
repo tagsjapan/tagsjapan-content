@@ -1,5 +1,5 @@
 ---
-title: "Science and Technology Nation"
+title: "Science and Technology Nation: Planning the Future in Five-Year Blocks"
 slug: understand-japan-science-and-technology-nation
 wp_date: 2025-05-12 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The scene is rarely cinematic. A committee room in Kasumigaseki, a thi
 
 genesis_title: ""
 genesis_description: "The scene is rarely cinematic. A committee room in Kasumigaseki, a thick policy volume from the Cabinet Office, a chart showing research fields in need of in..."
-open_graph_title: "Science and Technology Nation"
+open_graph_title: "Science and Technology Nation: Planning the Future in Five-Year Blocks"
 open_graph_description: "The scene is rarely cinematic. A committee room in Kasumigaseki, a thick policy volume from the Cabinet Office, a chart showing research fields in need of in..."
-twitter_title: "Science and Technology Nation"
+twitter_title: "Science and Technology Nation: Planning the Future in Five-Year Blocks"
 twitter_description: "The scene is rarely cinematic. A committee room in Kasumigaseki, a thick policy volume from the Cabinet Office, a chart showing research fields in need of in..."
 genesis_noindex: 0
 genesis_nofollow: 0

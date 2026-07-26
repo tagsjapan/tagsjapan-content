@@ -1,5 +1,5 @@
 ---
-title: "Communal Grave"
+title: "Communal Grave: When the “Family Grave” Becomes Public Infrastructure"
 slug: understand-japan-communal-grave
 wp_date: 2026-04-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Communal Grave（合葬墓） is Japan’s institutional answer to tha
 
 genesis_title: ""
 genesis_description: "Learn about Communal Grave in Japan. Communal Grave（合葬墓） is Japan’s institutional answer to that mismatch. In a municipal cemet"
-open_graph_title: "Communal Grave"
+open_graph_title: "Communal Grave: When the “Family Grave” Becomes Public Infrastructure"
 open_graph_description: "Learn about Communal Grave in Japan. Communal Grave（合葬墓） is Japan’s institutional answer to that mismatch. In a municipal cemet"
-twitter_title: "Communal Grave"
+twitter_title: "Communal Grave: When the “Family Grave” Becomes Public Infrastructure"
 twitter_description: "Learn about Communal Grave in Japan. Communal Grave（合葬墓） is Japan’s institutional answer to that mismatch. In a municipal cemet"
 genesis_noindex: 0
 genesis_nofollow: 0

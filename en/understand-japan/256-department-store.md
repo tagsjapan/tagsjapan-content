@@ -1,5 +1,5 @@
 ---
-title: "Department Store"
+title: "Department Store: Japan’s Machine for Taste, Gifts, and City Life"
 slug: understand-japan-department-store
 wp_date: 2026-05-26 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Walk into a Japanese department store basement in the late afternoon a
 
 genesis_title: ""
 genesis_description: "Learn about Department Store in Japan. This world has its own name, depachika（デパ地下）, and it is one reason the Japanese department store（百貨店） has remained..."
-open_graph_title: "Department Store"
+open_graph_title: "Department Store: Japan’s Machine for Taste, Gifts, and City Life"
 open_graph_description: "Learn about Department Store in Japan. This world has its own name, depachika（デパ地下）, and it is one reason the Japanese department store（百貨店） has remained..."
-twitter_title: "Department Store"
+twitter_title: "Department Store: Japan’s Machine for Taste, Gifts, and City Life"
 twitter_description: "Learn about Department Store in Japan. This world has its own name, depachika（デパ地下）, and it is one reason the Japanese department store（百貨店） has remained..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "New Year Customs"
+title: "New Year Customs: Resetting Time, Resetting the Household"
 slug: understand-japan-new-year-customs
 wp_date: 2026-01-23 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Japan’s New Year is quiet in a way that feels engineered. Streets em
 
 genesis_title: ""
 genesis_description: "Learn about New Year Customs in Japan. Oshogatsu is a seasonal system of domestic rituals, special foods, shrine visits, and cleansing fires marking renewal."
-open_graph_title: "New Year Customs"
+open_graph_title: "New Year Customs: Resetting Time, Resetting the Household"
 open_graph_description: "Learn about New Year Customs in Japan. Oshogatsu is a seasonal system of domestic rituals, special foods, shrine visits, and cleansing fires marking renewal."
-twitter_title: "New Year Customs"
+twitter_title: "New Year Customs: Resetting Time, Resetting the Household"
 twitter_description: "Learn about New Year Customs in Japan. Oshogatsu is a seasonal system of domestic rituals, special foods, shrine visits, and cleansing fires marking renewal."
 genesis_noindex: 0
 genesis_nofollow: 0

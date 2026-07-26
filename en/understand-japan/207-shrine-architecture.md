@@ -1,5 +1,5 @@
 ---
-title: "Shrine Architecture"
+title: "Shrine Architecture: Making Distance Visible"
 slug: understand-japan-shrine-architecture
 wp_date: 2026-02-18 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Shrine Architecture（神社建築） is not a single hall. It is an a
 
 genesis_title: ""
 genesis_description: "Learn about Shrine Architecture in Japan. Shrine architecture uses torii, precincts, and layered halls to shape approach and regulate proximity to the sacred."
-open_graph_title: "Shrine Architecture"
+open_graph_title: "Shrine Architecture: Making Distance Visible"
 open_graph_description: "Learn about Shrine Architecture in Japan. Shrine architecture uses torii, precincts, and layered halls to shape approach and regulate proximity to the sacred."
-twitter_title: "Shrine Architecture"
+twitter_title: "Shrine Architecture: Making Distance Visible"
 twitter_description: "Learn about Shrine Architecture in Japan. Shrine architecture uses torii, precincts, and layered halls to shape approach and regulate proximity to the sacred."
 genesis_noindex: 0
 genesis_nofollow: 0

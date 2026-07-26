@@ -1,5 +1,5 @@
 ---
-title: "Machiya Stay"
+title: "Machiya Stay: Sleeping Inside the Shape of an Old Street"
 slug: travel-machiya-stay
 wp_date: 2025-04-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The front door is usually narrower than expected. Beyond it the house 
 
 genesis_title: ""
 genesis_description: "Your guide to Machiya Stay in Japan. The front door is usually narrower than expected. A machiya stay begins with that spatial surprise."
-open_graph_title: "Machiya Stay"
+open_graph_title: "Machiya Stay: Sleeping Inside the Shape of an Old Street"
 open_graph_description: "Your guide to Machiya Stay in Japan. The front door is usually narrower than expected. A machiya stay begins with that spatial surprise."
-twitter_title: "Machiya Stay"
+twitter_title: "Machiya Stay: Sleeping Inside the Shape of an Old Street"
 twitter_description: "Your guide to Machiya Stay in Japan. The front door is usually narrower than expected. A machiya stay begins with that spatial surprise."
 genesis_noindex: 0
 genesis_nofollow: 0

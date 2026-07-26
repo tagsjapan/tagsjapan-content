@@ -1,5 +1,5 @@
 ---
-title: "Minority Groups"
+title: "Minority Groups: The Difference Japan Learned to Name, and the Difference It Still Struggles to Face"
 slug: understand-japan-minority-groups
 wp_date: 2025-06-15 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The story of Japan as a culturally uniform nation begins to wobble the
 
 genesis_title: ""
 genesis_description: "The story of Japan as a culturally uniform nation begins to wobble the moment an official government page describes the Ainu as an Indigenous people."
-open_graph_title: "Minority Groups"
+open_graph_title: "Minority Groups: The Difference Japan Learned to Name, and the Difference It Still Struggles to Face"
 open_graph_description: "The story of Japan as a culturally uniform nation begins to wobble the moment an official government page describes the Ainu as an Indigenous people."
-twitter_title: "Minority Groups"
+twitter_title: "Minority Groups: The Difference Japan Learned to Name, and the Difference It Still Struggles to Face"
 twitter_description: "The story of Japan as a culturally uniform nation begins to wobble the moment an official government page describes the Ainu as an Indigenous people."
 genesis_noindex: 0
 genesis_nofollow: 0

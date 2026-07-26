@@ -1,5 +1,5 @@
 ---
-title: "Street Food Stall"
+title: "Street Food Stall: Fukuoka’s Night, Served Shoulder to Shoulder"
 slug: travel-street-food-stall
 wp_date: 2025-06-12 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Around dusk in Tenjin, the city’s edges start to soften. Office ligh
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Street Food Stall in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Street Food Stall"
+open_graph_title: "Street Food Stall: Fukuoka’s Night, Served Shoulder to Shoulder"
 open_graph_description: "A comprehensive guide to Street Food Stall in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Street Food Stall"
+twitter_title: "Street Food Stall: Fukuoka’s Night, Served Shoulder to Shoulder"
 twitter_description: "A comprehensive guide to Street Food Stall in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

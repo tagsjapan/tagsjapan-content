@@ -1,5 +1,5 @@
 ---
-title: "Ukiyo-e"
+title: "Ukiyo-e: Edo Japan’s Pop Culture, Printed into Art History"
 slug: understand-japan-ukiyo-e
 wp_date: 2026-02-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A ukiyo-e image can look instantly “classic” today: a wave frozen 
 
 genesis_title: ""
 genesis_description: "Learn about Ukiyo-e in Japan. The surprise is that many of these images began life as something closer to mass media than to museum treasure."
-open_graph_title: "Ukiyo-e"
+open_graph_title: "Ukiyo-e: Edo Japan’s Pop Culture, Printed into Art History"
 open_graph_description: "Learn about Ukiyo-e in Japan. The surprise is that many of these images began life as something closer to mass media than to museum treasure."
-twitter_title: "Ukiyo-e"
+twitter_title: "Ukiyo-e: Edo Japan’s Pop Culture, Printed into Art History"
 twitter_description: "Learn about Ukiyo-e in Japan. The surprise is that many of these images began life as something closer to mass media than to museum treasure."
 genesis_noindex: 0
 genesis_nofollow: 0

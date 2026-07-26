@@ -1,5 +1,5 @@
 ---
-title: "Confucianism"
+title: "Confucianism: The Moral Language Behind Japanese Order"
 slug: understand-japan-confucianism
 wp_date: 2025-01-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Japan no longer presents itself as a Confucian country, and very few p
 
 genesis_title: ""
 genesis_description: "Japan no longer presents itself as a Confucian country, and very few people in contemporary life would say they consciously follow Confucian doctrine."
-open_graph_title: "Confucianism"
+open_graph_title: "Confucianism: The Moral Language Behind Japanese Order"
 open_graph_description: "Japan no longer presents itself as a Confucian country, and very few people in contemporary life would say they consciously follow Confucian doctrine."
-twitter_title: "Confucianism"
+twitter_title: "Confucianism: The Moral Language Behind Japanese Order"
 twitter_description: "Japan no longer presents itself as a Confucian country, and very few people in contemporary life would say they consciously follow Confucian doctrine."
 genesis_noindex: 0
 genesis_nofollow: 0

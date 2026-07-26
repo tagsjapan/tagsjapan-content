@@ -1,5 +1,5 @@
 ---
-title: "Global City"
+title: "Global City: Tokyo as Japan’s Switchboard"
 slug: understand-japan-global-city
 wp_date: 2026-07-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Stand in Marunouchi in the early morning and you can feel what “glob
 
 genesis_title: ""
 genesis_description: "Learn about Global City in Japan. Stand in Marunouchi in the early morning and you can feel what “global” looks like when it is made concrete."
-open_graph_title: "Global City"
+open_graph_title: "Global City: Tokyo as Japan’s Switchboard"
 open_graph_description: "Learn about Global City in Japan. Stand in Marunouchi in the early morning and you can feel what “global” looks like when it is made concrete."
-twitter_title: "Global City"
+twitter_title: "Global City: Tokyo as Japan’s Switchboard"
 twitter_description: "Learn about Global City in Japan. Stand in Marunouchi in the early morning and you can feel what “global” looks like when it is made concrete."
 genesis_noindex: 0
 genesis_nofollow: 0

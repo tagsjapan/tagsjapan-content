@@ -1,5 +1,5 @@
 ---
-title: "Tourism Hotline"
+title: "Tourism Hotline: The Number You Need Before You Need It"
 slug: travel-tourism-hotline
 wp_date: 2026-03-20 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The most useful travel number in Japan is often the one a visitor forg
 
 genesis_title: ""
 genesis_description: "The most useful travel number in Japan is often the one a visitor forgets to save. Nothing dramatic has to happen for that oversight to matter."
-open_graph_title: "Tourism Hotline"
+open_graph_title: "Tourism Hotline: The Number You Need Before You Need It"
 open_graph_description: "The most useful travel number in Japan is often the one a visitor forgets to save. Nothing dramatic has to happen for that oversight to matter."
-twitter_title: "Tourism Hotline"
+twitter_title: "Tourism Hotline: The Number You Need Before You Need It"
 twitter_description: "The most useful travel number in Japan is often the one a visitor forgets to save. Nothing dramatic has to happen for that oversight to matter."
 genesis_noindex: 0
 genesis_nofollow: 0

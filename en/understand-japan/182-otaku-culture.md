@@ -1,5 +1,5 @@
 ---
-title: "Otaku Culture"
+title: "Otaku Culture: From Stigma to City Branding"
 slug: understand-japan-otaku-culture
 wp_date: 2025-12-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a small apartment room, the floor space is negotiated: a tower of b
 
 genesis_title: ""
 genesis_description: "Learn about Otaku Culture in Japan. The point is not clutter but devotion—time turned into categories. In a small apartment"
-open_graph_title: "Otaku Culture"
+open_graph_title: "Otaku Culture: From Stigma to City Branding"
 open_graph_description: "Learn about Otaku Culture in Japan. The point is not clutter but devotion—time turned into categories. In a small apartment"
-twitter_title: "Otaku Culture"
+twitter_title: "Otaku Culture: From Stigma to City Branding"
 twitter_description: "Learn about Otaku Culture in Japan. The point is not clutter but devotion—time turned into categories. In a small apartment"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Foot Bath"
+title: "Foot Bath: The Gentle Way a Hot-Spring Town Takes Hold of You"
 slug: travel-foot-bath
 wp_date: 2025-11-23 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "By the time a traveler notices a in Japan, the day has usually already
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Foot Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Foot Bath"
+open_graph_title: "Foot Bath: The Gentle Way a Hot-Spring Town Takes Hold of You"
 open_graph_description: "A comprehensive guide to Foot Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Foot Bath"
+twitter_title: "Foot Bath: The Gentle Way a Hot-Spring Town Takes Hold of You"
 twitter_description: "A comprehensive guide to Foot Bath in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

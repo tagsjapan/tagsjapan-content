@@ -1,5 +1,5 @@
 ---
-title: "Social Security System"
+title: "Social Security System: The Quiet Architecture of Japanese Safety"
 slug: understand-japan-social-security-system
 wp_date: 2025-04-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The card comes out almost automatically. At a clinic reception desk, a
 
 genesis_title: ""
 genesis_description: "The card comes out almost automatically. At a clinic reception desk, a patient slides over a health insurance card; at a pharmacy, a clerk checks the record;..."
-open_graph_title: "Social Security System"
+open_graph_title: "Social Security System: The Quiet Architecture of Japanese Safety"
 open_graph_description: "The card comes out almost automatically. At a clinic reception desk, a patient slides over a health insurance card; at a pharmacy, a clerk checks the record;..."
-twitter_title: "Social Security System"
+twitter_title: "Social Security System: The Quiet Architecture of Japanese Safety"
 twitter_description: "The card comes out almost automatically. At a clinic reception desk, a patient slides over a health insurance card; at a pharmacy, a clerk checks the record;..."
 genesis_noindex: 0
 genesis_nofollow: 0

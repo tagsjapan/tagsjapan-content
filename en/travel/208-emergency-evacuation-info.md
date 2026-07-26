@@ -1,5 +1,5 @@
 ---
-title: "Emergency Evacuation Info"
+title: "Emergency Evacuation Info: Knowing Which Warning To Obey"
 slug: travel-emergency-evacuation-info
 wp_date: 2026-02-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The most important travel skill in Japan is sometimes the least glamor
 
 genesis_title: ""
 genesis_description: "The most important travel skill in Japan is sometimes the least glamorous one: leaving quickly when a place stops being safe."
-open_graph_title: "Emergency Evacuation Info"
+open_graph_title: "Emergency Evacuation Info: Knowing Which Warning To Obey"
 open_graph_description: "The most important travel skill in Japan is sometimes the least glamorous one: leaving quickly when a place stops being safe."
-twitter_title: "Emergency Evacuation Info"
+twitter_title: "Emergency Evacuation Info: Knowing Which Warning To Obey"
 twitter_description: "The most important travel skill in Japan is sometimes the least glamorous one: leaving quickly when a place stops being safe."
 genesis_noindex: 0
 genesis_nofollow: 0

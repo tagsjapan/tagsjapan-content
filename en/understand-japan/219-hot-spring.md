@@ -1,5 +1,5 @@
 ---
-title: "Hot Spring"
+title: "Hot Spring: A Resource Turned into a Social Routine"
 slug: understand-japan-hot-spring
 wp_date: 2026-03-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Hot Spring（溫泉） in Japan is not simply hot water emerging from 
 
 genesis_title: ""
 genesis_description: "Learn about Hot Spring in Japan. In an onsen changing room, everyday life is briefly re-sorted. Shoes are left at the boundary."
-open_graph_title: "Hot Spring"
+open_graph_title: "Hot Spring: A Resource Turned into a Social Routine"
 open_graph_description: "Learn about Hot Spring in Japan. In an onsen changing room, everyday life is briefly re-sorted. Shoes are left at the boundary."
-twitter_title: "Hot Spring"
+twitter_title: "Hot Spring: A Resource Turned into a Social Routine"
 twitter_description: "Learn about Hot Spring in Japan. In an onsen changing room, everyday life is briefly re-sorted. Shoes are left at the boundary."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Farm Stay"
+title: "Farm Stay: Borrowing the Country's Time"
 slug: travel-farm-stay
 wp_date: 2025-03-13 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In the city, dinner begins with a reservation or a line. In a Japanese
 
 genesis_title: ""
 genesis_description: "Your guide to Farm Stay in Japan. In the city, dinner begins with a reservation or a line. The kitchen smells different."
-open_graph_title: "Farm Stay"
+open_graph_title: "Farm Stay: Borrowing the Country's Time"
 open_graph_description: "Your guide to Farm Stay in Japan. In the city, dinner begins with a reservation or a line. The kitchen smells different."
-twitter_title: "Farm Stay"
+twitter_title: "Farm Stay: Borrowing the Country's Time"
 twitter_description: "Your guide to Farm Stay in Japan. In the city, dinner begins with a reservation or a line. The kitchen smells different."
 genesis_noindex: 0
 genesis_nofollow: 0

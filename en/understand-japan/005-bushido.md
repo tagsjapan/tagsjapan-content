@@ -1,5 +1,5 @@
 ---
-title: "Bushidō"
+title: "Bushido: The Warrior Code That Refused to Stay in the Past"
 slug: understand-japan-bushidō
 wp_status: draft
 wp_blog_id: 1
@@ -19,9 +19,9 @@ excerpt: "Few Japanese words have traveled as well as Bushido. Outside Japan it 
 
 genesis_title: ""
 genesis_description: "Few Japanese words have traveled as well as Bushido. Outside Japan it often arrives already polished: honor, discipline, loyalty, courage, self-control, a co..."
-open_graph_title: "Bushidō"
+open_graph_title: "Bushido: The Warrior Code That Refused to Stay in the Past"
 open_graph_description: "Few Japanese words have traveled as well as Bushido. Outside Japan it often arrives already polished: honor, discipline, loyalty, courage, self-control, a co..."
-twitter_title: "Bushidō"
+twitter_title: "Bushido: The Warrior Code That Refused to Stay in the Past"
 twitter_description: "Few Japanese words have traveled as well as Bushido. Outside Japan it often arrives already polished: honor, discipline, loyalty, courage, self-control, a co..."
 genesis_noindex: 0
 genesis_nofollow: 0

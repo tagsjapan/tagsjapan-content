@@ -1,5 +1,5 @@
 ---
-title: "New Poverty"
+title: "New Poverty: When Work No Longer Guarantees a Stable Life"
 slug: understand-japan-new-poverty
 wp_date: 2025-06-19 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The face of poverty in contemporary Japan is not always the one older 
 
 genesis_title: ""
 genesis_description: "The face of poverty in contemporary Japan is not always the one older social policy once expected. It may belong to a person who still goes to work, still pa..."
-open_graph_title: "New Poverty"
+open_graph_title: "New Poverty: When Work No Longer Guarantees a Stable Life"
 open_graph_description: "The face of poverty in contemporary Japan is not always the one older social policy once expected. It may belong to a person who still goes to work, still pa..."
-twitter_title: "New Poverty"
+twitter_title: "New Poverty: When Work No Longer Guarantees a Stable Life"
 twitter_description: "The face of poverty in contemporary Japan is not always the one older social policy once expected. It may belong to a person who still goes to work, still pa..."
 genesis_noindex: 0
 genesis_nofollow: 0

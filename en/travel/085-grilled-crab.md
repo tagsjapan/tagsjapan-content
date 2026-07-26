@@ -1,5 +1,5 @@
 ---
-title: "Grilled Crab"
+title: "Grilled Crab: The Sweet Smoke That Pulls You Toward the Sea of Japan"
 slug: travel-grilled-crab
 wp_date: 2025-06-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The room is warm enough to make your glasses fog, but the heat on the 
 
 genesis_title: ""
 genesis_description: "Guide to Grilled Crab in Japan. Outside the ryokan window the coast is all winter grays—low waves, low clouds, maybe snow in the air. This is"
-open_graph_title: "Grilled Crab"
+open_graph_title: "Grilled Crab: The Sweet Smoke That Pulls You Toward the Sea of Japan"
 open_graph_description: "Guide to Grilled Crab in Japan. Outside the ryokan window the coast is all winter grays—low waves, low clouds, maybe snow in the air. This is"
-twitter_title: "Grilled Crab"
+twitter_title: "Grilled Crab: The Sweet Smoke That Pulls You Toward the Sea of Japan"
 twitter_description: "Guide to Grilled Crab in Japan. Outside the ryokan window the coast is all winter grays—low waves, low clouds, maybe snow in the air. This is"
 genesis_noindex: 0
 genesis_nofollow: 0

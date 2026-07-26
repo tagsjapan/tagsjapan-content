@@ -1,5 +1,5 @@
 ---
-title: "Mixed Bathing Onsen"
+title: "Mixed Bathing Onsen: A Historic Bathing Form That Modern Travelers Need to Read Carefully"
 slug: travel-mixed-bathing-onsen
 wp_date: 2025-11-25 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Few Japanese travel subjects attract more projection than a . The phra
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Mixed Bathing Onsen in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Mixed Bathing Onsen"
+open_graph_title: "Mixed Bathing Onsen: A Historic Bathing Form That Modern Travelers Need to Read Carefully"
 open_graph_description: "A comprehensive guide to Mixed Bathing Onsen in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Mixed Bathing Onsen"
+twitter_title: "Mixed Bathing Onsen: A Historic Bathing Form That Modern Travelers Need to Read Carefully"
 twitter_description: "A comprehensive guide to Mixed Bathing Onsen in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

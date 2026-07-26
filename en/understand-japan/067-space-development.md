@@ -1,5 +1,5 @@
 ---
-title: "Space Development"
+title: "Space Development: Japan's Quiet Contest for Orbit"
 slug: understand-japan-space-development
 wp_date: 2025-05-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Before dawn at Tanegashima, the launch pad is all floodlight and patie
 
 genesis_title: ""
 genesis_description: "Before dawn at Tanegashima, the launch pad is all floodlight and patience. Engineers watch weather, fuel, and timing with a concentration that looks almost m..."
-open_graph_title: "Space Development"
+open_graph_title: "Space Development: Japan's Quiet Contest for Orbit"
 open_graph_description: "Before dawn at Tanegashima, the launch pad is all floodlight and patience. Engineers watch weather, fuel, and timing with a concentration that looks almost m..."
-twitter_title: "Space Development"
+twitter_title: "Space Development: Japan's Quiet Contest for Orbit"
 twitter_description: "Before dawn at Tanegashima, the launch pad is all floodlight and patience. Engineers watch weather, fuel, and timing with a concentration that looks almost m..."
 genesis_noindex: 0
 genesis_nofollow: 0

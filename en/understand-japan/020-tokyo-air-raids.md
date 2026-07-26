@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Air Raids"
+title: "Tokyo Air Raids: The Night the Capital Burned"
 slug: understand-japan-tokyo-air-raids
 wp_date: 2025-02-09 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "By dawn on March 10, 1945, whole sections of Tokyo had become a field 
 
 genesis_title: ""
 genesis_description: "By dawn on March 10, 1945, whole sections of Tokyo had become a field of cinders. Families who had gone to sleep in wooden houses found themselves running th..."
-open_graph_title: "Tokyo Air Raids"
+open_graph_title: "Tokyo Air Raids: The Night the Capital Burned"
 open_graph_description: "By dawn on March 10, 1945, whole sections of Tokyo had become a field of cinders. Families who had gone to sleep in wooden houses found themselves running th..."
-twitter_title: "Tokyo Air Raids"
+twitter_title: "Tokyo Air Raids: The Night the Capital Burned"
 twitter_description: "By dawn on March 10, 1945, whole sections of Tokyo had become a field of cinders. Families who had gone to sleep in wooden houses found themselves running th..."
 genesis_noindex: 0
 genesis_nofollow: 0

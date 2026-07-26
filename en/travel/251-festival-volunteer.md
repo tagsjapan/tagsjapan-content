@@ -1,5 +1,5 @@
 ---
-title: "Festival Volunteer"
+title: "Festival Volunteer: The Backstage Work That Keeps Matsuri Alive"
 slug: travel-festival-volunteer
 wp_date: 2026-05-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "At a big Japanese festival, the most revealing view is often the one y
 
 genesis_title: ""
 genesis_description: "At a big Japanese festival, the most revealing view is often the one you notice only when you’re tired. It’s the taped-off corridor behind the crowd where so..."
-open_graph_title: "Festival Volunteer"
+open_graph_title: "Festival Volunteer: The Backstage Work That Keeps Matsuri Alive"
 open_graph_description: "At a big Japanese festival, the most revealing view is often the one you notice only when you’re tired. It’s the taped-off corridor behind the crowd where so..."
-twitter_title: "Festival Volunteer"
+twitter_title: "Festival Volunteer: The Backstage Work That Keeps Matsuri Alive"
 twitter_description: "At a big Japanese festival, the most revealing view is often the one you notice only when you’re tired. It’s the taped-off corridor behind the crowd where so..."
 genesis_noindex: 0
 genesis_nofollow: 0

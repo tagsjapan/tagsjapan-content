@@ -1,5 +1,5 @@
 ---
-title: "Three Major Metropolitan Areas"
+title: "Three Major Metropolitan Areas: Where Japan’s Daily Life Crosses Borders"
 slug: understand-japan-three-major-metropolitan-areas
 wp_date: 2025-07-27 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A commuter steps onto a train before sunrise, taps through the gate, a
 
 genesis_title: ""
 genesis_description: "A commuter steps onto a train before sunrise, taps through the gate, and settles into a ride that will pass through more than one jurisdiction before the off..."
-open_graph_title: "Three Major Metropolitan Areas"
+open_graph_title: "Three Major Metropolitan Areas: Where Japan’s Daily Life Crosses Borders"
 open_graph_description: "A commuter steps onto a train before sunrise, taps through the gate, and settles into a ride that will pass through more than one jurisdiction before the off..."
-twitter_title: "Three Major Metropolitan Areas"
+twitter_title: "Three Major Metropolitan Areas: Where Japan’s Daily Life Crosses Borders"
 twitter_description: "A commuter steps onto a train before sunrise, taps through the gate, and settles into a ride that will pass through more than one jurisdiction before the off..."
 genesis_noindex: 0
 genesis_nofollow: 0

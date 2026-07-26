@@ -1,5 +1,5 @@
 ---
-title: "Cherry Blossom Viewing"
+title: "Cherry Blossom Viewing: How Japan Turns Spring into a Shared Event"
 slug: understand-japan-cherry-blossom-viewing
 wp_date: 2026-01-31 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Cherry Blossom Viewing（花見） is a reasonable English gloss, and 
 
 genesis_title: ""
 genesis_description: "Learn about Cherry Blossom Viewing in Japan. It is a seasonal practice that binds aesthetic feeling to group life—friends, families, clubs, and workplaces..."
-open_graph_title: "Cherry Blossom Viewing"
+open_graph_title: "Cherry Blossom Viewing: How Japan Turns Spring into a Shared Event"
 open_graph_description: "Learn about Cherry Blossom Viewing in Japan. It is a seasonal practice that binds aesthetic feeling to group life—friends, families, clubs, and workplaces..."
-twitter_title: "Cherry Blossom Viewing"
+twitter_title: "Cherry Blossom Viewing: How Japan Turns Spring into a Shared Event"
 twitter_description: "Learn about Cherry Blossom Viewing in Japan. It is a seasonal practice that binds aesthetic feeling to group life—friends, families, clubs, and workplaces..."
 genesis_noindex: 0
 genesis_nofollow: 0

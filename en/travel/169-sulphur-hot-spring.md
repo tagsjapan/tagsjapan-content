@@ -1,5 +1,5 @@
 ---
-title: "Sulphur Hot Spring"
+title: "Sulphur Hot Spring: The Smell That Announces the Town"
 slug: travel-sulphur-hot-spring
 wp_date: 2025-12-04 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Before you see the bath, you notice the air. It reaches you on the str
 
 genesis_title: ""
 genesis_description: "Guide to Sulphur Hot Spring in Japan. Before you see the bath, you notice the air. A in Japan rarely arrives as a private, delicate discovery."
-open_graph_title: "Sulphur Hot Spring"
+open_graph_title: "Sulphur Hot Spring: The Smell That Announces the Town"
 open_graph_description: "Guide to Sulphur Hot Spring in Japan. Before you see the bath, you notice the air. A in Japan rarely arrives as a private, delicate discovery."
-twitter_title: "Sulphur Hot Spring"
+twitter_title: "Sulphur Hot Spring: The Smell That Announces the Town"
 twitter_description: "Guide to Sulphur Hot Spring in Japan. Before you see the bath, you notice the air. A in Japan rarely arrives as a private, delicate discovery."
 genesis_noindex: 0
 genesis_nofollow: 0

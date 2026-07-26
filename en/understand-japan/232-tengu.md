@@ -1,5 +1,5 @@
 ---
-title: "Tengu"
+title: "Tengu: The Mountain's Face"
 slug: understand-japan-tengu
 wp_date: 2026-04-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On a mountain approach in Japan, the boundary between temple and fores
 
 genesis_title: ""
 genesis_description: "Learn about Tengu in Japan. On a mountain approach in Japan, the boundary between temple and forest is often marked by a face."
-open_graph_title: "Tengu"
+open_graph_title: "Tengu: The Mountain's Face"
 open_graph_description: "Learn about Tengu in Japan. On a mountain approach in Japan, the boundary between temple and forest is often marked by a face."
-twitter_title: "Tengu"
+twitter_title: "Tengu: The Mountain's Face"
 twitter_description: "Learn about Tengu in Japan. On a mountain approach in Japan, the boundary between temple and forest is often marked by a face."
 genesis_noindex: 0
 genesis_nofollow: 0

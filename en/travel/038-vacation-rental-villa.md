@@ -1,5 +1,5 @@
 ---
-title: "Vacation Rental Villa"
+title: "Vacation Rental Villa: When a Trip Starts to Behave Like a Stay"
 slug: travel-vacation-rental-villa
 wp_date: 2025-03-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The key to a Japanese vacation villa is often on a keypad, not at a fr
 
 genesis_title: ""
 genesis_description: "Your guide to Vacation Rental Villa in Japan. The key to a Japanese vacation villa is often on a keypad, not at a front desk."
-open_graph_title: "Vacation Rental Villa"
+open_graph_title: "Vacation Rental Villa: When a Trip Starts to Behave Like a Stay"
 open_graph_description: "Your guide to Vacation Rental Villa in Japan. The key to a Japanese vacation villa is often on a keypad, not at a front desk."
-twitter_title: "Vacation Rental Villa"
+twitter_title: "Vacation Rental Villa: When a Trip Starts to Behave Like a Stay"
 twitter_description: "Your guide to Vacation Rental Villa in Japan. The key to a Japanese vacation villa is often on a keypad, not at a front desk."
 genesis_noindex: 0
 genesis_nofollow: 0

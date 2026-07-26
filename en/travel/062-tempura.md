@@ -1,5 +1,5 @@
 ---
-title: "Tempura"
+title: "Tempura: Fried Food That Still Tastes Like the Season"
 slug: travel-tempura
 wp_date: 2025-05-04 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first thing you notice at a good tempura (天ぷら / 天婦羅) c
 
 genesis_title: ""
 genesis_description: "Everything you need to know about Tempura in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-open_graph_title: "Tempura"
+open_graph_title: "Tempura: Fried Food That Still Tastes Like the Season"
 open_graph_description: "Everything you need to know about Tempura in Japan. Travel tips, cultural insights, and practical guidance for visitors."
-twitter_title: "Tempura"
+twitter_title: "Tempura: Fried Food That Still Tastes Like the Season"
 twitter_description: "Everything you need to know about Tempura in Japan. Travel tips, cultural insights, and practical guidance for visitors."
 genesis_noindex: 0
 genesis_nofollow: 0

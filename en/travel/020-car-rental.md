@@ -1,5 +1,5 @@
 ---
-title: "Car Rental"
+title: "Car Rental: The Moment Japan Stops Being a Train Diagram"
 slug: travel-car-rental
 wp_date: 2025-02-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The logic of renting a car in Japan usually begins where the rails thi
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Car Rental in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Car Rental"
+open_graph_title: "Car Rental: The Moment Japan Stops Being a Train Diagram"
 open_graph_description: "A comprehensive guide to Car Rental in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Car Rental"
+twitter_title: "Car Rental: The Moment Japan Stops Being a Train Diagram"
 twitter_description: "A comprehensive guide to Car Rental in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

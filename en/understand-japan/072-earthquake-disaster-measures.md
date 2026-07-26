@@ -1,5 +1,5 @@
 ---
-title: "Earthquake Disaster Measures"
+title: "Earthquake Disaster Measures: How Japan Turns Shock into Routine"
 slug: understand-japan-earthquake-disaster-measures
 wp_date: 2025-05-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The warning often arrives before the shaking feels real. A phone screa
 
 genesis_title: ""
 genesis_description: "The warning often arrives before the shaking feels real. A phone screams. A station announcement cuts in. Trains slow or stop."
-open_graph_title: "Earthquake Disaster Measures"
+open_graph_title: "Earthquake Disaster Measures: How Japan Turns Shock into Routine"
 open_graph_description: "The warning often arrives before the shaking feels real. A phone screams. A station announcement cuts in. Trains slow or stop."
-twitter_title: "Earthquake Disaster Measures"
+twitter_title: "Earthquake Disaster Measures: How Japan Turns Shock into Routine"
 twitter_description: "The warning often arrives before the shaking feels real. A phone screams. A station announcement cuts in. Trains slow or stop."
 genesis_noindex: 0
 genesis_nofollow: 0

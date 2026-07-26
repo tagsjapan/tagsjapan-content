@@ -1,5 +1,5 @@
 ---
-title: "Shichi-Go-San"
+title: "Shichi-Go-San: Childhood Milestones on Shrine Steps"
 slug: travel-shichi-go-san
 wp_date: 2025-08-16 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In November the shrine becomes a photo studio without admitting it. Ch
 
 genesis_title: ""
 genesis_description: "Experience Shichi-Go-San in Japan. In November the shrine becomes a photo studio without admitting it. is one of those Japane"
-open_graph_title: "Shichi-Go-San"
+open_graph_title: "Shichi-Go-San: Childhood Milestones on Shrine Steps"
 open_graph_description: "Experience Shichi-Go-San in Japan. In November the shrine becomes a photo studio without admitting it. is one of those Japane"
-twitter_title: "Shichi-Go-San"
+twitter_title: "Shichi-Go-San: Childhood Milestones on Shrine Steps"
 twitter_description: "Experience Shichi-Go-San in Japan. In November the shrine becomes a photo studio without admitting it. is one of those Japane"
 genesis_noindex: 0
 genesis_nofollow: 0

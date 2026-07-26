@@ -1,5 +1,5 @@
 ---
-title: "Snow Festival"
+title: "Snow Festival: When Japan Turns Cold into a Public Event"
 slug: travel-snow-festival
 wp_date: 2025-08-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In the middle of the city, the snow is taller than the buildings. Floo
 
 genesis_title: ""
 genesis_description: "Experience Snow Festival in Japan. In the middle of the city, the snow is taller than the buildings. A in Japan doesn’t try"
-open_graph_title: "Snow Festival"
+open_graph_title: "Snow Festival: When Japan Turns Cold into a Public Event"
 open_graph_description: "Experience Snow Festival in Japan. In the middle of the city, the snow is taller than the buildings. A in Japan doesn’t try"
-twitter_title: "Snow Festival"
+twitter_title: "Snow Festival: When Japan Turns Cold into a Public Event"
 twitter_description: "Experience Snow Festival in Japan. In the middle of the city, the snow is taller than the buildings. A in Japan doesn’t try"
 genesis_noindex: 0
 genesis_nofollow: 0

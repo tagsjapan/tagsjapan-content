@@ -1,5 +1,5 @@
 ---
-title: "Multicultural Coexistence"
+title: "Multicultural Coexistence: How Japan Turned Diversity into Local Governance"
 slug: understand-japan-multicultural-coexistence
 wp_date: 2025-06-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The idea often becomes visible at a city hall counter. A resident asks
 
 genesis_title: ""
 genesis_description: "The idea often becomes visible at a city hall counter. A resident asks about insurance, school enrollment, garbage rules, or disaster shelters, and the answe..."
-open_graph_title: "Multicultural Coexistence"
+open_graph_title: "Multicultural Coexistence: How Japan Turned Diversity into Local Governance"
 open_graph_description: "The idea often becomes visible at a city hall counter. A resident asks about insurance, school enrollment, garbage rules, or disaster shelters, and the answe..."
-twitter_title: "Multicultural Coexistence"
+twitter_title: "Multicultural Coexistence: How Japan Turned Diversity into Local Governance"
 twitter_description: "The idea often becomes visible at a city hall counter. A resident asks about insurance, school enrollment, garbage rules, or disaster shelters, and the answe..."
 genesis_noindex: 0
 genesis_nofollow: 0

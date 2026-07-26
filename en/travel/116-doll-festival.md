@@ -1,5 +1,5 @@
 ---
-title: "Doll Festival"
+title: "Doll Festival: The Season Before Spring Announces Itself"
 slug: travel-doll-festival
 wp_date: 2025-08-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "It isn’t a loud festival, and that’s the first thing to learn. In 
 
 genesis_title: ""
 genesis_description: "Experience Doll Festival in Japan. It isn’t a loud festival, and that’s the first thing to learn. People speak softly. Outside, the day is ordinary."
-open_graph_title: "Doll Festival"
+open_graph_title: "Doll Festival: The Season Before Spring Announces Itself"
 open_graph_description: "Experience Doll Festival in Japan. It isn’t a loud festival, and that’s the first thing to learn. People speak softly. Outside, the day is ordinary."
-twitter_title: "Doll Festival"
+twitter_title: "Doll Festival: The Season Before Spring Announces Itself"
 twitter_description: "Experience Doll Festival in Japan. It isn’t a loud festival, and that’s the first thing to learn. People speak softly. Outside, the day is ordinary."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Smartphone Society"
+title: "Smartphone Society: Japan’s Daily Life as a Small Screen"
 slug: understand-japan-smartphone-society
 wp_date: 2026-06-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Smartphone Society（スマホ社会） is not the simple fact that ma
 
 genesis_title: ""
 genesis_description: "Learn about Smartphone Society in Japan. In Japan, that stitched rhythm is what “smartphone society” really means. In Tokyo, the smartp"
-open_graph_title: "Smartphone Society"
+open_graph_title: "Smartphone Society: Japan’s Daily Life as a Small Screen"
 open_graph_description: "Learn about Smartphone Society in Japan. In Japan, that stitched rhythm is what “smartphone society” really means. In Tokyo, the smartp"
-twitter_title: "Smartphone Society"
+twitter_title: "Smartphone Society: Japan’s Daily Life as a Small Screen"
 twitter_description: "Learn about Smartphone Society in Japan. In Japan, that stitched rhythm is what “smartphone society” really means. In Tokyo, the smartp"
 genesis_noindex: 0
 genesis_nofollow: 0

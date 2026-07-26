@@ -1,5 +1,5 @@
 ---
-title: "Ward Council"
+title: "Ward Council: Democracy in the Narrow Streets"
 slug: understand-japan-ward-council
 wp_date: 2025-07-29 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a meeting room on an upper floor of a ward office, the agenda is no
 
 genesis_title: ""
 genesis_description: "In a meeting room on an upper floor of a ward office, the agenda is not grand strategy. It is the price of school lunches, the capacity of day-care waiting l..."
-open_graph_title: "Ward Council"
+open_graph_title: "Ward Council: Democracy in the Narrow Streets"
 open_graph_description: "In a meeting room on an upper floor of a ward office, the agenda is not grand strategy. It is the price of school lunches, the capacity of day-care waiting l..."
-twitter_title: "Ward Council"
+twitter_title: "Ward Council: Democracy in the Narrow Streets"
 twitter_description: "In a meeting room on an upper floor of a ward office, the agenda is not grand strategy. It is the price of school lunches, the capacity of day-care waiting l..."
 genesis_noindex: 0
 genesis_nofollow: 0

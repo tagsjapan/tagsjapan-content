@@ -1,5 +1,5 @@
 ---
-title: "Carbon Neutral Site"
+title: "Carbon Neutral Site: When the Destination Manages the Footprint"
 slug: travel-carbon-neutral-site
 wp_date: 2026-05-06 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In some parts of Japan, the first sign that a place is thinking about 
 
 genesis_title: ""
 genesis_description: "In some parts of Japan, the first sign that a place is thinking about climate isn’t a lecture. It’s a shuttle timetable. It’s a request to stay on the path."
-open_graph_title: "Carbon Neutral Site"
+open_graph_title: "Carbon Neutral Site: When the Destination Manages the Footprint"
 open_graph_description: "In some parts of Japan, the first sign that a place is thinking about climate isn’t a lecture. It’s a shuttle timetable. It’s a request to stay on the path."
-twitter_title: "Carbon Neutral Site"
+twitter_title: "Carbon Neutral Site: When the Destination Manages the Footprint"
 twitter_description: "In some parts of Japan, the first sign that a place is thinking about climate isn’t a lecture. It’s a shuttle timetable. It’s a request to stay on the path."
 genesis_noindex: 0
 genesis_nofollow: 0

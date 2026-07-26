@@ -1,5 +1,5 @@
 ---
-title: "Giri and Ninjo"
+title: "Giri and Ninjo: Duty, Feeling, and the Space Between"
 slug: understand-japan-giri-and-ninjo
 wp_date: 2025-08-03 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A small box appears on an office desk in February, wrapped neatly, acc
 
 genesis_title: ""
 genesis_description: "A small box appears on an office desk in February, wrapped neatly, accompanied by a note that says almost nothing. The gesture is modest, yet it carries an i..."
-open_graph_title: "Giri and Ninjo"
+open_graph_title: "Giri and Ninjo: Duty, Feeling, and the Space Between"
 open_graph_description: "A small box appears on an office desk in February, wrapped neatly, accompanied by a note that says almost nothing. The gesture is modest, yet it carries an i..."
-twitter_title: "Giri and Ninjo"
+twitter_title: "Giri and Ninjo: Duty, Feeling, and the Space Between"
 twitter_description: "A small box appears on an office desk in February, wrapped neatly, accompanied by a note that says almost nothing. The gesture is modest, yet it carries an i..."
 genesis_noindex: 0
 genesis_nofollow: 0

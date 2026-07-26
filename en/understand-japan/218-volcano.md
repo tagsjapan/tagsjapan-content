@@ -1,5 +1,5 @@
 ---
-title: "Volcano"
+title: "Volcano: Living With Creation and Risk"
 slug: understand-japan-volcano
 wp_date: 2026-03-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Volcano（火山） in Japan is not a niche topic for geologists; it i
 
 genesis_title: ""
 genesis_description: "Learn about Volcano in Japan. Sakurajima（桜島） is famous, but the deeper fact is more ordinary: in Japan, volcanic activity is close enough to daily life..."
-open_graph_title: "Volcano"
+open_graph_title: "Volcano: Living With Creation and Risk"
 open_graph_description: "Learn about Volcano in Japan. Sakurajima（桜島） is famous, but the deeper fact is more ordinary: in Japan, volcanic activity is close enough to daily life..."
-twitter_title: "Volcano"
+twitter_title: "Volcano: Living With Creation and Risk"
 twitter_description: "Learn about Volcano in Japan. Sakurajima（桜島） is famous, but the deeper fact is more ordinary: in Japan, volcanic activity is close enough to daily life..."
 genesis_noindex: 0
 genesis_nofollow: 0

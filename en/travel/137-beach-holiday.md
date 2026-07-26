@@ -1,5 +1,5 @@
 ---
-title: "Beach Holiday"
+title: "Beach Holiday: Japan’s Seaside, Run on Season and Rules"
 slug: travel-beach-holiday
 wp_date: 2025-09-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first surprise of a beach holiday in Japan is how often it begins 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Beach Holiday in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Beach Holiday"
+open_graph_title: "Beach Holiday: Japan’s Seaside, Run on Season and Rules"
 open_graph_description: "A comprehensive guide to Beach Holiday in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Beach Holiday"
+twitter_title: "Beach Holiday: Japan’s Seaside, Run on Season and Rules"
 twitter_description: "A comprehensive guide to Beach Holiday in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

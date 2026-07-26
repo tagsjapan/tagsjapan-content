@@ -1,5 +1,5 @@
 ---
-title: "Light Novel"
+title: "Light Novel: How Japan Turned Paperbacks into IP Pipelines"
 slug: understand-japan-light-novel
 wp_date: 2025-12-23 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "A light novel often announces its category before you read a sentence.
 
 genesis_title: ""
 genesis_description: "Learn about Light Novels in Japan. Light novels are a bunko format for fast circulation, serial branding, illustration identity, and media-mix expansion."
-open_graph_title: "Light Novel"
+open_graph_title: "Light Novel: How Japan Turned Paperbacks into IP Pipelines"
 open_graph_description: "Learn about Light Novels in Japan. Light novels are a bunko format for fast circulation, serial branding, illustration identity, and media-mix expansion."
-twitter_title: "Light Novel"
+twitter_title: "Light Novel: How Japan Turned Paperbacks into IP Pipelines"
 twitter_description: "Learn about Light Novels in Japan. Light novels are a bunko format for fast circulation, serial branding, illustration identity, and media-mix expansion."
 genesis_noindex: 0
 genesis_nofollow: 0

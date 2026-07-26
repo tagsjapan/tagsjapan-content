@@ -1,5 +1,5 @@
 ---
-title: "ESG Tourism"
+title: "ESG Tourism: Reading “Sustainable” on a Real Trip"
 slug: travel-esg-tourism
 wp_date: 2026-05-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The sign is everywhere and nowhere at once. A card on your hotel desk 
 
 genesis_title: ""
 genesis_description: "The sign is everywhere and nowhere at once. A card on your hotel desk asks you to reuse towels “for the planet.” A glossy brochure tells you a town is “eco-f..."
-open_graph_title: "ESG Tourism"
+open_graph_title: "ESG Tourism: Reading “Sustainable” on a Real Trip"
 open_graph_description: "The sign is everywhere and nowhere at once. A card on your hotel desk asks you to reuse towels “for the planet.” A glossy brochure tells you a town is “eco-f..."
-twitter_title: "ESG Tourism"
+twitter_title: "ESG Tourism: Reading “Sustainable” on a Real Trip"
 twitter_description: "The sign is everywhere and nowhere at once. A card on your hotel desk asks you to reuse towels “for the planet.” A glossy brochure tells you a town is “eco-f..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Digital Map"
+title: "Digital Map: The Screen That Makes Japan Legible"
 slug: travel-digital-map
 wp_date: 2026-03-31 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The blue dot becomes a travel companion in Japan long before it become
 
 genesis_title: ""
 genesis_description: "The blue dot becomes a travel companion in Japan long before it becomes a crutch. You notice it first outside a station, perhaps in Shinjuku or Umeda, when t..."
-open_graph_title: "Digital Map"
+open_graph_title: "Digital Map: The Screen That Makes Japan Legible"
 open_graph_description: "The blue dot becomes a travel companion in Japan long before it becomes a crutch. You notice it first outside a station, perhaps in Shinjuku or Umeda, when t..."
-twitter_title: "Digital Map"
+twitter_title: "Digital Map: The Screen That Makes Japan Legible"
 twitter_description: "The blue dot becomes a travel companion in Japan long before it becomes a crutch. You notice it first outside a station, perhaps in Shinjuku or Umeda, when t..."
 genesis_noindex: 0
 genesis_nofollow: 0

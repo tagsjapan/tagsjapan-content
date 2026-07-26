@@ -1,5 +1,5 @@
 ---
-title: "Koseki System"
+title: "Koseki System: Japan’s Family Register as State Infrastructure"
 slug: understand-japan-koseki-system
 wp_date: 2025-09-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Koseki System（戸籍制度） is Japan’s system for registering an
 
 genesis_title: ""
 genesis_description: "Learn about Koseki System in Japan. Koseki System（戸籍制度） is Japan’s system for registering and certifying nationality and legally recognized family..."
-open_graph_title: "Koseki System"
+open_graph_title: "Koseki System: Japan’s Family Register as State Infrastructure"
 open_graph_description: "Learn about Koseki System in Japan. Koseki System（戸籍制度） is Japan’s system for registering and certifying nationality and legally recognized family..."
-twitter_title: "Koseki System"
+twitter_title: "Koseki System: Japan’s Family Register as State Infrastructure"
 twitter_description: "Learn about Koseki System in Japan. Koseki System（戸籍制度） is Japan’s system for registering and certifying nationality and legally recognized family..."
 genesis_noindex: 0
 genesis_nofollow: 0

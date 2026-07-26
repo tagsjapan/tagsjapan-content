@@ -1,5 +1,5 @@
 ---
-title: "Yankee Girls"
+title: "Yankee Girls: When Rebellion Gets a Skirt and a Script"
 slug: understand-japan-yankee-girls
 wp_date: 2026-01-15 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Picture a Japanese school corridor where the uniform is supposed to er
 
 genesis_title: ""
 genesis_description: "Learn about Yankee Girls in Japan. Picture a Japanese school corridor where the uniform is supposed to erase difference."
-open_graph_title: "Yankee Girls"
+open_graph_title: "Yankee Girls: When Rebellion Gets a Skirt and a Script"
 open_graph_description: "Learn about Yankee Girls in Japan. Picture a Japanese school corridor where the uniform is supposed to erase difference."
-twitter_title: "Yankee Girls"
+twitter_title: "Yankee Girls: When Rebellion Gets a Skirt and a Script"
 twitter_description: "Learn about Yankee Girls in Japan. Picture a Japanese school corridor where the uniform is supposed to erase difference."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Pet Companionship"
+title: "Pet Companionship: When a Cat Becomes Family in an Aging Japan"
 slug: understand-japan-pet-companionship
 wp_date: 2026-07-26 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a small apartment, a man lays out two bowls before he checks his ow
 
 genesis_title: ""
 genesis_description: "Learn about Pet Companionship in Japan. In a small apartment, a man lays out two bowls before he checks his own dinner. The cat knows the ro"
-open_graph_title: "Pet Companionship"
+open_graph_title: "Pet Companionship: When a Cat Becomes Family in an Aging Japan"
 open_graph_description: "Learn about Pet Companionship in Japan. In a small apartment, a man lays out two bowls before he checks his own dinner. The cat knows the ro"
-twitter_title: "Pet Companionship"
+twitter_title: "Pet Companionship: When a Cat Becomes Family in an Aging Japan"
 twitter_description: "Learn about Pet Companionship in Japan. In a small apartment, a man lays out two bowls before he checks his own dinner. The cat knows the ro"
 genesis_noindex: 0
 genesis_nofollow: 0

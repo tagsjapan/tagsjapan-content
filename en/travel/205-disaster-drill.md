@@ -1,5 +1,5 @@
 ---
-title: "Disaster Drill"
+title: "Disaster Drill: The Practice Hiding in Plain Sight"
 slug: travel-disaster-drill
 wp_date: 2026-02-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "You see the evidence before you ever witness the event. An evacuation 
 
 genesis_title: ""
 genesis_description: "You see the evidence before you ever witness the event. An evacuation map on the back of a hotel door. Floor arrows in a station."
-open_graph_title: "Disaster Drill"
+open_graph_title: "Disaster Drill: The Practice Hiding in Plain Sight"
 open_graph_description: "You see the evidence before you ever witness the event. An evacuation map on the back of a hotel door. Floor arrows in a station."
-twitter_title: "Disaster Drill"
+twitter_title: "Disaster Drill: The Practice Hiding in Plain Sight"
 twitter_description: "You see the evidence before you ever witness the event. An evacuation map on the back of a hotel door. Floor arrows in a station."
 genesis_noindex: 0
 genesis_nofollow: 0

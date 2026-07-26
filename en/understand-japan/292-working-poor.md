@@ -1,5 +1,5 @@
 ---
-title: "Working Poor"
+title: "Working Poor: The Split Between Labor and Livelihood"
 slug: understand-japan-working-poor
 wp_date: 2026-07-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Japan’s convenience economy, the workers are everywhere and often
 
 genesis_title: ""
 genesis_description: "Learn about the Working Poor in Japan. The working poor face poverty despite employment, due to low wages, non-regular contracts, and gaps in the safety net."
-open_graph_title: "Working Poor"
+open_graph_title: "Working Poor: The Split Between Labor and Livelihood"
 open_graph_description: "Learn about the Working Poor in Japan. The working poor face poverty despite employment, due to low wages, non-regular contracts, and gaps in the safety net."
-twitter_title: "Working Poor"
+twitter_title: "Working Poor: The Split Between Labor and Livelihood"
 twitter_description: "Learn about the Working Poor in Japan. The working poor face poverty despite employment, due to low wages, non-regular contracts, and gaps in the safety net."
 genesis_noindex: 0
 genesis_nofollow: 0

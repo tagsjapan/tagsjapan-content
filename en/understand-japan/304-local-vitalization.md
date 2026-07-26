@@ -1,5 +1,5 @@
 ---
-title: "Local Vitalization"
+title: "Local Vitalization: Keeping Life Possible Outside the Capital"
 slug: understand-japan-local-vitalization
 wp_date: 2026-07-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a weekday afternoon, a meeting room in a small city hall fills with
 
 genesis_title: ""
 genesis_description: "Learn about Local Vitalization in Japan. In contemporary Japan, these conversations have a name that sounds optimistic even when the data is not: *chihō..."
-open_graph_title: "Local Vitalization"
+open_graph_title: "Local Vitalization: Keeping Life Possible Outside the Capital"
 open_graph_description: "Learn about Local Vitalization in Japan. In contemporary Japan, these conversations have a name that sounds optimistic even when the data is not: *chihō..."
-twitter_title: "Local Vitalization"
+twitter_title: "Local Vitalization: Keeping Life Possible Outside the Capital"
 twitter_description: "Learn about Local Vitalization in Japan. In contemporary Japan, these conversations have a name that sounds optimistic even when the data is not: *chihō..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Marriage Registration"
+title: "Marriage Registration: The Form that Makes a Family Official"
 slug: understand-japan-marriage-registration
 wp_date: 2025-09-14 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Marriage Registration（婚姻届の提出） is the act that legally 
 
 genesis_title: ""
 genesis_description: "Learn about Marriage Registration in Japan. In Japan, the decisive moment of marriage is often not a kiss, a ring, or a toast."
-open_graph_title: "Marriage Registration"
+open_graph_title: "Marriage Registration: The Form that Makes a Family Official"
 open_graph_description: "Learn about Marriage Registration in Japan. In Japan, the decisive moment of marriage is often not a kiss, a ring, or a toast."
-twitter_title: "Marriage Registration"
+twitter_title: "Marriage Registration: The Form that Makes a Family Official"
 twitter_description: "Learn about Marriage Registration in Japan. In Japan, the decisive moment of marriage is often not a kiss, a ring, or a toast."
 genesis_noindex: 0
 genesis_nofollow: 0

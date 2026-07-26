@@ -1,5 +1,5 @@
 ---
-title: "Remote Islands"
+title: "Remote Islands: Distance as a Policy Problem"
 slug: understand-japan-remote-islands
 wp_date: 2026-03-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Remote Islands（離島） in Japan cannot be understood as “all isl
 
 genesis_title: ""
 genesis_description: "Learn about Remote Islands in Japan. Remote islands face transport and service disadvantages addressed through the Remote Islands Development Act framework."
-open_graph_title: "Remote Islands"
+open_graph_title: "Remote Islands: Distance as a Policy Problem"
 open_graph_description: "Learn about Remote Islands in Japan. Remote islands face transport and service disadvantages addressed through the Remote Islands Development Act framework."
-twitter_title: "Remote Islands"
+twitter_title: "Remote Islands: Distance as a Policy Problem"
 twitter_description: "Learn about Remote Islands in Japan. Remote islands face transport and service disadvantages addressed through the Remote Islands Development Act framework."
 genesis_noindex: 0
 genesis_nofollow: 0

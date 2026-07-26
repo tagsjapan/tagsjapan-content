@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Olympics"
+title: "Tokyo Olympics: A Mega-Event That Became a Governance Test"
 slug: understand-japan-tokyo-olympics
 wp_date: 2026-07-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On television, the most Tokyo-2020 image is not a record time or a med
 
 genesis_title: ""
 genesis_description: "Learn about Tokyo Olympics in Japan. On television, the most Tokyo-2020 image is not a record time or a medal ceremony. It is an arena that"
-open_graph_title: "Tokyo Olympics"
+open_graph_title: "Tokyo Olympics: A Mega-Event That Became a Governance Test"
 open_graph_description: "Learn about Tokyo Olympics in Japan. On television, the most Tokyo-2020 image is not a record time or a medal ceremony. It is an arena that"
-twitter_title: "Tokyo Olympics"
+twitter_title: "Tokyo Olympics: A Mega-Event That Became a Governance Test"
 twitter_description: "Learn about Tokyo Olympics in Japan. On television, the most Tokyo-2020 image is not a record time or a medal ceremony. It is an arena that"
 genesis_noindex: 0
 genesis_nofollow: 0

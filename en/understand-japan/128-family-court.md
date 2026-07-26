@@ -1,5 +1,5 @@
 ---
-title: "Family Court"
+title: "Family Court: The State’s Quiet Room for Private Conflict"
 slug: understand-japan-family-court
 wp_date: 2025-09-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The most familiar “courtroom” in Japan is often a small meeting ro
 
 genesis_title: ""
 genesis_description: "The most familiar “courtroom” in Japan is often a small meeting room. A low table. A box of tissues. A clock that seems louder than it should."
-open_graph_title: "Family Court"
+open_graph_title: "Family Court: The State’s Quiet Room for Private Conflict"
 open_graph_description: "The most familiar “courtroom” in Japan is often a small meeting room. A low table. A box of tissues. A clock that seems louder than it should."
-twitter_title: "Family Court"
+twitter_title: "Family Court: The State’s Quiet Room for Private Conflict"
 twitter_description: "The most familiar “courtroom” in Japan is often a small meeting room. A low table. A box of tissues. A clock that seems louder than it should."
 genesis_noindex: 0
 genesis_nofollow: 0

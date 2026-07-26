@@ -1,5 +1,5 @@
 ---
-title: "Food Market Sampling"
+title: "Food Market Sampling: Learning a City in Small Bites"
 slug: travel-food-market-sampling
 wp_date: 2025-07-07 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first bite is rarely the one you planned. You arrive at a market t
 
 genesis_title: ""
 genesis_description: "Guide to Food Market Sampling in Japan. The first bite is rarely the one you planned. It is moving, steaming, being hande"
-open_graph_title: "Food Market Sampling"
+open_graph_title: "Food Market Sampling: Learning a City in Small Bites"
 open_graph_description: "Guide to Food Market Sampling in Japan. The first bite is rarely the one you planned. It is moving, steaming, being hande"
-twitter_title: "Food Market Sampling"
+twitter_title: "Food Market Sampling: Learning a City in Small Bites"
 twitter_description: "Guide to Food Market Sampling in Japan. The first bite is rarely the one you planned. It is moving, steaming, being hande"
 genesis_noindex: 0
 genesis_nofollow: 0

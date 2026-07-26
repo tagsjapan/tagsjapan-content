@@ -1,5 +1,5 @@
 ---
-title: "Job Hunting"
+title: "Job Hunting: The Season When a Whole Generation Lines Up"
 slug: understand-japan-job-hunting
 wp_date: 2025-04-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Outside a company seminar hall in Tokyo, the uniforms are self-imposed
 
 genesis_title: ""
 genesis_description: "Outside a company seminar hall in Tokyo, the uniforms are self-imposed. Black suits. White shirts. Dark shoes polished for the day."
-open_graph_title: "Job Hunting"
+open_graph_title: "Job Hunting: The Season When a Whole Generation Lines Up"
 open_graph_description: "Outside a company seminar hall in Tokyo, the uniforms are self-imposed. Black suits. White shirts. Dark shoes polished for the day."
-twitter_title: "Job Hunting"
+twitter_title: "Job Hunting: The Season When a Whole Generation Lines Up"
 twitter_description: "Outside a company seminar hall in Tokyo, the uniforms are self-imposed. Black suits. White shirts. Dark shoes polished for the day."
 genesis_noindex: 0
 genesis_nofollow: 0

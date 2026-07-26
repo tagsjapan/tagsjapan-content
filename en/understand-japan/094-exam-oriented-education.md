@@ -1,5 +1,5 @@
 ---
-title: "Exam-oriented Education"
+title: "Exam-oriented Education: The Season of the Test"
 slug: understand-japan-exam-oriented-education
 wp_date: 2025-07-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a January morning in Japan, the air outside a test site is usually 
 
 genesis_title: ""
 genesis_description: "On a January morning in Japan, the air outside a test site is usually still enough to hear the rustle of admission tickets."
-open_graph_title: "Exam-oriented Education"
+open_graph_title: "Exam-oriented Education: The Season of the Test"
 open_graph_description: "On a January morning in Japan, the air outside a test site is usually still enough to hear the rustle of admission tickets."
-twitter_title: "Exam-oriented Education"
+twitter_title: "Exam-oriented Education: The Season of the Test"
 twitter_description: "On a January morning in Japan, the air outside a test site is usually still enough to hear the rustle of admission tickets."
 genesis_noindex: 0
 genesis_nofollow: 0

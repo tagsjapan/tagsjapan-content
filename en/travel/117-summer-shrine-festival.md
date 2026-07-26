@@ -1,5 +1,5 @@
 ---
-title: "Summer Shrine Festival"
+title: "Summer Shrine Festival: Japan’s Nightlife with a Sacred Center"
 slug: travel-summer-shrine-festival
 wp_date: 2025-08-22 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The air is thick enough to feel like fabric. You turn a corner near a 
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Summer Shrine Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Summer Shrine Festival"
+open_graph_title: "Summer Shrine Festival: Japan’s Nightlife with a Sacred Center"
 open_graph_description: "A comprehensive guide to Summer Shrine Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Summer Shrine Festival"
+twitter_title: "Summer Shrine Festival: Japan’s Nightlife with a Sacred Center"
 twitter_description: "A comprehensive guide to Summer Shrine Festival in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

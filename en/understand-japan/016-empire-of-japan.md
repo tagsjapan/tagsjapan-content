@@ -1,5 +1,5 @@
 ---
-title: "Empire of Japan"
+title: "Empire of Japan: Modernity in Imperial Form"
 slug: understand-japan-empire-of-japan
 wp_date: 2025-01-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A school atlas in imperial Japan did not stop at the home islands. Tai
 
 genesis_title: ""
 genesis_description: "A school atlas in imperial Japan did not stop at the home islands. Taiwan appeared after 1895. Korea appeared after 1910."
-open_graph_title: "Empire of Japan"
+open_graph_title: "Empire of Japan: Modernity in Imperial Form"
 open_graph_description: "A school atlas in imperial Japan did not stop at the home islands. Taiwan appeared after 1895. Korea appeared after 1910."
-twitter_title: "Empire of Japan"
+twitter_title: "Empire of Japan: Modernity in Imperial Form"
 twitter_description: "A school atlas in imperial Japan did not stop at the home islands. Taiwan appeared after 1895. Korea appeared after 1910."
 genesis_noindex: 0
 genesis_nofollow: 0

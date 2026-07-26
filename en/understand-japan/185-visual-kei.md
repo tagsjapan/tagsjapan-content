@@ -1,5 +1,5 @@
 ---
-title: "Visual Kei"
+title: "Visual Kei: A Scene Where Music Is Worn on the Body"
 slug: understand-japan-visual-kei
 wp_date: 2026-01-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Before the first chord, there is a mirror. Hair is built into architec
 
 genesis_title: ""
 genesis_description: "Learn about Visual Kei in Japan. Clothing is not a costume added after the music; it is part of the music’s meaning. Before the first cho"
-open_graph_title: "Visual Kei"
+open_graph_title: "Visual Kei: A Scene Where Music Is Worn on the Body"
 open_graph_description: "Learn about Visual Kei in Japan. Clothing is not a costume added after the music; it is part of the music’s meaning. Before the first cho"
-twitter_title: "Visual Kei"
+twitter_title: "Visual Kei: A Scene Where Music Is Worn on the Body"
 twitter_description: "Learn about Visual Kei in Japan. Clothing is not a costume added after the music; it is part of the music’s meaning. Before the first cho"
 genesis_noindex: 0
 genesis_nofollow: 0

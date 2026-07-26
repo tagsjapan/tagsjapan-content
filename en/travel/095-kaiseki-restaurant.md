@@ -1,5 +1,5 @@
 ---
-title: "Kaiseki Restaurant"
+title: "Kaiseki Restaurant: An Evening Arranged by Season"
 slug: travel-kaiseki-restaurant
 wp_date: 2025-07-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The room is usually quieter than first-time visitors expect. You sit d
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Kaiseki Restaurant in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Kaiseki Restaurant"
+open_graph_title: "Kaiseki Restaurant: An Evening Arranged by Season"
 open_graph_description: "A comprehensive guide to Kaiseki Restaurant in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Kaiseki Restaurant"
+twitter_title: "Kaiseki Restaurant: An Evening Arranged by Season"
 twitter_description: "A comprehensive guide to Kaiseki Restaurant in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

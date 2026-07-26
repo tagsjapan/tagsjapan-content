@@ -1,5 +1,5 @@
 ---
-title: "Enka"
+title: "Enka: Manufactured Nostalgia in Postwar Japanese Pop"
 slug: understand-japan-enka
 wp_date: 2026-01-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Enka is often heard in a setting that looks nothing like “tradition.
 
 genesis_title: ""
 genesis_description: "Learn about Enka in Japan. Enka is often heard in a setting that looks nothing like “tradition.” A karaoke monitor scrolls lyrics in bright colors."
-open_graph_title: "Enka"
+open_graph_title: "Enka: Manufactured Nostalgia in Postwar Japanese Pop"
 open_graph_description: "Learn about Enka in Japan. Enka is often heard in a setting that looks nothing like “tradition.” A karaoke monitor scrolls lyrics in bright colors."
-twitter_title: "Enka"
+twitter_title: "Enka: Manufactured Nostalgia in Postwar Japanese Pop"
 twitter_description: "Learn about Enka in Japan. Enka is often heard in a setting that looks nothing like “tradition.” A karaoke monitor scrolls lyrics in bright colors."
 genesis_noindex: 0
 genesis_nofollow: 0

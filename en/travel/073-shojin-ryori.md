@@ -1,5 +1,5 @@
 ---
-title: "Shojin Ryori"
+title: "Shojin Ryori: A Meal That Slows the Trip Down"
 slug: travel-shojin-ryori
 wp_date: 2025-05-26 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a temple lodging room, dinner often arrives without the usual resta
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Shojin Ryori in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Shojin Ryori"
+open_graph_title: "Shojin Ryori: A Meal That Slows the Trip Down"
 open_graph_description: "A comprehensive guide to Shojin Ryori in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Shojin Ryori"
+twitter_title: "Shojin Ryori: A Meal That Slows the Trip Down"
 twitter_description: "A comprehensive guide to Shojin Ryori in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Constitution of Japan"
+title: "Constitution of Japan: The Text That Still Shapes the Postwar State"
 slug: understand-japan-constitution-of-japan
 wp_date: 2025-02-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "When the Constitution of Japan took effect on May 3, 1947, the country
 
 genesis_title: ""
 genesis_description: "When the Constitution of Japan took effect on May 3, 1947, the country did not simply receive a new legal manual. It changed the source from which political ..."
-open_graph_title: "Constitution of Japan"
+open_graph_title: "Constitution of Japan: The Text That Still Shapes the Postwar State"
 open_graph_description: "When the Constitution of Japan took effect on May 3, 1947, the country did not simply receive a new legal manual. It changed the source from which political ..."
-twitter_title: "Constitution of Japan"
+twitter_title: "Constitution of Japan: The Text That Still Shapes the Postwar State"
 twitter_description: "When the Constitution of Japan took effect on May 3, 1947, the country did not simply receive a new legal manual. It changed the source from which political ..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Non-regular Employment"
+title: "Non-regular Employment: The Outer Ring of the Japanese Workplace"
 slug: understand-japan-non-regular-employment
 wp_date: 2025-04-27 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A Japanese job board can show the country's labor hierarchy in a singl
 
 genesis_title: ""
 genesis_description: "A Japanese job board can show the country's labor hierarchy in a single glance. Seishain, regular employee, stands in one column."
-open_graph_title: "Non-regular Employment"
+open_graph_title: "Non-regular Employment: The Outer Ring of the Japanese Workplace"
 open_graph_description: "A Japanese job board can show the country's labor hierarchy in a single glance. Seishain, regular employee, stands in one column."
-twitter_title: "Non-regular Employment"
+twitter_title: "Non-regular Employment: The Outer Ring of the Japanese Workplace"
 twitter_description: "A Japanese job board can show the country's labor hierarchy in a single glance. Seishain, regular employee, stands in one column."
 genesis_noindex: 0
 genesis_nofollow: 0

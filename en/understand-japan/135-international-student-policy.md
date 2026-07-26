@@ -1,5 +1,5 @@
 ---
-title: "International Student Policy"
+title: "International Student Policy: Japan’s Two-Way Bet on Youth Mobility"
 slug: understand-japan-international-student-policy
 wp_date: 2025-09-26 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "International Student Policy（留学生政策） refers to the bundle
 
 genesis_title: ""
 genesis_description: "Learn about International Student Policy in Japan. A part-time job is discussed in the same breath as a language class. On a Japanese campus"
-open_graph_title: "International Student Policy"
+open_graph_title: "International Student Policy: Japan’s Two-Way Bet on Youth Mobility"
 open_graph_description: "Learn about International Student Policy in Japan. A part-time job is discussed in the same breath as a language class. On a Japanese campus"
-twitter_title: "International Student Policy"
+twitter_title: "International Student Policy: Japan’s Two-Way Bet on Youth Mobility"
 twitter_description: "Learn about International Student Policy in Japan. A part-time job is discussed in the same breath as a language class. On a Japanese campus"
 genesis_noindex: 0
 genesis_nofollow: 0

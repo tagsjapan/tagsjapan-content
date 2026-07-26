@@ -1,5 +1,5 @@
 ---
-title: "Nebuta Festival"
+title: "Nebuta Festival: A Summer City in Motion"
 slug: travel-nebuta-festival
 wp_date: 2025-01-30 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On an August night in Aomori, the first thing you notice is not light 
 
 genesis_title: ""
 genesis_description: "Experience Nebuta Festival in Japan. On an August night in Aomori, the first thing you notice is not light but pressure. The Nebuta Festiva"
-open_graph_title: "Nebuta Festival"
+open_graph_title: "Nebuta Festival: A Summer City in Motion"
 open_graph_description: "Experience Nebuta Festival in Japan. On an August night in Aomori, the first thing you notice is not light but pressure. The Nebuta Festiva"
-twitter_title: "Nebuta Festival"
+twitter_title: "Nebuta Festival: A Summer City in Motion"
 twitter_description: "Experience Nebuta Festival in Japan. On an August night in Aomori, the first thing you notice is not light but pressure. The Nebuta Festiva"
 genesis_noindex: 0
 genesis_nofollow: 0

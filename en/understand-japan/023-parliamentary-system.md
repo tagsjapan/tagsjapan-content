@@ -1,5 +1,5 @@
 ---
-title: "Parliamentary System"
+title: "Parliamentary System: How Japan Turns Votes Into Government"
 slug: understand-japan-parliamentary-system
 wp_date: 2025-02-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "When Japan gets a new prime minister, the decisive image is not a cand
 
 genesis_title: ""
 genesis_description: "When Japan gets a new prime minister, the decisive image is not a candidate standing alone before the nation and claiming a personal mandate."
-open_graph_title: "Parliamentary System"
+open_graph_title: "Parliamentary System: How Japan Turns Votes Into Government"
 open_graph_description: "When Japan gets a new prime minister, the decisive image is not a candidate standing alone before the nation and claiming a personal mandate."
-twitter_title: "Parliamentary System"
+twitter_title: "Parliamentary System: How Japan Turns Votes Into Government"
 twitter_description: "When Japan gets a new prime minister, the decisive image is not a candidate standing alone before the nation and claiming a personal mandate."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Rice"
+title: "Rice: The Grain That Holds the Meal Together"
 slug: travel-rice
 wp_date: 2025-06-22 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At a ryokan breakfast the tray arrives with a kind of calm completenes
 
 genesis_title: ""
 genesis_description: "Guide to Rice in Japan. It takes the salt and smoke of the fish, softens the sharpness of pickles, and gives the whole tray a center of gravity. In Japan"
-open_graph_title: "Rice"
+open_graph_title: "Rice: The Grain That Holds the Meal Together"
 open_graph_description: "Guide to Rice in Japan. It takes the salt and smoke of the fish, softens the sharpness of pickles, and gives the whole tray a center of gravity. In Japan"
-twitter_title: "Rice"
+twitter_title: "Rice: The Grain That Holds the Meal Together"
 twitter_description: "Guide to Rice in Japan. It takes the salt and smoke of the fish, softens the sharpness of pickles, and gives the whole tray a center of gravity. In Japan"
 genesis_noindex: 0
 genesis_nofollow: 0

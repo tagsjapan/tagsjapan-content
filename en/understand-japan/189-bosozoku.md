@@ -1,5 +1,5 @@
 ---
-title: "Bosozoku"
+title: "Bosozoku: Street Rebellion, and Its Afterlife as Nostalgia"
 slug: understand-japan-bosozoku
 wp_date: 2026-01-13 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The image is loud before it is explained. A convoy of modified motorcy
 
 genesis_title: ""
 genesis_description: "Learn about Bosozoku in Japan. Japan has a specific word for this kind of youth subculture: Bosozoku（暴走族）. The image is loud before it is explained."
-open_graph_title: "Bosozoku"
+open_graph_title: "Bosozoku: Street Rebellion, and Its Afterlife as Nostalgia"
 open_graph_description: "Learn about Bosozoku in Japan. Japan has a specific word for this kind of youth subculture: Bosozoku（暴走族）. The image is loud before it is explained."
-twitter_title: "Bosozoku"
+twitter_title: "Bosozoku: Street Rebellion, and Its Afterlife as Nostalgia"
 twitter_description: "Learn about Bosozoku in Japan. Japan has a specific word for this kind of youth subculture: Bosozoku（暴走族）. The image is loud before it is explained."
 genesis_noindex: 0
 genesis_nofollow: 0

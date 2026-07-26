@@ -1,5 +1,5 @@
 ---
-title: "Soba"
+title: "Soba: Buckwheat, Water, and the Quiet Side of Japan"
 slug: travel-soba
 wp_date: 2025-05-20 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The tray arrives with the kind of understatement Japan does well. A ne
 
 genesis_title: ""
 genesis_description: "Guide to Soba in Japan. The tray arrives with the kind of understatement Japan does well. The first bite is mostly texture: cool noodles, a quick di"
-open_graph_title: "Soba"
+open_graph_title: "Soba: Buckwheat, Water, and the Quiet Side of Japan"
 open_graph_description: "Guide to Soba in Japan. The tray arrives with the kind of understatement Japan does well. The first bite is mostly texture: cool noodles, a quick di"
-twitter_title: "Soba"
+twitter_title: "Soba: Buckwheat, Water, and the Quiet Side of Japan"
 twitter_description: "Guide to Soba in Japan. The tray arrives with the kind of understatement Japan does well. The first bite is mostly texture: cool noodles, a quick di"
 genesis_noindex: 0
 genesis_nofollow: 0

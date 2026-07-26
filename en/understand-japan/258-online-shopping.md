@@ -1,5 +1,5 @@
 ---
-title: "Online Shopping"
+title: "Online Shopping: When Convenience Becomes Infrastructure"
 slug: understand-japan-online-shopping
 wp_date: 2026-05-30 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A phone buzzes on a commuter platform. Not a message from a friend, bu
 
 genesis_title: ""
 genesis_description: "Learn about Online Shopping in Japan. In Japan, the moment you place an order is rarely the end of the story. A phone buzzes on a commuter platform."
-open_graph_title: "Online Shopping"
+open_graph_title: "Online Shopping: When Convenience Becomes Infrastructure"
 open_graph_description: "Learn about Online Shopping in Japan. In Japan, the moment you place an order is rarely the end of the story. A phone buzzes on a commuter platform."
-twitter_title: "Online Shopping"
+twitter_title: "Online Shopping: When Convenience Becomes Infrastructure"
 twitter_description: "Learn about Online Shopping in Japan. In Japan, the moment you place an order is rarely the end of the story. A phone buzzes on a commuter platform."
 genesis_noindex: 0
 genesis_nofollow: 0

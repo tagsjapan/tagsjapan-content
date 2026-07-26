@@ -1,5 +1,5 @@
 ---
-title: "Child-friendly Service"
+title: "Child-friendly Service: Making Room for Small Travelers"
 slug: travel-child-friendly-service
 wp_date: 2026-03-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Anyone who has taken a stroller into a giant station knows how quickly
 
 genesis_title: ""
 genesis_description: "Anyone who has taken a stroller into a giant station knows how quickly a family's mood can swing. One missing elevator, one tired child, one overlong wait fo..."
-open_graph_title: "Child-friendly Service"
+open_graph_title: "Child-friendly Service: Making Room for Small Travelers"
 open_graph_description: "Anyone who has taken a stroller into a giant station knows how quickly a family's mood can swing. One missing elevator, one tired child, one overlong wait fo..."
-twitter_title: "Child-friendly Service"
+twitter_title: "Child-friendly Service: Making Room for Small Travelers"
 twitter_description: "Anyone who has taken a stroller into a giant station knows how quickly a family's mood can swing. One missing elevator, one tired child, one overlong wait fo..."
 genesis_noindex: 0
 genesis_nofollow: 0

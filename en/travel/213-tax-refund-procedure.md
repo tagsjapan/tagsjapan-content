@@ -1,5 +1,5 @@
 ---
-title: "Tax Refund Procedure"
+title: "Tax Refund Procedure: The Shopping Rule in Japan That Quietly Changes How You Pack and When You Buy"
 slug: travel-tax-refund-procedure
 wp_date: 2026-03-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The moment comes at the register, usually with a basket fuller than pl
 
 genesis_title: ""
 genesis_description: "The moment comes at the register, usually with a basket fuller than planned. Cosmetics, kitchen knives, a sweater from a department store floor, a few boxes ..."
-open_graph_title: "Tax Refund Procedure"
+open_graph_title: "Tax Refund Procedure: The Shopping Rule in Japan That Quietly Changes How You Pack and When You Buy"
 open_graph_description: "The moment comes at the register, usually with a basket fuller than planned. Cosmetics, kitchen knives, a sweater from a department store floor, a few boxes ..."
-twitter_title: "Tax Refund Procedure"
+twitter_title: "Tax Refund Procedure: The Shopping Rule in Japan That Quietly Changes How You Pack and When You Buy"
 twitter_description: "The moment comes at the register, usually with a basket fuller than planned. Cosmetics, kitchen knives, a sweater from a department store floor, a few boxes ..."
 genesis_noindex: 0
 genesis_nofollow: 0

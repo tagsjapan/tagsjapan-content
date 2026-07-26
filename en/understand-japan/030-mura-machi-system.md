@@ -1,5 +1,5 @@
 ---
-title: "Mura-machi System"
+title: "Town and Village System: The Small Units That Made Japan Governable"
 slug: understand-japan-mura-machi-system
 wp_date: 2025-02-28 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Plenty of Japanese people now live in cities, work in metropolitan cor
 
 genesis_title: ""
 genesis_description: "Plenty of Japanese people now live in cities, work in metropolitan corridors, and think in terms of prefectures or train lines."
-open_graph_title: "Mura-machi System"
+open_graph_title: "Town and Village System: The Small Units That Made Japan Governable"
 open_graph_description: "Plenty of Japanese people now live in cities, work in metropolitan corridors, and think in terms of prefectures or train lines."
-twitter_title: "Mura-machi System"
+twitter_title: "Town and Village System: The Small Units That Made Japan Governable"
 twitter_description: "Plenty of Japanese people now live in cities, work in metropolitan corridors, and think in terms of prefectures or train lines."
 genesis_noindex: 0
 genesis_nofollow: 0

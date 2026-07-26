@@ -1,5 +1,5 @@
 ---
-title: "Minpaku"
+title: "Minpaku: A Home, a Business, and 180 Days"
 slug: understand-japan-minpaku
 wp_date: 2025-11-08 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In many Japanese neighborhoods, the rules of ordinary life are posted 
 
 genesis_title: ""
 genesis_description: "Learn about Minpaku in Japan. In an apartment block, the unit is part of a managed collective—shared corridors, shared trash rooms, and a building..."
-open_graph_title: "Minpaku"
+open_graph_title: "Minpaku: A Home, a Business, and 180 Days"
 open_graph_description: "Learn about Minpaku in Japan. In an apartment block, the unit is part of a managed collective—shared corridors, shared trash rooms, and a building..."
-twitter_title: "Minpaku"
+twitter_title: "Minpaku: A Home, a Business, and 180 Days"
 twitter_description: "Learn about Minpaku in Japan. In an apartment block, the unit is part of a managed collective—shared corridors, shared trash rooms, and a building..."
 genesis_noindex: 0
 genesis_nofollow: 0

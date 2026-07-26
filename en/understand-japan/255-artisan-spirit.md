@@ -1,5 +1,5 @@
 ---
-title: "Artisan Spirit"
+title: "Artisan Spirit: The Power and Cost of the Shokunin Ideal"
 slug: understand-japan-artisan-spirit
 wp_date: 2026-05-24 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Artisan Spirit（職人精神） is not a law and not a single profess
 
 genesis_title: ""
 genesis_description: "Learn about Artisan Spirit in Japan. It is a value language that connects skill, responsibility, and attention to detail to a kind of moral identity."
-open_graph_title: "Artisan Spirit"
+open_graph_title: "Artisan Spirit: The Power and Cost of the Shokunin Ideal"
 open_graph_description: "Learn about Artisan Spirit in Japan. It is a value language that connects skill, responsibility, and attention to detail to a kind of moral identity."
-twitter_title: "Artisan Spirit"
+twitter_title: "Artisan Spirit: The Power and Cost of the Shokunin Ideal"
 twitter_description: "Learn about Artisan Spirit in Japan. It is a value language that connects skill, responsibility, and attention to detail to a kind of moral identity."
 genesis_noindex: 0
 genesis_nofollow: 0

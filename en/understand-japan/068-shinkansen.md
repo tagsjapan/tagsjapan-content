@@ -1,5 +1,5 @@
 ---
-title: "Shinkansen"
+title: "Shinkansen: How Japan Turns Speed into Routine"
 slug: understand-japan-shinkansen
 wp_date: 2025-05-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Stand on a Shinkansen platform a few minutes before departure and the 
 
 genesis_title: ""
 genesis_description: "Stand on a Shinkansen platform a few minutes before departure and the striking thing is not speed but choreography. People line up where the markings tell th..."
-open_graph_title: "Shinkansen"
+open_graph_title: "Shinkansen: How Japan Turns Speed into Routine"
 open_graph_description: "Stand on a Shinkansen platform a few minutes before departure and the striking thing is not speed but choreography. People line up where the markings tell th..."
-twitter_title: "Shinkansen"
+twitter_title: "Shinkansen: How Japan Turns Speed into Routine"
 twitter_description: "Stand on a Shinkansen platform a few minutes before departure and the striking thing is not speed but choreography. People line up where the markings tell th..."
 genesis_noindex: 0
 genesis_nofollow: 0

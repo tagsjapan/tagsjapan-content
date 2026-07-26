@@ -1,5 +1,5 @@
 ---
-title: "Kobe Luminarie"
+title: "Kobe Luminarie: Winter Light With a City’s Memory Inside"
 slug: travel-kobe-luminarie
 wp_date: 2025-08-07 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "On a cold winter evening in Kobe, the city asks you to walk slowly. Th
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Kobe Luminarie in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Kobe Luminarie"
+open_graph_title: "Kobe Luminarie: Winter Light With a City’s Memory Inside"
 open_graph_description: "A comprehensive guide to Kobe Luminarie in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Kobe Luminarie"
+twitter_title: "Kobe Luminarie: Winter Light With a City’s Memory Inside"
 twitter_description: "A comprehensive guide to Kobe Luminarie in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

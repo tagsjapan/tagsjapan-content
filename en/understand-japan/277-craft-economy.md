@@ -1,5 +1,5 @@
 ---
-title: "Craft Economy"
+title: "Craft Economy: When “Made by Hand” Becomes a Local Strategy"
 slug: understand-japan-craft-economy
 wp_date: 2026-06-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a small workshop, the day is divided between making and explaining.
 
 genesis_title: ""
 genesis_description: "Learn about Craft Economy in Japan. In a small workshop, the day is divided between making and explaining. A craftsperson check"
-open_graph_title: "Craft Economy"
+open_graph_title: "Craft Economy: When “Made by Hand” Becomes a Local Strategy"
 open_graph_description: "Learn about Craft Economy in Japan. In a small workshop, the day is divided between making and explaining. A craftsperson check"
-twitter_title: "Craft Economy"
+twitter_title: "Craft Economy: When “Made by Hand” Becomes a Local Strategy"
 twitter_description: "Learn about Craft Economy in Japan. In a small workshop, the day is divided between making and explaining. A craftsperson check"
 genesis_noindex: 0
 genesis_nofollow: 0

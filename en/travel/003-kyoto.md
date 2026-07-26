@@ -1,5 +1,5 @@
 ---
-title: "Kyoto"
+title: "Kyoto: The Discipline of Looking"
 slug: travel-kyoto
 wp_date: 2025-01-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first thing Kyoto asks of a traveler is restraint. Not admiration,
 
 genesis_title: ""
 genesis_description: "Discover Kyoto, Japan. The first thing Kyoto asks of a traveler is restraint. What Kyoto really asks is a different way of moving and seeing."
-open_graph_title: "Kyoto"
+open_graph_title: "Kyoto: The Discipline of Looking"
 open_graph_description: "Discover Kyoto, Japan. The first thing Kyoto asks of a traveler is restraint. What Kyoto really asks is a different way of moving and seeing."
-twitter_title: "Kyoto"
+twitter_title: "Kyoto: The Discipline of Looking"
 twitter_description: "Discover Kyoto, Japan. The first thing Kyoto asks of a traveler is restraint. What Kyoto really asks is a different way of moving and seeing."
 genesis_noindex: 0
 genesis_nofollow: 0

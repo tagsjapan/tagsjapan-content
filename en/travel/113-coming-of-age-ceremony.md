@@ -1,5 +1,5 @@
 ---
-title: "Coming-of-Age Ceremony"
+title: "Coming-of-Age Ceremony: When Winter Streets Fill with Furisode"
 slug: travel-coming-of-age-ceremony
 wp_date: 2025-08-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In Japan, adulthood can arrive in public. On a cold January morning, y
 
 genesis_title: ""
 genesis_description: "Experience Coming-of-Age Ceremony in Japan. In Japan, adulthood can arrive in public. The scene is not staged for tourists."
-open_graph_title: "Coming-of-Age Ceremony"
+open_graph_title: "Coming-of-Age Ceremony: When Winter Streets Fill with Furisode"
 open_graph_description: "Experience Coming-of-Age Ceremony in Japan. In Japan, adulthood can arrive in public. The scene is not staged for tourists."
-twitter_title: "Coming-of-Age Ceremony"
+twitter_title: "Coming-of-Age Ceremony: When Winter Streets Fill with Furisode"
 twitter_description: "Experience Coming-of-Age Ceremony in Japan. In Japan, adulthood can arrive in public. The scene is not staged for tourists."
 genesis_noindex: 0
 genesis_nofollow: 0

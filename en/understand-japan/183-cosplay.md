@@ -1,5 +1,5 @@
 ---
-title: "Cosplay"
+title: "Cosplay: The Body as a Fan Medium"
 slug: understand-japan-cosplay
 wp_date: 2025-12-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The day starts with logistics: needles, glue, a wig stand, a small box
 
 genesis_title: ""
 genesis_description: "Learn about Cosplay in Japan. In Japan, Cosplay（コスプレ） is not just “dressing up.” It is a culture of craft, performance, and image-sharing that has learned..."
-open_graph_title: "Cosplay"
+open_graph_title: "Cosplay: The Body as a Fan Medium"
 open_graph_description: "Learn about Cosplay in Japan. In Japan, Cosplay（コスプレ） is not just “dressing up.” It is a culture of craft, performance, and image-sharing that has learned..."
-twitter_title: "Cosplay"
+twitter_title: "Cosplay: The Body as a Fan Medium"
 twitter_description: "Learn about Cosplay in Japan. In Japan, Cosplay（コスプレ） is not just “dressing up.” It is a culture of craft, performance, and image-sharing that has learned..."
 genesis_noindex: 0
 genesis_nofollow: 0

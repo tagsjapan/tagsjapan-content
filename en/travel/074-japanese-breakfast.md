@@ -1,5 +1,5 @@
 ---
-title: "Japanese Breakfast"
+title: "Japanese Breakfast: The Quiet Meal That Sets the Day’s Pace"
 slug: travel-japanese-breakfast
 wp_date: 2025-05-27 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a dining room at seven-something, the day begins without drama. A s
 
 genesis_title: ""
 genesis_description: "Guide to Japanese Breakfast in Japan. In a dining room at seven-something, the day begins without drama. A staff member slides a tray onto the table."
-open_graph_title: "Japanese Breakfast"
+open_graph_title: "Japanese Breakfast: The Quiet Meal That Sets the Day’s Pace"
 open_graph_description: "Guide to Japanese Breakfast in Japan. In a dining room at seven-something, the day begins without drama. A staff member slides a tray onto the table."
-twitter_title: "Japanese Breakfast"
+twitter_title: "Japanese Breakfast: The Quiet Meal That Sets the Day’s Pace"
 twitter_description: "Guide to Japanese Breakfast in Japan. In a dining room at seven-something, the day begins without drama. A staff member slides a tray onto the table."
 genesis_noindex: 0
 genesis_nofollow: 0

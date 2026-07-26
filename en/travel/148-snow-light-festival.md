@@ -1,5 +1,5 @@
 ---
-title: "Snow Light Festival"
+title: "Snow Light Festival: Winter Night, Redesigned for Walking"
 slug: travel-snow-light-festival
 wp_date: 2025-10-23 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In a Japanese winter town, light behaves differently. It doesn’t jus
 
 genesis_title: ""
 genesis_description: "Explore Snow Light Festival in Japan. In a Japanese winter town, light behaves differently. It doesn’t just shine; it pools. Footsteps squeak."
-open_graph_title: "Snow Light Festival"
+open_graph_title: "Snow Light Festival: Winter Night, Redesigned for Walking"
 open_graph_description: "Explore Snow Light Festival in Japan. In a Japanese winter town, light behaves differently. It doesn’t just shine; it pools. Footsteps squeak."
-twitter_title: "Snow Light Festival"
+twitter_title: "Snow Light Festival: Winter Night, Redesigned for Walking"
 twitter_description: "Explore Snow Light Festival in Japan. In a Japanese winter town, light behaves differently. It doesn’t just shine; it pools. Footsteps squeak."
 genesis_noindex: 0
 genesis_nofollow: 0

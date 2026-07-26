@@ -1,5 +1,5 @@
 ---
-title: "Certification Exam"
+title: "Certification Exam: How Japan Turns Ability into an Official Signal"
 slug: understand-japan-certification-exam
 wp_date: 2026-06-18 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Walk into a large Japanese bookstore near exam season and you can feel
 
 genesis_title: ""
 genesis_description: "Learn about Certification Exam in Japan. A Certification Exam in Japan is not the same thing as a school entrance exam. Walk into a large Ja"
-open_graph_title: "Certification Exam"
+open_graph_title: "Certification Exam: How Japan Turns Ability into an Official Signal"
 open_graph_description: "Learn about Certification Exam in Japan. A Certification Exam in Japan is not the same thing as a school entrance exam. Walk into a large Ja"
-twitter_title: "Certification Exam"
+twitter_title: "Certification Exam: How Japan Turns Ability into an Official Signal"
 twitter_description: "Learn about Certification Exam in Japan. A Certification Exam in Japan is not the same thing as a school entrance exam. Walk into a large Ja"
 genesis_noindex: 0
 genesis_nofollow: 0

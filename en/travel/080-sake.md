@@ -1,5 +1,5 @@
 ---
-title: "Sake"
+title: "Sake: A Country You Can Taste by the Cup"
 slug: travel-sake
 wp_date: 2025-06-09 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "It’s late enough in an izakaya that menus feel unnecessary. Someone 
 
 genesis_title: ""
 genesis_description: "Discover Sake in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Sake"
+open_graph_title: "Sake: A Country You Can Taste by the Cup"
 open_graph_description: "Discover Sake in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Sake"
+twitter_title: "Sake: A Country You Can Taste by the Cup"
 twitter_description: "Discover Sake in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

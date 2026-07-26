@@ -1,5 +1,5 @@
 ---
-title: "Karate"
+title: "Karate: Okinawan Roots, Japanese Systems, Global Rules"
 slug: understand-japan-karate
 wp_date: 2026-05-02 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Karate（空手道） is an unarmed martial art that developed in Okin
 
 genesis_title: ""
 genesis_description: "Learn about Karate in Japan. The sequence is predetermined, yet the room still feels tense because the movements are treated as more than choreography."
-open_graph_title: "Karate"
+open_graph_title: "Karate: Okinawan Roots, Japanese Systems, Global Rules"
 open_graph_description: "Learn about Karate in Japan. The sequence is predetermined, yet the room still feels tense because the movements are treated as more than choreography."
-twitter_title: "Karate"
+twitter_title: "Karate: Okinawan Roots, Japanese Systems, Global Rules"
 twitter_description: "Learn about Karate in Japan. The sequence is predetermined, yet the room still feels tense because the movements are treated as more than choreography."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Japanese Sweets Making"
+title: "Japanese Sweets Making: Learning Japan’s Seasons by Hand"
 slug: travel-japanese-sweets-making
 wp_date: 2025-09-10 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a wagashi class, the most important ingredient isn’t on the table
 
 genesis_title: ""
 genesis_description: "Experience Japanese Sweets Making in Japan. In a wagashi class, the most important ingredient isn’t on the table. It’s time."
-open_graph_title: "Japanese Sweets Making"
+open_graph_title: "Japanese Sweets Making: Learning Japan’s Seasons by Hand"
 open_graph_description: "Experience Japanese Sweets Making in Japan. In a wagashi class, the most important ingredient isn’t on the table. It’s time."
-twitter_title: "Japanese Sweets Making"
+twitter_title: "Japanese Sweets Making: Learning Japan’s Seasons by Hand"
 twitter_description: "Experience Japanese Sweets Making in Japan. In a wagashi class, the most important ingredient isn’t on the table. It’s time."
 genesis_noindex: 0
 genesis_nofollow: 0

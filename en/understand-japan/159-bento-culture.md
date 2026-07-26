@@ -1,5 +1,5 @@
 ---
-title: "Bento Culture"
+title: "Bento Culture: The Lunchbox as Daily Infrastructure"
 slug: understand-japan-bento-culture
 wp_date: 2025-11-13 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In the early morning, before the day has a chance to become messy, a J
 
 genesis_title: ""
 genesis_description: "Learn about Bento Culture in Japan. The Bento（便當） is easy to romanticize, but Japan’s Bento Culture（便當文化） is not a single cute object."
-open_graph_title: "Bento Culture"
+open_graph_title: "Bento Culture: The Lunchbox as Daily Infrastructure"
 open_graph_description: "Learn about Bento Culture in Japan. The Bento（便當） is easy to romanticize, but Japan’s Bento Culture（便當文化） is not a single cute object."
-twitter_title: "Bento Culture"
+twitter_title: "Bento Culture: The Lunchbox as Daily Infrastructure"
 twitter_description: "Learn about Bento Culture in Japan. The Bento（便當） is easy to romanticize, but Japan’s Bento Culture（便當文化） is not a single cute object."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Technical Intern Training Program"
+title: "Technical Intern Training Program: The Name, the Labor, the Contradiction"
 slug: understand-japan-technical-intern-training-program
 wp_date: 2025-09-25 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In many Japanese factories, farms, and food-processing lines, the fore
 
 genesis_title: ""
 genesis_description: "Learn about Technical Intern Training Program in Japan. That gap between name and function is the core of the Technical Intern Training Program（技能実習制度）."
-open_graph_title: "Technical Intern Training Program"
+open_graph_title: "Technical Intern Training Program: The Name, the Labor, the Contradiction"
 open_graph_description: "Learn about Technical Intern Training Program in Japan. That gap between name and function is the core of the Technical Intern Training Program（技能実習制度）."
-twitter_title: "Technical Intern Training Program"
+twitter_title: "Technical Intern Training Program: The Name, the Labor, the Contradiction"
 twitter_description: "Learn about Technical Intern Training Program in Japan. That gap between name and function is the core of the Technical Intern Training Program（技能実習制度）."
 genesis_noindex: 0
 genesis_nofollow: 0

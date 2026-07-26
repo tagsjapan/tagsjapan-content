@@ -1,5 +1,5 @@
 ---
-title: "Capsule Hotel"
+title: "Capsule Hotel: Sleeping by the Unit"
 slug: travel-capsule-hotel
 wp_date: 2025-03-08 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first impression is often wrong. A capsule hotel can look futurist
 
 genesis_title: ""
 genesis_description: "Your guide to Capsule Hotel in Japan. The first impression is often wrong. A capsule hotel does not ask you to imagine the future."
-open_graph_title: "Capsule Hotel"
+open_graph_title: "Capsule Hotel: Sleeping by the Unit"
 open_graph_description: "Your guide to Capsule Hotel in Japan. The first impression is often wrong. A capsule hotel does not ask you to imagine the future."
-twitter_title: "Capsule Hotel"
+twitter_title: "Capsule Hotel: Sleeping by the Unit"
 twitter_description: "Your guide to Capsule Hotel in Japan. The first impression is often wrong. A capsule hotel does not ask you to imagine the future."
 genesis_noindex: 0
 genesis_nofollow: 0

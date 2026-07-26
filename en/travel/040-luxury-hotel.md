@@ -1,5 +1,5 @@
 ---
-title: "Luxury Hotel"
+title: "Luxury Hotel: Japan at Its Most Controlled"
 slug: travel-luxury-hotel
 wp_date: 2025-03-21 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The lobby is usually quieter than expected. In Tokyo, where the street
 
 genesis_title: ""
 genesis_description: "Your guide to Luxury Hotel in Japan. The lobby is usually quieter than expected. A flower arrangement sits where it has clearly been measured into place."
-open_graph_title: "Luxury Hotel"
+open_graph_title: "Luxury Hotel: Japan at Its Most Controlled"
 open_graph_description: "Your guide to Luxury Hotel in Japan. The lobby is usually quieter than expected. A flower arrangement sits where it has clearly been measured into place."
-twitter_title: "Luxury Hotel"
+twitter_title: "Luxury Hotel: Japan at Its Most Controlled"
 twitter_description: "Your guide to Luxury Hotel in Japan. The lobby is usually quieter than expected. A flower arrangement sits where it has clearly been measured into place."
 genesis_noindex: 0
 genesis_nofollow: 0

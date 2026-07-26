@@ -1,5 +1,5 @@
 ---
-title: "Cultural Heritage Preservation"
+title: "Cultural Heritage Preservation: Keeping the Past in Working Order"
 slug: understand-japan-cultural-heritage-preservation
 wp_date: 2025-05-09 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A castle hidden behind scaffolding can tell you more about Japan than 
 
 genesis_title: ""
 genesis_description: "A castle hidden behind scaffolding can tell you more about Japan than a postcard view. White sheeting goes up, carpenters check timber, roofs are dismantled ..."
-open_graph_title: "Cultural Heritage Preservation"
+open_graph_title: "Cultural Heritage Preservation: Keeping the Past in Working Order"
 open_graph_description: "A castle hidden behind scaffolding can tell you more about Japan than a postcard view. White sheeting goes up, carpenters check timber, roofs are dismantled ..."
-twitter_title: "Cultural Heritage Preservation"
+twitter_title: "Cultural Heritage Preservation: Keeping the Past in Working Order"
 twitter_description: "A castle hidden behind scaffolding can tell you more about Japan than a postcard view. White sheeting goes up, carpenters check timber, roofs are dismantled ..."
 genesis_noindex: 0
 genesis_nofollow: 0

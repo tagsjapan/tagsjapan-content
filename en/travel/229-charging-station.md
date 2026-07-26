@@ -1,5 +1,5 @@
 ---
-title: "Charging Station"
+title: "Charging Station: Keeping the Trip Alive One Battery at a Time"
 slug: travel-charging-station
 wp_date: 2026-04-02 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The most modern form of travel anxiety is a falling percentage in the 
 
 genesis_title: ""
 genesis_description: "The most modern form of travel anxiety is a falling percentage in the corner of the screen. In Japan that small number has unusual power, because the phone h..."
-open_graph_title: "Charging Station"
+open_graph_title: "Charging Station: Keeping the Trip Alive One Battery at a Time"
 open_graph_description: "The most modern form of travel anxiety is a falling percentage in the corner of the screen. In Japan that small number has unusual power, because the phone h..."
-twitter_title: "Charging Station"
+twitter_title: "Charging Station: Keeping the Trip Alive One Battery at a Time"
 twitter_description: "The most modern form of travel anxiety is a falling percentage in the corner of the screen. In Japan that small number has unusual power, because the phone h..."
 genesis_noindex: 0
 genesis_nofollow: 0

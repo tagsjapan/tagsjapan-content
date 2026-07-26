@@ -1,5 +1,5 @@
 ---
-title: "Social Innovation"
+title: "Social Innovation: When Problems Become a Design Brief"
 slug: understand-japan-social-innovation
 wp_date: 2026-07-19 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In a community center on the edge of a shrinking city, the whiteboard 
 
 genesis_title: ""
 genesis_description: "Learn about Social Innovation in Japan. In Japan, this kind of improvised coalition has acquired a flattering label—Social Innovation—and a stubborn..."
-open_graph_title: "Social Innovation"
+open_graph_title: "Social Innovation: When Problems Become a Design Brief"
 open_graph_description: "Learn about Social Innovation in Japan. In Japan, this kind of improvised coalition has acquired a flattering label—Social Innovation—and a stubborn..."
-twitter_title: "Social Innovation"
+twitter_title: "Social Innovation: When Problems Become a Design Brief"
 twitter_description: "Learn about Social Innovation in Japan. In Japan, this kind of improvised coalition has acquired a flattering label—Social Innovation—and a stubborn..."
 genesis_noindex: 0
 genesis_nofollow: 0

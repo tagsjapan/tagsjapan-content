@@ -1,5 +1,5 @@
 ---
-title: "Family Bath"
+title: "Family Bath: The Private Entrance to Onsen"
 slug: travel-family-bath
 wp_date: 2025-11-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "There is a moment of hesitation built into many first encounters with 
 
 genesis_title: ""
 genesis_description: "Guide to Family Bath in Japan. There is a moment of hesitation built into many first encounters with Japanese hot springs. It is the q"
-open_graph_title: "Family Bath"
+open_graph_title: "Family Bath: The Private Entrance to Onsen"
 open_graph_description: "Guide to Family Bath in Japan. There is a moment of hesitation built into many first encounters with Japanese hot springs. It is the q"
-twitter_title: "Family Bath"
+twitter_title: "Family Bath: The Private Entrance to Onsen"
 twitter_description: "Guide to Family Bath in Japan. There is a moment of hesitation built into many first encounters with Japanese hot springs. It is the q"
 genesis_noindex: 0
 genesis_nofollow: 0

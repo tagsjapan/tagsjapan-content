@@ -1,5 +1,5 @@
 ---
-title: "Second-hand Shop"
+title: "Second-hand Shop: Japan’s Ordered Afterlife for Stuff"
 slug: travel-second-hand-shop
 wp_date: 2026-01-04 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first impression is not “used.” It is clean. Fluorescent light
 
 genesis_title: ""
 genesis_description: "Guide to Second-hand Shop in Japan. The first impression is not “used.” It is clean. Prices are clearly marked. Conditions are described. In"
-open_graph_title: "Second-hand Shop"
+open_graph_title: "Second-hand Shop: Japan’s Ordered Afterlife for Stuff"
 open_graph_description: "Guide to Second-hand Shop in Japan. The first impression is not “used.” It is clean. Prices are clearly marked. Conditions are described. In"
-twitter_title: "Second-hand Shop"
+twitter_title: "Second-hand Shop: Japan’s Ordered Afterlife for Stuff"
 twitter_description: "Guide to Second-hand Shop in Japan. The first impression is not “used.” It is clean. Prices are clearly marked. Conditions are described. In"
 genesis_noindex: 0
 genesis_nofollow: 0

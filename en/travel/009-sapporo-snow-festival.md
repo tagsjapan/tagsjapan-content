@@ -1,5 +1,5 @@
 ---
-title: "Sapporo Snow Festival"
+title: "Sapporo Snow Festival: Winter Organized At City Scale"
 slug: travel-sapporo-snow-festival
 wp_date: 2025-01-18 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The first surprise is not the size of the sculptures, though those are
 
 genesis_title: ""
 genesis_description: "Experience Sapporo Snow Festival in Japan. The first surprise is not the size of the sculptures, though those are large enough to deserve astonishment."
-open_graph_title: "Sapporo Snow Festival"
+open_graph_title: "Sapporo Snow Festival: Winter Organized At City Scale"
 open_graph_description: "Experience Sapporo Snow Festival in Japan. The first surprise is not the size of the sculptures, though those are large enough to deserve astonishment."
-twitter_title: "Sapporo Snow Festival"
+twitter_title: "Sapporo Snow Festival: Winter Organized At City Scale"
 twitter_description: "Experience Sapporo Snow Festival in Japan. The first surprise is not the size of the sculptures, though those are large enough to deserve astonishment."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Soccer"
+title: "Soccer: The Game Japan Learned in Public"
 slug: understand-japan-soccer
 wp_date: 2026-05-11 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a weekend evening in a mid-sized Japanese city, a stadium can feel 
 
 genesis_title: ""
 genesis_description: "Learn about Soccer in Japan. Soccer（サッカー） in Japan is played everywhere, but it is understood most clearly where it binds a club to a place."
-open_graph_title: "Soccer"
+open_graph_title: "Soccer: The Game Japan Learned in Public"
 open_graph_description: "Learn about Soccer in Japan. Soccer（サッカー） in Japan is played everywhere, but it is understood most clearly where it binds a club to a place."
-twitter_title: "Soccer"
+twitter_title: "Soccer: The Game Japan Learned in Public"
 twitter_description: "Learn about Soccer in Japan. Soccer（サッカー） in Japan is played everywhere, but it is understood most clearly where it binds a club to a place."
 genesis_noindex: 0
 genesis_nofollow: 0

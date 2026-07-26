@@ -1,5 +1,5 @@
 ---
-title: "Convenience Store"
+title: "Convenience Store: The Little Room That Keeps the Trip Running"
 slug: travel-convenience-store
 wp_date: 2026-01-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The Japanese convenience store becomes indispensable almost by stealth
 
 genesis_title: ""
 genesis_description: "Guide to Convenience Store in Japan. The Japanese convenience store becomes indispensable almost by stealth. Cash comes from the ATM."
-open_graph_title: "Convenience Store"
+open_graph_title: "Convenience Store: The Little Room That Keeps the Trip Running"
 open_graph_description: "Guide to Convenience Store in Japan. The Japanese convenience store becomes indispensable almost by stealth. Cash comes from the ATM."
-twitter_title: "Convenience Store"
+twitter_title: "Convenience Store: The Little Room That Keeps the Trip Running"
 twitter_description: "Guide to Convenience Store in Japan. The Japanese convenience store becomes indispensable almost by stealth. Cash comes from the ATM."
 genesis_noindex: 0
 genesis_nofollow: 0

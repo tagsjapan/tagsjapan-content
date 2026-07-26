@@ -1,5 +1,5 @@
 ---
-title: "Theater"
+title: "Theater: How Japan Treats Stages as Public Infrastructure"
 slug: understand-japan-theater
 wp_date: 2025-11-28 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "A theater is easiest to notice when the lights go down. Seats face the
 
 genesis_title: ""
 genesis_description: "Learn about Theater in Japan. Since 2012, Japan treats theaters as cultural infrastructure for creation, audience development, and regional exchange."
-open_graph_title: "Theater"
+open_graph_title: "Theater: How Japan Treats Stages as Public Infrastructure"
 open_graph_description: "Learn about Theater in Japan. Since 2012, Japan treats theaters as cultural infrastructure for creation, audience development, and regional exchange."
-twitter_title: "Theater"
+twitter_title: "Theater: How Japan Treats Stages as Public Infrastructure"
 twitter_description: "Learn about Theater in Japan. Since 2012, Japan treats theaters as cultural infrastructure for creation, audience development, and regional exchange."
 genesis_noindex: 0
 genesis_nofollow: 0

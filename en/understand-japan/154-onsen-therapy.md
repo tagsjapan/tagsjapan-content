@@ -1,5 +1,5 @@
 ---
-title: "Onsen Therapy"
+title: "Onsen Therapy: When Japan Turns a Soak into a System"
 slug: understand-japan-onsen-therapy
 wp_date: 2025-11-04 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Onsen Therapy（溫泉療養） sits in that overlap between habit and
 
 genesis_title: ""
 genesis_description: "Learn about Onsen Therapy in Japan. Hot springs as regulated resources for therapeutic bathing, combining the Onsen Law with traditional toji recovery stays."
-open_graph_title: "Onsen Therapy"
+open_graph_title: "Onsen Therapy: When Japan Turns a Soak into a System"
 open_graph_description: "Learn about Onsen Therapy in Japan. Hot springs as regulated resources for therapeutic bathing, combining the Onsen Law with traditional toji recovery stays."
-twitter_title: "Onsen Therapy"
+twitter_title: "Onsen Therapy: When Japan Turns a Soak into a System"
 twitter_description: "Learn about Onsen Therapy in Japan. Hot springs as regulated resources for therapeutic bathing, combining the Onsen Law with traditional toji recovery stays."
 genesis_noindex: 0
 genesis_nofollow: 0

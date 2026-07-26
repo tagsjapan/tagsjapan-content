@@ -1,5 +1,5 @@
 ---
-title: "Economic Miracle"
+title: "Economic Miracle: When Growth Changed the Shape of Daily Life"
 slug: understand-japan-economic-miracle
 wp_date: 2025-03-12 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "By the time the Shinkansen opened in 1964, Japan was no longer simply 
 
 genesis_title: ""
 genesis_description: "By the time the Shinkansen opened in 1964, Japan was no longer simply rebuilding from defeat. It was moving fast enough to turn speed itself into a symbol."
-open_graph_title: "Economic Miracle"
+open_graph_title: "Economic Miracle: When Growth Changed the Shape of Daily Life"
 open_graph_description: "By the time the Shinkansen opened in 1964, Japan was no longer simply rebuilding from defeat. It was moving fast enough to turn speed itself into a symbol."
-twitter_title: "Economic Miracle"
+twitter_title: "Economic Miracle: When Growth Changed the Shape of Daily Life"
 twitter_description: "By the time the Shinkansen opened in 1964, Japan was no longer simply rebuilding from defeat. It was moving fast enough to turn speed itself into a symbol."
 genesis_noindex: 0
 genesis_nofollow: 0

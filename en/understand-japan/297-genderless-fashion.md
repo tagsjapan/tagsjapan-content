@@ -1,5 +1,5 @@
 ---
-title: "Genderless Fashion"
+title: "Genderless Fashion: Styling as a Negotiation With the Gender Line"
 slug: understand-japan-genderless-fashion
 wp_date: 2026-07-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a Tokyo clothing store, the first clue is a rack label that would h
 
 genesis_title: ""
 genesis_description: "Learn about Genderless Fashion in Japan. In a Tokyo clothing store, the first clue is a rack label that would have sounded strange a generation ago:..."
-open_graph_title: "Genderless Fashion"
+open_graph_title: "Genderless Fashion: Styling as a Negotiation With the Gender Line"
 open_graph_description: "Learn about Genderless Fashion in Japan. In a Tokyo clothing store, the first clue is a rack label that would have sounded strange a generation ago:..."
-twitter_title: "Genderless Fashion"
+twitter_title: "Genderless Fashion: Styling as a Negotiation With the Gender Line"
 twitter_description: "Learn about Genderless Fashion in Japan. In a Tokyo clothing store, the first clue is a rack label that would have sounded strange a generation ago:..."
 genesis_noindex: 0
 genesis_nofollow: 0

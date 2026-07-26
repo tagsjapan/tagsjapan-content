@@ -1,5 +1,5 @@
 ---
-title: "Shopping Street"
+title: "Shopping Street: The Daily City at Walking Speed"
 slug: travel-shopping-street
 wp_date: 2025-12-30 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The quickest way to tell that a Japanese , or , is not a mall is to st
 
 genesis_title: ""
 genesis_description: "Guide to Shopping Street in Japan. The quickest way to tell that a Japanese , or , is not a mall is to stand still for five minutes and watch what passes."
-open_graph_title: "Shopping Street"
+open_graph_title: "Shopping Street: The Daily City at Walking Speed"
 open_graph_description: "Guide to Shopping Street in Japan. The quickest way to tell that a Japanese , or , is not a mall is to stand still for five minutes and watch what passes."
-twitter_title: "Shopping Street"
+twitter_title: "Shopping Street: The Daily City at Walking Speed"
 twitter_description: "Guide to Shopping Street in Japan. The quickest way to tell that a Japanese , or , is not a mall is to stand still for five minutes and watch what passes."
 genesis_noindex: 0
 genesis_nofollow: 0

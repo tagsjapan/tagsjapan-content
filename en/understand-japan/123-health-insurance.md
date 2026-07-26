@@ -1,5 +1,5 @@
 ---
-title: "Health Insurance"
+title: "Health Insurance: The Card That Makes Care Ordinary"
 slug: understand-japan-health-insurance
 wp_date: 2025-09-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a clinic reception desk in Japan, the most decisive object is often
 
 genesis_title: ""
 genesis_description: "At a clinic reception desk in Japan, the most decisive object is often the smallest. A health insurance card is handed over, copied, returned."
-open_graph_title: "Health Insurance"
+open_graph_title: "Health Insurance: The Card That Makes Care Ordinary"
 open_graph_description: "At a clinic reception desk in Japan, the most decisive object is often the smallest. A health insurance card is handed over, copied, returned."
-twitter_title: "Health Insurance"
+twitter_title: "Health Insurance: The Card That Makes Care Ordinary"
 twitter_description: "At a clinic reception desk in Japan, the most decisive object is often the smallest. A health insurance card is handed over, copied, returned."
 genesis_noindex: 0
 genesis_nofollow: 0

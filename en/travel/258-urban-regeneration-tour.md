@@ -1,5 +1,5 @@
 ---
-title: "Urban Regeneration Tour"
+title: "Urban Regeneration Tour: How Japan Lets Old Districts Work Again"
 slug: travel-urban-regeneration-tour
 wp_date: 2026-05-31 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "On the Tokyo side of Tokyo Station, the city feels like it has been ir
 
 genesis_title: ""
 genesis_description: "On the Tokyo side of Tokyo Station, the city feels like it has been ironed. Pavements are wide, crossings are disciplined, and the buildings carry their mone..."
-open_graph_title: "Urban Regeneration Tour"
+open_graph_title: "Urban Regeneration Tour: How Japan Lets Old Districts Work Again"
 open_graph_description: "On the Tokyo side of Tokyo Station, the city feels like it has been ironed. Pavements are wide, crossings are disciplined, and the buildings carry their mone..."
-twitter_title: "Urban Regeneration Tour"
+twitter_title: "Urban Regeneration Tour: How Japan Lets Old Districts Work Again"
 twitter_description: "On the Tokyo side of Tokyo Station, the city feels like it has been ironed. Pavements are wide, crossings are disciplined, and the buildings carry their mone..."
 genesis_noindex: 0
 genesis_nofollow: 0

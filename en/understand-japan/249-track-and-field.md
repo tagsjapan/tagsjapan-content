@@ -1,5 +1,5 @@
 ---
-title: "Track and Field"
+title: "Track and Field: Japan’s Habit of Measurement"
 slug: understand-japan-track-and-field
 wp_date: 2026-05-13 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On weekday afternoons, the most ordinary athletic scene in Japan is al
 
 genesis_title: ""
 genesis_description: "Learn about Track and Field in Japan. Before the Olympics appear on a screen, “track and field” is already present as a daily grammar of speed, distance,..."
-open_graph_title: "Track and Field"
+open_graph_title: "Track and Field: Japan’s Habit of Measurement"
 open_graph_description: "Learn about Track and Field in Japan. Before the Olympics appear on a screen, “track and field” is already present as a daily grammar of speed, distance,..."
-twitter_title: "Track and Field"
+twitter_title: "Track and Field: Japan’s Habit of Measurement"
 twitter_description: "Learn about Track and Field in Japan. Before the Olympics appear on a screen, “track and field” is already present as a daily grammar of speed, distance,..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Housewives"
+title: "Housewives: The Social Position Built Into the Family"
 slug: understand-japan-housewives
 wp_date: 2025-06-30 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "The role can be glimpsed in small objects before it is ever named. A s
 
 genesis_title: ""
 genesis_description: "The role can be glimpsed in small objects before it is ever named. A school notice tucked under a magnet on the refrigerator. A lunchbox packed before dawn."
-open_graph_title: "Housewives"
+open_graph_title: "Housewives: The Social Position Built Into the Family"
 open_graph_description: "The role can be glimpsed in small objects before it is ever named. A school notice tucked under a magnet on the refrigerator. A lunchbox packed before dawn."
-twitter_title: "Housewives"
+twitter_title: "Housewives: The Social Position Built Into the Family"
 twitter_description: "The role can be glimpsed in small objects before it is ever named. A school notice tucked under a magnet on the refrigerator. A lunchbox packed before dawn."
 genesis_noindex: 0
 genesis_nofollow: 0

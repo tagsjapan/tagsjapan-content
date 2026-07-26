@@ -1,5 +1,5 @@
 ---
-title: "Amnesty"
+title: "Amnesty: How Japan Turns Pardons into a Bureaucratic Ritual"
 slug: understand-japan-amnesty
 wp_date: 2025-08-11 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A modern amnesty in Japan does not begin with a dramatic act of mercy.
 
 genesis_title: ""
 genesis_description: "A modern amnesty in Japan does not begin with a dramatic act of mercy. It begins with paperwork and a cabinet decision, and it often surfaces in public only ..."
-open_graph_title: "Amnesty"
+open_graph_title: "Amnesty: How Japan Turns Pardons into a Bureaucratic Ritual"
 open_graph_description: "A modern amnesty in Japan does not begin with a dramatic act of mercy. It begins with paperwork and a cabinet decision, and it often surfaces in public only ..."
-twitter_title: "Amnesty"
+twitter_title: "Amnesty: How Japan Turns Pardons into a Bureaucratic Ritual"
 twitter_description: "A modern amnesty in Japan does not begin with a dramatic act of mercy. It begins with paperwork and a cabinet decision, and it often surfaces in public only ..."
 genesis_noindex: 0
 genesis_nofollow: 0

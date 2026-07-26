@@ -1,5 +1,5 @@
 ---
-title: "Sky Capsule Hotel"
+title: "Sky Capsule Hotel: Sleeping Small at the Edge of Height"
 slug: travel-sky-capsule-hotel
 wp_date: 2025-04-14 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At a conventional hotel, height is a luxury add-on. Higher floor, bett
 
 genesis_title: ""
 genesis_description: "Your guide to Sky Capsule Hotel in Japan. At a conventional hotel, height is a luxury add-on. Higher floor, better view, extra charge."
-open_graph_title: "Sky Capsule Hotel"
+open_graph_title: "Sky Capsule Hotel: Sleeping Small at the Edge of Height"
 open_graph_description: "Your guide to Sky Capsule Hotel in Japan. At a conventional hotel, height is a luxury add-on. Higher floor, better view, extra charge."
-twitter_title: "Sky Capsule Hotel"
+twitter_title: "Sky Capsule Hotel: Sleeping Small at the Edge of Height"
 twitter_description: "Your guide to Sky Capsule Hotel in Japan. At a conventional hotel, height is a luxury add-on. Higher floor, better view, extra charge."
 genesis_noindex: 0
 genesis_nofollow: 0

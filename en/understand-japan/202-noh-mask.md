@@ -1,5 +1,5 @@
 ---
-title: "Noh Mask"
+title: "Noh Mask: How a Fixed Face Becomes a Moving Emotion"
 slug: understand-japan-noh-mask
 wp_date: 2026-02-08 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "On a Noh stage, the actor’s face can change without changing. A slig
 
 genesis_title: ""
 genesis_description: "Learn about Noh Mask in Japan. The object that makes this possible is the Noh Mask（能劇面具）, usually called noh-men（能面） or omote（面） in Japanese."
-open_graph_title: "Noh Mask"
+open_graph_title: "Noh Mask: How a Fixed Face Becomes a Moving Emotion"
 open_graph_description: "Learn about Noh Mask in Japan. The object that makes this possible is the Noh Mask（能劇面具）, usually called noh-men（能面） or omote（面） in Japanese."
-twitter_title: "Noh Mask"
+twitter_title: "Noh Mask: How a Fixed Face Becomes a Moving Emotion"
 twitter_description: "Learn about Noh Mask in Japan. The object that makes this possible is the Noh Mask（能劇面具）, usually called noh-men（能面） or omote（面） in Japanese."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Minpaku"
+title: "Minpaku: Staying in Japan Where the Neighborhood Still Matters"
 slug: travel-minpaku
 wp_date: 2025-03-05 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The clues that you are in a and not a hotel tend to appear early. Ther
 
 genesis_title: ""
 genesis_description: "Your guide to Minpaku in Japan. The clues that you are in a and not a hotel tend to appear early. That shift is the heart of in Japan. You"
-open_graph_title: "Minpaku"
+open_graph_title: "Minpaku: Staying in Japan Where the Neighborhood Still Matters"
 open_graph_description: "Your guide to Minpaku in Japan. The clues that you are in a and not a hotel tend to appear early. That shift is the heart of in Japan. You"
-twitter_title: "Minpaku"
+twitter_title: "Minpaku: Staying in Japan Where the Neighborhood Still Matters"
 twitter_description: "Your guide to Minpaku in Japan. The clues that you are in a and not a hotel tend to appear early. That shift is the heart of in Japan. You"
 genesis_noindex: 0
 genesis_nofollow: 0

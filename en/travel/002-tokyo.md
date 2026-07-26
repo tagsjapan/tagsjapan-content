@@ -1,5 +1,5 @@
 ---
-title: "Tokyo"
+title: "Tokyo: The City That Keeps Splitting Open"
 slug: travel-tokyo
 wp_date: 2025-01-04 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "The mistake most first-time visitors make in Tokyo is to think they ha
 
 genesis_title: ""
 genesis_description: "Discover Tokyo in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Tokyo"
+open_graph_title: "Tokyo: The City That Keeps Splitting Open"
 open_graph_description: "Discover Tokyo in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Tokyo"
+twitter_title: "Tokyo: The City That Keeps Splitting Open"
 twitter_description: "Discover Tokyo in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

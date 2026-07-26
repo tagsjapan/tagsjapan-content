@@ -1,5 +1,5 @@
 ---
-title: "Gourmet Alley"
+title: "Gourmet Alley: Choosing Dinner by Walking"
 slug: travel-gourmet-alley
 wp_date: 2026-01-20 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In Shinjuku, there is a moment when the wide streets and bright screen
 
 genesis_title: ""
 genesis_description: "Guide to Gourmet Alley in Japan. In Shinjuku, there is a moment when the wide streets and bright screens give way to something tighter."
-open_graph_title: "Gourmet Alley"
+open_graph_title: "Gourmet Alley: Choosing Dinner by Walking"
 open_graph_description: "Guide to Gourmet Alley in Japan. In Shinjuku, there is a moment when the wide streets and bright screens give way to something tighter."
-twitter_title: "Gourmet Alley"
+twitter_title: "Gourmet Alley: Choosing Dinner by Walking"
 twitter_description: "Guide to Gourmet Alley in Japan. In Shinjuku, there is a moment when the wide streets and bright screens give way to something tighter."
 genesis_noindex: 0
 genesis_nofollow: 0

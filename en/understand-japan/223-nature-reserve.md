@@ -1,5 +1,5 @@
 ---
-title: "Nature Reserve"
+title: "Nature Reserve: Protection by Layers, Not by One Fence"
 slug: understand-japan-nature-reserve
 wp_date: 2026-03-21 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Nature Reserve（自然保護區） in Japan is best understood as an 
 
 genesis_title: ""
 genesis_description: "Learn about Nature Reserve in Japan. It is of governance—nature made durable through classification. In Japan, “protected"
-open_graph_title: "Nature Reserve"
+open_graph_title: "Nature Reserve: Protection by Layers, Not by One Fence"
 open_graph_description: "Learn about Nature Reserve in Japan. It is of governance—nature made durable through classification. In Japan, “protected"
-twitter_title: "Nature Reserve"
+twitter_title: "Nature Reserve: Protection by Layers, Not by One Fence"
 twitter_description: "Learn about Nature Reserve in Japan. It is of governance—nature made durable through classification. In Japan, “protected"
 genesis_noindex: 0
 genesis_nofollow: 0

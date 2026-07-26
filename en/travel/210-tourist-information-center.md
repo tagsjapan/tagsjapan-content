@@ -1,5 +1,5 @@
 ---
-title: "Tourist Information Center"
+title: "Tourist Information Center: The Counter Where the Trip Becomes Legible"
 slug: travel-tourist-information-center
 wp_date: 2026-02-24 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "It is easy to miss the importance of the place because it so often loo
 
 genesis_title: ""
 genesis_description: "It is easy to miss the importance of the place because it so often looks modest. A counter near a station concourse, a rack of maps, perhaps a clock, a local..."
-open_graph_title: "Tourist Information Center"
+open_graph_title: "Tourist Information Center: The Counter Where the Trip Becomes Legible"
 open_graph_description: "It is easy to miss the importance of the place because it so often looks modest. A counter near a station concourse, a rack of maps, perhaps a clock, a local..."
-twitter_title: "Tourist Information Center"
+twitter_title: "Tourist Information Center: The Counter Where the Trip Becomes Legible"
 twitter_description: "It is easy to miss the importance of the place because it so often looks modest. A counter near a station concourse, a rack of maps, perhaps a clock, a local..."
 genesis_noindex: 0
 genesis_nofollow: 0

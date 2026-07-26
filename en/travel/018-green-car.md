@@ -1,5 +1,5 @@
 ---
-title: "Green Car"
+title: "Green Car: Paying for Less Fatigue, Not a Different Social Class"
 slug: travel-green-car
 wp_date: 2025-02-04 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The appeal of a usually appears an hour or two into a journey, not at 
 
 genesis_title: ""
 genesis_description: "Complete guide to Green Car in Japan. The appeal of a usually appears an hour or two into a journey, not at the moment of purchase."
-open_graph_title: "Green Car"
+open_graph_title: "Green Car: Paying for Less Fatigue, Not a Different Social Class"
 open_graph_description: "Complete guide to Green Car in Japan. The appeal of a usually appears an hour or two into a journey, not at the moment of purchase."
-twitter_title: "Green Car"
+twitter_title: "Green Car: Paying for Less Fatigue, Not a Different Social Class"
 twitter_description: "Complete guide to Green Car in Japan. The appeal of a usually appears an hour or two into a journey, not at the moment of purchase."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Wheelchair Accessibility"
+title: "Wheelchair Accessibility: Planning the Whole Route, Not Just the Sight"
 slug: travel-wheelchair-accessibility
 wp_date: 2026-03-18 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "In Japan, an accessible trip often succeeds or fails at the transfer p
 
 genesis_title: ""
 genesis_description: "In Japan, an accessible trip often succeeds or fails at the transfer point. A museum may have a lift, a hotel may advertise a universal room, and a station m..."
-open_graph_title: "Wheelchair Accessibility"
+open_graph_title: "Wheelchair Accessibility: Planning the Whole Route, Not Just the Sight"
 open_graph_description: "In Japan, an accessible trip often succeeds or fails at the transfer point. A museum may have a lift, a hotel may advertise a universal room, and a station m..."
-twitter_title: "Wheelchair Accessibility"
+twitter_title: "Wheelchair Accessibility: Planning the Whole Route, Not Just the Sight"
 twitter_description: "In Japan, an accessible trip often succeeds or fails at the transfer point. A museum may have a lift, a hotel may advertise a universal room, and a station m..."
 genesis_noindex: 0
 genesis_nofollow: 0

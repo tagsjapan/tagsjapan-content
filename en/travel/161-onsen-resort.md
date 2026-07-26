@@ -1,5 +1,5 @@
 ---
-title: "Onsen Resort"
+title: "Onsen Resort: Staying Inside the Water Town"
 slug: travel-onsen-resort
 wp_date: 2025-11-17 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The most revealing moment in a Japanese onsen resort often comes after
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Onsen Resort in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Onsen Resort"
+open_graph_title: "Onsen Resort: Staying Inside the Water Town"
 open_graph_description: "A comprehensive guide to Onsen Resort in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Onsen Resort"
+twitter_title: "Onsen Resort: Staying Inside the Water Town"
 twitter_description: "A comprehensive guide to Onsen Resort in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0

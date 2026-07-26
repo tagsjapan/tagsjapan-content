@@ -1,5 +1,5 @@
 ---
-title: "Skiing"
+title: "Skiing: Japan’s Winter Towns, Built Around a Lift"
 slug: travel-skiing
 wp_date: 2025-10-17 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "On a winter morning at Tokyo Station, the first giveaway is the luggag
 
 genesis_title: ""
 genesis_description: "Discover Skiing in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-open_graph_title: "Skiing"
+open_graph_title: "Skiing: Japan’s Winter Towns, Built Around a Lift"
 open_graph_description: "Discover Skiing in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
-twitter_title: "Skiing"
+twitter_title: "Skiing: Japan’s Winter Towns, Built Around a Lift"
 twitter_description: "Discover Skiing in Japan with our complete travel guide — tips, highlights, and practical advice for an unforgettable trip."
 genesis_noindex: 0
 genesis_nofollow: 0

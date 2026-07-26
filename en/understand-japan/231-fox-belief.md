@@ -1,5 +1,5 @@
 ---
-title: "Fox Belief"
+title: "Fox Belief: A Messenger with Too Much Star Power"
 slug: understand-japan-fox-belief
 wp_date: 2026-04-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At the entrance of an Inari shrine, two white foxes often stand like s
 
 genesis_title: ""
 genesis_description: "Learn about Fox Belief in Japan. In Japan, Fox Belief（狐信仰） is easiest to understand inside Inari Faith（稲荷信仰）. At the entrance of a"
-open_graph_title: "Fox Belief"
+open_graph_title: "Fox Belief: A Messenger with Too Much Star Power"
 open_graph_description: "Learn about Fox Belief in Japan. In Japan, Fox Belief（狐信仰） is easiest to understand inside Inari Faith（稲荷信仰）. At the entrance of a"
-twitter_title: "Fox Belief"
+twitter_title: "Fox Belief: A Messenger with Too Much Star Power"
 twitter_description: "Learn about Fox Belief in Japan. In Japan, Fox Belief（狐信仰） is easiest to understand inside Inari Faith（稲荷信仰）. At the entrance of a"
 genesis_noindex: 0
 genesis_nofollow: 0

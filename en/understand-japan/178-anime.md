@@ -1,5 +1,5 @@
 ---
-title: "Anime"
+title: "Anime: A Content Machine Built on Characters and Schedules"
 slug: understand-japan-anime
 wp_date: 2025-12-21 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Anime often begins as paperwork before it becomes imagery. A committee
 
 genesis_title: ""
 genesis_description: "Learn about Anime in Japan. In Japanese, “anime” is a shortened form of “animation,” and it can, in principle, refer to animation broadly."
-open_graph_title: "Anime"
+open_graph_title: "Anime: A Content Machine Built on Characters and Schedules"
 open_graph_description: "Learn about Anime in Japan. In Japanese, “anime” is a shortened form of “animation,” and it can, in principle, refer to animation broadly."
-twitter_title: "Anime"
+twitter_title: "Anime: A Content Machine Built on Characters and Schedules"
 twitter_description: "Learn about Anime in Japan. In Japanese, “anime” is a shortened form of “animation,” and it can, in principle, refer to animation broadly."
 genesis_noindex: 0
 genesis_nofollow: 0

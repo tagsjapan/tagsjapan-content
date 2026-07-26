@@ -1,5 +1,5 @@
 ---
-title: "Taiko Drumming"
+title: "Taiko Drumming: The Loud Lesson That Teaches Restraint"
 slug: travel-taiko-drumming
 wp_date: 2025-09-15 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "The first surprise is how heavy the sticks feel. In a taiko studio, th
 
 genesis_title: ""
 genesis_description: "Experience Taiko Drumming in Japan. The first surprise is how heavy the sticks feel. The sound blooms in the room and comes back at you through the floor."
-open_graph_title: "Taiko Drumming"
+open_graph_title: "Taiko Drumming: The Loud Lesson That Teaches Restraint"
 open_graph_description: "Experience Taiko Drumming in Japan. The first surprise is how heavy the sticks feel. The sound blooms in the room and comes back at you through the floor."
-twitter_title: "Taiko Drumming"
+twitter_title: "Taiko Drumming: The Loud Lesson That Teaches Restraint"
 twitter_description: "Experience Taiko Drumming in Japan. The first surprise is how heavy the sticks feel. The sound blooms in the room and comes back at you through the floor."
 genesis_noindex: 0
 genesis_nofollow: 0

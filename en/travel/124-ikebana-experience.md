@@ -1,5 +1,5 @@
 ---
-title: "Ikebana Experience"
+title: "Ikebana Experience: Learning Japan’s Sense of Space with One Branch"
 slug: travel-ikebana-experience
 wp_date: 2025-09-04 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "An class rarely begins with a bouquet. It begins with a table, a shall
 
 genesis_title: ""
 genesis_description: "Experience Ikebana Experience in Japan. An class rarely begins with a bouquet. In Japan, that second look is often where the experience lives."
-open_graph_title: "Ikebana Experience"
+open_graph_title: "Ikebana Experience: Learning Japan’s Sense of Space with One Branch"
 open_graph_description: "Experience Ikebana Experience in Japan. An class rarely begins with a bouquet. In Japan, that second look is often where the experience lives."
-twitter_title: "Ikebana Experience"
+twitter_title: "Ikebana Experience: Learning Japan’s Sense of Space with One Branch"
 twitter_description: "Experience Ikebana Experience in Japan. An class rarely begins with a bouquet. In Japan, that second look is often where the experience lives."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Grilled Fish"
+title: "Grilled Fish: Breakfast That Tastes Like the Coast"
 slug: travel-grilled-fish
 wp_date: 2025-06-16 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "At the hotel breakfast room feels like a small station: trays moving i
 
 genesis_title: ""
 genesis_description: "Guide to Grilled Fish in Japan. In Japan, it is. A morning is less a special dish than a daily arrangement between the sea and the day ahead."
-open_graph_title: "Grilled Fish"
+open_graph_title: "Grilled Fish: Breakfast That Tastes Like the Coast"
 open_graph_description: "Guide to Grilled Fish in Japan. In Japan, it is. A morning is less a special dish than a daily arrangement between the sea and the day ahead."
-twitter_title: "Grilled Fish"
+twitter_title: "Grilled Fish: Breakfast That Tastes Like the Coast"
 twitter_description: "Guide to Grilled Fish in Japan. In Japan, it is. A morning is less a special dish than a daily arrangement between the sea and the day ahead."
 genesis_noindex: 0
 genesis_nofollow: 0

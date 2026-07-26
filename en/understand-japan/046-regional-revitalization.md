@@ -1,5 +1,5 @@
 ---
-title: "Regional Revitalization"
+title: "Regional Revitalization: Japan's Argument With Geography"
 slug: understand-japan-regional-revitalization
 wp_date: 2025-04-02 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Drive through a provincial Japanese town after the school day has ende
 
 genesis_title: ""
 genesis_description: "Drive through a provincial Japanese town after the school day has ended and the argument becomes visible in concrete. There may be a closed storefront with a..."
-open_graph_title: "Regional Revitalization"
+open_graph_title: "Regional Revitalization: Japan's Argument With Geography"
 open_graph_description: "Drive through a provincial Japanese town after the school day has ended and the argument becomes visible in concrete. There may be a closed storefront with a..."
-twitter_title: "Regional Revitalization"
+twitter_title: "Regional Revitalization: Japan's Argument With Geography"
 twitter_description: "Drive through a provincial Japanese town after the school day has ended and the argument becomes visible in concrete. There may be a closed storefront with a..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Christmas Illumination"
+title: "Christmas Illumination: Japan’s Winter Nights, Lit on Purpose"
 slug: travel-christmas-illumination
 wp_date: 2025-08-27 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "You step out of a station and the ordinary city has been edited. A row
 
 genesis_title: ""
 genesis_description: "Experience Christmas Illumination in Japan. You step out of a station and the ordinary city has been edited. In Japan, is les"
-open_graph_title: "Christmas Illumination"
+open_graph_title: "Christmas Illumination: Japan’s Winter Nights, Lit on Purpose"
 open_graph_description: "Experience Christmas Illumination in Japan. You step out of a station and the ordinary city has been edited. In Japan, is les"
-twitter_title: "Christmas Illumination"
+twitter_title: "Christmas Illumination: Japan’s Winter Nights, Lit on Purpose"
 twitter_description: "Experience Christmas Illumination in Japan. You step out of a station and the ordinary city has been edited. In Japan, is les"
 genesis_noindex: 0
 genesis_nofollow: 0

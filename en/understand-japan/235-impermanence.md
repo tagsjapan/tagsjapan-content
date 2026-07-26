@@ -1,5 +1,5 @@
 ---
-title: "Impermanence"
+title: "Impermanence: Japan’s Habit of Taking Change Seriously"
 slug: understand-japan-impermanence
 wp_date: 2026-04-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Impermanence（無常觀） in Japan refers to a view of life shaped b
 
 genesis_title: ""
 genesis_description: "Learn about Impermanence in Japan. A train door closes and a conversation is cut cleanly. You can hear impermanence before you can define it."
-open_graph_title: "Impermanence"
+open_graph_title: "Impermanence: Japan’s Habit of Taking Change Seriously"
 open_graph_description: "Learn about Impermanence in Japan. A train door closes and a conversation is cut cleanly. You can hear impermanence before you can define it."
-twitter_title: "Impermanence"
+twitter_title: "Impermanence: Japan’s Habit of Taking Change Seriously"
 twitter_description: "Learn about Impermanence in Japan. A train door closes and a conversation is cut cleanly. You can hear impermanence before you can define it."
 genesis_noindex: 0
 genesis_nofollow: 0

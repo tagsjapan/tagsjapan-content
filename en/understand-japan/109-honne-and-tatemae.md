@@ -1,5 +1,5 @@
 ---
-title: "Honne and Tatemae"
+title: "Honne and Tatemae: What People Mean and What They Can Say"
 slug: understand-japan-honne-and-tatemae
 wp_date: 2025-08-05 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In a meeting, someone offers a sentence that sounds agreeable and leav
 
 genesis_title: ""
 genesis_description: "In a meeting, someone offers a sentence that sounds agreeable and leaves the room calm: “Let’s think about it.” Nobody objects. Nobody commits."
-open_graph_title: "Honne and Tatemae"
+open_graph_title: "Honne and Tatemae: What People Mean and What They Can Say"
 open_graph_description: "In a meeting, someone offers a sentence that sounds agreeable and leaves the room calm: “Let’s think about it.” Nobody objects. Nobody commits."
-twitter_title: "Honne and Tatemae"
+twitter_title: "Honne and Tatemae: What People Mean and What They Can Say"
 twitter_description: "In a meeting, someone offers a sentence that sounds agreeable and leaves the room calm: “Let’s think about it.” Nobody objects. Nobody commits."
 genesis_noindex: 0
 genesis_nofollow: 0

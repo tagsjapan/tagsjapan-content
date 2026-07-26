@@ -1,5 +1,5 @@
 ---
-title: "Trading Nation"
+title: "Trading Nation: The Strategy Built on Selling Abroad and Buying Survival"
 slug: understand-japan-trading-nation
 wp_date: 2025-03-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Japan's economy has long lived with a simple material fact: the countr
 
 genesis_title: ""
 genesis_description: "Japan's economy has long lived with a simple material fact: the country does not possess enough domestic energy, raw materials, or food resources to behave a..."
-open_graph_title: "Trading Nation"
+open_graph_title: "Trading Nation: The Strategy Built on Selling Abroad and Buying Survival"
 open_graph_description: "Japan's economy has long lived with a simple material fact: the country does not possess enough domestic energy, raw materials, or food resources to behave a..."
-twitter_title: "Trading Nation"
+twitter_title: "Trading Nation: The Strategy Built on Selling Abroad and Buying Survival"
 twitter_description: "Japan's economy has long lived with a simple material fact: the country does not possess enough domestic energy, raw materials, or food resources to behave a..."
 genesis_noindex: 0
 genesis_nofollow: 0

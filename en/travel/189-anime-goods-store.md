@@ -1,5 +1,5 @@
 ---
-title: "Anime Goods Store"
+title: "Anime Goods Store: Where Fandom Becomes a City Map"
 slug: travel-anime-goods-store
 wp_date: 2026-01-12 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "In , you can tell which shop is having a release week before you read 
 
 genesis_title: ""
 genesis_description: "Guide to Anime Goods Store in Japan. In , you can tell which shop is having a release week before you read a single sign. You came for a souvenir."
-open_graph_title: "Anime Goods Store"
+open_graph_title: "Anime Goods Store: Where Fandom Becomes a City Map"
 open_graph_description: "Guide to Anime Goods Store in Japan. In , you can tell which shop is having a release week before you read a single sign. You came for a souvenir."
-twitter_title: "Anime Goods Store"
+twitter_title: "Anime Goods Store: Where Fandom Becomes a City Map"
 twitter_description: "Guide to Anime Goods Store in Japan. In , you can tell which shop is having a release week before you read a single sign. You came for a souvenir."
 genesis_noindex: 0
 genesis_nofollow: 0

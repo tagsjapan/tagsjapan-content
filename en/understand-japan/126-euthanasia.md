@@ -1,5 +1,5 @@
 ---
-title: "Euthanasia"
+title: "Euthanasia: Japan’s Argument About Process, Not Permission"
 slug: understand-japan-euthanasia
 wp_date: 2025-09-09 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "In an intensive-care unit, the hardest decisions are rarely framed as 
 
 genesis_title: ""
 genesis_description: "In an intensive-care unit, the hardest decisions are rarely framed as philosophy. They arrive as questions on a form: resuscitate or not, continue a treatmen..."
-open_graph_title: "Euthanasia"
+open_graph_title: "Euthanasia: Japan’s Argument About Process, Not Permission"
 open_graph_description: "In an intensive-care unit, the hardest decisions are rarely framed as philosophy. They arrive as questions on a form: resuscitate or not, continue a treatmen..."
-twitter_title: "Euthanasia"
+twitter_title: "Euthanasia: Japan’s Argument About Process, Not Permission"
 twitter_description: "In an intensive-care unit, the hardest decisions are rarely framed as philosophy. They arrive as questions on a form: resuscitate or not, continue a treatmen..."
 genesis_noindex: 0
 genesis_nofollow: 0

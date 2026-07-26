@@ -1,5 +1,5 @@
 ---
-title: "Knife Shop"
+title: "Knife Shop: Where a Blade Becomes a Travel Story"
 slug: travel-knife-shop
 wp_date: 2026-02-01 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "In Tokyo’s Kappabashi on a weekday afternoon, you can hear the distr
 
 genesis_title: ""
 genesis_description: "In Tokyo’s Kappabashi on a weekday afternoon, you can hear the district before you understand it. A shop bell rings, someone tests a knife’s balance with a s..."
-open_graph_title: "Knife Shop"
+open_graph_title: "Knife Shop: Where a Blade Becomes a Travel Story"
 open_graph_description: "In Tokyo’s Kappabashi on a weekday afternoon, you can hear the district before you understand it. A shop bell rings, someone tests a knife’s balance with a s..."
-twitter_title: "Knife Shop"
+twitter_title: "Knife Shop: Where a Blade Becomes a Travel Story"
 twitter_description: "In Tokyo’s Kappabashi on a weekday afternoon, you can hear the district before you understand it. A shop bell rings, someone tests a knife’s balance with a s..."
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Business Card Exchange"
+title: "Business Card Exchange: How Japan Starts a Relationship with Paper"
 slug: understand-japan-business-card-exchange
 wp_date: 2025-08-15 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Before the meeting really begins, people stand. A wallet-sized rectang
 
 genesis_title: ""
 genesis_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
-open_graph_title: "Business Card Exchange"
+open_graph_title: "Business Card Exchange: How Japan Starts a Relationship with Paper"
 open_graph_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
-twitter_title: "Business Card Exchange"
+twitter_title: "Business Card Exchange: How Japan Starts a Relationship with Paper"
 twitter_description: "Before the meeting really begins, people stand. A wallet-sized rectangle is lifted with two hands, offered, received, and read."
 genesis_noindex: 0
 genesis_nofollow: 0

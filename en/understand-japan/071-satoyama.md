@@ -1,5 +1,5 @@
 ---
-title: "Satoyama"
+title: "Satoyama: The Landscape That Needs People"
 slug: understand-japan-satoyama
 wp_date: 2025-05-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "At the edge of many Japanese villages there is a zone that makes littl
 
 genesis_title: ""
 genesis_description: "At the edge of many Japanese villages there is a zone that makes little sense if you divide the world too neatly into nature and settlement."
-open_graph_title: "Satoyama"
+open_graph_title: "Satoyama: The Landscape That Needs People"
 open_graph_description: "At the edge of many Japanese villages there is a zone that makes little sense if you divide the world too neatly into nature and settlement."
-twitter_title: "Satoyama"
+twitter_title: "Satoyama: The Landscape That Needs People"
 twitter_description: "At the edge of many Japanese villages there is a zone that makes little sense if you divide the world too neatly into nature and settlement."
 genesis_noindex: 0
 genesis_nofollow: 0

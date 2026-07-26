@@ -1,5 +1,5 @@
 ---
-title: "Fishing"
+title: "Fishing: In Japan, the Water Comes With Rules"
 slug: travel-fishing
 wp_date: 2025-10-09 09:00:00
 wp_status: draft
@@ -18,9 +18,9 @@ excerpt: "Before dawn, a fishing trip in Japan can look like a small logistics o
 
 genesis_title: ""
 genesis_description: "Explore Fishing in Japan. Before dawn, a fishing trip in Japan can look like a small logistics operation carried out with quiet pride."
-open_graph_title: "Fishing"
+open_graph_title: "Fishing: In Japan, the Water Comes With Rules"
 open_graph_description: "Explore Fishing in Japan. Before dawn, a fishing trip in Japan can look like a small logistics operation carried out with quiet pride."
-twitter_title: "Fishing"
+twitter_title: "Fishing: In Japan, the Water Comes With Rules"
 twitter_description: "Explore Fishing in Japan. Before dawn, a fishing trip in Japan can look like a small logistics operation carried out with quiet pride."
 genesis_noindex: 0
 genesis_nofollow: 0

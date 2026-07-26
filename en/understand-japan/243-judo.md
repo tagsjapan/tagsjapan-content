@@ -1,5 +1,5 @@
 ---
-title: "Judo"
+title: "Judo: A “Gentle Way” Built as a Modern Institution"
 slug: understand-japan-judo
 wp_date: 2026-05-01 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Judo（柔道） was organized as a modern discipline by Kanō Jigorō
 
 genesis_title: ""
 genesis_description: "Learn about Judo in Japan. The first thing a judo teacher often insists on is not a throw, but a fall. A beginner learns to"
-open_graph_title: "Judo"
+open_graph_title: "Judo: A “Gentle Way” Built as a Modern Institution"
 open_graph_description: "Learn about Judo in Japan. The first thing a judo teacher often insists on is not a throw, but a fall. A beginner learns to"
-twitter_title: "Judo"
+twitter_title: "Judo: A “Gentle Way” Built as a Modern Institution"
 twitter_description: "Learn about Judo in Japan. The first thing a judo teacher often insists on is not a throw, but a fall. A beginner learns to"
 genesis_noindex: 0
 genesis_nofollow: 0

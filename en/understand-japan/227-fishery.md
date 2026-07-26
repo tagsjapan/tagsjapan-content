@@ -1,5 +1,5 @@
 ---
-title: "Fishery"
+title: "Fishery: The Long Chain from Sea to Table"
 slug: understand-japan-fishery
 wp_date: 2026-03-29 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "Before dawn at a fishing port, the work looks more like logistics than
 
 genesis_title: ""
 genesis_description: "Learn about Fishery in Japan. What matters in these minutes is not only what was caught, but how quickly it can be sorted, cooled, recorded, and moved."
-open_graph_title: "Fishery"
+open_graph_title: "Fishery: The Long Chain from Sea to Table"
 open_graph_description: "Learn about Fishery in Japan. What matters in these minutes is not only what was caught, but how quickly it can be sorted, cooled, recorded, and moved."
-twitter_title: "Fishery"
+twitter_title: "Fishery: The Long Chain from Sea to Table"
 twitter_description: "Learn about Fishery in Japan. What matters in these minutes is not only what was caught, but how quickly it can be sorted, cooled, recorded, and moved."
 genesis_noindex: 0
 genesis_nofollow: 0

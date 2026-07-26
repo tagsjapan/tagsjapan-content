@@ -1,5 +1,5 @@
 ---
-title: "Modern Poetry"
+title: "Modern Poetry: How Japan Relearned the Voice of Verse"
 slug: understand-japan-modern-poetry
 wp_date: 2025-12-14 09:00:00
 wp_status: draft
@@ -22,9 +22,9 @@ excerpt: "Modern poetry in Japan often begins with a book that looks like a door
 
 genesis_title: ""
 genesis_description: "Learn about Modern Poetry in Japan. It is easy to treat the anthology as a footnote—one more Meiji-era import. Modern poetry in Jap"
-open_graph_title: "Modern Poetry"
+open_graph_title: "Modern Poetry: How Japan Relearned the Voice of Verse"
 open_graph_description: "Learn about Modern Poetry in Japan. It is easy to treat the anthology as a footnote—one more Meiji-era import. Modern poetry in Jap"
-twitter_title: "Modern Poetry"
+twitter_title: "Modern Poetry: How Japan Relearned the Voice of Verse"
 twitter_description: "Learn about Modern Poetry in Japan. It is easy to treat the anthology as a footnote—one more Meiji-era import. Modern poetry in Jap"
 genesis_noindex: 0
 genesis_nofollow: 0

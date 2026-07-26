@@ -1,5 +1,5 @@
 ---
-title: "Voice Actor"
+title: "Voice Actor: When Character Work Becomes a Public Personality"
 slug: understand-japan-voice-actor
 wp_date: 2026-01-03 09:00:00
 wp_status: draft
@@ -20,9 +20,9 @@ excerpt: "The work begins in a room designed to erase distractions. A microphone
 
 genesis_title: ""
 genesis_description: "Learn about Voice Actor in Japan. In Japan, that studio labor is only one face of the job. The work begins in a room designed to erase distractions."
-open_graph_title: "Voice Actor"
+open_graph_title: "Voice Actor: When Character Work Becomes a Public Personality"
 open_graph_description: "Learn about Voice Actor in Japan. In Japan, that studio labor is only one face of the job. The work begins in a room designed to erase distractions."
-twitter_title: "Voice Actor"
+twitter_title: "Voice Actor: When Character Work Becomes a Public Personality"
 twitter_description: "Learn about Voice Actor in Japan. In Japan, that studio labor is only one face of the job. The work begins in a room designed to erase distractions."
 genesis_noindex: 0
 genesis_nofollow: 0

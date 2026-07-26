@@ -1,5 +1,5 @@
 ---
-title: "Social Trust"
+title: "Social Trust: Confidence Backed by Procedure"
 slug: understand-japan-social-trust
 wp_date: 2025-07-31 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "A person notices a wallet on the floor near a station gate. Nobody mak
 
 genesis_title: ""
 genesis_description: "A person notices a wallet on the floor near a station gate. Nobody makes a scene. The wallet is picked up, carried to a counter, and placed into a process: a..."
-open_graph_title: "Social Trust"
+open_graph_title: "Social Trust: Confidence Backed by Procedure"
 open_graph_description: "A person notices a wallet on the floor near a station gate. Nobody makes a scene. The wallet is picked up, carried to a counter, and placed into a process: a..."
-twitter_title: "Social Trust"
+twitter_title: "Social Trust: Confidence Backed by Procedure"
 twitter_description: "A person notices a wallet on the floor near a station gate. Nobody makes a scene. The wallet is picked up, carried to a counter, and placed into a process: a..."
 genesis_noindex: 0
 genesis_nofollow: 0

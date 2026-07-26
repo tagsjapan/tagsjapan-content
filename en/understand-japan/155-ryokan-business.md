@@ -1,5 +1,5 @@
 ---
-title: "Ryokan Business"
+title: "Ryokan Business: When Hospitality Becomes a Licensed Trade"
 slug: understand-japan-ryokan-business
 wp_date: 2025-11-06 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "Ryokan Business（旅館業） in Japan has two meanings that frequent
 
 genesis_title: ""
 genesis_description: "Learn about Ryokan Business in Japan. In the lobby of a traditional inn, the first instruction is physical. A staff member takes"
-open_graph_title: "Ryokan Business"
+open_graph_title: "Ryokan Business: When Hospitality Becomes a Licensed Trade"
 open_graph_description: "Learn about Ryokan Business in Japan. In the lobby of a traditional inn, the first instruction is physical. A staff member takes"
-twitter_title: "Ryokan Business"
+twitter_title: "Ryokan Business: When Hospitality Becomes a Licensed Trade"
 twitter_description: "Learn about Ryokan Business in Japan. In the lobby of a traditional inn, the first instruction is physical. A staff member takes"
 genesis_noindex: 0
 genesis_nofollow: 0

@@ -1,5 +1,5 @@
 ---
-title: "Spiriting Away"
+title: "Spiriting Away: A Name for Disappearance When Facts Are Missing"
 slug: understand-japan-spiriting-away
 wp_date: 2026-04-13 09:00:00
 wp_status: draft
@@ -21,9 +21,9 @@ excerpt: "Spiriting Away（神隱） in Japan refers to the idea that a person c
 
 genesis_title: ""
 genesis_description: "Learn about Spiriting Away in Japan. In a small-town police box, a missing-person notice is all sharp edges: a photograph, a height, a last-known time, a..."
-open_graph_title: "Spiriting Away"
+open_graph_title: "Spiriting Away: A Name for Disappearance When Facts Are Missing"
 open_graph_description: "Learn about Spiriting Away in Japan. In a small-town police box, a missing-person notice is all sharp edges: a photograph, a height, a last-known time, a..."
-twitter_title: "Spiriting Away"
+twitter_title: "Spiriting Away: A Name for Disappearance When Facts Are Missing"
 twitter_description: "Learn about Spiriting Away in Japan. In a small-town police box, a missing-person notice is all sharp edges: a photograph, a height, a last-known time, a..."
 genesis_noindex: 0
 genesis_nofollow: 0

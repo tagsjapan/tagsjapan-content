@@ -1,5 +1,5 @@
 ---
-title: "Seaside Villa"
+title: "Seaside Villa: Learning to Stay With the Coast"
 slug: travel-seaside-villa
 wp_date: 2025-04-22 09:00:00
 wp_status: draft
@@ -19,9 +19,9 @@ excerpt: "By late afternoon the villa has usually started to rearrange your sens
 
 genesis_title: ""
 genesis_description: "A comprehensive guide to Seaside Villa in Japan. Learn what to expect, how to plan, and what makes this destination special."
-open_graph_title: "Seaside Villa"
+open_graph_title: "Seaside Villa: Learning to Stay With the Coast"
 open_graph_description: "A comprehensive guide to Seaside Villa in Japan. Learn what to expect, how to plan, and what makes this destination special."
-twitter_title: "Seaside Villa"
+twitter_title: "Seaside Villa: Learning to Stay With the Coast"
 twitter_description: "A comprehensive guide to Seaside Villa in Japan. Learn what to expect, how to plan, and what makes this destination special."
 genesis_noindex: 0
 genesis_nofollow: 0
